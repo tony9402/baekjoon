@@ -1233,3 +1233,323 @@
 [배열 B의 값](https://www.acmicpc.net/problem/16971)<br>
 [레벨 햄버거](https://www.acmicpc.net/problem/16974)<br>
 [파이프 옮기기 2](https://www.acmicpc.net/problem/17069)<br>
+# 2019 알고리즘 기초 1/2<br>
+200 - 자료구조 1<br>
+[스택](https://www.acmicpc.net/problem/10828)<br>
+[단어 뒤집기](https://www.acmicpc.net/problem/9093)<br>
+[괄호](https://www.acmicpc.net/problem/9012)<br>
+[스택 수열](https://www.acmicpc.net/problem/1874)<br>
+[에디터](https://www.acmicpc.net/problem/1406)<br>
+[큐](https://www.acmicpc.net/problem/10845)<br>
+[조세퍼스 문제](https://www.acmicpc.net/problem/1158)<br>
+[덱](https://www.acmicpc.net/problem/10866)<br>
+
+
+201 - 자료구조 1 (연습)<br>
+[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)<br>
+[쇠막대기](https://www.acmicpc.net/problem/10799)<br>
+[오큰수](https://www.acmicpc.net/problem/17298)<br>
+[오등큰수](https://www.acmicpc.net/problem/17299)<br>
+
+
+203 - 자료구조 1 (참고)<br>
+[후위 표기식2](https://www.acmicpc.net/problem/1935)<br>
+[후위 표기식](https://www.acmicpc.net/problem/1918)<br>
+[알파벳 개수](https://www.acmicpc.net/problem/10808)<br>
+[알파벳 찾기](https://www.acmicpc.net/problem/10809)<br>
+[문자열 분석](https://www.acmicpc.net/problem/10820)<br>
+[단어 길이 재기](https://www.acmicpc.net/problem/2743)<br>
+[ROT13](https://www.acmicpc.net/problem/11655)<br>
+[네 수](https://www.acmicpc.net/problem/10824)<br>
+[접미사 배열](https://www.acmicpc.net/problem/11656)<br>
+
+
+300 - 수학 1<br>
+[나머지](https://www.acmicpc.net/problem/10430)<br>
+[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)<br>
+[최소공배수](https://www.acmicpc.net/problem/1934)<br>
+[소수 찾기](https://www.acmicpc.net/problem/1978)<br>
+[소수 구하기](https://www.acmicpc.net/problem/1929)<br>
+[골드바흐의 추측](https://www.acmicpc.net/problem/6588)<br>
+[팩토리얼](https://www.acmicpc.net/problem/10872)<br>
+[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)<br>
+[조합 0의 개수](https://www.acmicpc.net/problem/2004)<br>
+
+
+301 - 수학 1 (연습)<br>
+[GCD 합](https://www.acmicpc.net/problem/9613)<br>
+[숨바꼭질 6](https://www.acmicpc.net/problem/17087)<br>
+[2진수 8진수](https://www.acmicpc.net/problem/1373)<br>
+[8진수 2진수](https://www.acmicpc.net/problem/1212)<br>
+[-2진수](https://www.acmicpc.net/problem/2089)<br>
+[골드바흐 파티션](https://www.acmicpc.net/problem/17103)<br>
+
+
+303 - 수학 1 (참고)<br>
+[진법 변환 2](https://www.acmicpc.net/problem/11005)<br>
+[진법 변환](https://www.acmicpc.net/problem/2745)<br>
+[Base Conversion](https://www.acmicpc.net/problem/11576)<br>
+[소인수분해](https://www.acmicpc.net/problem/11653)<br>
+
+
+400 - 다이나믹 프로그래밍 1<br>
+[1로 만들기](https://www.acmicpc.net/problem/1463)<br>
+[2×n 타일링](https://www.acmicpc.net/problem/11726)<br>
+[2×n 타일링 2](https://www.acmicpc.net/problem/11727)<br>
+[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)<br>
+[카드 구매하기](https://www.acmicpc.net/problem/11052)<br>
+[카드 구매하기 2](https://www.acmicpc.net/problem/16194)<br>
+[1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)<br>
+[쉬운 계단 수](https://www.acmicpc.net/problem/10844)<br>
+[이친수](https://www.acmicpc.net/problem/2193)<br>
+[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)<br>
+[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)<br>
+[연속합](https://www.acmicpc.net/problem/1912)<br>
+[제곱수의 합](https://www.acmicpc.net/problem/1699)<br>
+[합분해](https://www.acmicpc.net/problem/2225)<br>
+
+
+401 - 다이나믹 프로그래밍 1 (연습)<br>
+[1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)<br>
+[RGB거리](https://www.acmicpc.net/problem/1149)<br>
+[동물원](https://www.acmicpc.net/problem/1309)<br>
+[오르막 수](https://www.acmicpc.net/problem/11057)<br>
+[스티커](https://www.acmicpc.net/problem/9465)<br>
+[포도주 시식](https://www.acmicpc.net/problem/2156)<br>
+[정수 삼각형](https://www.acmicpc.net/problem/1932)<br>
+[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)<br>
+[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)<br>
+[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)<br>
+[연속합 2](https://www.acmicpc.net/problem/13398)<br>
+[타일 채우기](https://www.acmicpc.net/problem/2133)<br>
+
+
+402 - 다이나믹 프로그래밍 1 (도전)<br>
+[동물원](https://www.acmicpc.net/problem/1309)<br>
+[RGB거리 2](https://www.acmicpc.net/problem/17404)<br>
+[합분해](https://www.acmicpc.net/problem/2225)<br>
+
+
+# 2019 알고리즘 기초 2/2<br>
+500 - 브루트 포스<br>
+[일곱 난쟁이](https://www.acmicpc.net/problem/2309)<br>
+[사탕 게임](https://www.acmicpc.net/problem/3085)<br>
+[날짜 계산](https://www.acmicpc.net/problem/1476)<br>
+[리모컨](https://www.acmicpc.net/problem/1107)<br>
+[테트로미노](https://www.acmicpc.net/problem/14500)<br>
+[카잉 달력](https://www.acmicpc.net/problem/6064)<br>
+[수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)<br>
+[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)<br>
+
+
+510 - 브루트 포스 (N과 M)<br>
+[N과 M (1)](https://www.acmicpc.net/problem/15649)<br>
+[N과 M (2)](https://www.acmicpc.net/problem/15650)<br>
+[N과 M (3)](https://www.acmicpc.net/problem/15651)<br>
+[N과 M (4)](https://www.acmicpc.net/problem/15652)<br>
+[N과 M (5)](https://www.acmicpc.net/problem/15654)<br>
+[N과 M (6)](https://www.acmicpc.net/problem/15655)<br>
+[N과 M (7)](https://www.acmicpc.net/problem/15656)<br>
+[N과 M (8)](https://www.acmicpc.net/problem/15657)<br>
+[N과 M (9)](https://www.acmicpc.net/problem/15663)<br>
+[N과 M (10)](https://www.acmicpc.net/problem/15664)<br>
+[N과 M (11)](https://www.acmicpc.net/problem/15665)<br>
+[N과 M (12)](https://www.acmicpc.net/problem/15666)<br>
+
+
+520 - 브루트 포스 - 순열<br>
+[다음 순열](https://www.acmicpc.net/problem/10972)<br>
+[이전 순열](https://www.acmicpc.net/problem/10973)<br>
+[모든 순열](https://www.acmicpc.net/problem/10974)<br>
+[차이를 최대로](https://www.acmicpc.net/problem/10819)<br>
+[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>
+[로또](https://www.acmicpc.net/problem/6603)<br>
+
+
+530 - 브루트 포스 - 재귀<br>
+[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)<br>
+[암호 만들기](https://www.acmicpc.net/problem/1759)<br>
+[퇴사](https://www.acmicpc.net/problem/14501)<br>
+[스타트와 링크](https://www.acmicpc.net/problem/14889)<br>
+[링크와 스타트](https://www.acmicpc.net/problem/15661)<br>
+[부등호](https://www.acmicpc.net/problem/2529)<br>
+[맞춰봐](https://www.acmicpc.net/problem/1248)<br>
+
+
+540 - 브루트 포스 - 비트마스크<br>
+[집합](https://www.acmicpc.net/problem/11723)<br>
+[부분수열의 합](https://www.acmicpc.net/problem/1182)<br>
+[스타트와 링크](https://www.acmicpc.net/problem/14889)<br>
+[종이 조각](https://www.acmicpc.net/problem/14391)<br>
+
+
+600 - 그래프 1<br>
+[ABCDE](https://www.acmicpc.net/problem/13023)<br>
+[DFS와 BFS](https://www.acmicpc.net/problem/1260)<br>
+[연결 요소의 개수](https://www.acmicpc.net/problem/11724)<br>
+[이분 그래프](https://www.acmicpc.net/problem/1707)<br>
+[단지번호붙이기](https://www.acmicpc.net/problem/2667)<br>
+[섬의 개수](https://www.acmicpc.net/problem/4963)<br>
+[미로 탐색](https://www.acmicpc.net/problem/2178)<br>
+[토마토](https://www.acmicpc.net/problem/7576)<br>
+[나이트의 이동](https://www.acmicpc.net/problem/7562)<br>
+
+
+601 - 그래프 1 (연습)<br>
+[Two Dots](https://www.acmicpc.net/problem/16929)<br>
+[서울 지하철 2호선](https://www.acmicpc.net/problem/16947)<br>
+
+
+602 - 그래프 1 (도전)<br>
+[BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)<br>
+[DFS 스페셜 저지](https://www.acmicpc.net/problem/16964)<br>
+[다리 만들기](https://www.acmicpc.net/problem/2146)<br>
+
+
+610 - BFS<br>
+[숨바꼭질](https://www.acmicpc.net/problem/1697)<br>
+[숨바꼭질 4](https://www.acmicpc.net/problem/13913)<br>
+[이모티콘](https://www.acmicpc.net/problem/14226)<br>
+[숨바꼭질 3](https://www.acmicpc.net/problem/13549)<br>
+[알고스팟](https://www.acmicpc.net/problem/1261)<br>
+
+
+620 - 트리 1<br>
+[트리 순회](https://www.acmicpc.net/problem/1991)<br>
+[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)<br>
+[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)<br>
+[트리의 지름](https://www.acmicpc.net/problem/1167)<br>
+[트리의 지름](https://www.acmicpc.net/problem/1967)<br>
+
+
+# 2019 알고리즘 중급 1/3<br>
+521 - 브루트 포스 - 순열 (연습)<br>
+[부등호](https://www.acmicpc.net/problem/2529)<br>
+[단어 수학](https://www.acmicpc.net/problem/1339)<br>
+[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br>
+[스타트와 링크](https://www.acmicpc.net/problem/14889)<br>
+
+
+531 - 브루트 포스 - 재귀 (연습)<br>
+[로또](https://www.acmicpc.net/problem/6603)<br>
+[부분수열의 합](https://www.acmicpc.net/problem/1182)<br>
+[부분수열의 합](https://www.acmicpc.net/problem/14225)<br>
+[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br>
+[연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)<br>
+[테트로미노](https://www.acmicpc.net/problem/14500)<br>
+[두 동전](https://www.acmicpc.net/problem/16197)<br>
+[에너지 모으기](https://www.acmicpc.net/problem/16198)<br>
+[N-Queen](https://www.acmicpc.net/problem/9663)<br>
+[스도쿠](https://www.acmicpc.net/problem/2580)<br>
+[스도미노쿠](https://www.acmicpc.net/problem/4574)<br>
+[알파벳](https://www.acmicpc.net/problem/1987)<br>
+
+
+533 - 브루트 포스 - 재귀 (참고)<br>
+[퇴사](https://www.acmicpc.net/problem/14501)<br>
+
+
+541 - 브루트 포스 - 비트마스크 (연습)<br>
+[부분수열의 합](https://www.acmicpc.net/problem/14225)<br>
+[가르침](https://www.acmicpc.net/problem/1062)<br>
+[구슬 탈출 2](https://www.acmicpc.net/problem/13460)<br>
+[2048 (Easy)](https://www.acmicpc.net/problem/12100)<br>
+
+
+611 - BFS (연습)<br>
+[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)<br>
+[데스 나이트](https://www.acmicpc.net/problem/16948)<br>
+[DSLR](https://www.acmicpc.net/problem/9019)<br>
+[연구소](https://www.acmicpc.net/problem/14502)<br>
+[돌 그룹](https://www.acmicpc.net/problem/12886)<br>
+[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)<br>
+[벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)<br>
+[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)<br>
+[벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)<br>
+[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)<br>
+[탈출](https://www.acmicpc.net/problem/3055)<br>
+[아기 상어](https://www.acmicpc.net/problem/16236)<br>
+[레이저 통신](https://www.acmicpc.net/problem/6087)<br>
+[소수 경로](https://www.acmicpc.net/problem/1963)<br>
+[적록색약](https://www.acmicpc.net/problem/10026)<br>
+[4연산](https://www.acmicpc.net/problem/14395)<br>
+
+
+710 - 그리디 알고리즘<br>
+[동전 0](https://www.acmicpc.net/problem/11047)<br>
+[회의실배정](https://www.acmicpc.net/problem/1931)<br>
+[ATM](https://www.acmicpc.net/problem/11399)<br>
+[행렬](https://www.acmicpc.net/problem/1080)<br>
+[전구와 스위치](https://www.acmicpc.net/problem/2138)<br>
+[동전 뒤집기](https://www.acmicpc.net/problem/1285)<br>
+[보석 도둑](https://www.acmicpc.net/problem/1202)<br>
+[순회강연](https://www.acmicpc.net/problem/2109)<br>
+[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)<br>
+
+
+711 - 그리디 알고리즘 (연습)<br>
+[잃어버린 괄호](https://www.acmicpc.net/problem/1541)<br>
+[수 묶기](https://www.acmicpc.net/problem/1744)<br>
+[대회 or 인턴](https://www.acmicpc.net/problem/2875)<br>
+[30](https://www.acmicpc.net/problem/10610)<br>
+[병든 나이트](https://www.acmicpc.net/problem/1783)<br>
+[AB](https://www.acmicpc.net/problem/12970)<br>
+
+
+712 - 그리디 알고리즘 (도전)<br>
+[NMK](https://www.acmicpc.net/problem/1201)<br>
+[롤러코스터](https://www.acmicpc.net/problem/2873)<br>
+[A와 B 2](https://www.acmicpc.net/problem/12919)<br>
+
+
+800 - 분할 정복<br>
+[숫자 카드](https://www.acmicpc.net/problem/10815)<br>
+[숫자 카드 2](https://www.acmicpc.net/problem/10816)<br>
+[배열 합치기](https://www.acmicpc.net/problem/11728)<br>
+
+
+801 - 분할 정복 (연습)<br>
+[종이의 개수](https://www.acmicpc.net/problem/1780)<br>
+[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)<br>
+[트리의 순회](https://www.acmicpc.net/problem/2263)<br>
+[Z](https://www.acmicpc.net/problem/1074)<br>
+[사분면](https://www.acmicpc.net/problem/1891)<br>
+[별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br>
+[별 찍기 - 11](https://www.acmicpc.net/problem/2448)<br>
+[버블 소트](https://www.acmicpc.net/problem/1517)<br>
+
+
+802 - 분할 정복 (도전)<br>
+[스카이라인](https://www.acmicpc.net/problem/1933)<br>
+[가장 가까운 두 점](https://www.acmicpc.net/problem/2261)<br>
+
+
+810 - 정렬<br>
+[수 정렬하기 2](https://www.acmicpc.net/problem/2751)<br>
+[좌표 정렬하기](https://www.acmicpc.net/problem/11650)<br>
+[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)<br>
+[나이순 정렬](https://www.acmicpc.net/problem/10814)<br>
+[국영수](https://www.acmicpc.net/problem/10825)<br>
+[수 정렬하기 3](https://www.acmicpc.net/problem/10989)<br>
+[카드](https://www.acmicpc.net/problem/11652)<br>
+[버블 소트](https://www.acmicpc.net/problem/1377)<br>
+
+
+820 - 이분 탐색<br>
+[수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)<br>
+[랜선 자르기](https://www.acmicpc.net/problem/1654)<br>
+[나무 자르기](https://www.acmicpc.net/problem/2805)<br>
+[공유기 설치](https://www.acmicpc.net/problem/2110)<br>
+[중량제한](https://www.acmicpc.net/problem/1939)<br>
+[사다리](https://www.acmicpc.net/problem/2022)<br>
+[선분과 점](https://www.acmicpc.net/problem/11664)<br>
+
+
+821 - 이분 탐색 (연습)<br>
+[기타 레슨](https://www.acmicpc.net/problem/2343)<br>
+[구간 나누기 2](https://www.acmicpc.net/problem/13397)<br>
+[배열에서 이동](https://www.acmicpc.net/problem/1981)<br>
+[K번째 수](https://www.acmicpc.net/problem/1300)<br>
+[놀이 공원](https://www.acmicpc.net/problem/1561)<br>
+
+
