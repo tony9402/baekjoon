@@ -21,7 +21,7 @@
 | 순번 | Tag                          | 태그                | 문제집    | 상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------------:|
 | 00   | Data Structure               | 자료구조            | [바로가기][Data Structure]  | ![status][Doing]  |
-| 01   | Math                         | 수학                | 바로가기  | ![status][TODO]  |
+| 01   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
 | 02   | Greedy                       | 탐욕법              | 바로가기  | ![status][TODO]  |
 | 03   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
 | 04   | Two Pointer                  | 투 포인터           | 바로가기  | ![status][TODO]  |
@@ -49,6 +49,7 @@
 ### tony9402's Pick 모의고사 1회 &nbsp;&nbsp;&nbsp; ![status][TODO]
  
 [Data Structure]: ./data_structure
+[Math]: ./math
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
