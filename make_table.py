@@ -5,8 +5,13 @@ def checkData(data):
 
 def urllevel(name):
     name, number = name.lower()[:-1], name[-1]
-    nameDB = [ "bronze", "sliver", "gold", "platinum", "diamond", "ruby" ]
-    LEVEL = nameDB.index(name)
+    nameDB = [ "bronze", "sliver", "gold", "platinum", "diamond", "ruby"]
+    nameDB2 = [ "b", "s", "g", "p", "d", "r" ]
+    LEVEL = 0
+    if name in nameDB:
+        LEVEL = nameDB.index(name)
+    else:
+        LEVEL = nameDB2.index(name)
     url = f"https://static.solved.ac/tier_small/{LEVEL * 5 + 6 - int(number)}.svg"
     ret = f"<img height=\"25px\" width=\"25px=\" src=\"{url}\"/>"
     return ret
