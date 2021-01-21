@@ -1,7 +1,12 @@
 import sys
 
 def checkData(data):
-    return False in [ True if len(i) == 5 else False for i in data ]
+    Validate = [ len(i) == 5 for i in data ]
+    result = False in Validate
+    if result:
+        print(Validate.index(False))
+    return result
+
 
 def urllevel(name):
     name, number = name.lower()[:-1], name[-1]
