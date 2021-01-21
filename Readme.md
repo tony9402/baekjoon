@@ -39,7 +39,8 @@
 | 16   | Topological Sorting          | 위상정렬            | 바로가기  | ![status][TODO]  |
 | 17   | Disjoint Set                 | 분리 집합           | 바로가기  | ![status][TODO]  |
 | 18   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
-| 19   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
+| 19   | Trie                         | 트라이              | 바로가기  | ![status][TODO]  |
+| 20   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
 
 
 <br><br>
