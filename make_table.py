@@ -1,7 +1,7 @@
 import sys
 
 def checkData(data):
-    Validate = [ len(i) == 5 for i in data ]
+    Validate = [ len(i) == 5 for i in data ] # "최소, 최대 2"
     result = False in Validate
     if result:
         print(Validate.index(False))
@@ -100,7 +100,14 @@ if __name__=="__main__":
     Input = sys.stdin.readlines()
     data = list()
 
-    data = [ list(map(str, i.strip().split(","))) for i in Input ]
+    # V,N,PN,L,S
+    for i in Input:
+        Line = list(map(str, i.strip().split(",")))
+        NAME = ','.join(Line[:-3][1:])
+        Line = Line[:1] + [ NAME ] + Line[-3:]
+        data.append(Line)
+
+    # data = [ list(map(str, i.strip().split(","))) for i in Input ]
 
     # Check Data
     assert(not checkData(data))
