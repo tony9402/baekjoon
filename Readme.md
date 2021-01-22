@@ -24,7 +24,7 @@
 | 01   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
 | 02   | Greedy                       | 탐욕법              | 바로가기  | ![status][TODO]  |
 | 03   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
-| 04   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][TODO]  |
+| 04   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
 | 05   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
 | 06   | DFS                          | 깊이 우선 탐색      | 바로가기  | ![status][TODO]  | 
 | 07   | BFS                          | 너비 우선 탐색      | 바로가기  | ![status][TODO]  |
@@ -37,7 +37,7 @@
 | 14   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
 | 15   | Shortest Path                | 최단거리            | 바로가기  | ![status][TODO]  |
 | 16   | Topological Sorting          | 위상정렬            | 바로가기  | ![status][TODO]  |
-| 17   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][TODO]  |
+| 17   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
 | 18   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
 | 19   | Trie                         | 트라이              | [바로가기][Trie]  | ![status][Doing]  |
 | 20   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
