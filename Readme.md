@@ -21,13 +21,13 @@
 | 순번 | Tag                          | 태그                | 문제집    | 상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------------:|
 | 00   | Data Structure               | 자료구조            | [바로가기][Data Structure]  | ![status][Doing]  |
-| 01   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
-| 02   | Greedy                       | 탐욕법              | 바로가기  | ![status][TODO]  |
-| 03   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
-| 04   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
-| 05   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
-| 06   | DFS                          | 깊이 우선 탐색      | 바로가기  | ![status][TODO]  | 
-| 07   | BFS                          | 너비 우선 탐색      | 바로가기  | ![status][TODO]  |
+| 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2] | ![status][Doing]  |
+| 02   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
+| 03   | Greedy                       | 탐욕법              | 바로가기  | ![status][TODO]  |
+| 04   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
+| 05   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
+| 06   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
+| 07   | Graph Traversal              | 그래프 탐색         | 바로가기  | ![status][TODO]  |
 | 08   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
 | 09   | Simulation                   | 시뮬레이션          | 바로가기  | ![status][TODO]  |
 | 10   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
@@ -51,6 +51,7 @@
 ### tony9402's Pick 모의고사 1회 &nbsp;&nbsp;&nbsp; ![status][TODO]
  
 [Data Structure]: ./data_structure
+[Data Structure2]: ./data_structure2
 [Math]: ./math
 [Greedy]: ./greedy
 [DP]: ./dynamic_programming
