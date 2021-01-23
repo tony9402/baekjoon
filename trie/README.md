@@ -17,7 +17,7 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/14424" target="_blank">문자열 집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/20166" target="_blank">문자열 지옥에 빠진 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/5052" target="_blank">전화번호 목록</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/4358" target="_blank">생태학</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
@@ -26,4 +26,3 @@
 | 06 |                      | <a href="http://boj.kr/5670" target="_blank">휴대폰 자판</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |                      |
 | 07 |                      | <a href="http://boj.kr/5446" target="_blank">용량 부족</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |                      |
 | 08 |                      | <a href="http://boj.kr/19585" target="_blank">전설</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |                      |
-
