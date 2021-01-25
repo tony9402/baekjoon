@@ -29,7 +29,7 @@
 | 06   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
 | 07   | Graph Traversal              | 그래프 탐색         | 바로가기  | ![status][TODO]  |
 | 08   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
-| 09   | Simulation                   | 시뮬레이션          | 바로가기  | ![status][TODO]  |
+| 09   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
 | 10   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
 | 11   | Backtracking                 | 백트래킹            | 바로가기  | ![status][TODO]  |
 | 12   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
@@ -57,6 +57,7 @@
 [DP]: ./dynamic_programming
 [Two Pointer]: ./two_pointer
 [Implementation]: ./implementation
+[Simulation]: ./simulation
 [DFS]: ./dfs
 [BFS]: ./bfs
 [Brute Force]: ./brute_force
