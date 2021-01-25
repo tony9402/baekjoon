@@ -76,28 +76,34 @@
             <a href="https://solved.ac/klm03025"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=klm03025" /></a>
         </td>
     </tr>
-</table>
-
-<br><br>
-
-## Problem Recommeded Person
-
-<table>
     <tr>
-        <td align="center" width="130px" height="140px">
+        <td align="center" width="130px" height="160px">
             <a href="https://github.com/kim1109123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66085474?s=460&v=4" /></a>
             <br />
             <a href="https://github.com/kim1109123">kim1109123</a>
         </td>
-        <td align="center" width="130px" height="140px">
+        <td>
+            <a href="https://solved.ac/amsminn"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=amsminn" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="130px" height="160px">
             <a href="https://github.com/cola314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66579357?s=460&v=4" /></a>
             <br />
             <a href="https://github.com/cola314">cola314</a>
         </td>
-        <td align="center" width="130px" height="140px">
+        <td>
+            <a href="https://solved.ac/18sht1710"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=18sht1710" /></a>
+        </td>
+    <tr>
+    </tr>
+        <td align="center" width="130px" height="160px">
             <a href="https://github.com/nnnlog"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/20399222?s=460&u=4d359f1433c32c941d9dbb162fe0c2c1b256e05a&v=4" /></a>
             <br />
             <a href="https://github.com/nnnlog">nnnlog</a>
+        </td>
+        <td>
+            <a href="https://solved.ac/chansol"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chansol" /></a>
         </td>
     </tr>
 </table>
