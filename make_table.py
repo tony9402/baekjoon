@@ -27,7 +27,7 @@ def urlproblem(number, name):
 def urlSolution(url):
     if url == "":
         return ""
-    return f"<a href=\"{url}\"></a>"
+    return f"<a href=\"{url}\">바로가기</a>"
 
 class DataForm:
     def __init__(self):
