@@ -24,6 +24,11 @@ def urllevel(name):
 def urlproblem(number, name):
     return f"<a href=\"http://boj.kr/{number}\" target=\"_blank\">{name}</a>"
 
+def urlSolution(url):
+    if url == "":
+        return ""
+    return f"<a href=\"{url}\"></a>"
+
 class DataForm:
     def __init__(self):
         self.data = { "id": "", "rec": "", "name": "", "level": "", "url": "" }
@@ -69,7 +74,7 @@ class Table:
         ret[self.keys[1]] = data[0]
         ret[self.keys[2]] = urlproblem(data[2], data[1])
         ret[self.keys[3]] = urllevel(data[3])
-        ret[self.keys[4]] = data[4]
+        ret[self.keys[4]] = urlSolution(data[4])
 
         return ret
 
