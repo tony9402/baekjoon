@@ -16,6 +16,8 @@
 
 ***❗️❗️순번은 알고리즘 공부 순서와는 무관합니다.❗️❗️***
 
+여기에서는 각 알고리즘 개념을 설명하는 것이 없습니다. [알고리즘 설명 링크 모음](./link_for_study.md)
+
 문제 뽑은 기준 : 각 태그에 해당하는 문제(코딩 테스트에 나올 정도) 들을 최대한 많이 뽑고 반드시 풀고 넘어가면 좋은 문제를 체크해놨습니다.
 
 | 순번 | Tag                          | 태그                | 문제집    | 상태             |
@@ -27,7 +29,7 @@
 | 04   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
 | 05   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
 | 06   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
-| 07   | Graph Traversal              | 그래프 탐색         | 바로가기  | ![status][TODO]  |
+| 07   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
 | 08   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
 | 09   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
 | 10   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
@@ -115,6 +117,7 @@
 [DP]: ./dynamic_programming
 [Two Pointer]: ./two_pointer
 [Implementation]: ./implementation
+[Graph Traversal]: ./graph_traversal
 [Simulation]: ./simulation
 [DFS]: ./dfs
 [BFS]: ./bfs
