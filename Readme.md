@@ -34,23 +34,24 @@
 | 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2] | ![status][Doing]  |
 | 02   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
 | 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  | ![status][Doing]  |
-| 04   | Dynamic Programming          | 동적계획법          | 바로가기  | ![status][TODO]  |
-| 05   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
-| 06   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
-| 07   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
-| 08   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
-| 09   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
-| 10   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
-| 11   | Backtracking                 | 백트래킹            | 바로가기  | ![status][TODO]  |
-| 12   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
-| 13   | Prefix Sum                   | 누적 합             | 바로가기  | ![status][TODO]  |
-| 14   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
-| 15   | Shortest Path                | 최단거리            | 바로가기  | ![status][TODO]  |
-| 16   | Topological Sorting          | 위상정렬            | 바로가기  | ![status][TODO]  |
-| 17   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
-| 18   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
-| 19   | Trie                         | 트라이              | [바로가기][Trie]  | ![status][Doing]  |
-| 20   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
+| 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | ![status][TODO]  |
+| 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | ![status][TODO]  |
+| 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
+| 07   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
+| 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
+| 09   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
+| 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
+| 11   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
+| 12   | Backtracking                 | 백트래킹            | 바로가기  | ![status][TODO]  |
+| 13   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
+| 14   | Prefix Sum                   | 누적 합             | 바로가기  | ![status][TODO]  |
+| 15   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
+| 16   | Shortest Path                | 최단거리            | 바로가기  | ![status][TODO]  |
+| 17   | Topological Sorting          | 위상정렬            | 바로가기  | ![status][TODO]  |
+| 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
+| 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
+| 20   | Trie                         | 트라이              | [바로가기][Trie]  | ![status][Doing]  |
+| 21   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
 
 
 <br><br>
@@ -122,7 +123,8 @@
 [Data Structure2]: ./data_structure2
 [Math]: ./math
 [Greedy]: ./greedy
-[DP]: ./dynamic_programming
+[DP1]: ./dynamic_programming_1
+[DP2]: ./dynamic_programming_2
 [Two Pointer]: ./two_pointer
 [Implementation]: ./implementation
 [Graph Traversal]: ./graph_traversal
