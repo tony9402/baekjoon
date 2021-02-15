@@ -34,8 +34,8 @@
 | 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2] | ![status][Doing]  |
 | 02   | Math                         | 수학                | [바로가기][Math]  | ![status][Doing]  |
 | 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  | ![status][Doing]  |
-| 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | ![status][TODO]  |
-| 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | ![status][TODO]  |
+| 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | ![status][Doing]  |
+| 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | ![status][Doing]  |
 | 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
 | 07   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
 | 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
