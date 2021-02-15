@@ -17,6 +17,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7020)
 
+
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
@@ -82,17 +83,16 @@
 | 60 |                      | <a href="http://boj.kr/2565" target="_blank">전깃줄</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 61 |                      | <a href="http://boj.kr/2011" target="_blank">암호코드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 62 |                      | <a href="http://boj.kr/10164" target="_blank">격자상의 경로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 63 |                      | <a href="http://boj.kr/9084" target="_blank">동전</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 64 |                      | <a href="http://boj.kr/16194" target="_blank">카드 구매하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 65 |                      | <a href="http://boj.kr/15989" target="_blank">1, 2, 3 더하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 66 |                      | <a href="http://boj.kr/12101" target="_blank">1, 2, 3 더하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 67 |                      | <a href="http://boj.kr/15992" target="_blank">1, 2, 3 더하기 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 68 |                      | <a href="http://boj.kr/15991" target="_blank">1, 2, 3 더하기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 69 |                      | <a href="http://boj.kr/16195" target="_blank">1, 2, 3 더하기 9</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 70 |                      | <a href="http://boj.kr/15993" target="_blank">1, 2, 3 더하기 8</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 71 |                      | <a href="http://boj.kr/1495" target="_blank">기타리스트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 72 |                      | <a href="http://boj.kr/2302" target="_blank">극장 좌석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 73 |                      | <a href="http://boj.kr/11568" target="_blank">민균이의 계략</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 74 |                      | <a href="http://boj.kr/12026" target="_blank">BOJ 거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 75 |                      | <a href="http://boj.kr/14722" target="_blank">우유 도시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 76 |                      | <a href="http://boj.kr/13910" target="_blank">개업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 63 |                      | <a href="http://boj.kr/16194" target="_blank">카드 구매하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 64 |                      | <a href="http://boj.kr/15989" target="_blank">1, 2, 3 더하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 65 |                      | <a href="http://boj.kr/12101" target="_blank">1, 2, 3 더하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 66 |                      | <a href="http://boj.kr/15992" target="_blank">1, 2, 3 더하기 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 67 |                      | <a href="http://boj.kr/15991" target="_blank">1, 2, 3 더하기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 68 |                      | <a href="http://boj.kr/16195" target="_blank">1, 2, 3 더하기 9</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 69 |                      | <a href="http://boj.kr/15993" target="_blank">1, 2, 3 더하기 8</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 70 |                      | <a href="http://boj.kr/1495" target="_blank">기타리스트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 71 |                      | <a href="http://boj.kr/2302" target="_blank">극장 좌석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 72 |                      | <a href="http://boj.kr/11568" target="_blank">민균이의 계략</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 73 |                      | <a href="http://boj.kr/12026" target="_blank">BOJ 거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 74 |                      | <a href="http://boj.kr/14722" target="_blank">우유 도시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 75 |                      | <a href="http://boj.kr/13910" target="_blank">개업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
