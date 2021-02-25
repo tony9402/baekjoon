@@ -12,7 +12,7 @@
 
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
-[백준 문제집](https://www.acmicpc.net/workbook/view/7020)
+[백준 문제집](https://www.acmicpc.net/workbook/view/7135)
 
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
