@@ -42,7 +42,7 @@
 | 09   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
 | 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
 | 11   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
-| 12   | Backtracking                 | 백트래킹            | 바로가기  | ![status][TODO]  |
+| 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | ![status][Doing]  |
 | 13   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
 | 14   | Prefix Sum                   | 누적 합             | 바로가기  | ![status][TODO]  |
 | 15   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
@@ -119,6 +119,7 @@
     </tr>
 </table>
  
+[Backtracking]: ./backtracking
 [Data Structure]: ./data_structure
 [Data Structure2]: ./data_structure2
 [Math]: ./math
