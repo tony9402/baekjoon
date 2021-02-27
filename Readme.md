@@ -47,7 +47,7 @@
 | 14   | Prefix Sum                   | 누적 합             | 바로가기  | ![status][TODO]  |
 | 15   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
 | 16   | Shortest Path                | 최단거리            | 바로가기  | ![status][TODO]  |
-| 17   | Topological Sorting          | 위상정렬            | 바로가기  | ![status][TODO]  |
+| 17   | Topological Sorting          | 위상정렬            | [바로가기][Topological Sorting]  | ![status][Doing]  |
 | 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
 | 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
 | 20   | Trie                         | 트라이              | [바로가기][Trie]  | ![status][Doing]  |
@@ -127,6 +127,7 @@
 [DP1]: ./dynamic_programming_1
 [DP2]: ./dynamic_programming_2
 [Two Pointer]: ./two_pointer
+[Topological Sorting]: ./topological_sorting
 [Implementation]: ./implementation
 [Graph Traversal]: ./graph_traversal
 [Simulation]: ./simulation
