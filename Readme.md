@@ -51,7 +51,7 @@
 | 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
 | 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | 바로가기  | ![status][TODO]  |
 | 20   | Trie                         | 트라이              | [바로가기][Trie]  | ![status][Doing]  |
-| 21   | Dynamic Programming On Trees | 트리디피            | 바로가기  | ![status][TODO]  |
+| 21   | Dynamic Programming On Trees | 트리디피            | [바로가기][TreeDP]  | ![status][Doing]  |
 
 
 <br><br>
@@ -136,6 +136,7 @@
 [Brute Force]: ./brute_force
 [Disjoint Set]: ./disjoint_set
 [Trie]: ./trie
+[TreeDP]: ./dynamic_programming_on_trees
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
