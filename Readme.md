@@ -39,7 +39,7 @@
 | 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | ![status][Doing]  |
 | 07   | Implementation               | 구현                | [바로가기][Implementation]  | ![status][Doing]  | 
 | 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
-| 09   | Brute Force                  | 완전탐색            | 바로가기  | ![status][TODO]  |
+| 09   | Brute Force                  | 완전탐색            | [바로가기][Brute Force]  | ![status][Doing]  |
 | 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
 | 11   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
 | 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | ![status][Doing]  |
