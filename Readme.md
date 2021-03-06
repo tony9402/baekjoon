@@ -46,7 +46,7 @@
 | 13   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
 | 14   | Prefix Sum                   | 누적 합             | 바로가기  | ![status][TODO]  |
 | 15   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
-| 16   | Shortest Path                | 최단거리            | 바로가기  | ![status][TODO]  |
+| 16   | Shortest Path                | 최단거리            | [바로가기][Shortest Path]  | ![status][Doing]  |
 | 17   | Topological Sorting          | 위상정렬            | [바로가기][Topological Sorting]  | ![status][Doing]  |
 | 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | ![status][Doing]  |
 | 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | [바로가기][MST]  | ![status][Doing]  |
@@ -138,6 +138,7 @@
 [Disjoint Set]: ./disjoint_set
 [Trie]: ./trie
 [TreeDP]: ./dynamic_programming_on_trees
+[Shortest Path]: ./shortest_path
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
