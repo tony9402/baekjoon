@@ -1,0 +1,74 @@
+# Shortest Path (최단거리)
+
+[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
+
+풀어보면 좋을 문제는 추천 문제에 체크(:heavy_check_mark:) 해놨습니다.
+
+추천 문제 아닌 나머지는 나머지를 난이도 섞었습니다.
+
+최단거리 문제를 해결할 때 사용하는 알고리즘 중 다익스트라, 벨만-포드, 플로이드 위주로 뽑았습니다.
+
+문제를 읽어보고 문제를 해결하기 위해 필요한 무엇인지 생각해봐야 합니다.
+
+위 알고리즘들의 차이와 각 알고리즘의 특성을 이해하지 못한 상황에서 문제를 푸는 것은 도움이 안된다고 생각합니다.
+
+<br>
+
+***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
+
+[백준 문제집](https://www.acmicpc.net/workbook/view/7273)
+
+
+|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1753" target="_blank">최단경로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/11909" target="_blank">배열 탈출</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/14938" target="_blank">서강그라운드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 08 |  :heavy_check_mark:  | <a href="http://boj.kr/1719" target="_blank">택배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/1277" target="_blank">발전소 설치</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/11404" target="_blank">플로이드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/1956" target="_blank">운동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/11657" target="_blank">타임머신</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/1865" target="_blank">웜홀</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/1238" target="_blank">파티</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/10159" target="_blank">저울</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/1507" target="_blank">궁금한 민호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1613" target="_blank">역사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 18 |                      | <a href="http://boj.kr/18243" target="_blank">Small World Network</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 19 |                      | <a href="http://boj.kr/1389" target="_blank">케빈 베이컨의 6단계 법칙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 20 |                      | <a href="http://boj.kr/9205" target="_blank">맥주 마시면서 걸아가기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 21 |                      | <a href="http://boj.kr/1058" target="_blank">친구</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 22 |                      | <a href="http://boj.kr/1916" target="_blank">최소비용 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 23 |                      | <a href="http://boj.kr/1446" target="_blank">지름길</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 24 |                      | <a href="http://boj.kr/13424" target="_blank">비밀 모임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 25 |                      | <a href="http://boj.kr/17396" target="_blank">백도어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 26 |                      | <a href="http://boj.kr/5972" target="_blank">택배 배송</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 27 |                      | <a href="http://boj.kr/14284" target="_blank">간선 이어가기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 28 |                      | <a href="http://boj.kr/20168" target="_blank">골목 대장 호석 - 기능성</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 29 |                      | <a href="http://boj.kr/2660" target="_blank">회장뽑기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 30 |                      | <a href="http://boj.kr/15723" target="_blank">n단 논법</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 31 |                      | <a href="http://boj.kr/1261" target="_blank">알고스팟</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 32 |                      | <a href="http://boj.kr/1504" target="_blank">특정한 최단 경로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 33 |                      | <a href="http://boj.kr/4485" target="_blank">녹색 옷 입은 애가 젤다지?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 34 |                      | <a href="http://boj.kr/10282" target="_blank">해킹</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 35 |                      | <a href="http://boj.kr/18223" target="_blank">민준이와 마산 그리고 건우</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 36 |                      | <a href="http://boj.kr/20007" target="_blank">떡 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 37 |                      | <a href="http://boj.kr/2458" target="_blank">키 순서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 38 |                      | <a href="http://boj.kr/11562" target="_blank">백양로 브레이크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/11779" target="_blank">최소비용 구하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 40 |                      | <a href="http://boj.kr/13911" target="_blank">집 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 41 |                      | <a href="http://boj.kr/2982" target="_blank">국왕의 방문</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 42 |                      | <a href="http://boj.kr/11780" target="_blank">플로이드 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 43 |                      | <a href="http://boj.kr/20182" target="_blank">골목 대장 호석 - 효율성 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 44 |                      | <a href="http://boj.kr/9370" target="_blank">미확인 도착지</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 45 |                      | <a href="http://boj.kr/2211" target="_blank">네트워크 복구</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 46 |                      | <a href="http://boj.kr/16118" target="_blank">달빛 여우</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 47 |                      | <a href="http://boj.kr/1445" target="_blank">일요일 아침의 데이트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 48 |                      | <a href="http://boj.kr/2307" target="_blank">도로검문</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 49 |                      | <a href="http://boj.kr/1219" target="_blank">오민식의 고민</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 50 |                      | <a href="http://boj.kr/20183" target="_blank">골목 대장 호석 - 효율성 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
