@@ -43,7 +43,7 @@
 | 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
 | 11   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
 | 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | ![status][Doing]  |
-| 13   | Divide and conquer           | 분할정복            | 바로가기  | ![status][TODO]  |
+| 13   | Divide and conquer           | 분할정복            | [바로가기][Divide and conquer]  | ![status][Doing]  |
 | 14   | Prefix Sum                   | 누적 합             | [바로가기][Prefix Sum]  | ![status][Doing]  |
 | 15   | String                       | 문자열              | 바로가기  | ![status][TODO]  |
 | 16   | Shortest Path                | 최단거리            | [바로가기][Shortest Path]  | ![status][Doing]  |
@@ -140,6 +140,7 @@
 [TreeDP]: ./dynamic_programming_on_trees
 [Shortest Path]: ./shortest_path
 [Prefix Sum]: ./prefix_sum
+[Divide and conquer]: ./divide_and_conquer
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
