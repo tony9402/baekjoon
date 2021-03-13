@@ -41,7 +41,7 @@
 | 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | ![status][Doing]  |
 | 09   | Brute Force                  | 완전탐색            | [바로가기][Brute Force]  | ![status][Doing]  |
 | 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | ![status][Doing]  |
-| 11   | Binary Search                | 이분탐색            | 바로가기  | ![status][TODO]  |
+| 11   | Binary Search                | 이분탐색            | [바로가기][Binary Search]  | ![status][Doing]  |
 | 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | ![status][Doing]  |
 | 13   | Divide and conquer           | 분할정복            | [바로가기][Divide and conquer]  | ![status][Doing]  |
 | 14   | Prefix Sum                   | 누적 합             | [바로가기][Prefix Sum]  | ![status][Doing]  |
@@ -120,6 +120,7 @@
 </table>
  
 [Backtracking]: ./backtracking
+[Binary Search]: ./binary_search
 [Data Structure]: ./data_structure
 [Data Structure2]: ./data_structure2
 [Math]: ./math
