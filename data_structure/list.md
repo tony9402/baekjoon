@@ -1,4 +1,4 @@
-1,스택,10828,sliver4,https://github.com/tony9402/algorithm_solution/tree/main/baekjoon/10828
+1,스택,10828,sliver4,./../solution/data_structure/10828
 1,괄호,9012,sliver4,
 1,스택 수열,1874,sliver3,
 1,후위 표기식2,1935,sliver3,
