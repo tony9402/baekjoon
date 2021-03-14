@@ -1,6 +1,6 @@
-1,피보나치 수 5,10870,b2,./../dynamic_programming_1/10870
-1,설탕 배달,2839,b1,./../dynamic_programming_1/2839
-1,피보나치 수 2,2748,b1,./../dynamic_programming_1/2748
+1,피보나치 수 5,10870,b2,./../solution/dynamic_programming_1/10870
+1,설탕 배달,2839,b1,./../solution/dynamic_programming_1/2839
+1,피보나치 수 2,2748,b1,./../solution/dynamic_programming_1/2748
 1,다리 놓기,1010,s5,
 1,돌 게임,9655,s5,
 1,Four Squares,17626,s5,
