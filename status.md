@@ -24,7 +24,7 @@
 | 04 |  data_structure2                | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 05 |  disjoint_set                   | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 06 |  divide_and_conquer             | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 07 |  dynamic_programming_1          | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 07 |  dynamic_programming_1          | ![status](https://img.shields.io/badge/-12.50%25-31AE0F) |  
 | 08 |  dynamic_programming_2          | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 09 |  dynamic_programming_on_trees   | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 10 |  graph_traversal                | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  

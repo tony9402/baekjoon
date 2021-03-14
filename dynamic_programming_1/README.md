@@ -17,12 +17,11 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7020)
 
-
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../dynamic_programming_1/10870">바로가기</a> |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./../dynamic_programming_1/2839">바로가기</a> |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./../dynamic_programming_1/2748">바로가기</a> |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
