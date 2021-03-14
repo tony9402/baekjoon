@@ -47,7 +47,7 @@ def Status(tags, *args): # Problems, Folders
         elif percent != 0.0:
             color = "31AE0F"
 
-        print(f"![status](https://img.shields.io/badge/-{percent:.2f}%-{color}) |  ")
+        print(f"![status](https://img.shields.io/badge/-{percent:.2f}%25-{color}) |  ")
 
 def getTier(Str):
     if len(Str) == 2: # Ex p2, P2...
