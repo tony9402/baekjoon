@@ -4,6 +4,8 @@ import subprocess as sp
 import os
 import time
 
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions' ]
+
 def getProblem(Dir):
     ret = list()
     with open(f"{Dir}/list.md", 'r') as f:
@@ -66,7 +68,7 @@ def getRecommend(*args):
     return ret
 
 # Get Folders
-Folders = sorted([ _ for _ in os.listdir('./') if not _.startswith(".") and os.path.isdir(_) ])
+Folders = sorted([ _ for _ in os.listdir('./') if os.path.isdir(_) and not _ in EXCEPT_FOLDER and not _.startswith('.') ])
 Problems = [ getProblem(_) for _ in Folders ]
 TotalProblem = Assemble(*Problems)
 
