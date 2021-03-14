@@ -48,7 +48,7 @@
 | 15   | String                       | 문자열              | [바로가기][String]  | 64 |  ![status][Doing]  |
 | 16   | Shortest Path                | 최단거리            | [바로가기][Shortest Path]  | 51 |  ![status][Doing]  |
 | 17   | Topological Sorting          | 위상정렬            | [바로가기][Topological Sorting]  | 13 |  ![status][Doing]  |
-| 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | 09 |  ![status][Doing]  |
+| 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | 20 |  ![status][Doing]  |
 | 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | [바로가기][MST]  | 23 |  ![status][Doing]  |
 | 20   | Trie                         | 트라이              | [바로가기][Trie]  | 09 |  ![status][Doing]  |
 | 21   | Dynamic Programming On Trees | 트리디피            | [바로가기][TreeDP]  | 08 |  ![status][Doing]  |
