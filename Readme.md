@@ -53,6 +53,7 @@
 | 20   | Trie                         | 트라이              | [바로가기][Trie]  | 05 | 09 |  ![status][Doing]  |
 | 21   | Dynamic Programming On Trees | 트리디피            | [바로가기][TreeDP]  | 04 | 08 |  ![status][Doing]  |
 
+[현재 진행정도](./status.md)
 
 <br><br>
 ## 모의 문제집
