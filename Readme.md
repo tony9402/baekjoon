@@ -36,7 +36,7 @@
 | 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  | 59 |  ![status][Doing]  |
 | 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | 76 |  ![status][Doing]  |
 | 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | 75 |  ![status][Doing]  |
-| 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | 11 |  ![status][Doing]  |
+| 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | 32 |  ![status][Doing]  |
 | 07   | Implementation               | 구현                | [바로가기][Implementation]  | 43 |  ![status][Doing]  | 
 | 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | 90 |  ![status][Doing]  |
 | 09   | Brute Force                  | 완전탐색            | [바로가기][Brute Force]  | 87 |  ![status][Doing]  |
