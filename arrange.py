@@ -23,7 +23,7 @@ def Assemble(*args):
 
 def Status(tags, *args): # Problems, Folders
     for idx, problems in enumerate(args):
-        print(f"| {idx:02d} |  {tags[idx]:<30s} | ", end='')
+        print(f"| {idx:02d} |  [{tags[idx]}](./../../tree/main/{tags[idx]}) | ", end='')
         totalProblem = 0 # Only ✔️
         hasEditoral = 0
         for problem in problems:
