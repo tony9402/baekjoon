@@ -67,6 +67,26 @@ def getRecommend(*args):
                 ret.append((info[-3], ','.join(info[:-3][1:]), getTier(info[-2])))
     return ret
 
+# Clean Code 생각 X
+# TODO 
+def calPercentageOfRec(*args):
+    total = 0
+    hasSolution = 0
+
+    for i in args:
+        for problem in i: 
+            info = problem.split(",")
+            rec  = info[0].strip()
+            link = info[-1].strip()
+            if rec == '':
+                continue
+            total += 1
+            
+            if not link == '':
+                hasSolution += 1
+    return float(hasSolution) / total
+
+
 # Get Folders
 Folders = sorted([ _ for _ in os.listdir('./') if os.path.isdir(_) and not _ in EXCEPT_FOLDER and not _.startswith('.') ])
 Problems = [ getProblem(_) for _ in Folders ]
@@ -91,7 +111,7 @@ print(f"알고리즘 Tag 개수 : {len(Folders)}  ")
 print("\n") # lnln
 
 print("<hr>")
-print("각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> <br><br>\n")
+print(f"각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> {calPercentageOfRec(*Problems):.2f}% <br><br>\n")
 
 # Make Table (Markdown)
 
