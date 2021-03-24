@@ -28,4 +28,4 @@
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-
+| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
