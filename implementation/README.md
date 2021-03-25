@@ -38,8 +38,8 @@
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2615" target="_blank">오목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/20164" target="_blank">홀수 홀릭 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20207" target="_blank">달력</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/20207" target="_blank">달력</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20164" target="_blank">홀수 홀릭 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14719" target="_blank">빗물</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/16719" target="_blank">ZOAC</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |                      | <a href="http://boj.kr/1783" target="_blank">병든 나이트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
@@ -54,9 +54,9 @@
 | 32 |                      | <a href="http://boj.kr/16927" target="_blank">배열 돌리기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 33 |                      | <a href="http://boj.kr/9934" target="_blank">완전 이진 트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 34 |                      | <a href="http://boj.kr/2469" target="_blank">사다리 타기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 35 |                      | <a href="http://boj.kr/2877" target="_blank">4와 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 36 |                      | <a href="http://boj.kr/20327" target="_blank">배열 돌리기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 37 |                      | <a href="http://boj.kr/15886" target="_blank">내 선물을 받아줘 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 35 |                      | <a href="http://boj.kr/15886" target="_blank">내 선물을 받아줘 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 36 |                      | <a href="http://boj.kr/2877" target="_blank">4와 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 37 |                      | <a href="http://boj.kr/20327" target="_blank">배열 돌리기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 38 |                      | <a href="http://boj.kr/17406" target="_blank">배열 돌리기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 39 |                      | <a href="http://boj.kr/1022" target="_blank">소용돌이 예쁘게 출력하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 40 |                      | <a href="http://boj.kr/9081" target="_blank">단어 맞추기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
