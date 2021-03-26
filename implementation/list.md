@@ -15,7 +15,7 @@
 1,별 찍기 - 19,10994,s4,./../solution/implementation/10994
 ,할아버지는 유명해!,5766,s4,
 1,파일 정리,20291,s4,./../solution/implementation/20291
-1,ZOAC 3,20436,s4,
+1,ZOAC 3,20436,s4,./../solution/implementation/20436
 1,단어 뒤집기 2,17413,s3,./../solution/implementation/17413
 1,오목,2615,s3,
 ,이진수 덧셈,2729,s3,
