@@ -11,7 +11,6 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6780)
-
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
@@ -32,4 +31,3 @@
 | 15 |                      | <a href="http://boj.kr/17255" target="_blank">N으로 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 16 |                      | <a href="http://boj.kr/12764" target="_blank">싸지방에 간 준하</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 17 |                      | <a href="http://boj.kr/1655" target="_blank">가운데로 말해요</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-
