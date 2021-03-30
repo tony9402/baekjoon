@@ -25,14 +25,14 @@
 | 09 |                      | <a href="http://boj.kr/13905" target="_blank">세부</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 10 |                      | <a href="http://boj.kr/16202" target="_blank">MST 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 11 |                      | <a href="http://boj.kr/18769" target="_blank">그리드 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 12 |                      | <a href="http://boj.kr/17472" target="_blank">다리 만들기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 13 |                      | <a href="http://boj.kr/13418" target="_blank">학교 탐방하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 14 |                      | <a href="http://boj.kr/14950" target="_blank">정복자</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 15 |                      | <a href="http://boj.kr/2406" target="_blank">안정적인 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 16 |                      | <a href="http://boj.kr/17490" target="_blank">일감호에 다리 놓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 17 |                      | <a href="http://boj.kr/2887" target="_blank">행성 터널</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 18 |                      | <a href="http://boj.kr/1944" target="_blank">복제 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 19 |                      | <a href="http://boj.kr/10423" target="_blank">전기가 부족해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 20 |                      | <a href="http://boj.kr/20010" target="_blank">악덕 영주 혜유</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 12 |                      | <a href="http://boj.kr/13418" target="_blank">학교 탐방하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 13 |                      | <a href="http://boj.kr/14950" target="_blank">정복자</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 14 |                      | <a href="http://boj.kr/2406" target="_blank">안정적인 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 15 |                      | <a href="http://boj.kr/17490" target="_blank">일감호에 다리 놓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 16 |                      | <a href="http://boj.kr/17472" target="_blank">다리 만들기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 17 |                      | <a href="http://boj.kr/1944" target="_blank">복제 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 18 |                      | <a href="http://boj.kr/10423" target="_blank">전기가 부족해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 19 |                      | <a href="http://boj.kr/20010" target="_blank">악덕 영주 혜유</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 20 |                      | <a href="http://boj.kr/2887" target="_blank">행성 터널</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
 | 21 |                      | <a href="http://boj.kr/1414" target="_blank">불우이웃돕기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
 | 22 |                      | <a href="http://boj.kr/1045" target="_blank">도로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |

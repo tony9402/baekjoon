@@ -35,8 +35,8 @@
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/11055" target="_blank">가장 큰 증가 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/1890" target="_blank">점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2407" target="_blank">조합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/1106" target="_blank">호텔</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1106" target="_blank">호텔</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/2293" target="_blank">동전 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
@@ -92,5 +92,5 @@
 | 71 |                      | <a href="http://boj.kr/2302" target="_blank">극장 좌석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 72 |                      | <a href="http://boj.kr/11568" target="_blank">민균이의 계략</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 73 |                      | <a href="http://boj.kr/12026" target="_blank">BOJ 거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 74 |                      | <a href="http://boj.kr/14722" target="_blank">우유 도시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 75 |                      | <a href="http://boj.kr/13910" target="_blank">개업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 74 |                      | <a href="http://boj.kr/13910" target="_blank">개업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 75 |                      | <a href="http://boj.kr/14722" target="_blank">우유 도시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

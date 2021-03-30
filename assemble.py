@@ -1,7 +1,9 @@
 import subprocess as sp
 import os
 import time
-
+import json
+import ssl
+from urllib import request
 
 """
 정보 업데이트 (목표 : 거의 자동화)
@@ -29,6 +31,20 @@ def updateSolution():
         for problem in problems:
             solution_list[tag].add(problem)
 
+def itol(level): ## Only Bronze ~ Platinum in my workbook
+    NAME  = [ 'B', 'S', 'G', 'P', 'D' ]
+    NUMB  = [   1,   2,   3,   4,   5 ]
+    LEFT  = NAME[ (level - 1) // 5 ]
+    RIGHT = NUMB[ 4 - (level - 1) % 5 ]
+    return f"{LEFT}{RIGHT}"
+
+def getLevel(problemID):
+    ssl_context = ssl._create_unverified_context()
+    url   = f"https://api.solved.ac/v2/problems/show.json?id={problemID}"
+    res   = request.urlopen(request.Request(url), context = ssl_context)
+    JSON  = json.loads(res.read().decode('UTF-8'))
+    LEVEL = JSON["result"]["problems"][0]["level"]
+    return itol(LEVEL)
 
 # list.md 정리
 def updateLIST():
@@ -49,11 +65,14 @@ def updateLIST():
         NEWINFO = list()
         for line in INFO:
             split_line = line.split(",")
+            problemID = split_line[-3]
+
+            split_line[-2] = getLevel(problemID)
             if split_line[0] == '':
+                line = ",".join(split_line)
                 NEWINFO.append(line)
                 continue
 
-            problemID = split_line[-3]
             if problemID in solution_list[tag]:
                 split_line[-1] = f"{solutionRPATH}/{tag}/{problemID}\n"
                 update = True
