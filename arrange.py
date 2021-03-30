@@ -4,7 +4,7 @@ import subprocess as sp
 import os
 import time
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github' ]
 
 def getProblem(Dir):
     ret = list()
@@ -120,4 +120,4 @@ print("| :--:  | :--------------- | :------------:  |")
 Status(Folders, *Problems)
 
 now = time.localtime()
-print(f"\n\n**실행한 날짜(log) : {now.tm_year:04d}/{now.tm_mon:02d}/{now.tm_mday:02d}**")
+print(f"\n\n**실행한 날짜(log) : {now.tm_year:04d}/{now.tm_mon:02d}/{now.tm_mday:02d} {now.tm_hour}:{now.tm_min}:{now.tm_sec} {now.tm_zone}**")

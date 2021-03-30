@@ -10,7 +10,7 @@ import time
  3. list.md 업데이트
 """
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github' ]
 solution_list = dict()
 
 def getFolder(path, EXCEPT=[]):
@@ -68,19 +68,17 @@ def updateLIST():
                 f.writelines(NEWINFO)
                 f.close()
 
-updateSolution()
-updateLIST()
-exit(0)
-
 def run_script(path):
     if not os.path.isfile('make_table.py'):
         print("Not Found make_table.py")
         exit(0)
     ret = os.system(f"cat {path}/header.md > {path}/README.md")
     if ret != 0:
+        print("ERROR")
         exit(0) # 
     ret = os.system(f"python3 make_table.py < {path}/list.md >> {path}/README.md")
     if ret != 0: 
+        print("ERROR")
         exit(0) # 
 
 def checkUpdate(folder):
@@ -96,6 +94,11 @@ def checkUpdate(folder):
         cmd = cmd.split("#")[1]
         os.system(f"{cmd}")
 
+def AutoUpdate():
+    cmd = sp.check_output(['head -1 arrange.py'], shell=True).decode('utf8')
+    cmd = cmd.split("#")[1]
+    os.system(f"{cmd}")
+
 if __name__ == "__main__":
     updateSolution()
     updateLIST()
@@ -104,4 +107,5 @@ if __name__ == "__main__":
     for i in FOLDER:
         run_script(i)
 
-    checkUpdate(FOLDER)
+    # checkUpdate(FOLDER)
+    AutoUpdate()
