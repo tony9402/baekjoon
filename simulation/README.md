@@ -34,14 +34,14 @@
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/20061" target="_blank">모노미노도미노 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/5212" target="_blank">지구 온난화</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/1713" target="_blank">후보 추천하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 21 |  :heavy_check_mark:  | <a href="http://boj.kr/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1713" target="_blank">후보 추천하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/15683" target="_blank">감시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/20165" target="_blank">인내의 도미노 장인 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 24 |  :heavy_check_mark:  | <a href="http://boj.kr/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 25 |                      | <a href="http://boj.kr/14594" target="_blank">동방 프로젝트 (Small)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 26 |                      | <a href="http://boj.kr/20665" target="_blank">독서실 거리두기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 26 |                      | <a href="http://boj.kr/20665" target="_blank">독서실 거리두기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/14503" target="_blank">로봇 청소기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 28 |                      | <a href="http://boj.kr/3190" target="_blank">뱀</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 29 |                      | <a href="http://boj.kr/14499" target="_blank">주사위 굴리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

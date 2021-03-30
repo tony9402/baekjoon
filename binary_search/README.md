@@ -50,10 +50,10 @@
 | 34 |                      | <a href="http://boj.kr/17451" target="_blank">평행 우주</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/17393" target="_blank">다이나믹 롤러</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/17124" target="_blank">두 개의 배열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 37 |                      | <a href="http://boj.kr/15810" target="_blank">풍선 공장</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 38 |                      | <a href="http://boj.kr/17503" target="_blank">맥주 축제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 39 |                      | <a href="http://boj.kr/18113" target="_blank">그르다 김가놈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 40 |                      | <a href="http://boj.kr/2121" target="_blank">넷이 놀기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 37 |                      | <a href="http://boj.kr/2121" target="_blank">넷이 놀기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 38 |                      | <a href="http://boj.kr/15810" target="_blank">풍선 공장</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/17503" target="_blank">맥주 축제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 40 |                      | <a href="http://boj.kr/18113" target="_blank">그르다 김가놈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 41 |                      | <a href="http://boj.kr/2343" target="_blank">기타 레슨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 42 |                      | <a href="http://boj.kr/2022" target="_blank">사다리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 43 |                      | <a href="http://boj.kr/16564" target="_blank">히오스 프로게이머</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |

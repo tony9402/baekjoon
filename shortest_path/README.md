@@ -38,7 +38,7 @@
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/1507" target="_blank">궁금한 민호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1613" target="_blank">역사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 18 |                      | <a href="http://boj.kr/18243" target="_blank">Small World Network</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 19 |                      | <a href="http://boj.kr/1389" target="_blank">케빈 베이컨의 6단계 법칙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 19 |                      | <a href="http://boj.kr/1389" target="_blank">케빈 베이컨의 6단계 법칙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 20 |                      | <a href="http://boj.kr/9205" target="_blank">맥주 마시면서 걸아가기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 21 |                      | <a href="http://boj.kr/1058" target="_blank">친구</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 22 |                      | <a href="http://boj.kr/1916" target="_blank">최소비용 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

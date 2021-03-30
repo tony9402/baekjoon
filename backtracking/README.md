@@ -49,7 +49,7 @@
 | 31 |                      | <a href="http://boj.kr/18429" target="_blank">근솔실</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 32 |                      | <a href="http://boj.kr/19949" target="_blank">영재의 시험</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 33 |                      | <a href="http://boj.kr/1553" target="_blank">도미노 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 34 |                      | <a href="http://boj.kr/20950" target="_blank">미술가 미미</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 34 |                      | <a href="http://boj.kr/20950" target="_blank">미술가 미미</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/6603" target="_blank">로또</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/10819" target="_blank">차이를 최대로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 37 |                      | <a href="http://boj.kr/2529" target="_blank">부등호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
@@ -64,17 +64,17 @@
 | 46 |                      | <a href="http://boj.kr/1497" target="_blank">기타콘서트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 47 |                      | <a href="http://boj.kr/15566" target="_blank">개구리 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 48 |                      | <a href="http://boj.kr/1759" target="_blank">암호 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 49 |                      | <a href="http://boj.kr/15684" target="_blank">사다리 조작</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 50 |                      | <a href="http://boj.kr/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 51 |                      | <a href="http://boj.kr/2023" target="_blank">신기한 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 52 |                      | <a href="http://boj.kr/1405" target="_blank">미친 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 53 |                      | <a href="http://boj.kr/1342" target="_blank">행운의 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 54 |                      | <a href="http://boj.kr/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 55 |                      | <a href="http://boj.kr/13908" target="_blank">비밀번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 56 |                      | <a href="http://boj.kr/7682" target="_blank">틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 57 |                      | <a href="http://boj.kr/20208" target="_blank">진우의 민트초코우유</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 58 |                      | <a href="http://boj.kr/1469" target="_blank">숌 사이 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 59 |                      | <a href="http://boj.kr/10421" target="_blank">수식 완성하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 49 |                      | <a href="http://boj.kr/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 50 |                      | <a href="http://boj.kr/2023" target="_blank">신기한 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 51 |                      | <a href="http://boj.kr/1405" target="_blank">미친 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 52 |                      | <a href="http://boj.kr/1342" target="_blank">행운의 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 53 |                      | <a href="http://boj.kr/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 54 |                      | <a href="http://boj.kr/13908" target="_blank">비밀번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 55 |                      | <a href="http://boj.kr/7682" target="_blank">틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 56 |                      | <a href="http://boj.kr/20208" target="_blank">진우의 민트초코우유</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 57 |                      | <a href="http://boj.kr/1469" target="_blank">숌 사이 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 58 |                      | <a href="http://boj.kr/10421" target="_blank">수식 완성하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 59 |                      | <a href="http://boj.kr/15684" target="_blank">사다리 조작</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 60 |                      | <a href="http://boj.kr/1987" target="_blank">알파벳</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 61 |                      | <a href="http://boj.kr/2239" target="_blank">스도쿠</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 62 |                      | <a href="http://boj.kr/16938" target="_blank">캠프 준비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |

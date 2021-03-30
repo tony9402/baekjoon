@@ -81,8 +81,8 @@
 | 61 |                      | <a href="http://boj.kr/5671" target="_blank">호텔 방 번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 62 |                      | <a href="http://boj.kr/5883" target="_blank">아이폰 9S</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 63 |                      | <a href="http://boj.kr/16951" target="_blank">블록 놀이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 64 |                      | <a href="http://boj.kr/1487" target="_blank">물건 팔기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 65 |                      | <a href="http://boj.kr/15270" target="_blank">친구 팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 64 |                      | <a href="http://boj.kr/15270" target="_blank">친구 팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 65 |                      | <a href="http://boj.kr/1487" target="_blank">물건 팔기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 66 |                      | <a href="http://boj.kr/11502" target="_blank">세 개의 소수 문제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 67 |                      | <a href="http://boj.kr/9996" target="_blank">한국이 그리울 땐 서버에 접속하지</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 68 |                      | <a href="http://boj.kr/10472" target="_blank">십자뒤집기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
@@ -102,6 +102,6 @@
 | 82 |                      | <a href="http://boj.kr/1747" target="_blank">소수&팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 83 |                      | <a href="http://boj.kr/14225" target="_blank">부분수열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 84 |                      | <a href="http://boj.kr/1034" target="_blank">램프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 85 |                      | <a href="http://boj.kr/16986" target="_blank">인싸들의 가위바위보</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 86 |                      | <a href="http://boj.kr/1711" target="_blank">직각삼각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 85 |                      | <a href="http://boj.kr/1711" target="_blank">직각삼각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 86 |                      | <a href="http://boj.kr/16986" target="_blank">인싸들의 가위바위보</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 87 |                      | <a href="http://boj.kr/1581" target="_blank">락스타 락동호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |

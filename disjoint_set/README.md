@@ -23,10 +23,10 @@
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/16562" target="_blank">친구비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/10775" target="_blank">공항</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/10775" target="_blank">공항</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 06 |                      | <a href="http://boj.kr/17352" target="_blank">여러분의 다리가 되어 드리겠습니다!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 07 |                      | <a href="http://boj.kr/12893" target="_blank">적의 적</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 08 |                      | <a href="http://boj.kr/20040" target="_blank">사이클 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 07 |                      | <a href="http://boj.kr/20040" target="_blank">사이클 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 08 |                      | <a href="http://boj.kr/12893" target="_blank">적의 적</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 09 |                      | <a href="http://boj.kr/1043" target="_blank">거짓말</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 10 |                      | <a href="http://boj.kr/16168" target="_blank">퍼레이드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 11 |                      | <a href="http://boj.kr/7511" target="_blank">소셜 네트워킹 어플리케이션</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |

@@ -5,15 +5,9 @@ import json
 import ssl
 from urllib import request
 
-"""
-정보 업데이트 (목표 : 거의 자동화)
- 1. README 업데이트
- 2. Solution Link 업데이트
- 3. list.md 업데이트
-"""
-
 EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github' ]
 solution_list = dict()
+changeLevel_list = list()
 
 def getFolder(path, EXCEPT=[]):
     ret = [ folder for folder in os.listdir(f'{path}') \
@@ -48,13 +42,10 @@ def getLevel(problemID):
 
 # list.md 정리
 def updateLIST():
-    # ./../solution/implementation/1212
     solutionRPATH = "./../solution"
     currentFolder = "./"
     tagFolder = getFolder(currentFolder, EXCEPT_FOLDER)
     for tag in tagFolder:
-        if tag not in solution_list:
-            continue
         currentPath = f"{currentFolder}/{tag}"
         INFO = None
         with open(f"{currentPath}/list.md", "r") as f:
@@ -67,13 +58,17 @@ def updateLIST():
             split_line = line.split(",")
             problemID = split_line[-3]
 
+            pre = split_line[-2]
             split_line[-2] = getLevel(problemID)
+            if pre != split_line[-2]:
+                update = True
+                changeLevel_list.append((f"https://www.acmicpc.net/problem/{problemID}", int(problemID), split_line[-2], pre))
             if split_line[0] == '':
                 line = ",".join(split_line)
                 NEWINFO.append(line)
                 continue
 
-            if problemID in solution_list[tag]:
+            if tag in solution_list and problemID in solution_list[tag]:
                 split_line[-1] = f"{solutionRPATH}/{tag}/{problemID}\n"
                 update = True
             else:
@@ -128,3 +123,11 @@ if __name__ == "__main__":
 
     # checkUpdate(FOLDER)
     AutoUpdate()
+
+    for change in changeLevel_list:
+        url       = change[0]
+        problemID = change[1]
+        cur_rate  = change[2]
+        pre_rate  = change[3]
+
+        print(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}")

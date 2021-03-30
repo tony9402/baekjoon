@@ -28,7 +28,7 @@
 | 10 |                      | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 11 |                      | <a href="http://boj.kr/11441" target="_blank">합 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 12 |                      | <a href="http://boj.kr/17390" target="_blank">이건 꼭 풀어야 해!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 13 |                      | <a href="http://boj.kr/16139" target="_blank">인간-컴퓨터 상호작용</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 13 |                      | <a href="http://boj.kr/16139" target="_blank">인간-컴퓨터 상호작용</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 14 |                      | <a href="http://boj.kr/17123" target="_blank">배열 놀이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 15 |                      | <a href="http://boj.kr/16507" target="_blank">어두운 건 무서워</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 16 |                      | <a href="http://boj.kr/19951" target="_blank">태상이의 훈련소 생활</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |

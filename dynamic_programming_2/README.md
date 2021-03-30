@@ -37,7 +37,7 @@
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2056" target="_blank">작업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/20542" target="_blank">받으쓰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/11049" target="_blank">행렬 곱셈 순서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/1823" target="_blank">수확</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2629" target="_blank">양팔저울</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
@@ -83,9 +83,9 @@
 | 62 |                      | <a href="http://boj.kr/13902" target="_blank">개업 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 63 |                      | <a href="http://boj.kr/13707" target="_blank">합분해 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 64 |                      | <a href="http://boj.kr/14945" target="_blank">불장난</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 65 |                      | <a href="http://boj.kr/1943" target="_blank">동전 분배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 66 |                      | <a href="http://boj.kr/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 67 |                      | <a href="http://boj.kr/7579" target="_blank">앱</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 65 |                      | <a href="http://boj.kr/7579" target="_blank">앱</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 66 |                      | <a href="http://boj.kr/1943" target="_blank">동전 분배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 67 |                      | <a href="http://boj.kr/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 68 |                      | <a href="http://boj.kr/1937" target="_blank">욕심쟁이 판다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 69 |                      | <a href="http://boj.kr/11066" target="_blank">파일 합치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 70 |                      | <a href="http://boj.kr/1516" target="_blank">게임 개발</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |

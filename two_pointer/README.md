@@ -20,10 +20,10 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2470" target="_blank">두 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1806" target="_blank">부분합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/3151" target="_blank">합이 0</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |

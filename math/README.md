@@ -20,11 +20,11 @@
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1110" target="_blank">더하기 사이클</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2609" target="_blank">최대공약수와 최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1934" target="_blank">최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1978" target="_blank">소수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2581" target="_blank">소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/2581" target="_blank">소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/1978" target="_blank">소수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/11653" target="_blank">소인수분해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/2960" target="_blank">에라토스테네스의 체</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
