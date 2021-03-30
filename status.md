@@ -7,13 +7,13 @@
 
 
 
-총 문제 수 : 892  
-총 추천 문제 수 : 350 (39.24%)  
+총 문제 수 : 897  
+총 추천 문제 수 : 352 (39.24%)  
 알고리즘 Tag 개수 : 22  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.01% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.06% <br><br>
 
 | Index | Tag(Folder Name) | Solution 진행도 |
 | :--:  | :--------------- | :------------:  |
@@ -29,9 +29,9 @@
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 11 |  [greedy](./../../tree/main/greedy) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 12 |  [implementation](./../../tree/main/implementation) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 12 |  [implementation](./../../tree/main/implementation) | ![status](https://img.shields.io/badge/-69.57%25-31AE0F) |  
 | 13 |  [math](./../../tree/main/math) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | ![status](https://img.shields.io/badge/-28.57%25-31AE0F) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 17 |  [simulation](./../../tree/main/simulation) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/03/16**
+**실행한 날짜(log) : 2021/03/31**
