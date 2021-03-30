@@ -1,8 +1,6 @@
 name: Auto Update README
 
 on:
-  push:
-    branches: [ main ]
   schedule:
     - cron: '0 20 * * *'
 

@@ -1,5 +1,7 @@
 # 코딩테스트 대비 문제집
 
+[![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)
+
 ❈  코딩테스트을 준비하시는 분들을 위해 문제집을 만들어봤습니다. ❈ 
 
 이 레포는 꾸준히 업데이트를 할 예정이며 문제집 어느정도 완성 후 풀이를 Python, Java, C++ 3가지 언어를 올릴 예정입니다.  
