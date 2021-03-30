@@ -62,7 +62,8 @@ def updateLIST():
             split_line[-2] = getLevel(problemID)
             if pre != split_line[-2]:
                 update = True
-                changeLevel_list.append((f"https://www.acmicpc.net/problem/{problemID}", int(problemID), split_line[-2], pre))
+                url       = f"https://www.acmicpc.net/problem/{problemID}"
+                changeLevel_list.append(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}\n")
             if split_line[0] == '':
                 line = ",".join(split_line)
                 NEWINFO.append(line)
@@ -124,10 +125,8 @@ if __name__ == "__main__":
     # checkUpdate(FOLDER)
     AutoUpdate()
 
-    for change in changeLevel_list:
-        url       = change[0]
-        problemID = change[1]
-        cur_rate  = change[2]
-        pre_rate  = change[3]
-
-        print(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}")
+    if len(changeLevel_list) > 0:
+        changeLevel_list.append('#' * 30)
+        with open("change_level.log", "a+") as f:
+            f.writelines(changeLevel_list)
+            f.close()
