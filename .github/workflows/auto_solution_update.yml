@@ -1,8 +1,10 @@
 name: Auto Update README
 
 on:
-  schedule:
-    - cron: '0 20 * * *'
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   build:
@@ -20,13 +22,13 @@ jobs:
         pip install pytz
     - name: Run assemble.py
       run: |
-         python assemble.py --all
+         python assemble.py --solution
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
-        git config --local user.name "Auto BOT"
+        git config --local user.name "auto"
         git add .
-        git commit -m "Auto UPDATE"
+        git commit -m "Solution UPDATE"
     - name: Push
       uses: ad-m/github-push-action@master
       with:

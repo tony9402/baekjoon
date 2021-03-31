@@ -3,6 +3,7 @@ import os
 import time
 import json
 import ssl
+import argparse
 from urllib import request
 
 EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github' ]
@@ -41,7 +42,7 @@ def getLevel(problemID):
     return itol(LEVEL)
 
 # list.md 정리
-def updateLIST():
+def updateLIST(levelUpdate=False):
     solutionRPATH = "./../solution"
     currentFolder = "./"
     tagFolder = getFolder(currentFolder, EXCEPT_FOLDER)
@@ -57,13 +58,15 @@ def updateLIST():
         for line in INFO:
             split_line = line.split(",")
             problemID = split_line[-3]
+            
+            if levelUpdate:
+                pre = split_line[-2]
+                split_line[-2] = getLevel(problemID)
+                if pre != split_line[-2]:
+                    update = True
+                    url       = f"https://www.acmicpc.net/problem/{problemID}"
+                    changeLevel_list.append(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}\n")
 
-            pre = split_line[-2]
-            split_line[-2] = getLevel(problemID)
-            if pre != split_line[-2]:
-                update = True
-                url       = f"https://www.acmicpc.net/problem/{problemID}"
-                changeLevel_list.append(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}\n")
             if split_line[0] == '':
                 line = ",".join(split_line)
                 NEWINFO.append(line)
@@ -115,15 +118,34 @@ def AutoUpdate():
     os.system(f"{cmd}")
 
 if __name__ == "__main__":
-    updateSolution()
-    updateLIST()
+    
+    parser = argparse.ArgumentParser("Auto Update")
+    arg = parser.add_argument
 
-    FOLDER = getFolder('./', EXCEPT_FOLDER)
-    for i in FOLDER:
-        run_script(i)
+    arg('--all', dest='updateAll', action='store_true')
+    parser.set_defaults(updateAll=False)
 
-    # checkUpdate(FOLDER)
-    AutoUpdate()
+    arg('--solution', dest='updateSolution', action='store_true')
+    parser.set_defaults(updateSolution=False)
+
+    arg('--level', dest='updateLevel', action='store_true')
+    parser.set_defaults(updateLevel=False)
+
+    args = parser.parse_args()
+    
+    if args.updateAll or args.updateSolution:
+        updateSolution()
+        updateLevel = False
+        if args.updateLevel or args.updateAll:
+            updateLevel = True
+        updateLIST(updateLevel)
+
+        FOLDER = getFolder('./', EXCEPT_FOLDER)
+        for i in FOLDER:
+            run_script(i)
+
+        # checkUpdate(FOLDER)
+        AutoUpdate()
 
     if len(changeLevel_list) > 0:
         changeLevel_list.append('#' * 30)

@@ -119,5 +119,9 @@ print("| Index | Tag(Folder Name) | Solution 진행도 |")
 print("| :--:  | :--------------- | :------------:  |")
 Status(Folders, *Problems)
 
-now = time.localtime()
-print(f"\n\n**실행한 날짜(log) : {now.tm_year:04d}/{now.tm_mon:02d}/{now.tm_mday:02d} {now.tm_hour}:{now.tm_min}:{now.tm_sec} {now.tm_zone}**")
+import datetime
+import pytz
+
+timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+
+print(f"\n\n**실행한 날짜(log) : {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**")
