@@ -15,7 +15,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6781)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/5618" target="_blank">공약수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/5618" target="_blank">공약수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/5618">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2745" target="_blank">진법 변환</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1110" target="_blank">더하기 사이클</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2609" target="_blank">최대공약수와 최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
