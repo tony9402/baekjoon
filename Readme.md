@@ -123,6 +123,16 @@
             <a href="https://solved.ac/chansol"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chansol" /></a>
         </td>
     </tr>
+    </tr>
+        <td align="center" width="130px" height="160px">
+            <a href="https://github.com/inclue"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/13315923?v=4"></a>
+            <br />
+            <a href="https://github.com/inclue">inclue</a>
+        </td>
+        <td>
+            <a href="https://solved.ac/dlstj0923"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923" /></a>
+        </td>
+    </tr>
 </table>
 
 ## 업데이트 로그
