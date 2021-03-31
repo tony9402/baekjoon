@@ -24,7 +24,7 @@
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/1978" target="_blank">소수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/1978">바로가기</a> |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/11653" target="_blank">소인수분해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/11653">바로가기</a> |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/2960" target="_blank">에라토스테네스의 체</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/5347">바로가기</a> |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
