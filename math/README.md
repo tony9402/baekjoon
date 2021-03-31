@@ -16,13 +16,13 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/5618" target="_blank">공약수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/math/5618">바로가기</a> |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2745" target="_blank">진법 변환</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1110" target="_blank">더하기 사이클</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
-| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2609" target="_blank">최대공약수와 최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1934" target="_blank">최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/2581" target="_blank">소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/1978" target="_blank">소수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
-| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/11653" target="_blank">소인수분해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2745" target="_blank">진법 변환</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/math/2745">바로가기</a> |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1110" target="_blank">더하기 사이클</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./../solution/math/1110">바로가기</a> |
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2609" target="_blank">최대공약수와 최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/math/2609">바로가기</a> |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1934" target="_blank">최소공배수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/math/1934">바로가기</a> |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/2581" target="_blank">소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/math/2581">바로가기</a> |
+| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/1978" target="_blank">소수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/1978">바로가기</a> |
+| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/11653" target="_blank">소인수분해</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/11653">바로가기</a> |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/2960" target="_blank">에라토스테네스의 체</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/5347" target="_blank">LCM</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
