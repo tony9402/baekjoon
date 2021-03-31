@@ -1,6 +1,7 @@
 # 코딩테스트 대비 문제집
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)
+[![Auto Update README(Only Solution)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg?event=push)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)
 
 ❈  코딩테스트을 준비하시는 분들을 위해 문제집을 만들어봤습니다. ❈ 
 
