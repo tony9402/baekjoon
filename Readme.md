@@ -1,9 +1,11 @@
 # 코딩테스트 대비 문제집
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)
-[![Auto Update README(Only Solution)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg?event=push)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)
 
 ❈  코딩테스트을 준비하시는 분들을 위해 문제집을 만들어봤습니다. ❈ 
+
+❗️ 주의 ❗️  
+<b> 알고리즘을 처음 공부하시는 분들은 [알고리즘 설명 링크 모음](./link_for_study.md) 등을 활용하여 알고리즘 먼저 공부하시기 바랍니다. </b>
 
 이 레포는 꾸준히 업데이트를 할 예정이며 문제집 어느정도 완성 후 풀이를 Python, Java, C++ 3가지 언어를 올릴 예정입니다.  
 **(C++로 먼저 올릴 예정입니다.)**
@@ -122,6 +124,25 @@
         </td>
     </tr>
 </table>
+
+## 업데이트 로그
+
+뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 떄문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
+
+ - 2021.03.31
+   - [Github Actions](https://github.com/tony9402/baekjoon/actions) 도입
+   - [solved](http://solved.ac)의 난이도 변경을 일정 시간마다 체크하여 자동 업데이트 (백준 문제집은 X)
+   - 난이도 변경은 [로그](https://github.com/tony9402/baekjoon/blob/main/change_level.log)로 남겨놓음
+   - 솔루션 파일만 폴더 형식에만 맞추면 알아서 README 업데이트(솔루션 링크 연결 등)
+ 
+ - 2021.03.27
+   - README.md 업데이트를 더더욱 자동화를 위해 README.md 위에 설명 부분을 header.md로 분리
+
+ - 2021.03.15 
+   - 추천 문제 [solution](https://github.com/tony9402/baekjoon/tree/main/solution) (C++ 기준) 완성도 정리하는 스크립트 생성
+
+ - 2021.01.15
+   - 문제 [이렇게](https://raw.githubusercontent.com/tony9402/baekjoon/main/math/list.md) 뽑으면 자동으로 markdown 테이블을 만들어주는 스크립트 제작
  
 [Backtracking]: ./backtracking
 [Binary Search]: ./binary_search
