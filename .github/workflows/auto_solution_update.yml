@@ -3,8 +3,6 @@ name: Auto Update README
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build:
