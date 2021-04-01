@@ -7,7 +7,7 @@ import argparse
 from urllib import request
 from minidatabase import Database
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__', 'markdown' ]
 solution_list = dict()
 changeLevel_list = list()
 db = Database()
@@ -83,7 +83,7 @@ def updateLIST(levelUpdate=False):
             
             if levelUpdate:
                 pre = split_line[-2]
-                split_line[-2] = db.getProblemInfo["level"]
+                split_line[-2] = db.getInfo(problemID)["level"]
                 if pre != split_line[-2]:
                     update = True
                     url       = f"https://www.acmicpc.net/problem/{problemID}"
@@ -162,6 +162,9 @@ if __name__ == "__main__":
     if args.pushEvent:
         args.updateSolution = True
         args.updateProblem  = True
+
+    if args.pushEvent or args.updateAll or args.updateSolution or updateProblem:
+        os.system('python3 ./markdown/make_main_readme.py')
 
     if args.updateProblem:
         updateProblems()

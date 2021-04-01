@@ -4,7 +4,7 @@ import subprocess as sp
 import os
 import time
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__', 'markdown' ]
 
 def getProblem(Dir):
     ret = list()
