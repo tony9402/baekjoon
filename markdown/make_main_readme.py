@@ -35,16 +35,18 @@ def make_table(file="./markdown/list.md"):
         curLine = f"| {idx:02d} | {tag_en} | {tag_kr} | [바로가기](./{folder}) | {rec_cnt:02d} | {total:02d} | ![status][{status}] |\n"
         ret += curLine
 
+    ret += '\n'
+
     with open('./markdown/2workbook.md', 'w') as f:
         f.write(ret)
         f.close()
 
 def assemble():
-    with open('./5README.md', 'w') as f:
+    with open('./README.md', 'w') as f:
         f.close()
 
     for md in seq:
-        os.system(f"cat ./markdown/{md} >> ./5README.md")
+        os.system(f"cat ./markdown/{md} >> ./README.md")
 
 if __name__=="__main__":
     make_table()
