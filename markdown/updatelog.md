@@ -2,6 +2,13 @@
 
 뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 떄문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
 
+ - 2021.04.02
+   - [README.md](https://github.com/tony9402/baekjoon/blob/main/README.md) 자동 생성 스크립트 제작
+     - 각 알고리즘 문제는 자동으로 추가되고 [status.md](https://github.com/tony9402/baekjoon/blob/main/status.md)에 자동으로 카운팅되지만 README.md에서는 안되는 현상 발견하여 해결
+   - 알고리즘 문제 틀린거 자동으로 찾아 수정
+   - 일정 주기마다 알고리즘 난이도 갱신
+   - 문제 정보를 담는 json을 만듦
+
  - 2021.03.31
    - [Github Actions](https://github.com/tony9402/baekjoon/actions) 도입
    - [solved](http://solved.ac)의 난이도 변경을 일정 시간마다 체크하여 자동 업데이트 (백준 문제집은 X)
