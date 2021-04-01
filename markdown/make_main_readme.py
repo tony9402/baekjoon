@@ -35,7 +35,7 @@ def make_table(file="./markdown/list.md"):
         curLine = f"| {idx:02d} | {tag_en} | {tag_kr} | [바로가기](./{folder}) | {rec_cnt:02d} | {total:02d} | ![status][{status}] |\n"
         ret += curLine
 
-    ret += '\n'
+    ret += ' \n \n\n '
 
     with open('./markdown/2workbook.md', 'w') as f:
         f.write(ret)
