@@ -1,7 +1,7 @@
 1,피보나치 수 5,10870,B2,./../solution/dynamic_programming_1/10870
 1,설탕 배달,2839,B1,./../solution/dynamic_programming_1/2839
 1,피보나치 수 2,2748,B1,./../solution/dynamic_programming_1/2748
-1,다리 놓기,1010,S5,./../solution/dynamic_programming_1/1010
+1,다리 놓기,1010,S5,
 1,돌 게임,9655,S5,
 1,Four Squares,17626,S5,
 ,파스칼 삼각형,15489,S5,
