@@ -7,8 +7,8 @@
 
 
 
-총 문제 수 : 896  
-총 추천 문제 수 : 351 (39.17%)  
+총 문제 수 : 907  
+총 추천 문제 수 : 352 (38.81%)  
 알고리즘 Tag 개수 : 22  
 
 
@@ -30,7 +30,7 @@
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 11 |  [greedy](./../../tree/main/greedy) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 12 |  [implementation](./../../tree/main/implementation) | ![status](https://img.shields.io/badge/-69.57%25-31AE0F) |  
-| 13 |  [math](./../../tree/main/math) | ![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
+| 13 |  [math](./../../tree/main/math) | ![status](https://img.shields.io/badge/-92.86%25-31AE0F) |  
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | ![status](https://img.shields.io/badge/-28.57%25-31AE0F) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/01 10:53:16 KST**
+**실행한 날짜(log) : 2021/04/01 13:40:23 KST**
