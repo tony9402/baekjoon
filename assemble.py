@@ -5,15 +5,36 @@ import json
 import ssl
 import argparse
 from urllib import request
+from minidatabase import Database
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__' ]
 solution_list = dict()
 changeLevel_list = list()
+db = Database()
 
 def getFolder(path, EXCEPT=[]):
     ret = [ folder for folder in os.listdir(f'{path}') \
             if os.path.isdir(f"{path}/{folder}") and folder not in EXCEPT ]
     return ret
+
+def updateProblems():
+    folders = getFolder('./', EXCEPT_FOLDER)
+    problems = set()
+    for folder in folders:
+        lines = list()
+        with open(f"{folder}/list.md", 'r') as f:
+            lines = f.readlines()
+            f.close()
+
+        for line in lines:
+            problemID = line.split(",")[-3]
+
+            if problemID in problems:
+                continue
+
+            db.add(problemID)
+            problems.add(problemID)
+
 
 # Solution 정보
 def updateSolution():
@@ -25,21 +46,6 @@ def updateSolution():
         problems    = getFolder(problemPath)
         for problem in problems:
             solution_list[tag].add(problem)
-
-def itol(level): ## Only Bronze ~ Platinum in my workbook
-    NAME  = [ 'B', 'S', 'G', 'P', 'D' ]
-    NUMB  = [   1,   2,   3,   4,   5 ]
-    LEFT  = NAME[ (level - 1) // 5 ]
-    RIGHT = NUMB[ 4 - (level - 1) % 5 ]
-    return f"{LEFT}{RIGHT}"
-
-def getLevel(problemID):
-    ssl_context = ssl._create_unverified_context()
-    url   = f"https://api.solved.ac/v2/problems/show.json?id={problemID}"
-    res   = request.urlopen(request.Request(url), context = ssl_context)
-    JSON  = json.loads(res.read().decode('UTF-8'))
-    LEVEL = JSON["result"]["problems"][0]["level"]
-    return itol(LEVEL)
 
 # list.md 정리
 def updateLIST(levelUpdate=False):
@@ -58,10 +64,26 @@ def updateLIST(levelUpdate=False):
         for line in INFO:
             split_line = line.split(",")
             problemID = split_line[-3]
+
+            problemName = ",".join(split_line[:-3][1:])
+
+            # Validation
+
+            problemINFO = db.getInfo(problemID)
+
+            if problemName != problemINFO["name"]:
+                print(" *** ERROR : WRONG PROBLEM NAME")
+                print(f" TAG : {tag}")
+                print(f"\"{problemName}\" -> \"{problemINFO['name']}\"")
+                idx = 1
+                for s_name in problemINFO["name"].split(","):
+                    split_line[idx] = s_name
+                    idx += 1
+                update = True
             
             if levelUpdate:
                 pre = split_line[-2]
-                split_line[-2] = getLevel(problemID)
+                split_line[-2] = db.getProblemInfo["level"]
                 if pre != split_line[-2]:
                     update = True
                     url       = f"https://www.acmicpc.net/problem/{problemID}"
@@ -77,7 +99,7 @@ def updateLIST(levelUpdate=False):
                 update = True
             else:
                 split_line[-1] = "\n"
-
+            
             line = ",".join(split_line)
             NEWINFO.append(line)
         
@@ -99,6 +121,11 @@ def run_script(path):
         print("ERROR")
         exit(0) # 
 
+def AutoUpdate():
+    cmd = sp.check_output(['head -1 arrange.py'], shell=True).decode('utf8')
+    cmd = cmd.split("#")[1]
+    os.system(f"{cmd}")
+
 def checkUpdate(folder):
     ret = sp.check_output(['git status'], shell=True).decode('utf8')
     change = False
@@ -108,14 +135,7 @@ def checkUpdate(folder):
             break
 
     if change:
-        cmd = sp.check_output(['head -1 arrange.py'], shell=True).decode('utf8')
-        cmd = cmd.split("#")[1]
-        os.system(f"{cmd}")
-
-def AutoUpdate():
-    cmd = sp.check_output(['head -1 arrange.py'], shell=True).decode('utf8')
-    cmd = cmd.split("#")[1]
-    os.system(f"{cmd}")
+        AutoUpdate()
 
 if __name__ == "__main__":
     
@@ -131,8 +151,24 @@ if __name__ == "__main__":
     arg('--level', dest='updateLevel', action='store_true')
     parser.set_defaults(updateLevel=False)
 
+    arg('--problem-update', dest='updateProblem', action='store_true')
+    parser.set_defaults(updateProblem=False)
+
+    arg('--push', dest='pushEvent', action='store_true')
+    parser.set_defaults(pushEvent=False)
+
     args = parser.parse_args()
-    
+
+    if args.pushEvent:
+        args.updateSolution = True
+        args.updateProblem  = True
+
+    if args.updateProblem:
+        updateProblems()
+
+    if args.updateAll or args.updateLevel:
+        db.updateLevel()
+
     if args.updateAll or args.updateSolution:
         updateSolution()
         updateLevel = False
@@ -152,3 +188,5 @@ if __name__ == "__main__":
         with open("change_level.log", "a+") as f:
             f.writelines(changeLevel_list)
             f.close()
+
+    db.saveDB()
