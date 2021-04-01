@@ -65,7 +65,7 @@ def updateLIST(levelUpdate=False):
                 if pre != split_line[-2]:
                     update = True
                     url       = f"https://www.acmicpc.net/problem/{problemID}"
-                    changeLevel_list.append(f"[{problemID}]({url}) {pre_rate} -> {cur_rate}\n")
+                    changeLevel_list.append(f"[{problemID}]({url}) {pre} -> {split_line[-2]}\n")
 
             if split_line[0] == '':
                 line = ",".join(split_line)
