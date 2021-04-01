@@ -28,9 +28,9 @@
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/4134">바로가기</a> |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/math/9613">바로가기</a> |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/math/21275">바로가기</a> |
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/소수&팰린드롬" target="_blank"></a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/1747" target="_blank">소수&팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 14 |                      | <a href="http://boj.kr/1456" target="_blank">거의 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 15 |                      | <a href="http://boj.kr/타일 위의 대각선" target="_blank"></a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 15 |                      | <a href="http://boj.kr/2168" target="_blank">타일 위의 대각선,2168</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 16 |                      | <a href="http://boj.kr/9421" target="_blank">소수상근수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 17 |                      | <a href="http://boj.kr/1669" target="_blank">멍멍이 쓰다듬기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 18 |                      | <a href="http://boj.kr/1990" target="_blank">소수인팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
