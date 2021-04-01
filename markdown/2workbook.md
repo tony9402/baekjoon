@@ -22,3 +22,4 @@
 | 19 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 07 | 23 | ![status][Doing] |
 | 20 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 | ![status][Doing] |
 | 21 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 | ![status][Doing] |
+
