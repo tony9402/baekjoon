@@ -20,7 +20,7 @@ jobs:
         pip install pytz
     - name: Run assemble.py
       run: |
-         python assemble.py --solution
+         python assemble.py --push
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
