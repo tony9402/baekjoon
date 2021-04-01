@@ -73,7 +73,7 @@
 | 57 |                      | <a href="http://boj.kr/12757" target="_blank">전설의 JBNU</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 58 |                      | <a href="http://boj.kr/2143" target="_blank">두 배열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 59 |                      | <a href="http://boj.kr/16434" target="_blank">드래곤 앤 던전</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 60 |                      | <a href="http://boj.kr/15823" target="_blank">카트 팩 구매하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 60 |                      | <a href="http://boj.kr/15823" target="_blank">카드 팩 구매하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 61 |                      | <a href="http://boj.kr/2613" target="_blank">숫자구슬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 62 |                      | <a href="http://boj.kr/1561" target="_blank">놀이 공원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 63 |                      | <a href="http://boj.kr/15732" target="_blank">도토리 숨기기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |

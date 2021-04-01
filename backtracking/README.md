@@ -46,7 +46,7 @@
 | 28 |                      | <a href="http://boj.kr/10974" target="_blank">모든 순열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 29 |                      | <a href="http://boj.kr/15658" target="_blank">연산자 끼워넣기 (2)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 30 |                      | <a href="http://boj.kr/16922" target="_blank">로마 숫자 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 31 |                      | <a href="http://boj.kr/18429" target="_blank">근솔실</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 31 |                      | <a href="http://boj.kr/18429" target="_blank">근손실</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 32 |                      | <a href="http://boj.kr/19949" target="_blank">영재의 시험</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 33 |                      | <a href="http://boj.kr/1553" target="_blank">도미노 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 34 |                      | <a href="http://boj.kr/20950" target="_blank">미술가 미미</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
@@ -79,7 +79,7 @@
 | 61 |                      | <a href="http://boj.kr/2239" target="_blank">스도쿠</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 62 |                      | <a href="http://boj.kr/16938" target="_blank">캠프 준비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 63 |                      | <a href="http://boj.kr/2922" target="_blank">즐거운 단어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 64 |                      | <a href="http://boj.kr/15918" target="_blank">랭퍼드 수열쟁이야!!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 64 |                      | <a href="http://boj.kr/15918" target="_blank">랭퍼든 수열쟁이야!!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 65 |                      | <a href="http://boj.kr/1941" target="_blank">소문난 칠공주</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 66 |                      | <a href="http://boj.kr/1248" target="_blank">맞춰봐</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 67 |                      | <a href="http://boj.kr/9944" target="_blank">NxM 보드 완주하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |

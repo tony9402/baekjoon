@@ -30,4 +30,4 @@
 | 14 |                      | <a href="http://boj.kr/19583" target="_blank">싸이버개강총회</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 15 |                      | <a href="http://boj.kr/17255" target="_blank">N으로 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 16 |                      | <a href="http://boj.kr/12764" target="_blank">싸지방에 간 준하</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 17 |                      | <a href="http://boj.kr/1655" target="_blank">가운데로 말해요</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 17 |                      | <a href="http://boj.kr/1655" target="_blank">가운데를 말해요</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |

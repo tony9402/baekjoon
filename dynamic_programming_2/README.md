@@ -33,10 +33,10 @@
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/15724" target="_blank">주지수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/2073" target="_blank">수도배관공사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/1520" target="_blank">내리막길</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2056" target="_blank">작업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/20542" target="_blank">받으쓰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/20542" target="_blank">받아쓰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/11049" target="_blank">행렬 곱셈 순서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/1823" target="_blank">수확</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
@@ -46,7 +46,7 @@
 | 25 |                      | <a href="http://boj.kr/1535" target="_blank">안녕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 26 |                      | <a href="http://boj.kr/3067" target="_blank">Coins</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/14728" target="_blank">벼락치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 28 |                      | <a href="http://boj.kr/17845" target="_blank">수강과목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 28 |                      | <a href="http://boj.kr/17845" target="_blank">수강 과목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 29 |                      | <a href="http://boj.kr/17070" target="_blank">파이프 옮기기 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 30 |                      | <a href="http://boj.kr/14226" target="_blank">이모티콘</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 31 |                      | <a href="http://boj.kr/5582" target="_blank">공통 부분 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

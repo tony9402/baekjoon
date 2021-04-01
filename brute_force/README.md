@@ -24,7 +24,7 @@
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15721" target="_blank">번데기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1969" target="_blank">DNA</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2503" target="_blank">숫자 야구</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/2422" target="_blank">한융정이 이탈리아에 가서 아이스크림을 사먹는데</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/2422" target="_blank">한윤정이 이탈리아에 가서 아이스크림을 사먹는데</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/5568" target="_blank">카드 놓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/18511" target="_blank">큰 수 구성하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |

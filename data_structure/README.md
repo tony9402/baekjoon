@@ -23,7 +23,7 @@
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/1935" target="_blank">후위 표기식2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/1966" target="_blank">프린터 큐</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/2346" target="_blank">풍선 터트리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/2504" target="_blank">괄호의 값</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/2800" target="_blank">괄호 제거</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/2493" target="_blank">탑</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
