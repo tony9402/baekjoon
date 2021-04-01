@@ -40,7 +40,7 @@
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/2293" target="_blank">동전 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2294" target="_blank">동전</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2294" target="_blank">동전 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 24 |                      | <a href="http://boj.kr/15489" target="_blank">파스칼 삼각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 25 |                      | <a href="http://boj.kr/14501" target="_blank">퇴사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
