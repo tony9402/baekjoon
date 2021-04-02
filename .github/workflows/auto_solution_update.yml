@@ -24,10 +24,6 @@ jobs:
     - name: Run assemble.py
       run: |
          python assemble.py --push
-    - name: Commits
-      run: |
-        git add .
-        git commit -m "Solution UPDATE"
     - name: Push
       uses: ad-m/github-push-action@master
       with:
