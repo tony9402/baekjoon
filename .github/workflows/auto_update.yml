@@ -32,6 +32,6 @@ jobs:
         git commit -m "Auto UPDATE"
     - name: Push
       uses: ad-m/github-push-action@master
-      with:
-         branch: 'main'
-         github_token: $
+      with: 
+        branch: 'test_action'
+        github_token: $
