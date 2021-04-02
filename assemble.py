@@ -137,6 +137,8 @@ def checkUpdate(folder):
 
     if change:
         AutoUpdate()
+        os.system(f"git add .")
+        os.system(f"git commit -n \"Auto Update\"")
 
 if __name__ == "__main__":
     
@@ -184,7 +186,6 @@ if __name__ == "__main__":
         for i in FOLDER:
             run_script(i)
 
-        checkUpdate(FOLDER)
         # AutoUpdate()
 
     if len(changeLevel_list) > 0:
@@ -194,3 +195,4 @@ if __name__ == "__main__":
             f.close()
 
     db.saveDB()
+    checkUpdate(FOLDER)
