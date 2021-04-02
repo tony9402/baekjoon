@@ -28,11 +28,11 @@
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/2624" target="_blank">동전 바꿔주기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/2228" target="_blank">구간 나누기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/14567" target="_blank">선수과목 (Prerequisite)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/2758" target="_blank">로또</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/17485" target="_blank">진우의 달 여행 (Large)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/15724" target="_blank">주지수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/2073" target="_blank">수도배관공사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/17485" target="_blank">진우의 달 여행 (Large)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/15724" target="_blank">주지수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/2073" target="_blank">수도배관공사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/18427" target="_blank">함께 블록 쌓기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/2758" target="_blank">로또</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/1520" target="_blank">내리막 길</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2056" target="_blank">작업</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1695" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |

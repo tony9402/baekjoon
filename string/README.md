@@ -23,8 +23,8 @@
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/1181" target="_blank">단어 정렬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/4659" target="_blank">비밀번호 발음하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/16171" target="_blank">나는 친구가 적다 (Small)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/9342" target="_blank">염색체</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/6550" target="_blank">부분 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/6550" target="_blank">부분 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/9342" target="_blank">염색체</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/1764" target="_blank">듣보잡</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/20291" target="_blank">파일 정리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/17413" target="_blank">단어 뒤집기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |

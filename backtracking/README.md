@@ -53,8 +53,8 @@
 | 35 |                      | <a href="http://boj.kr/6603" target="_blank">로또</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/10819" target="_blank">차이를 최대로</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 37 |                      | <a href="http://boj.kr/2529" target="_blank">부등호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 38 |                      | <a href="http://boj.kr/6987" target="_blank">월드컵</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 39 |                      | <a href="http://boj.kr/19699" target="_blank">소-난다!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 38 |                      | <a href="http://boj.kr/19699" target="_blank">소-난다!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/6987" target="_blank">월드컵</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 40 |                      | <a href="http://boj.kr/16198" target="_blank">에너지 모으기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 41 |                      | <a href="http://boj.kr/12101" target="_blank">1, 2, 3 더하기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 42 |                      | <a href="http://boj.kr/10597" target="_blank">순열장난</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |

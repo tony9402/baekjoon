@@ -39,7 +39,7 @@
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1548" target="_blank">부분 삼각 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/2961" target="_blank">도영이가 만든 맛있는 음식</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/15661" target="_blank">링크와 스타트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/1025" target="_blank">제곱수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 22 |  :heavy_check_mark:  | <a href="http://boj.kr/1025" target="_blank">제곱수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/14500" target="_blank">테트로미노</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 24 |  :heavy_check_mark:  | <a href="http://boj.kr/15686" target="_blank">치킨 배달</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 25 |  :heavy_check_mark:  | <a href="http://boj.kr/21278" target="_blank">호석이 두 마리 치킨</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

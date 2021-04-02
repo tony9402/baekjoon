@@ -53,13 +53,13 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 | 33 |                      | <a href="http://boj.kr/2644" target="_blank">촌수계산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 34 |                      | <a href="http://boj.kr/3184" target="_blank">양</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 36 |                      | <a href="http://boj.kr/16928" target="_blank">뱀과 사다리 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 37 |                      | <a href="http://boj.kr/13565" target="_blank">침투</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 38 |                      | <a href="http://boj.kr/12761" target="_blank">돌다리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 39 |                      | <a href="http://boj.kr/3187" target="_blank">양치기 꿍</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 40 |                      | <a href="http://boj.kr/18232" target="_blank">텔레포트 정거장</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 41 |                      | <a href="http://boj.kr/14248" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 42 |                      | <a href="http://boj.kr/17086" target="_blank">아기 상어 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 36 |                      | <a href="http://boj.kr/13565" target="_blank">침투</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 37 |                      | <a href="http://boj.kr/12761" target="_blank">돌다리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 38 |                      | <a href="http://boj.kr/3187" target="_blank">양치기 꿍</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/18232" target="_blank">텔레포트 정거장</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 40 |                      | <a href="http://boj.kr/14248" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 41 |                      | <a href="http://boj.kr/17086" target="_blank">아기 상어 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 42 |                      | <a href="http://boj.kr/16928" target="_blank">뱀과 사다리 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 43 |                      | <a href="http://boj.kr/1697" target="_blank">숨바꼭질</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 44 |                      | <a href="http://boj.kr/2583" target="_blank">영역 구하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 45 |                      | <a href="http://boj.kr/5567" target="_blank">결혼식</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |

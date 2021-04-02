@@ -54,9 +54,9 @@
 | 34 |                      | <a href="http://boj.kr/16927" target="_blank">배열 돌리기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/2877" target="_blank">4와 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/20327" target="_blank">배열 돌리기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 37 |                      | <a href="http://boj.kr/17406" target="_blank">배열 돌리기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 38 |                      | <a href="http://boj.kr/1022" target="_blank">소용돌이 예쁘게 출력하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 39 |                      | <a href="http://boj.kr/9081" target="_blank">단어 맞추기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 37 |                      | <a href="http://boj.kr/9081" target="_blank">단어 맞추기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 38 |                      | <a href="http://boj.kr/17406" target="_blank">배열 돌리기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/1022" target="_blank">소용돌이 예쁘게 출력하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 40 |                      | <a href="http://boj.kr/21277" target="_blank">짠돌이 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 41 |                      | <a href="http://boj.kr/17470" target="_blank">배열 돌리기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
 | 42 |                      | <a href="http://boj.kr/15806" target="_blank">영우의 기숙사 청소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
