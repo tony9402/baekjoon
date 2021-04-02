@@ -7,8 +7,8 @@
 
 
 
-총 문제 수 : 906  
-총 추천 문제 수 : 352 (38.85%)  
+총 문제 수 : 912  
+총 추천 문제 수 : 356 (39.04%)  
 알고리즘 Tag 개수 : 22  
 
 
@@ -24,7 +24,7 @@
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | ![status](https://img.shields.io/badge/-12.50%25-31AE0F) |  
+| 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | ![status](https://img.shields.io/badge/-12.00%25-31AE0F) |  
 | 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/02 22:28:20 KST**
+**실행한 날짜(log) : 2021/04/03 03:10:08 KST**
