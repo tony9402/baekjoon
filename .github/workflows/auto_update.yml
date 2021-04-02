@@ -2,7 +2,7 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '20 4,11,21 * * *'
+    - cron: '05 4,12,21 * * *'
 
 jobs:
   build:
@@ -23,6 +23,7 @@ jobs:
          python assemble.py --all
     - name: Commits
       run: |
+        git config --local user.email "tony9402@naver.com"
         git config --local user.name "Auto BOT"
         git add .
         git commit -m "Auto UPDATE"
