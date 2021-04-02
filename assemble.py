@@ -126,7 +126,7 @@ def AutoUpdate():
     cmd = cmd.split("#")[1]
     os.system(f"{cmd}")
 
-def checkUpdate(folder):
+def checkUpdate(folder, force_update=False):
     ret = sp.check_output(['git status'], shell=True).decode('utf8')
     print(ret)
     change = False
@@ -135,7 +135,7 @@ def checkUpdate(folder):
             change = True
             break
 
-    if change:
+    if change or force_update:
         AutoUpdate()
         os.system(f"git add .")
         os.system(f"git commit -n \"Auto Update\"")
@@ -195,4 +195,4 @@ if __name__ == "__main__":
             f.close()
 
     db.saveDB()
-    checkUpdate(FOLDER)
+    checkUpdate(FOLDER, args.updateAll)

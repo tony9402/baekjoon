@@ -1,6 +1,9 @@
 name: Auto Update README
 
 on:
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: '20 4,21 * * *'
 
