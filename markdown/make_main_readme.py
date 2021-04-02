@@ -37,7 +37,7 @@ def make_table(file="./markdown/list.md"):
 
     ret += ' \n \n\n '
 
-    with open('./markdown/2workbook.md', 'w') as f:
+    with open('./markdown/workbook.md', 'w') as f:
         f.write(ret)
         f.close()
 
