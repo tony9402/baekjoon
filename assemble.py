@@ -193,4 +193,5 @@ if __name__ == "__main__":
             f.close()
 
     db.saveDB()
-    checkUpdate(FOLDER, args.updateAll)
+    # checkUpdate(FOLDER, args.updateAll)
+    AutoUpdate()
