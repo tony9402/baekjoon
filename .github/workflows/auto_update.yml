@@ -2,7 +2,7 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '20 4,21 * * *'
+    - cron: '20 4,11,21 * * *'
 
 jobs:
   build:
