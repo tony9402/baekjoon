@@ -128,6 +128,7 @@ def AutoUpdate():
 
 def checkUpdate(folder):
     ret = sp.check_output(['git status'], shell=True).decode('utf8')
+    print(ret)
     change = False
     for i in folder:
         if i in ret:
@@ -183,9 +184,8 @@ if __name__ == "__main__":
         for i in FOLDER:
             run_script(i)
 
-        # checkUpdate(FOLDER)
+        checkUpdate(FOLDER)
         # AutoUpdate()
-        checkUpdate('./')
 
     if len(changeLevel_list) > 0:
         changeLevel_list.append('#' * 30)
