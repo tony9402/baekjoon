@@ -1,9 +1,6 @@
 name: Auto Update README
 
 on:
-  pull_request:
-    branches:
-      - main
   schedule:
     - cron: '20 4,21 * * *'
 
@@ -26,7 +23,6 @@ jobs:
          python assemble.py --all
     - name: Commits
       run: |
-        git config --local user.email "tony9402@naver.com"
         git config --local user.name "Auto BOT"
         git add .
         git commit -m "Auto UPDATE"

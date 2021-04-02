@@ -60,11 +60,11 @@ class Database:
     # update all
     def updateLevel(self):
         for problemID in self.DB.keys():
-            info = __getProblemInfo(problemID)
+            info = self.__getProblemInfo(problemID)
             if self.DB[problemID]["level"] == info["level"]:
                 continue
             
-            pre_level = self.DB[problem]["level"]
+            pre_level = self.DB[problemID]["level"]
             nxt_level = info["level"]
             self.DB[problemID]["level"] = info["level"]
 
