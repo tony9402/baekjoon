@@ -137,8 +137,6 @@ def checkUpdate(folder, force_update=False):
 
     if change or force_update:
         AutoUpdate()
-        os.system(f"git add .")
-        os.system(f"git commit -n \"Auto Update\"")
 
 if __name__ == "__main__":
     
