@@ -3,7 +3,7 @@ name: Auto Update README
 on:
   pull_request:
     branches:
-      - ${{ github.ref }}
+      - test_action
   schedule:
     - cron: '20 4,21 * * *'
 
