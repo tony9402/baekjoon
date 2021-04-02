@@ -3,7 +3,7 @@ name: Auto Update README
 on:
   pull_request:
     branches:
-      - main
+      - ${{ github.ref }}
   schedule:
     - cron: '20 4,21 * * *'
 
@@ -33,5 +33,5 @@ jobs:
     - name: Push
       uses: ad-m/github-push-action@master
       with: 
-        branch: 'test_action'
+        branch: ${{ github.ref }}
         github_token: $
