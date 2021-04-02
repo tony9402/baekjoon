@@ -184,7 +184,8 @@ if __name__ == "__main__":
             run_script(i)
 
         # checkUpdate(FOLDER)
-        AutoUpdate()
+        # AutoUpdate()
+        checkUpdate('./')
 
     if len(changeLevel_list) > 0:
         changeLevel_list.append('#' * 30)
