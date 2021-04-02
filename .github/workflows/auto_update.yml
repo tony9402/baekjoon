@@ -33,5 +33,5 @@ jobs:
     - name: Push
       uses: ad-m/github-push-action@master
       with: 
-        branch: 'main'
+        branch: 'test_action'
         github_token: $
