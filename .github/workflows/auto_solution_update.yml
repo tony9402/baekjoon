@@ -18,13 +18,14 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pytz
+    - name: Config Github
+      run: |
+        git config --local user.name "auto bot"
     - name: Run assemble.py
       run: |
          python assemble.py --push
     - name: Commits
       run: |
-        git config --local user.email "tony9402@naver.com"
-        git config --local user.name "auto"
         git add .
         git commit -m "Solution UPDATE"
     - name: Push
