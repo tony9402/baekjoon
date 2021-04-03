@@ -58,11 +58,11 @@
 | 37 |                      | <a href="http://boj.kr/17212" target="_blank">달나라 토끼를 위한 구매대금 지불 도우미</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 38 |                      | <a href="http://boj.kr/2876" target="_blank">그래픽스 퀴즈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 39 |                      | <a href="http://boj.kr/20152" target="_blank">Game Addiction</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 40 |                      | <a href="http://boj.kr/11722" target="_blank">가장 긴 감소하는 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 41 |                      | <a href="http://boj.kr/1965" target="_blank">상자넣기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 42 |                      | <a href="http://boj.kr/11060" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 43 |                      | <a href="http://boj.kr/15988" target="_blank">1, 2, 3 더하기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 44 |                      | <a href="http://boj.kr/2491" target="_blank">수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 40 |                      | <a href="http://boj.kr/2491" target="_blank">수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 41 |                      | <a href="http://boj.kr/11722" target="_blank">가장 긴 감소하는 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 42 |                      | <a href="http://boj.kr/1965" target="_blank">상자넣기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 43 |                      | <a href="http://boj.kr/11060" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 44 |                      | <a href="http://boj.kr/15988" target="_blank">1, 2, 3 더하기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 45 |                      | <a href="http://boj.kr/1660" target="_blank">캡틴 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 46 |                      | <a href="http://boj.kr/14852" target="_blank">타일 채우기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 47 |                      | <a href="http://boj.kr/14430" target="_blank">자원 캐기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
