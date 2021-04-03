@@ -142,6 +142,8 @@
 ## 업데이트 로그
 
 뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 떄문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
+ - 2021.04.03
+   - [discussions](https://github.com/tony9402/baekjoon/discussions) 추가
 
  - 2021.04.02
    - [README.md](https://github.com/tony9402/baekjoon/blob/main/README.md) 자동 생성 스크립트 제작
