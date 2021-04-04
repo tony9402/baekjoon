@@ -13,12 +13,12 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7275)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2630" target="_blank">색종이 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2630" target="_blank">색종이 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/divide_and_conquer/2630">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17829" target="_blank">222-풀링</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/divide_and_conquer/17829">바로가기</a> |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1074" target="_blank">Z</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/4256" target="_blank">트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/divide_and_conquer/2447">바로가기</a> |
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/divide_and_conquer/1992">바로가기</a> |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1074" target="_blank">Z</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/divide_and_conquer/1074">바로가기</a> |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/4256" target="_blank">트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/divide_and_conquer/4256">바로가기</a> |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/divide_and_conquer/2448">바로가기</a> |
 | 07 |                      | <a href="http://boj.kr/4779" target="_blank">칸토어 집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 08 |                      | <a href="http://boj.kr/1780" target="_blank">종이의 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
