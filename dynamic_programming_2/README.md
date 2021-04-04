@@ -63,13 +63,13 @@
 | 42 |                      | <a href="http://boj.kr/17265" target="_blank">나의 인생에는 수학과 함께</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 43 |                      | <a href="http://boj.kr/1757" target="_blank">달려달려</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 44 |                      | <a href="http://boj.kr/4095" target="_blank">최대 정사각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 45 |                      | <a href="http://boj.kr/10653" target="_blank">마라톤 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 46 |                      | <a href="http://boj.kr/16400" target="_blank">소수 화폐</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 47 |                      | <a href="http://boj.kr/17216" target="_blank">가장 큰 감소 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 48 |                      | <a href="http://boj.kr/11985" target="_blank">오렌지 출하</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 49 |                      | <a href="http://boj.kr/20002" target="_blank">사과나무</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 50 |                      | <a href="http://boj.kr/17255" target="_blank">N으로 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 51 |                      | <a href="http://boj.kr/17208" target="_blank">카우버거 알바생</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 45 |                      | <a href="http://boj.kr/16400" target="_blank">소수 화폐</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 46 |                      | <a href="http://boj.kr/17216" target="_blank">가장 큰 감소 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 47 |                      | <a href="http://boj.kr/11985" target="_blank">오렌지 출하</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 48 |                      | <a href="http://boj.kr/20002" target="_blank">사과나무</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 49 |                      | <a href="http://boj.kr/17255" target="_blank">N으로 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 50 |                      | <a href="http://boj.kr/17208" target="_blank">카우버거 알바생</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 51 |                      | <a href="http://boj.kr/10653" target="_blank">마라톤 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 52 |                      | <a href="http://boj.kr/2602" target="_blank">돌다리 건너기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 53 |                      | <a href="http://boj.kr/2616" target="_blank">소형기관차</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 54 |                      | <a href="http://boj.kr/17404" target="_blank">RGB거리 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
