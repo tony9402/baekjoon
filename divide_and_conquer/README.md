@@ -19,7 +19,7 @@
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1074" target="_blank">Z</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/4256" target="_blank">트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2448" target="_blank">별 찍기 - 11</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/divide_and_conquer/2448">바로가기</a> |
 | 07 |                      | <a href="http://boj.kr/4779" target="_blank">칸토어 집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 08 |                      | <a href="http://boj.kr/1780" target="_blank">종이의 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 09 |                      | <a href="http://boj.kr/18222" target="_blank">투에-모스 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
