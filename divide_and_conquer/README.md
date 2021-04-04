@@ -14,7 +14,7 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2630" target="_blank">색종이 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17829" target="_blank">222-풀링</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17829" target="_blank">222-풀링</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/divide_and_conquer/17829">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1074" target="_blank">Z</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
