@@ -13,12 +13,12 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7175)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |   <a href="https://haerang94.tistory.com/337" >풀이</a>                   |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/1647" target="_blank">도시 분할 계획</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/1774" target="_blank">우주신과의 교감</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/16398" target="_blank">행성 연결</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/minimum_spanning_tree/16398">바로가기</a> |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/14621" target="_blank">나만 안되는 연애</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/minimum_spanning_tree/14621">바로가기</a> |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/16398" target="_blank">행성 연결</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/14621" target="_blank">나만 안되는 연애</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/1368" target="_blank">물대기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 07 |                      | <a href="http://boj.kr/4386" target="_blank">별자리 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 08 |                      | <a href="http://boj.kr/6497" target="_blank">전력난</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
