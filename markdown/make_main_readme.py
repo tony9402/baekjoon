@@ -1,7 +1,7 @@
 import os
 import subprocess as sp
 
-seq = [ "header.md", "codingtest_info.md", "workbook_header.md", "workbook.md", "workbook_footer.md", "contributors.md", "updatelog.md", "footer.md" ]
+seq = [ "header.md", "codingtest_info.md", "workbook_header.md", "workbook.md", "workbook_footer.md", "contributors.md", "updatelog.md", "TODO.md", "footer.md" ]
 
 EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__', 'markdown' ]
 
