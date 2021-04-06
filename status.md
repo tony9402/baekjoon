@@ -13,7 +13,7 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.12% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.13% <br><br>
 
 | Index | Tag(Folder Name) | Solution 진행도 |
 | :--:  | :--------------- | :------------:  |
@@ -21,7 +21,7 @@
 | 01 |  [binary_search](./../../tree/main/binary_search) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | ![status](https://img.shields.io/badge/-6.67%25-31AE0F) |  
-| 04 |  [data_structure2](./../../tree/main/data_structure2) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 04 |  [data_structure2](./../../tree/main/data_structure2) | ![status](https://img.shields.io/badge/-75.00%25-31AE0F) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | ![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | ![status](https://img.shields.io/badge/-12.00%25-31AE0F) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | ![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/06 05:47:20 KST**
+**실행한 날짜(log) : 2021/04/06 13:19:18 KST**
