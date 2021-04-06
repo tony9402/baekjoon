@@ -2,10 +2,10 @@
 1,문자열 집합,14425,S3,./../solution/data_structure2/14425
 1,최대 힙,11279,S2,./../solution/data_structure2/11279
 1,절댓값 힙,11286,S1,./../solution/data_structure2/11286
-1,이중 우선순위 큐,7662,G5,
+1,이중 우선순위 큐,7662,G5,./../solution/data_structure2/7662
 1,N번째 큰 수,2075,G5,./../solution/data_structure2/2075
 1,생태학,4358,G4,./../solution/data_structure2/4358
-1,중앙값 구하기,2696,G2,
+1,중앙값 구하기,2696,G2,./../solution/data_structure2/2696
 ,패션왕 신해빈,9375,S3,
 ,최소 힙,1927,S1,
 ,싸이버개강총회,19583,S1,
