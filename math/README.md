@@ -28,7 +28,7 @@
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/math/4134">바로가기</a> |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/9613" target="_blank">GCD 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/math/9613">바로가기</a> |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21275" target="_blank">폰 호석만</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/math/21275">바로가기</a> |
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/1747" target="_blank">소수&팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/1747" target="_blank">소수&팰린드롬</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/math/1747">바로가기</a> |
 | 14 |                      | <a href="http://boj.kr/21312" target="_blank">홀짝 칵테일</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |                      |
 | 15 |                      | <a href="http://boj.kr/1456" target="_blank">거의 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 16 |                      | <a href="http://boj.kr/2168" target="_blank">타일 위의 대각선</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
