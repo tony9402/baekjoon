@@ -48,7 +48,8 @@ def Status(tags, *args): # Problems, Folders
             color = "0885CC"
         elif percent != 0.0:
             color = "31AE0F"
-
+        
+        print(f"{totalProblem - hasEditoral} |", end='')
         print(f"![status](https://img.shields.io/badge/-{percent:.2f}%25-{color}) |  ")
 
 def getTier(Str):
@@ -115,8 +116,8 @@ print(f"각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> {calPercent
 
 # Make Table (Markdown)
 
-print("| Index | Tag(Folder Name) | Solution 진행도 |")
-print("| :--:  | :--------------- | :------------:  |")
+print("| Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |")
+print("| :--:  | :--------------- |   :----------:   | :------------:  |")
 Status(Folders, *Problems)
 
 import datetime
