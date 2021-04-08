@@ -17,7 +17,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7271)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  
+<a href="https://haerang94.tistory.com/369">소스코드</a>|
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2231" target="_blank">분해합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/19532" target="_blank">수학은 비대면강의입니다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18312" target="_blank">시각</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
