@@ -19,7 +19,7 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  <a href="https://haerang94.tistory.com/369">소스코드</a>|
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2231" target="_blank">분해합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  <a href="https://haerang94.tistory.com/370">소스코드</a>                    |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/19532" target="_blank">수학은 비대면강의입니다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/19532" target="_blank">수학은 비대면강의입니다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |   <a href="https://haerang94.tistory.com/371"></a>                   |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18312" target="_blank">시각</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15721" target="_blank">번데기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1969" target="_blank">DNA</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
