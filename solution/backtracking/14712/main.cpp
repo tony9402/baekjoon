@@ -9,20 +9,21 @@ bool check(int y, int x) {
     return Map[y-1][x] && Map[y][x-1] && Map[y-1][x-1];
 }
 
-void go(int y, int x) {
-    if(y == N && x == M + 1) {
+void go(int usedCnt) {
+    if(usedCnt == N * M) {
         answer ++;
-        return;
+        return ;
     }
-    for(int i=y;i<=N;i++) {
-        for(int j=(i==y?x:1);j<=M;j++) {
-            if(check(i, j)) continue;
-            Map[i][j] = 1;
-            go(i, j + 1);
-            Map[i][j] = 0;
-        }
+
+    int y = usedCnt / M + 1;
+    int x = usedCnt % M + 1;
+
+    go(usedCnt + 1);
+    if(!check(y, x)) {
+        Map[y][x] = 1;
+        go(usedCnt + 1);
+        Map[y][x] = 0;
     }
-    answer ++;
 }
 
 int main(){
@@ -30,7 +31,7 @@ int main(){
     cin.tie(0);
     
     cin >> N >> M;
-    go(1, 1);
+    go(0);
     cout << answer;
 
     return 0;
