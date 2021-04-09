@@ -17,7 +17,7 @@
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
-| 00 |  [backtracking](./../../tree/main/backtracking) | 27 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 00 |  [backtracking](./../../tree/main/backtracking) | 26 |![status](https://img.shields.io/badge/-3.70%25-31AE0F) |  
 | 01 |  [binary_search](./../../tree/main/binary_search) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 30 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 14 |![status](https://img.shields.io/badge/-6.67%25-31AE0F) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/09 05:45:07 KST**
+**실행한 날짜(log) : 2021/04/09 20:52:19 KST**
