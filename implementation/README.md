@@ -17,7 +17,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6783)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1212" target="_blank">8진수 2진수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="https://haerang94.tistory.com/365">풀이</a> |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1212" target="_blank">8진수 2진수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="https://haerang94.tistory.com/365">내 풀이</a> |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2753" target="_blank">윤년</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20053" target="_blank">최소, 최대 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="3">바로가기</a> |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/5597" target="_blank">과제 안 내신 분..?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="">바로가기</a> |
@@ -31,7 +31,7 @@
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/10994" target="_blank">별 찍기 - 19</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/implementation/10994">바로가기</a> |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/20291" target="_blank">파일 정리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/implementation/20291">바로가기</a> |
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/implementation/20436">바로가기</a> |
-| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/17413" target="_blank">단어 뒤집기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/17413">바로가기</a> |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/17413" target="_blank">단어 뒤집기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://haerang94.tistory.com/373">내 풀이</a> |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/2615" target="_blank">오목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/16926" target="_blank">배열 돌리기 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/16926">바로가기</a> |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
