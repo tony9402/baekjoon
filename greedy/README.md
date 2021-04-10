@@ -25,10 +25,10 @@
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/1541" target="_blank">잃어버린 괄호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/20365" target="_blank">블로그2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/11047" target="_blank">동전 0</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/21314" target="_blank">민겸 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/16953" target="_blank">A → B</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/13164" target="_blank">행복 유치원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/16953" target="_blank">A → B</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 15 |  :heavy_check_mark:  | <a href="http://boj.kr/21314" target="_blank">민겸 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/2141" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

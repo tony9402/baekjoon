@@ -86,6 +86,6 @@
 | 68 |                      | <a href="http://boj.kr/2026" target="_blank">소풍</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 69 |                      | <a href="http://boj.kr/15659" target="_blank">연산자 끼워넣기 (3)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 70 |                      | <a href="http://boj.kr/12908" target="_blank">텔레포트 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 71 |                      | <a href="http://boj.kr/1729" target="_blank">이차원 배열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
-| 72 |                      | <a href="http://boj.kr/16571" target="_blank">알파 틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 73 |                      | <a href="http://boj.kr/3165" target="_blank">5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 71 |                      | <a href="http://boj.kr/16571" target="_blank">알파 틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 72 |                      | <a href="http://boj.kr/3165" target="_blank">5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 73 |                      | <a href="http://boj.kr/1729" target="_blank">이차원 배열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
