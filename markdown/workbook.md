@@ -5,7 +5,7 @@
 | 02 | Math | 수학 | [바로가기](./math) | 14 | 25 | ![status][Doing] |
 | 03 | Greedy | 탐욕법 | [바로가기](./greedy) | 25 | 60 | ![status][Doing] |
 | 04 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 25 | 77 | ![status][Doing] |
-| 05 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_1) | 25 | 77 | ![status][Doing] |
+| 05 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 25 | 75 | ![status][Doing] |
 | 06 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 11 | 33 | ![status][Doing] |
 | 07 | Implementation | 구현 | [바로가기](./implementation) | 23 | 43 | ![status][Doing] |
 | 08 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 28 | 90 | ![status][Doing] |
