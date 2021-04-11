@@ -31,7 +31,7 @@ def Status(tags, *args): # Problems, Folders
 
             rec  = info[0].strip()
             link = info[-1].strip()
-            if not link == '':
+            if not link == '' and not rec == '':
                 hasEditoral += 1
             if not rec == '':
                 totalProblem += 1
