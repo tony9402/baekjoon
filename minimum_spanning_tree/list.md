@@ -1,6 +1,6 @@
-1,최소 스패닝 트리,1197,G4,
-1,네트워크 연결,1922,G4,
-1,도시 분할 계획,1647,G4,
+1,최소 스패닝 트리,1197,G4,./../solution/minimum_spanning_tree/1197
+1,네트워크 연결,1922,G4,./../solution/minimum_spanning_tree/1922
+1,도시 분할 계획,1647,G4,./../solution/minimum_spanning_tree/1647
 ,별자리 만들기,4386,G4,
 ,전력난,6497,G4,
 1,우주신과의 교감,1774,G4,
