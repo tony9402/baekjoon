@@ -63,11 +63,11 @@
 | 45 |                      | <a href="http://boj.kr/18290" target="_blank">NM과 K (1)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 46 |                      | <a href="http://boj.kr/1497" target="_blank">기타콘서트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 47 |                      | <a href="http://boj.kr/15566" target="_blank">개구리 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 48 |                      | <a href="http://boj.kr/1759" target="_blank">암호 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 49 |                      | <a href="http://boj.kr/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 50 |                      | <a href="http://boj.kr/2023" target="_blank">신기한 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 51 |                      | <a href="http://boj.kr/1405" target="_blank">미친 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 52 |                      | <a href="http://boj.kr/1342" target="_blank">행운의 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 48 |                      | <a href="http://boj.kr/1342" target="_blank">행운의 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 49 |                      | <a href="http://boj.kr/1759" target="_blank">암호 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 50 |                      | <a href="http://boj.kr/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 51 |                      | <a href="http://boj.kr/2023" target="_blank">신기한 소수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 52 |                      | <a href="http://boj.kr/1405" target="_blank">미친 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 53 |                      | <a href="http://boj.kr/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 54 |                      | <a href="http://boj.kr/13908" target="_blank">비밀번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 55 |                      | <a href="http://boj.kr/7682" target="_blank">틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
