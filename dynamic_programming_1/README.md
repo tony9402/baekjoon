@@ -41,8 +41,8 @@
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/2293" target="_blank">동전 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2294" target="_blank">동전 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 23 |  :heavy_check_mark:  | <a href="http://boj.kr/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
-| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 23 |  :heavy_check_mark:  | <a href="http://boj.kr/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/dynamic_programming_1/11660">바로가기</a> |
+| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/dynamic_programming_1/21317">바로가기</a> |
 | 25 |                      | <a href="http://boj.kr/15489" target="_blank">파스칼 삼각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 26 |                      | <a href="http://boj.kr/14501" target="_blank">퇴사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/2670" target="_blank">연속부분최대곱</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
