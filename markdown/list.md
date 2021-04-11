@@ -3,7 +3,7 @@ data_structure2,Data Structure 2,자료구조 2,Doing
 math,Math,수학,Doing
 greedy,Greedy,탐욕법,Doing
 dynamic_programming_1,Dynamic Programming 1,동적계획법 1,Doing
-dynamic_programming_1,Dynamic Programming 2,동적계획법 2,Doing
+dynamic_programming_2,Dynamic Programming 2,동적계획법 2,Doing
 two_pointer,Two Pointer,투 포인터,Doing
 implementation,Implementation,구현,Doing
 graph_traversal,Graph Traversal,그래프 탐색,Doing
