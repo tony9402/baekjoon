@@ -1,8 +1,8 @@
 1,집합의 표현,1717,G4,./../solution/disjoint_set/1717
 1,여행 가자,1976,G4,./../solution/disjoint_set/1976
 1,친구비,16562,G3,./../solution/disjoint_set/16562
-1,친구 네트워크,4195,G2,
-1,공항,10775,G2,
+1,친구 네트워크,4195,G2,./../solution/disjoint_set/4195
+1,공항,10775,G2,./../solution/disjoint_set/10775
 ,사이클 게임,20040,G4,
 ,군사 이동,11085,G2,
 ,통신망 분할,17398,G1,

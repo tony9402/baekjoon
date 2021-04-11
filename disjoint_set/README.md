@@ -22,8 +22,8 @@
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/1976" target="_blank">여행 가자</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/1976">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/16562" target="_blank">친구비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/disjoint_set/16562">바로가기</a> |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18116" target="_blank">로봇 조립</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/disjoint_set/18116">바로가기</a> |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/10775" target="_blank">공항</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/4195" target="_blank">친구 네트워크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/4195">바로가기</a> |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/10775" target="_blank">공항</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/disjoint_set/10775">바로가기</a> |
 | 06 |                      | <a href="http://boj.kr/17352" target="_blank">여러분의 다리가 되어 드리겠습니다!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 07 |                      | <a href="http://boj.kr/20040" target="_blank">사이클 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 08 |                      | <a href="http://boj.kr/12893" target="_blank">적의 적</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
