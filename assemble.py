@@ -89,16 +89,16 @@ def updateLIST(levelUpdate=False):
                     url       = f"https://www.acmicpc.net/problem/{problemID}"
                     changeLevel_list.append(f"[{problemID}]({url}) {pre} -> {split_line[-2]}\n")
 
-            if split_line[0] == '':
-                line = ",".join(split_line)
-                NEWINFO.append(line)
-                continue
-
             if tag in solution_list and problemID in solution_list[tag]:
                 split_line[-1] = f"{solutionRPATH}/{tag}/{problemID}\n"
                 update = True
             else:
                 split_line[-1] = "\n"
+
+            if not update and split_line[0] == '':
+                line = ",".join(split_line)
+                NEWINFO.append(line)
+                continue
             
             line = ",".join(split_line)
             NEWINFO.append(line)
