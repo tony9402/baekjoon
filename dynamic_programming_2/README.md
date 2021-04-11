@@ -43,7 +43,7 @@
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2629" target="_blank">양팔저울</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/10942" target="_blank">팰린드롬?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 24 |  :heavy_check_mark:  | <a href="http://boj.kr/20181" target="_blank">꿈틀꿈틀 호석 애벌레 - 효율성</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 25 |  :heavy_check_mark:  | <a href="http://boj.kr/3687" target="_blank">성냥개비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 25 |  :heavy_check_mark:  | <a href="http://boj.kr/3687" target="_blank">성냥개비</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/dynamic_programming_2/3687">바로가기</a> |
 | 26 |                      | <a href="http://boj.kr/1535" target="_blank">안녕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/3067" target="_blank">Coins</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 28 |                      | <a href="http://boj.kr/14728" target="_blank">벼락치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
