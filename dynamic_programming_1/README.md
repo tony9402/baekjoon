@@ -51,7 +51,7 @@
 | 30 |                      | <a href="http://boj.kr/2193" target="_blank">이친수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 31 |                      | <a href="http://boj.kr/9461" target="_blank">파도반 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 32 |                      | <a href="http://boj.kr/1699" target="_blank">제곱수의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 33 |                      | <a href="http://boj.kr/15990" target="_blank">1, 2, 3 더하기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 33 |                      | <a href="http://boj.kr/15990" target="_blank">1, 2, 3 더하기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/dynamic_programming_1/15990">바로가기</a> |
 | 34 |                      | <a href="http://boj.kr/10211" target="_blank">Maximum Subarray</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/17175" target="_blank">피보나치는 지겨웡~</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/15624" target="_blank">피보나치 수 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
