@@ -2,7 +2,7 @@
 ,칸토어 집합,4779,S3,
 ,종이의 개수,1780,S2,
 1,222-풀링,17829,S2,./../solution/divide_and_conquer/17829
-,투에-모스 문자열,18222,S2,
+1,투에-모스 문자열,18222,S2,
 ,종이 접기,1802,S2,
 1,별 찍기 - 10,2447,S1,./../solution/divide_and_conquer/2447
 1,쿼드트리,1992,S1,./../solution/divide_and_conquer/1992
