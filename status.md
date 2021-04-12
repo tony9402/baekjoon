@@ -8,7 +8,7 @@
 
 
 총 문제 수 : 913  
-총 추천 문제 수 : 357 (39.10%)  
+총 추천 문제 수 : 358 (39.21%)  
 알고리즘 Tag 개수 : 22  
 
 
@@ -23,7 +23,7 @@
 | 03 |  [data_structure](./../../tree/main/data_structure) | 14 |![status](https://img.shields.io/badge/-6.67%25-31AE0F) |  
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
-| 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
+| 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | 1 |![status](https://img.shields.io/badge/-87.50%25-31AE0F) |  
 | 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | 20 |![status](https://img.shields.io/badge/-20.00%25-31AE0F) |  
 | 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | 25 |![status](https://img.shields.io/badge/-3.85%25-31AE0F) |  
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
@@ -41,4 +41,4 @@
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/12 05:44:20 KST**
+**실행한 날짜(log) : 2021/04/12 16:40:40 KST**

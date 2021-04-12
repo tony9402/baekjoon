@@ -51,7 +51,7 @@
 | 10 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 25 | 42 | ![status][Doing] |
 | 11 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 65 | ![status][Doing] |
 | 12 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 27 | 74 | ![status][Doing] |
-| 13 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 07 | 18 | ![status][Doing] |
+| 13 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |
 | 14 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 10 | 31 | ![status][Doing] |
 | 15 | String | 문자열 | [바로가기](./string) | 19 | 64 | ![status][Doing] |
 | 16 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 51 | ![status][Doing] |
