@@ -7,13 +7,13 @@
 
 
 
-총 문제 수 : 913  
-총 추천 문제 수 : 358 (39.21%)  
+총 문제 수 : 915  
+총 추천 문제 수 : 359 (39.23%)  
 알고리즘 Tag 개수 : 22  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.20% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.19% <br><br>
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -34,11 +34,11 @@
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 2 |![status](https://img.shields.io/badge/-71.43%25-31AE0F) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | 10 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | 18 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 17 |  [simulation](./../../tree/main/simulation) | 24 |![status](https://img.shields.io/badge/-4.00%25-31AE0F) |  
+| 17 |  [simulation](./../../tree/main/simulation) | 25 |![status](https://img.shields.io/badge/-3.85%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/13 23:03:15 KST**
+**실행한 날짜(log) : 2021/04/13 23:08:09 KST**
