@@ -16,8 +16,8 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20056" target="_blank">마법사 상어와 파이어볼</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |   <a href="https://haerang94.tistory.com/380"> 내 풀이 </a>                  |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20056" target="_blank">마법사 상어와 파이어볼</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  <a href="https://haerang94.tistory.com/383"> 내 풀이 </a>            |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/16236" target="_blank">아기 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15685" target="_blank">드래곤 커브</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/16235" target="_blank">나무 재테크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
@@ -35,7 +35,7 @@
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/5212" target="_blank">지구 온난화</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1713" target="_blank">후보 추천하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
+| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20055" target="_blank">컨베이어 벨트 위의 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |     <a href="https://haerang94.tistory.com/384"> 내 풀이 </a>                |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/15683" target="_blank">감시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/20165" target="_blank">인내의 도미노 장인 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
