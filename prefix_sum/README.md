@@ -39,7 +39,7 @@
 | 21 |                      | <a href="http://boj.kr/20159" target="_blank">동작 그만. 밑장 빼기냐?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |                      | <a href="http://boj.kr/18866" target="_blank">젊은 날의 생이여</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |                      | <a href="http://boj.kr/5549" target="_blank">행성 탐사</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 24 |                      | <a href="http://boj.kr/2571" target="_blank">색종이 - 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 24 |                      | <a href="http://boj.kr/2571" target="_blank">색종이 - 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 25 |                      | <a href="http://boj.kr/3673" target="_blank">나눌 수 있는 부분 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 26 |                      | <a href="http://boj.kr/5875" target="_blank">오타</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/14476" target="_blank">최대공약수 하나 빼기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |

@@ -30,10 +30,10 @@
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/19598" target="_blank">최소 회의실 개수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/21314" target="_blank">민겸 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/11000" target="_blank">강의실 배정</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/2141" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/2212" target="_blank">센서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/1092" target="_blank">배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/2812" target="_blank">크게 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/2212" target="_blank">센서</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1092" target="_blank">배</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 20 |  :heavy_check_mark:  | <a href="http://boj.kr/2141" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/13975" target="_blank">파일 합치기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/1715" target="_blank">카드 정렬하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/2285" target="_blank">우체국</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
