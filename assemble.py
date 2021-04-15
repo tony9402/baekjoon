@@ -87,7 +87,7 @@ def updateLIST(levelUpdate=False):
                 if pre != split_line[-2]:
                     update = True
                     url       = f"https://www.acmicpc.net/problem/{problemID}"
-                    changeLevel_list.append(f"[{problemID}]({url}) {pre} -> {split_line[-2]}\n")
+                    changeLevel_list.append(f"{tag:20} : [{problemID}]({url}) {pre} -> {split_line[-2]}\n")
 
             if tag in solution_list and problemID in solution_list[tag]:
                 split_line[-1] = f"{solutionRPATH}/{tag}/{problemID}\n"
@@ -187,7 +187,8 @@ if __name__ == "__main__":
         # AutoUpdate()
 
     if len(changeLevel_list) > 0:
-        changeLevel_list.append('#' * 30)
+        HR = "#" * 30
+        changeLevel_list.append(f"{HR}\n")
         with open("change_level.log", "a+") as f:
             f.writelines(changeLevel_list)
             f.close()
