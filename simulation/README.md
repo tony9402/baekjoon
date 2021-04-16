@@ -16,7 +16,7 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/simulation/17144">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20056" target="_blank">마법사 상어와 파이어볼</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/16236" target="_blank">아기 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/simulation/16236">바로가기</a> |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15685" target="_blank">드래곤 커브</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
@@ -31,7 +31,7 @@
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/19236" target="_blank">청소년 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/19237" target="_blank">어른 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/17143" target="_blank">낚시왕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/20061" target="_blank">모노미노도미노 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/20061" target="_blank">모노미노도미노 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../solution/simulation/20061">바로가기</a> |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/5212" target="_blank">지구 온난화</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1713" target="_blank">후보 추천하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |

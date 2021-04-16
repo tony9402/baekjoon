@@ -13,7 +13,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/binary_search/1789">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/binary_search/2417">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |

@@ -13,12 +13,12 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.20% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.21% <br><br>
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
 | 00 |  [backtracking](./../../tree/main/backtracking) | 26 |![status](https://img.shields.io/badge/-3.70%25-31AE0F) |  
-| 01 |  [binary_search](./../../tree/main/binary_search) | 18 |![status](https://img.shields.io/badge/-5.26%25-31AE0F) |  
+| 01 |  [binary_search](./../../tree/main/binary_search) | 17 |![status](https://img.shields.io/badge/-10.53%25-31AE0F) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 30 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 14 |![status](https://img.shields.io/badge/-6.67%25-31AE0F) |  
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
@@ -34,11 +34,11 @@
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 2 |![status](https://img.shields.io/badge/-71.43%25-31AE0F) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | 10 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | 18 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 17 |  [simulation](./../../tree/main/simulation) | 24 |![status](https://img.shields.io/badge/-7.69%25-31AE0F) |  
+| 17 |  [simulation](./../../tree/main/simulation) | 22 |![status](https://img.shields.io/badge/-15.38%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/16 05:44:43 KST**
+**실행한 날짜(log) : 2021/04/16 23:45:51 KST**
