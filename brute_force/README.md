@@ -86,11 +86,11 @@
 | 66 |                      | <a href="http://boj.kr/1487" target="_blank">물건 팔기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 67 |                      | <a href="http://boj.kr/11502" target="_blank">세 개의 소수 문제</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 68 |                      | <a href="http://boj.kr/9996" target="_blank">한국이 그리울 땐 서버에 접속하지</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 69 |                      | <a href="http://boj.kr/10472" target="_blank">십자뒤집기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 70 |                      | <a href="http://boj.kr/1895" target="_blank">필터</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 71 |                      | <a href="http://boj.kr/19949" target="_blank">영재의 시험</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 72 |                      | <a href="http://boj.kr/15728" target="_blank">에리 - 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
-| 73 |                      | <a href="http://boj.kr/1503" target="_blank">세 수 고르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 69 |                      | <a href="http://boj.kr/1895" target="_blank">필터</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 70 |                      | <a href="http://boj.kr/19949" target="_blank">영재의 시험</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 71 |                      | <a href="http://boj.kr/15728" target="_blank">에리 - 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 72 |                      | <a href="http://boj.kr/1503" target="_blank">세 수 고르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
+| 73 |                      | <a href="http://boj.kr/10472" target="_blank">십자뒤집기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 74 |                      | <a href="http://boj.kr/1421" target="_blank">나무꾼 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 75 |                      | <a href="http://boj.kr/1411" target="_blank">비슷한 단어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 76 |                      | <a href="http://boj.kr/1254" target="_blank">팰린드롬 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
