@@ -46,7 +46,7 @@
 | 30 |                      | <a href="http://boj.kr/16208" target="_blank">귀찮음</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 31 |                      | <a href="http://boj.kr/11256" target="_blank">사탕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 32 |                      | <a href="http://boj.kr/16435" target="_blank">스네이크버드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
-| 33 |                      | <a href="http://boj.kr/13305" target="_blank">주유소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
+| 33 |                      | <a href="http://boj.kr/13305" target="_blank">주유소</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="./../solution/greedy/13305">바로가기</a> |
 | 34 |                      | <a href="http://boj.kr/2847" target="_blank">게임을 만든 동준이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 35 |                      | <a href="http://boj.kr/13413" target="_blank">오셀로 재배치</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/1817" target="_blank">짐 챙기는 숌</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
