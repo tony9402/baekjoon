@@ -32,8 +32,10 @@ int main(){
     int y = N / 2, x = N / 2;
     int answer = 0, cur = 2, dir = 0;
 
+    bool flag = false;
     while(true) {
         int cnt = cur / 2;
+        if(flag) cnt --;
         for(int i=0;i<cnt;i++) {
             y += dy[dir];
             x += dx[dir];
@@ -54,7 +56,8 @@ int main(){
             else answer += Map[y][x];
             Map[y][x] = 0;
         }
-        if(++cur / 2 == N + 1)break;
+        if(flag) break;
+        if(++cur / 2 == N) flag = true;
         dir = (dir + 1) % 4;
         Turn();
     }
