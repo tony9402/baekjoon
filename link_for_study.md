@@ -15,7 +15,7 @@
 
 #### 공부자료
 
- - [Algorithm_Study](https://github.com/VSFe/Algorithm_Study)
+ - [Algorithm_Study](https://github.com/VSFe/Algorithm_Study) [무료]
 
 <br><br>
 <hr>
@@ -33,7 +33,8 @@
 
 #### 공부자료
 
- - [FastCampus](https://github.com/rhs0266/FastCampus)
+ - [FastCampus (Github)](https://github.com/rhs0266/FastCampus) [무료]
+ - [FastCampus](https://fastcampus.co.kr/dev_online_codingtest) [유료]
 
 <br><br>
 <hr>
@@ -51,9 +52,9 @@
 
 #### 공부자료
 
- - [실전 알고리즘 (Blog)](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
- - [실전 알고리즘 (Youtube)](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
- - [실전 알고리즘 (Github)](https://github.com/encrypted-def/basic-algo-lecture)
+ - [실전 알고리즘 (Blog)](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) [무료]
+ - [실전 알고리즘 (Youtube)](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) [무료]
+ - [실전 알고리즘 (Github)](https://github.com/encrypted-def/basic-algo-lecture) [무료]
 
 <br><br>
 <hr>
@@ -71,5 +72,5 @@
 
 #### 공부자료
 
- - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Github)](https://github.com/ndb796/python-for-coding-test)
- - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Youtube)](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+ - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Github)](https://github.com/ndb796/python-for-coding-test) [무료]
+ - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Youtube)](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) [무료]
