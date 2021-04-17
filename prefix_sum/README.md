@@ -22,7 +22,7 @@
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/21318" target="_blank">피아노 체조</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/2015" target="_blank">수들의 합 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/10986" target="_blank">나머지 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/1749" target="_blank">점수따먹기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 07 |  :heavy_check_mark:  | <a href="http://boj.kr/1749" target="_blank">점수따먹기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/prefix_sum/1749">바로가기</a> |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/20440" target="_blank">🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 09 |  :heavy_check_mark:  | <a href="http://boj.kr/20543" target="_blank">폭탄 던지는 태영이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 10 |                      | <a href="http://boj.kr/20116" target="_blank">상자의 균형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
