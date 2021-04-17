@@ -17,11 +17,11 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7271)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2231" target="_blank">분해합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/19532" target="_blank">수학은 비대면강의입니다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18312" target="_blank">시각</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15721" target="_blank">번데기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/2798">바로가기</a> |
+| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2231" target="_blank">분해합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/2231">바로가기</a> |
+| 02 |  :heavy_check_mark:  | <a href="http://boj.kr/19532" target="_blank">수학은 비대면강의입니다</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/19532">바로가기</a> |
+| 03 |  :heavy_check_mark:  | <a href="http://boj.kr/18312" target="_blank">시각</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/18312">바로가기</a> |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/15721" target="_blank">번데기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./../solution/brute_force/15721">바로가기</a> |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1969" target="_blank">DNA</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/2503" target="_blank">숫자 야구</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/2422" target="_blank">한윤정이 이탈리아에 가서 아이스크림을 사먹는데</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
