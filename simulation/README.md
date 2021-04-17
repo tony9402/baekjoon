@@ -15,7 +15,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6832)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/simulation/16234">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/simulation/17144">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20056" target="_blank">마법사 상어와 파이어볼</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/16236" target="_blank">아기 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/simulation/16236">바로가기</a> |

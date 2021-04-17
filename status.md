@@ -34,11 +34,11 @@
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 2 |![status](https://img.shields.io/badge/-71.43%25-31AE0F) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | 10 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | 18 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 17 |  [simulation](./../../tree/main/simulation) | 21 |![status](https://img.shields.io/badge/-19.23%25-31AE0F) |  
+| 17 |  [simulation](./../../tree/main/simulation) | 20 |![status](https://img.shields.io/badge/-23.08%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/17 15:35:31 KST**
+**실행한 날짜(log) : 2021/04/17 20:22:50 KST**
