@@ -64,14 +64,14 @@
 | 43 |                      | <a href="http://boj.kr/11060" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 44 |                      | <a href="http://boj.kr/15988" target="_blank">1, 2, 3 더하기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 45 |                      | <a href="http://boj.kr/1660" target="_blank">캡틴 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 46 |                      | <a href="http://boj.kr/14852" target="_blank">타일 채우기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 47 |                      | <a href="http://boj.kr/14430" target="_blank">자원 캐기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 48 |                      | <a href="http://boj.kr/1633" target="_blank">최고의 팀 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 49 |                      | <a href="http://boj.kr/18353" target="_blank">병사 배치하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 50 |                      | <a href="http://boj.kr/17291" target="_blank">새끼치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 51 |                      | <a href="http://boj.kr/4097" target="_blank">수익</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 52 |                      | <a href="http://boj.kr/20162" target="_blank">간식 파티</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
-| 53 |                      | <a href="http://boj.kr/19622" target="_blank">회의실 배정 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 46 |                      | <a href="http://boj.kr/14430" target="_blank">자원 캐기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 47 |                      | <a href="http://boj.kr/1633" target="_blank">최고의 팀 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 48 |                      | <a href="http://boj.kr/18353" target="_blank">병사 배치하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 49 |                      | <a href="http://boj.kr/17291" target="_blank">새끼치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 50 |                      | <a href="http://boj.kr/4097" target="_blank">수익</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 51 |                      | <a href="http://boj.kr/20162" target="_blank">간식 파티</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 52 |                      | <a href="http://boj.kr/19622" target="_blank">회의실 배정 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 53 |                      | <a href="http://boj.kr/14852" target="_blank">타일 채우기 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 54 |                      | <a href="http://boj.kr/1149" target="_blank">RGB거리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 55 |                      | <a href="http://boj.kr/1932" target="_blank">정수 삼각형</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 56 |                      | <a href="http://boj.kr/11052" target="_blank">카드 구매하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
