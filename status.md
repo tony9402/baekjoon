@@ -8,12 +8,12 @@
 
 
 총 문제 수 : 946  
-총 추천 문제 수 : 361 (38.16%)  
+총 추천 문제 수 : 375 (39.64%)  
 알고리즘 Tag 개수 : 23  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.24% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.23% <br><br>
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -37,9 +37,9 @@
 | 17 |  [simulation](./../../tree/main/simulation) | 20 |![status](https://img.shields.io/badge/-23.08%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 20 |  [tree](./../../tree/main/tree) | 1 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 20 |  [tree](./../../tree/main/tree) | 15 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 21 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/20 02:36:27 KST**
+**실행한 날짜(log) : 2021/04/20 02:41:10 KST**
