@@ -31,7 +31,7 @@ def urlSolution(url):
 
 class DataForm:
     def __init__(self):
-        self.data = { "id": "", "rec": "", "name": "", "level": "", "url": "" }
+        self.data = { "id": "", "rec": "", "name": "", "level": "", "url": "", "problemID": ""}
 
     def addItem(self, key, value):
         if not key in self.data.keys():
@@ -59,12 +59,13 @@ class DataForm:
         NAME  = self.data["name"]
         LEVEL = self.data["level"]
         URL   = self.data["url"]
-        PRINT_STR = f"| {ID:02} | {REC:^20} | {NAME:^20} | {LEVEL:^15} | {URL:^20} |"
+        PROBLEMID = self.data["problemID"]
+        PRINT_STR = f"| {ID:02} | {REC:^20} | {PROBLEMID:^7} | {NAME:^20} | {LEVEL:^15} | {URL:^20} |"
         return PRINT_STR
 
 class Table:
-    title = [ "순번", "추천 문제", "문제 이름", "난이도", "풀이 링크" ]
-    keys  = [ "id", "rec", "name", "level", "url" ]
+    title = [ "순번", "추천 문제", "문제 번호", "문제 이름", "난이도", "풀이 링크" ]
+    keys  = [ "id", "rec", "problemID", "name", "level", "url" ]
     def __init__(self):
         self.Lines = list()
 
@@ -72,9 +73,10 @@ class Table:
         # NULL | Not NULL | Not NULL | Not NULL | Not NULL
         ret = dict()
         ret[self.keys[1]] = data[0]
-        ret[self.keys[2]] = urlproblem(data[2], data[1])
-        ret[self.keys[3]] = urllevel(data[3])
-        ret[self.keys[4]] = urlSolution(data[4])
+        ret[self.keys[2]] = data[2]
+        ret[self.keys[3]] = urlproblem(data[2], data[1])
+        ret[self.keys[4]] = urllevel(data[3])
+        ret[self.keys[5]] = urlSolution(data[4])
 
         return ret
 
@@ -94,9 +96,9 @@ class Table:
             self.Lines[i].addItem("id", i)
     
     def print(self):
-        A,B,C,D,E = self.title
-        print(f"| {A:^20} | {B:^20} | {C:^20} | {D:^20} | {E:^20} |")
-        print(f"| :-----: | :-----: | :-----: | :-----: | :-----: |")
+        A,B,C,D,E,F = self.title
+        print(f"| {A:^20} | {B:^20} | {C:^20} | {D:^20} | {E:^20} | {F:^20} |")
+        print(f"| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |")
         N = len(self.Lines)
         for i in range(N):
             print(self.Lines[i])
