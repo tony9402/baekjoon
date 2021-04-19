@@ -7,9 +7,9 @@
 
 
 
-총 문제 수 : 915  
-총 추천 문제 수 : 360 (39.34%)  
-알고리즘 Tag 개수 : 22  
+총 문제 수 : 916  
+총 추천 문제 수 : 361 (39.41%)  
+알고리즘 Tag 개수 : 23  
 
 
 <hr>
@@ -37,8 +37,9 @@
 | 17 |  [simulation](./../../tree/main/simulation) | 20 |![status](https://img.shields.io/badge/-23.08%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 20 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 21 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 20 |  [tree](./../../tree/main/tree) | 1 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 21 |  [trie](./../../tree/main/trie) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
+| 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/19 05:45:51 KST**
+**실행한 날짜(log) : 2021/04/20 02:17:15 KST**
