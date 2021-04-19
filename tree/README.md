@@ -1,4 +1,4 @@
-# tree (트리) [TODO]
+# tree (트리)
 
 [메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
@@ -12,7 +12,7 @@
 
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
-<!--[백준 문제집](https://www.acmicpc.net/workbook/view/7274)-->
+[백준 문제집](https://www.acmicpc.net/workbook/view/7645)
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/9934" target="_blank">완전 이진 트리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
