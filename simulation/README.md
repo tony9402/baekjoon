@@ -54,8 +54,8 @@
 | 36 |                      | <a href="http://boj.kr/15653" target="_blank">구슬 탈출 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 37 |                      | <a href="http://boj.kr/17780" target="_blank">새로운 게임</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 38 |                      | <a href="http://boj.kr/15644" target="_blank">구슬 탈출 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
-| 39 |                      | <a href="http://boj.kr/5373" target="_blank">큐빙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
-| 40 |                      | <a href="http://boj.kr/18809" target="_blank">Gaaaaaaaaaarden</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
-| 41 |                      | <a href="http://boj.kr/16939" target="_blank">2×2×2 큐브</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+| 39 |                      | <a href="http://boj.kr/18809" target="_blank">Gaaaaaaaaaarden</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+| 40 |                      | <a href="http://boj.kr/16939" target="_blank">2×2×2 큐브</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
+| 41 |                      | <a href="http://boj.kr/5373" target="_blank">큐빙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |                      |
 | 42 |                      | <a href="http://boj.kr/19235" target="_blank">모노미노도미노</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |                      |
 | 43 |                      | <a href="http://boj.kr/3025" target="_blank">돌 던지기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |                      |
