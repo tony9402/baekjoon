@@ -6,6 +6,7 @@
      - 트리와 관련된 문제 뽑았습니다.
    - [Contributors](https://github.com/tony9402/baekjoon#contributors) 디자인을 변경하였습니다.
    - [문제집](https://www.acmicpc.net/workbook/by/tony9402) 전체를 업데이트 하였습니다.
+   - 각 문제집에 문제 번호를 볼 수 있도록 추가하였고 문제 번호로도 백준으로 이동할 수 있도록 업데이트 했습니다.
 
  - 2021.04.03
    - [discussions](https://github.com/tony9402/baekjoon/discussions) 추가
