@@ -1,6 +1,6 @@
 data_structure,Data Structure,자료구조,Doing
 data_structure2,Data Structure 2,자료구조 2,Doing
-tree,Tree,트리,Todo
+tree,Tree,트리,Doing
 math,Math,수학,Doing
 greedy,Greedy,탐욕법,Doing
 dynamic_programming_1,Dynamic Programming 1,동적계획법 1,Doing
