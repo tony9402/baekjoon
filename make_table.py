@@ -73,7 +73,7 @@ class Table:
         # NULL | Not NULL | Not NULL | Not NULL | Not NULL
         ret = dict()
         ret[self.keys[1]] = data[0]
-        ret[self.keys[2]] = data[2]
+        ret[self.keys[2]] = urlproblem(data[2], data[2])
         ret[self.keys[3]] = urlproblem(data[2], data[1])
         ret[self.keys[4]] = urllevel(data[3])
         ret[self.keys[5]] = urlSolution(data[4])
