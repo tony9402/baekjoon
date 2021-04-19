@@ -4,6 +4,8 @@
  - 2021.04.20
    - [tree](./tree) 태그 추가
      - 트리와 관련된 문제 뽑았습니다.
+   - [Contributors](https://github.com/tony9402/baekjoon#contributors) 디자인을 변경하였습니다.
+   - [문제집](https://www.acmicpc.net/workbook/by/tony9402) 전체를 업데이트 하였습니다.
 
  - 2021.04.03
    - [discussions](https://github.com/tony9402/baekjoon/discussions) 추가
