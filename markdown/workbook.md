@@ -2,7 +2,7 @@
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
 | 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 22 | ![status][Doing] |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 08 | 18 | ![status][Doing] |
-| 02 | Tree | 트리 | [바로가기](./tree) | 01 | 01 | ![status][Todo] |
+| 02 | Tree | 트리 | [바로가기](./tree) | 01 | 44 | ![status][Todo] |
 | 03 | Math | 수학 | [바로가기](./math) | 14 | 25 | ![status][Doing] |
 | 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 26 | 60 | ![status][Doing] |
 | 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 25 | 77 | ![status][Doing] |
