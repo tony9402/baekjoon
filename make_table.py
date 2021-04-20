@@ -22,7 +22,7 @@ def urllevel(name):
     return ret
 
 def urlproblem(number, name):
-    return f"<a href=\"http://boj.kr/{number}\" target=\"_blank\">{name}</a>"
+    return f"<a href=\"https://www.acmicpc.net/problem/{number}\" target=\"_blank\">{name}</a>"
 
 def urlSolution(url):
     if url == "":
