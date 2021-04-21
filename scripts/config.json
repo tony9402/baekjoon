@@ -1,4 +1,13 @@
 {
+    "API": {
+        "database": "./database.json",
+        "testdatabase": "./database.json",
+        "targeturl": "https://api.solved.ac/v2",
+        "route": {
+            "problemid": "problems/show.json?id="
+        },
+        "encoding": "UTF-8"
+    },
     "tags": [ 
         "backtracking",
         "binary_search",
@@ -25,7 +34,7 @@
         "two_pointer"
     ],
     "ignore": {
-        "all": {
+        "all": [
             "solution",
             "scripts",
             "markdown",
@@ -43,14 +52,14 @@
             "make_table.py",
             "minidatabase.py",
             "status.md"
-        },
-        "folder": {
+        ],
+        "folder": [
             "solution",
             "scripts",
             "markdown",
             ".git"
-        },
-        "file": {
+        ],
+        "file": [
             ".gitigore",
             "LICENSE",
             "CodingTest.md",
@@ -64,6 +73,6 @@
             "make_table.py",
             "minidatabase.py",
             "status.md"
-        }
+        ]
     }
 }
