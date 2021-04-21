@@ -48,7 +48,7 @@
 | 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 11 | 33 | ![status][Doing] |
 | 08 | Implementation | 구현 | [바로가기](./implementation) | 23 | 43 | ![status][Doing] |
 | 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 28 | 90 | ![status][Doing] |
-| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 30 | 89 | ![status][Doing] |
+| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 30 | 90 | ![status][Doing] |
 | 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 26 | 44 | ![status][Doing] |
 | 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 65 | ![status][Doing] |
 | 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 27 | 74 | ![status][Doing] |
