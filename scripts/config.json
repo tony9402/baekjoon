@@ -1,7 +1,6 @@
 {
     "API": {
-        "database": "./database.json",
-        "testdatabase": "./database.json",
+        "database": "./scripts/database.json",
         "targeturl": "https://api.solved.ac/v2",
         "route": {
             "problemid": "problems/show.json?id="
