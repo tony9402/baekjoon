@@ -301,25 +301,6 @@
         ],
         "lastupdate": 1619122167.022511
     },
-    "20950": {
-        "problemId": "20950",
-        "problemLevel": 9,
-        "problemName": "미술가 미미",
-        "average_try": 2.129,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122167.082571
-    },
     "6603": {
         "problemId": "6603",
         "problemLevel": 9,
@@ -769,30 +750,6 @@
         ],
         "lastupdate": 1619122168.30584
     },
-    "15684": {
-        "problemId": "15684",
-        "problemLevel": 12,
-        "problemName": "사다리 조작",
-        "average_try": 4.722300000000001,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122168.357951
-    },
     "1038": {
         "problemId": "1038",
         "problemLevel": 11,
@@ -904,30 +861,6 @@
         ],
         "lastupdate": 1619122168.58047
     },
-    "7490": {
-        "problemId": "7490",
-        "problemLevel": 11,
-        "problemName": "0 만들기",
-        "average_try": 2.3648,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122168.6333709
-    },
     "13908": {
         "problemId": "13908",
         "problemLevel": 11,
@@ -946,25 +879,6 @@
             }
         ],
         "lastupdate": 1619122168.685375
-    },
-    "7682": {
-        "problemId": "7682",
-        "problemLevel": 11,
-        "problemName": "틱택토",
-        "average_try": 3.246,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122168.7404742
     },
     "20208": {
         "problemId": "20208",
@@ -1252,49 +1166,6 @@
         ],
         "lastupdate": 1619122169.514175
     },
-    "9944": {
-        "problemId": "9944",
-        "problemLevel": 13,
-        "problemName": "NxM 보드 완주하기",
-        "average_try": 3.3625,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122169.5713239
-    },
-    "6443": {
-        "problemId": "6443",
-        "problemLevel": 13,
-        "problemName": "애너그램",
-        "average_try": 2.3574,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 6,
-                "tag_name": "combinatorics",
-                "full_name_ko": "조합론"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122169.62421
-    },
     "2026": {
         "problemId": "2026",
         "problemLevel": 13,
@@ -1308,30 +1179,6 @@
             }
         ],
         "lastupdate": 1619122169.687288
-    },
-    "15659": {
-        "problemId": "15659",
-        "problemLevel": 13,
-        "problemName": "연산자 끼워넣기 (3)",
-        "average_try": 1.6343999999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 71,
-                "tag_name": "stack",
-                "full_name_ko": "스택"
-            }
-        ],
-        "lastupdate": 1619122169.7437901
     },
     "12908": {
         "problemId": "12908",
@@ -1422,25 +1269,6 @@
             }
         ],
         "lastupdate": 1619122170.088108
-    },
-    "3165": {
-        "problemId": "3165",
-        "problemLevel": 14,
-        "problemName": "5",
-        "average_try": 2.9333,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122170.1449862
     },
     "1789": {
         "problemId": "1789",
@@ -1839,25 +1667,6 @@
         ],
         "lastupdate": 1619122171.488342
     },
-    "17124": {
-        "problemId": "17124",
-        "problemLevel": 8,
-        "problemName": "두 개의 배열",
-        "average_try": 2.9756,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122171.540019
-    },
     "11663": {
         "problemId": "11663",
         "problemLevel": 8,
@@ -2162,25 +1971,6 @@
         ],
         "lastupdate": 1619122172.4092958
     },
-    "3020": {
-        "problemId": "3020",
-        "problemLevel": 11,
-        "problemName": "개똥벌레",
-        "average_try": 2.4609,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122172.515766
-    },
     "1477": {
         "problemId": "1477",
         "problemLevel": 11,
@@ -2267,25 +2057,6 @@
         ],
         "lastupdate": 1619122172.8494651
     },
-    "8983": {
-        "problemId": "8983",
-        "problemLevel": 12,
-        "problemName": "사냥꾼",
-        "average_try": 3.2572,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122172.9059021
-    },
     "13397": {
         "problemId": "13397",
         "problemLevel": 12,
@@ -2299,25 +2070,6 @@
             }
         ],
         "lastupdate": 1619122173.022169
-    },
-    "9007": {
-        "problemId": "9007",
-        "problemLevel": 12,
-        "problemName": "카누 선수",
-        "average_try": 4.2069,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122173.074689
     },
     "2412": {
         "problemId": "2412",
@@ -2361,44 +2113,6 @@
             }
         ],
         "lastupdate": 1619122173.1853812
-    },
-    "12757": {
-        "problemId": "12757",
-        "problemLevel": 12,
-        "problemName": "전설의 JBNU",
-        "average_try": 3.0588,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 136,
-                "tag_name": "hash_set",
-                "full_name_ko": "해시를 사용한 집합과 맵"
-            }
-        ],
-        "lastupdate": 1619122173.246352
-    },
-    "1300": {
-        "problemId": "1300",
-        "problemLevel": 13,
-        "problemName": "K번째 수",
-        "average_try": 2.6422,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            }
-        ],
-        "lastupdate": 1619122173.302
     },
     "2143": {
         "problemId": "2143",
@@ -2504,20 +2218,6 @@
         ],
         "lastupdate": 1619122173.694487
     },
-    "6209": {
-        "problemId": "6209",
-        "problemLevel": 14,
-        "problemName": "제자리 멀리뛰기",
-        "average_try": 2.5439,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            }
-        ],
-        "lastupdate": 1619122173.75498
-    },
     "9094": {
         "problemId": "9094",
         "problemLevel": 3,
@@ -2536,25 +2236,6 @@
             }
         ],
         "lastupdate": 1619122173.811956
-    },
-    "4690": {
-        "problemId": "4690",
-        "problemLevel": 3,
-        "problemName": "완전 세제곱",
-        "average_try": 2.4076,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122173.866515
     },
     "3040": {
         "problemId": "3040",
@@ -2739,25 +2420,6 @@
         ],
         "lastupdate": 1619122174.522696
     },
-    "18512": {
-        "problemId": "18512",
-        "problemLevel": 5,
-        "problemName": "점프 점프",
-        "average_try": 2.1215,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122174.584186
-    },
     "18868": {
         "problemId": "18868",
         "problemLevel": 5,
@@ -2776,25 +2438,6 @@
             }
         ],
         "lastupdate": 1619122174.6464179
-    },
-    "15721": {
-        "problemId": "15721",
-        "problemLevel": 5,
-        "problemName": "번데기",
-        "average_try": 2.2541,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122174.701016
     },
     "1969": {
         "problemId": "1969",
@@ -2965,20 +2608,6 @@
             }
         ],
         "lastupdate": 1619122175.305683
-    },
-    "11170": {
-        "problemId": "11170",
-        "problemLevel": 6,
-        "problemName": "0의 개수",
-        "average_try": 1.2584,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122175.360248
     },
     "1251": {
         "problemId": "1251",
@@ -3668,20 +3297,6 @@
         ],
         "lastupdate": 1619122177.556594
     },
-    "1527": {
-        "problemId": "1527",
-        "problemLevel": 10,
-        "problemName": "금민수의 개수",
-        "average_try": 2.708,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122177.606644
-    },
     "17610": {
         "problemId": "17610",
         "problemLevel": 10,
@@ -3952,69 +3567,6 @@
         ],
         "lastupdate": 1619122178.5731149
     },
-    "21278": {
-        "problemId": "21278",
-        "problemLevel": 11,
-        "problemName": "호석이 두 마리 치킨",
-        "average_try": 1.9301,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 31,
-                "tag_name": "floyd_warshall",
-                "full_name_ko": "플로이드–와샬"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122178.626914
-    },
-    "21315": {
-        "problemId": "21315",
-        "problemLevel": 11,
-        "problemName": "카드 섞기",
-        "average_try": 1.5714000000000001,
-        "solvedtags": [
-            {
-                "algorithm_id": 109,
-                "tag_name": "ad_hoc",
-                "full_name_ko": "애드 혹"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122178.683213
-    },
     "2304": {
         "problemId": "2304",
         "problemLevel": 9,
@@ -4167,35 +3719,6 @@
             }
         ],
         "lastupdate": 1619122179.082644
-    },
-    "2800": {
-        "problemId": "2800",
-        "problemLevel": 11,
-        "problemName": "괄호 제거",
-        "average_try": 2.9553000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 62,
-                "tag_name": "recursion",
-                "full_name_ko": "재귀"
-            },
-            {
-                "algorithm_id": 71,
-                "tag_name": "stack",
-                "full_name_ko": "스택"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122179.136918
     },
     "2493": {
         "problemId": "2493",
@@ -4402,25 +3925,6 @@
         ],
         "lastupdate": 1619122179.685664
     },
-    "3986": {
-        "problemId": "3986",
-        "problemLevel": 7,
-        "problemName": "좋은 단어",
-        "average_try": 2.053,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 71,
-                "tag_name": "stack",
-                "full_name_ko": "스택"
-            }
-        ],
-        "lastupdate": 1619122179.74139
-    },
     "1021": {
         "problemId": "1021",
         "problemLevel": 7,
@@ -4488,59 +3992,6 @@
         ],
         "lastupdate": 1619122179.915766
     },
-    "5430": {
-        "problemId": "5430",
-        "problemLevel": 11,
-        "problemName": "AC",
-        "average_try": 4.9546,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 73,
-                "tag_name": "deque",
-                "full_name_ko": "덱"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 96,
-                "tag_name": "parsing",
-                "full_name_ko": "파싱"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122179.9723132
-    },
-    "11279": {
-        "problemId": "11279",
-        "problemLevel": 9,
-        "problemName": "최대 힙",
-        "average_try": 2.2546999999999997,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 59,
-                "tag_name": "priority_queue",
-                "full_name_ko": "우선순위 큐"
-            }
-        ],
-        "lastupdate": 1619122180.13801
-    },
     "11286": {
         "problemId": "11286",
         "problemLevel": 10,
@@ -4559,30 +4010,6 @@
             }
         ],
         "lastupdate": 1619122180.192672
-    },
-    "7662": {
-        "problemId": "7662",
-        "problemLevel": 11,
-        "problemName": "이중 우선순위 큐",
-        "average_try": 4.1949000000000005,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 59,
-                "tag_name": "priority_queue",
-                "full_name_ko": "우선순위 큐"
-            },
-            {
-                "algorithm_id": 74,
-                "tag_name": "tree_set",
-                "full_name_ko": "트리를 사용한 집합과 맵"
-            }
-        ],
-        "lastupdate": 1619122180.2505128
     },
     "2075": {
         "problemId": "2075",
@@ -4752,30 +4179,6 @@
         ],
         "lastupdate": 1619122180.79988
     },
-    "1269": {
-        "problemId": "1269",
-        "problemLevel": 8,
-        "problemName": "대칭 차집합",
-        "average_try": 1.8925999999999998,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 136,
-                "tag_name": "hash_set",
-                "full_name_ko": "해시를 사용한 집합과 맵"
-            },
-            {
-                "algorithm_id": 74,
-                "tag_name": "tree_set",
-                "full_name_ko": "트리를 사용한 집합과 맵"
-            }
-        ],
-        "lastupdate": 1619122180.862607
-    },
     "10546": {
         "problemId": "10546",
         "problemLevel": 7,
@@ -4920,30 +4323,6 @@
         ],
         "lastupdate": 1619122181.187659
     },
-    "10775": {
-        "problemId": "10775",
-        "problemLevel": 14,
-        "problemName": "공항",
-        "average_try": 2.6289,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            },
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122181.239466
-    },
     "20040": {
         "problemId": "20040",
         "problemLevel": 12,
@@ -4987,25 +4366,6 @@
         ],
         "lastupdate": 1619122181.351417
     },
-    "17398": {
-        "problemId": "17398",
-        "problemLevel": 15,
-        "problemName": "통신망 분할",
-        "average_try": 2.7157,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            }
-        ],
-        "lastupdate": 1619122181.408559
-    },
     "17352": {
         "problemId": "17352",
         "problemLevel": 11,
@@ -5024,35 +4384,6 @@
             }
         ],
         "lastupdate": 1619122181.464739
-    },
-    "12893": {
-        "problemId": "12893",
-        "problemLevel": 12,
-        "problemName": "적의 적",
-        "average_try": 2.9009,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122181.524998
     },
     "1043": {
         "problemId": "1043",
@@ -5117,25 +4448,6 @@
         ],
         "lastupdate": 1619122181.627958
     },
-    "7511": {
-        "problemId": "7511",
-        "problemLevel": 12,
-        "problemName": "소셜 네트워킹 어플리케이션",
-        "average_try": 2.2613000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            }
-        ],
-        "lastupdate": 1619122181.682535
-    },
     "3108": {
         "problemId": "3108",
         "problemLevel": 13,
@@ -5165,25 +4477,6 @@
         ],
         "lastupdate": 1619122181.7877052
     },
-    "15789": {
-        "problemId": "15789",
-        "problemLevel": 13,
-        "problemName": "CTP 왕국은 한솔 왕국을 이길 수 있을까?",
-        "average_try": 2.2542999999999997,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            }
-        ],
-        "lastupdate": 1619122181.837996
-    },
     "18116": {
         "problemId": "18116",
         "problemLevel": 13,
@@ -5202,45 +4495,6 @@
             }
         ],
         "lastupdate": 1619122181.8910651
-    },
-    "17090": {
-        "problemId": "17090",
-        "problemLevel": 14,
-        "problemName": "미로 탈출하기",
-        "average_try": 3.2178,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            },
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122181.946558
     },
     "16724": {
         "problemId": "16724",
@@ -5275,30 +4529,6 @@
             }
         ],
         "lastupdate": 1619122182.001936
-    },
-    "14595": {
-        "problemId": "14595",
-        "problemLevel": 14,
-        "problemName": "동방 프로젝트 (Large)",
-        "average_try": 2.3813,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 81,
-                "tag_name": "disjoint_set",
-                "full_name_ko": "분리 집합"
-            },
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122182.054114
     },
     "2630": {
         "problemId": "2630",
@@ -5538,20 +4768,6 @@
         ],
         "lastupdate": 1619122182.711982
     },
-    "14600": {
-        "problemId": "14600",
-        "problemLevel": 12,
-        "problemName": "샤워실 바닥 깔기 (Small)",
-        "average_try": 1.3195999999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 24,
-                "tag_name": "divide_and_conquer",
-                "full_name_ko": "분할 정복"
-            }
-        ],
-        "lastupdate": 1619122182.825878
-    },
     "1030": {
         "problemId": "1030",
         "problemLevel": 13,
@@ -5579,30 +4795,6 @@
             }
         ],
         "lastupdate": 1619122182.938101
-    },
-    "14601": {
-        "problemId": "14601",
-        "problemLevel": 15,
-        "problemName": "샤워실 바닥 깔기 (Large)",
-        "average_try": 1.6226,
-        "solvedtags": [
-            {
-                "algorithm_id": 24,
-                "tag_name": "divide_and_conquer",
-                "full_name_ko": "분할 정복"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 62,
-                "tag_name": "recursion",
-                "full_name_ko": "재귀"
-            }
-        ],
-        "lastupdate": 1619122182.992955
     },
     "2448": {
         "problemId": "2448",
@@ -5746,30 +4938,6 @@
             }
         ],
         "lastupdate": 1619122183.379031
-    },
-    "15489": {
-        "problemId": "15489",
-        "problemLevel": 6,
-        "problemName": "파스칼 삼각형",
-        "average_try": 1.609,
-        "solvedtags": [
-            {
-                "algorithm_id": 6,
-                "tag_name": "combinatorics",
-                "full_name_ko": "조합론"
-            },
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122183.430901
     },
     "14501": {
         "problemId": "14501",
@@ -6999,25 +6167,6 @@
         ],
         "lastupdate": 1619122187.819872
     },
-    "7579": {
-        "problemId": "7579",
-        "problemLevel": 13,
-        "problemName": "앱",
-        "average_try": 2.6985,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 148,
-                "tag_name": "knapsack",
-                "full_name_ko": "배낭 문제"
-            }
-        ],
-        "lastupdate": 1619122187.8748002
-    },
     "2629": {
         "problemId": "2629",
         "problemLevel": 14,
@@ -7055,39 +6204,6 @@
             }
         ],
         "lastupdate": 1619122187.9835331
-    },
-    "20667": {
-        "problemId": "20667",
-        "problemLevel": 14,
-        "problemName": "크롬",
-        "average_try": 3.4773,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 148,
-                "tag_name": "knapsack",
-                "full_name_ko": "배낭 문제"
-            }
-        ],
-        "lastupdate": 1619122188.038822
-    },
-    "9251": {
-        "problemId": "9251",
-        "problemLevel": 11,
-        "problemName": "LCS",
-        "average_try": 2.467,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122188.0950458
     },
     "2225": {
         "problemId": "2225",
@@ -7140,20 +6256,6 @@
             }
         ],
         "lastupdate": 1619122188.271339
-    },
-    "5557": {
-        "problemId": "5557",
-        "problemLevel": 11,
-        "problemName": "1학년",
-        "average_try": 2.7049000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122188.329162
     },
     "2631": {
         "problemId": "2631",
@@ -7230,20 +6332,6 @@
             }
         ],
         "lastupdate": 1619122188.5481331
-    },
-    "4811": {
-        "problemId": "4811",
-        "problemLevel": 11,
-        "problemName": "알약",
-        "average_try": 1.6114000000000002,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122188.6027641
     },
     "2688": {
         "problemId": "2688",
@@ -7329,39 +6417,6 @@
         ],
         "lastupdate": 1619122188.9276469
     },
-    "5569": {
-        "problemId": "5569",
-        "problemLevel": 11,
-        "problemName": "출근 경로",
-        "average_try": 2.306,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122188.980733
-    },
-    "5624": {
-        "problemId": "5624",
-        "problemLevel": 11,
-        "problemName": "좋은 수",
-        "average_try": 3.2079,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122189.0373518
-    },
     "14925": {
         "problemId": "14925",
         "problemLevel": 11,
@@ -7437,48 +6492,6 @@
             }
         ],
         "lastupdate": 1619122189.309939
-    },
-    "4095": {
-        "problemId": "4095",
-        "problemLevel": 11,
-        "problemName": "최대 정사각형",
-        "average_try": 2.3883,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122189.362386
-    },
-    "2758": {
-        "problemId": "2758",
-        "problemLevel": 12,
-        "problemName": "로또",
-        "average_try": 4.4839,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122189.416755
-    },
-    "10653": {
-        "problemId": "10653",
-        "problemLevel": 12,
-        "problemName": "마라톤 2",
-        "average_try": 2.5231,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122189.468169
     },
     "16400": {
         "problemId": "16400",
@@ -7934,20 +6947,6 @@
         ],
         "lastupdate": 1619122191.2013729
     },
-    "11049": {
-        "problemId": "11049",
-        "problemLevel": 13,
-        "problemName": "행렬 곱셈 순서",
-        "average_try": 2.2815000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            }
-        ],
-        "lastupdate": 1619122191.2499578
-    },
     "1958": {
         "problemId": "1958",
         "problemLevel": 13,
@@ -8013,25 +7012,6 @@
             }
         ],
         "lastupdate": 1619122191.50687
-    },
-    "3687": {
-        "problemId": "3687",
-        "problemLevel": 14,
-        "problemName": "성냥개비",
-        "average_try": 2.5564,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122191.6124501
     },
     "17831": {
         "problemId": "17831",
@@ -8231,30 +7211,6 @@
         ],
         "lastupdate": 1619122192.3316789
     },
-    "7562": {
-        "problemId": "7562",
-        "problemLevel": 9,
-        "problemName": "나이트의 이동",
-        "average_try": 2.126,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122192.388364
-    },
     "2644": {
         "problemId": "2644",
         "problemLevel": 9,
@@ -8312,35 +7268,6 @@
             }
         ],
         "lastupdate": 1619122192.560025
-    },
-    "3184": {
-        "problemId": "3184",
-        "problemLevel": 9,
-        "problemName": "양",
-        "average_try": 1.5877,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122192.6210802
     },
     "16928": {
         "problemId": "16928",
@@ -9007,35 +7934,6 @@
         ],
         "lastupdate": 1619122194.132604
     },
-    "5547": {
-        "problemId": "5547",
-        "problemLevel": 10,
-        "problemName": "일루미네이션",
-        "average_try": 1.6726999999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122194.192271
-    },
     "14502": {
         "problemId": "14502",
         "problemLevel": 11,
@@ -9065,35 +7963,6 @@
         ],
         "lastupdate": 1619122194.253985
     },
-    "10026": {
-        "problemId": "10026",
-        "problemLevel": 11,
-        "problemName": "적록색약",
-        "average_try": 1.7231,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122194.3068569
-    },
     "3055": {
         "problemId": "3055",
         "problemLevel": 11,
@@ -9117,30 +7986,6 @@
             }
         ],
         "lastupdate": 1619122194.3667042
-    },
-    "5014": {
-        "problemId": "5014",
-        "problemLevel": 11,
-        "problemName": "스타트링크",
-        "average_try": 2.9251,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122194.4729338
     },
     "2589": {
         "problemId": "2589",
@@ -9170,30 +8015,6 @@
             }
         ],
         "lastupdate": 1619122194.5294988
-    },
-    "9019": {
-        "problemId": "9019",
-        "problemLevel": 11,
-        "problemName": "DSLR",
-        "average_try": 4.5137,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122194.584715
     },
     "2636": {
         "problemId": "2636",
@@ -9541,30 +8362,6 @@
             }
         ],
         "lastupdate": 1619122195.371011
-    },
-    "18513": {
-        "problemId": "18513",
-        "problemLevel": 11,
-        "problemName": "샘터",
-        "average_try": 5.1241,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122195.4261749
     },
     "2206": {
         "problemId": "2206",
@@ -10024,30 +8821,6 @@
         ],
         "lastupdate": 1619122196.606515
     },
-    "10711": {
-        "problemId": "10711",
-        "problemLevel": 13,
-        "problemName": "모래성",
-        "average_try": 3.589,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122196.663778
-    },
     "16947": {
         "problemId": "16947",
         "problemLevel": 13,
@@ -10256,59 +9029,6 @@
         ],
         "lastupdate": 1619122197.170532
     },
-    "9466": {
-        "problemId": "9466",
-        "problemLevel": 12,
-        "problemName": "텀 프로젝트",
-        "average_try": 4.056900000000001,
-        "solvedtags": [
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122197.227042
-    },
-    "17616": {
-        "problemId": "17616",
-        "problemLevel": 13,
-        "problemName": "등수 찾기",
-        "average_try": 2.3155,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            }
-        ],
-        "lastupdate": 1619122197.338882
-    },
     "11000": {
         "problemId": "11000",
         "problemLevel": 11,
@@ -10337,25 +9057,6 @@
             }
         ],
         "lastupdate": 1619122197.396223
-    },
-    "13164": {
-        "problemId": "13164",
-        "problemLevel": 10,
-        "problemName": "행복 유치원",
-        "average_try": 1.7873999999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122197.446718
     },
     "1931": {
         "problemId": "1931",
@@ -10485,20 +9186,6 @@
         ],
         "lastupdate": 1619122197.830307
     },
-    "11256": {
-        "problemId": "11256",
-        "problemLevel": 6,
-        "problemName": "사탕",
-        "average_try": 1.4418,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122197.8880289
-    },
     "13019": {
         "problemId": "13019",
         "problemLevel": 8,
@@ -10541,20 +9228,6 @@
             }
         ],
         "lastupdate": 1619122198.003108
-    },
-    "13305": {
-        "problemId": "13305",
-        "problemLevel": 7,
-        "problemName": "주유소",
-        "average_try": 2.7747,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            }
-        ],
-        "lastupdate": 1619122198.056063
     },
     "2847": {
         "problemId": "2847",
@@ -10644,44 +9317,6 @@
             }
         ],
         "lastupdate": 1619122198.3809228
-    },
-    "11399": {
-        "problemId": "11399",
-        "problemLevel": 8,
-        "problemName": "ATM",
-        "average_try": 1.5139,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122198.434117
-    },
-    "1449": {
-        "problemId": "1449",
-        "problemLevel": 8,
-        "problemName": "수리공 항승",
-        "average_try": 2.5610999999999997,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122198.483132
     },
     "11508": {
         "problemId": "11508",
@@ -11268,25 +9903,6 @@
         ],
         "lastupdate": 1619122200.339653
     },
-    "8980": {
-        "problemId": "8980",
-        "problemLevel": 13,
-        "problemName": "택배",
-        "average_try": 2.7535,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122200.39536
-    },
     "2457": {
         "problemId": "2457",
         "problemLevel": 12,
@@ -11464,77 +10080,6 @@
         ],
         "lastupdate": 1619122200.83186
     },
-    "1212": {
-        "problemId": "1212",
-        "problemLevel": 2,
-        "problemName": "8진수 2진수",
-        "average_try": 3.0056,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122200.8861701
-    },
-    "2753": {
-        "problemId": "2753",
-        "problemLevel": 2,
-        "problemName": "윤년",
-        "average_try": 1.8284,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122200.947707
-    },
-    "20053": {
-        "problemId": "20053",
-        "problemLevel": 3,
-        "problemName": "최소, 최대 2",
-        "average_try": 1.4664,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122201.005811
-    },
-    "5597": {
-        "problemId": "5597",
-        "problemLevel": 4,
-        "problemName": "과제 안 내신 분..?",
-        "average_try": 1.4909,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122201.059981
-    },
     "20546": {
         "problemId": "20546",
         "problemLevel": 4,
@@ -11690,20 +10235,6 @@
         ],
         "lastupdate": 1619122201.9510279
     },
-    "17276": {
-        "problemId": "17276",
-        "problemLevel": 9,
-        "problemName": "배열 돌리기",
-        "average_try": 1.6726999999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122202.010582
-    },
     "16926": {
         "problemId": "16926",
         "problemLevel": 8,
@@ -11764,20 +10295,6 @@
             }
         ],
         "lastupdate": 1619122202.229908
-    },
-    "17470": {
-        "problemId": "17470",
-        "problemLevel": 15,
-        "problemName": "배열 돌리기 5",
-        "average_try": 5.7308,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122202.287938
     },
     "20327": {
         "problemId": "20327",
@@ -11940,25 +10457,6 @@
         ],
         "lastupdate": 1619122202.815964
     },
-    "14719": {
-        "problemId": "14719",
-        "problemLevel": 11,
-        "problemName": "빗물",
-        "average_try": 1.8294000000000001,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122202.8665931
-    },
     "15886": {
         "problemId": "15886",
         "problemLevel": 10,
@@ -11983,20 +10481,6 @@
         ],
         "lastupdate": 1619122202.9217238
     },
-    "16719": {
-        "problemId": "16719",
-        "problemLevel": 11,
-        "problemName": "ZOAC",
-        "average_try": 1.9615,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122202.97614
-    },
     "1022": {
         "problemId": "1022",
         "problemLevel": 12,
@@ -12010,34 +10494,6 @@
             }
         ],
         "lastupdate": 1619122203.032232
-    },
-    "9081": {
-        "problemId": "9081",
-        "problemLevel": 11,
-        "problemName": "단어 맞추기",
-        "average_try": 1.7143000000000002,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122203.089313
-    },
-    "15806": {
-        "problemId": "15806",
-        "problemLevel": 15,
-        "problemName": "영우의 기숙사 청소",
-        "average_try": 4.0667,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122203.1415849
     },
     "21277": {
         "problemId": "21277",
@@ -12313,20 +10769,6 @@
         ],
         "lastupdate": 1619122203.755191
     },
-    "5618": {
-        "problemId": "5618",
-        "problemLevel": 3,
-        "problemName": "공약수",
-        "average_try": 1.6901000000000002,
-        "solvedtags": [
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122203.80544
-    },
     "2745": {
         "problemId": "2745",
         "problemLevel": 4,
@@ -12563,30 +11005,6 @@
         ],
         "lastupdate": 1619122204.343606
     },
-    "2436": {
-        "problemId": "2436",
-        "problemLevel": 11,
-        "problemName": "공약수",
-        "average_try": 3.7476,
-        "solvedtags": [
-            {
-                "algorithm_id": 26,
-                "tag_name": "euclidean",
-                "full_name_ko": "유클리드 호제법"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            },
-            {
-                "algorithm_id": 95,
-                "tag_name": "number_theory",
-                "full_name_ko": "정수론"
-            }
-        ],
-        "lastupdate": 1619122204.4000661
-    },
     "1188": {
         "problemId": "1188",
         "problemLevel": 11,
@@ -12643,30 +11061,6 @@
             }
         ],
         "lastupdate": 1619122204.5706382
-    },
-    "21312": {
-        "problemId": "21312",
-        "problemLevel": 3,
-        "problemName": "홀짝 칵테일",
-        "average_try": 1.5694,
-        "solvedtags": [
-            {
-                "algorithm_id": 121,
-                "tag_name": "arithmetic",
-                "full_name_ko": "사칙연산"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            }
-        ],
-        "lastupdate": 1619122204.627041
     },
     "1197": {
         "problemId": "1197",
@@ -12859,25 +11253,6 @@
         ],
         "lastupdate": 1619122205.1016362
     },
-    "18769": {
-        "problemId": "18769",
-        "problemLevel": 12,
-        "problemName": "그리드 네트워크",
-        "average_try": 1.25,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 49,
-                "tag_name": "mst",
-                "full_name_ko": "최소 스패닝 트리"
-            }
-        ],
-        "lastupdate": 1619122205.1531599
-    },
     "17472": {
         "problemId": "17472",
         "problemLevel": 14,
@@ -12921,25 +11296,6 @@
             }
         ],
         "lastupdate": 1619122205.209449
-    },
-    "13418": {
-        "problemId": "13418",
-        "problemLevel": 13,
-        "problemName": "학교 탐방하기",
-        "average_try": 2.8826,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 49,
-                "tag_name": "mst",
-                "full_name_ko": "최소 스패닝 트리"
-            }
-        ],
-        "lastupdate": 1619122205.26282
     },
     "14621": {
         "problemId": "14621",
@@ -13027,30 +11383,6 @@
         ],
         "lastupdate": 1619122205.481201
     },
-    "2887": {
-        "problemId": "2887",
-        "problemLevel": 15,
-        "problemName": "행성 터널",
-        "average_try": 2.7763,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 49,
-                "tag_name": "mst",
-                "full_name_ko": "최소 스패닝 트리"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            }
-        ],
-        "lastupdate": 1619122205.5353851
-    },
     "1944": {
         "problemId": "1944",
         "problemLevel": 14,
@@ -13079,25 +11411,6 @@
             }
         ],
         "lastupdate": 1619122205.586582
-    },
-    "10423": {
-        "problemId": "10423",
-        "problemLevel": 14,
-        "problemName": "전기가 부족해",
-        "average_try": 1.4659,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 49,
-                "tag_name": "mst",
-                "full_name_ko": "최소 스패닝 트리"
-            }
-        ],
-        "lastupdate": 1619122205.638577
     },
     "1368": {
         "problemId": "1368",
@@ -13446,20 +11759,6 @@
         ],
         "lastupdate": 1619122206.621818
     },
-    "20002": {
-        "problemId": "20002",
-        "problemLevel": 11,
-        "problemName": "사과나무",
-        "average_try": 1.8291,
-        "solvedtags": [
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122206.670167
-    },
     "20159": {
         "problemId": "20159",
         "problemLevel": 11,
@@ -13583,39 +11882,6 @@
         ],
         "lastupdate": 1619122207.045177
     },
-    "3673": {
-        "problemId": "3673",
-        "problemLevel": 13,
-        "problemName": "나눌 수 있는 부분 수열",
-        "average_try": 2.15,
-        "solvedtags": [
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122207.1001759
-    },
-    "5875": {
-        "problemId": "5875",
-        "problemLevel": 13,
-        "problemName": "오타",
-        "average_try": 2.6944,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122207.151836
-    },
     "14476": {
         "problemId": "14476",
         "problemLevel": 14,
@@ -13692,39 +11958,6 @@
             }
         ],
         "lastupdate": 1619122207.303904
-    },
-    "2900": {
-        "problemId": "2900",
-        "problemLevel": 14,
-        "problemName": "프로그램",
-        "average_try": 3.2093,
-        "solvedtags": [
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122207.356601
-    },
-    "20543": {
-        "problemId": "20543",
-        "problemLevel": 14,
-        "problemName": "폭탄 던지는 태영이",
-        "average_try": 2.9516,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            }
-        ],
-        "lastupdate": 1619122207.409428
     },
     "21318": {
         "problemId": "21318",
@@ -13984,54 +12217,6 @@
         ],
         "lastupdate": 1619122208.061491
     },
-    "20182": {
-        "problemId": "20182",
-        "problemLevel": 14,
-        "problemName": "골목 대장 호석 - 효율성 1",
-        "average_try": 1.8657,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 22,
-                "tag_name": "dijkstra",
-                "full_name_ko": "다익스트라"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122208.1157172
-    },
-    "20183": {
-        "problemId": "20183",
-        "problemLevel": 15,
-        "problemName": "골목 대장 호석 - 효율성 2",
-        "average_try": 4.928599999999999,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 22,
-                "tag_name": "dijkstra",
-                "full_name_ko": "다익스트라"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122208.16732
-    },
     "1261": {
         "problemId": "1261",
         "problemLevel": 12,
@@ -14255,63 +12440,6 @@
             }
         ],
         "lastupdate": 1619122208.764075
-    },
-    "13911": {
-        "problemId": "13911",
-        "problemLevel": 13,
-        "problemName": "집 구하기",
-        "average_try": 3.8676,
-        "solvedtags": [
-            {
-                "algorithm_id": 22,
-                "tag_name": "dijkstra",
-                "full_name_ko": "다익스트라"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122208.853765
-    },
-    "2982": {
-        "problemId": "2982",
-        "problemLevel": 13,
-        "problemName": "국왕의 방문",
-        "average_try": 2.5455,
-        "solvedtags": [
-            {
-                "algorithm_id": 22,
-                "tag_name": "dijkstra",
-                "full_name_ko": "다익스트라"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122208.90104
-    },
-    "9370": {
-        "problemId": "9370",
-        "problemLevel": 14,
-        "problemName": "미확인 도착지",
-        "average_try": 3.8795,
-        "solvedtags": [
-            {
-                "algorithm_id": 22,
-                "tag_name": "dijkstra",
-                "full_name_ko": "다익스트라"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122208.9662652
     },
     "2211": {
         "problemId": "2211",
@@ -14625,25 +12753,6 @@
         ],
         "lastupdate": 1619122209.639928
     },
-    "11404": {
-        "problemId": "11404",
-        "problemLevel": 12,
-        "problemName": "플로이드",
-        "average_try": 2.377,
-        "solvedtags": [
-            {
-                "algorithm_id": 31,
-                "tag_name": "floyd_warshall",
-                "full_name_ko": "플로이드–와샬"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122209.69276
-    },
     "2458": {
         "problemId": "2458",
         "problemLevel": 12,
@@ -14710,25 +12819,6 @@
             }
         ],
         "lastupdate": 1619122209.855138
-    },
-    "10159": {
-        "problemId": "10159",
-        "problemLevel": 13,
-        "problemName": "저울",
-        "average_try": 1.5674000000000001,
-        "solvedtags": [
-            {
-                "algorithm_id": 31,
-                "tag_name": "floyd_warshall",
-                "full_name_ko": "플로이드–와샬"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            }
-        ],
-        "lastupdate": 1619122209.994509
     },
     "1507": {
         "problemId": "1507",
@@ -15035,49 +13125,6 @@
         ],
         "lastupdate": 1619122210.7936032
     },
-    "14499": {
-        "problemId": "14499",
-        "problemLevel": 11,
-        "problemName": "주사위 굴리기",
-        "average_try": 2.3905000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122210.841685
-    },
-    "15683": {
-        "problemId": "15683",
-        "problemLevel": 11,
-        "problemName": "감시",
-        "average_try": 2.3916,
-        "solvedtags": [
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122210.891969
-    },
     "16234": {
         "problemId": "16234",
         "problemLevel": 11,
@@ -15323,40 +13370,6 @@
         ],
         "lastupdate": 1619122211.445055
     },
-    "19238": {
-        "problemId": "19238",
-        "problemLevel": 12,
-        "problemName": "스타트 택시",
-        "average_try": 5.1469,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122211.492356
-    },
     "20057": {
         "problemId": "20057",
         "problemLevel": 12,
@@ -15405,25 +13418,6 @@
         ],
         "lastupdate": 1619122211.594053
     },
-    "8972": {
-        "problemId": "8972",
-        "problemLevel": 12,
-        "problemName": "미친 아두이노",
-        "average_try": 4.1532,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122211.647413
-    },
     "17822": {
         "problemId": "17822",
         "problemLevel": 13,
@@ -15442,93 +13436,6 @@
             }
         ],
         "lastupdate": 1619122211.699162
-    },
-    "19236": {
-        "problemId": "19236",
-        "problemLevel": 14,
-        "problemName": "청소년 상어",
-        "average_try": 1.5827,
-        "solvedtags": [
-            {
-                "algorithm_id": 5,
-                "tag_name": "backtracking",
-                "full_name_ko": "백트래킹"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122211.750227
-    },
-    "13459": {
-        "problemId": "13459",
-        "problemLevel": 13,
-        "problemName": "구슬 탈출",
-        "average_try": 3.0381,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122211.801624
-    },
-    "2933": {
-        "problemId": "2933",
-        "problemLevel": 13,
-        "problemName": "미네랄",
-        "average_try": 4.1264,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122211.856097
     },
     "19237": {
         "problemId": "19237",
@@ -15679,25 +13586,6 @@
         ],
         "lastupdate": 1619122212.1889899
     },
-    "17780": {
-        "problemId": "17780",
-        "problemLevel": 14,
-        "problemName": "새로운 게임",
-        "average_try": 2.4261999999999997,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122212.246155
-    },
     "20061": {
         "problemId": "20061",
         "problemLevel": 14,
@@ -15735,59 +13623,6 @@
             }
         ],
         "lastupdate": 1619122212.3548899
-    },
-    "18809": {
-        "problemId": "18809",
-        "problemLevel": 15,
-        "problemName": "Gaaaaaaaaaarden",
-        "average_try": 2.5054,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 125,
-                "tag_name": "bruteforcing",
-                "full_name_ko": "브루트포스 알고리즘"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            }
-        ],
-        "lastupdate": 1619122212.413197
-    },
-    "16939": {
-        "problemId": "16939",
-        "problemLevel": 15,
-        "problemName": "2×2×2 큐브",
-        "average_try": 2.2379,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122212.471285
     },
     "19235": {
         "problemId": "19235",
@@ -15855,112 +13690,6 @@
             }
         ],
         "lastupdate": 1619122212.639049
-    },
-    "15644": {
-        "problemId": "15644",
-        "problemLevel": 14,
-        "problemName": "구슬 탈출 3",
-        "average_try": 1.8491,
-        "solvedtags": [
-            {
-                "algorithm_id": 126,
-                "tag_name": "bfs",
-                "full_name_ko": "너비 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            }
-        ],
-        "lastupdate": 1619122212.694637
-    },
-    "3029": {
-        "problemId": "3029",
-        "problemLevel": 3,
-        "problemName": "경고",
-        "average_try": 2.5395000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122212.75266
-    },
-    "1942": {
-        "problemId": "1942",
-        "problemLevel": 3,
-        "problemName": "디지털시계",
-        "average_try": 1.8967,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 124,
-                "tag_name": "math",
-                "full_name_ko": "수학"
-            },
-            {
-                "algorithm_id": 96,
-                "tag_name": "parsing",
-                "full_name_ko": "파싱"
-            },
-            {
-                "algorithm_id": 141,
-                "tag_name": "simulation",
-                "full_name_ko": "시뮬레이션"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122212.8086662
-    },
-    "20944": {
-        "problemId": "20944",
-        "problemLevel": 3,
-        "problemName": "팰린드롬 척화비",
-        "average_try": 1.303,
-        "solvedtags": [
-            {
-                "algorithm_id": 109,
-                "tag_name": "ad_hoc",
-                "full_name_ko": "애드 혹"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122212.862001
     },
     "11720": {
         "problemId": "11720",
@@ -16459,25 +14188,6 @@
         ],
         "lastupdate": 1619122214.427201
     },
-    "9342": {
-        "problemId": "9342",
-        "problemLevel": 7,
-        "problemName": "염색체",
-        "average_try": 1.4098,
-        "solvedtags": [
-            {
-                "algorithm_id": 63,
-                "tag_name": "regex",
-                "full_name_ko": "정규 표현식"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122214.475164
-    },
     "20114": {
         "problemId": "20114",
         "problemLevel": 6,
@@ -16510,20 +14220,6 @@
             }
         ],
         "lastupdate": 1619122214.577752
-    },
-    "5534": {
-        "problemId": "5534",
-        "problemLevel": 6,
-        "problemName": "간판",
-        "average_try": 2.1069,
-        "solvedtags": [
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122214.625497
     },
     "6550": {
         "problemId": "6550",
@@ -17122,30 +14818,6 @@
         ],
         "lastupdate": 1619122216.034102
     },
-    "20210": {
-        "problemId": "20210",
-        "problemLevel": 14,
-        "problemName": "파일 탐색기",
-        "average_try": 4.0476,
-        "solvedtags": [
-            {
-                "algorithm_id": 102,
-                "tag_name": "implementation",
-                "full_name_ko": "구현"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            },
-            {
-                "algorithm_id": 158,
-                "tag_name": "string",
-                "full_name_ko": "문자열"
-            }
-        ],
-        "lastupdate": 1619122216.086018
-    },
     "14567": {
         "problemId": "14567",
         "problemLevel": 11,
@@ -17266,25 +14938,6 @@
         ],
         "lastupdate": 1619122216.364033
     },
-    "9470": {
-        "problemId": "9470",
-        "problemLevel": 13,
-        "problemName": "Strahler 순서",
-        "average_try": 2.5468,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 78,
-                "tag_name": "topological_sorting",
-                "full_name_ko": "위상 정렬"
-            }
-        ],
-        "lastupdate": 1619122216.417998
-    },
     "2252": {
         "problemId": "2252",
         "problemLevel": 14,
@@ -17399,25 +15052,6 @@
             }
         ],
         "lastupdate": 1619122216.675084
-    },
-    "3665": {
-        "problemId": "3665",
-        "problemLevel": 15,
-        "problemName": "최종 순위",
-        "average_try": 2.7880000000000003,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 78,
-                "tag_name": "topological_sorting",
-                "full_name_ko": "위상 정렬"
-            }
-        ],
-        "lastupdate": 1619122216.723524
     },
     "1948": {
         "problemId": "1948",
@@ -17673,45 +15307,6 @@
         ],
         "lastupdate": 1619122217.397266
     },
-    "15681": {
-        "problemId": "15681",
-        "problemLevel": 11,
-        "problemName": "트리와 쿼리",
-        "average_try": 1.849,
-        "solvedtags": [
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 92,
-                "tag_name": "dp_tree",
-                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122217.4553401
-    },
     "17073": {
         "problemId": "17073",
         "problemLevel": 11,
@@ -17740,35 +15335,6 @@
             }
         ],
         "lastupdate": 1619122217.507626
-    },
-    "19641": {
-        "problemId": "19641",
-        "problemLevel": 11,
-        "problemName": "중첩 집합 모델",
-        "average_try": 2.1639,
-        "solvedtags": [
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122217.574582
     },
     "1240": {
         "problemId": "1240",
@@ -17948,59 +15514,6 @@
             }
         ],
         "lastupdate": 1619122217.9170492
-    },
-    "9489": {
-        "problemId": "9489",
-        "problemLevel": 12,
-        "problemName": "사촌",
-        "average_try": 3.7302,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 72,
-                "tag_name": "queue",
-                "full_name_ko": "큐"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122217.9746618
-    },
-    "14267": {
-        "problemId": "14267",
-        "problemLevel": 12,
-        "problemName": "회사 문화 1",
-        "average_try": 2.4773,
-        "solvedtags": [
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122218.027219
     },
     "19542": {
         "problemId": "19542",
@@ -18402,35 +15915,6 @@
         ],
         "lastupdate": 1619122218.833557
     },
-    "16437": {
-        "problemId": "16437",
-        "problemLevel": 14,
-        "problemName": "양 구출 작전",
-        "average_try": 3.5028,
-        "solvedtags": [
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122218.887398
-    },
     "1949": {
         "problemId": "1949",
         "problemLevel": 15,
@@ -18454,160 +15938,6 @@
             }
         ],
         "lastupdate": 1619122218.942571
-    },
-    "2213": {
-        "problemId": "2213",
-        "problemLevel": 15,
-        "problemName": "트리의 독립집합",
-        "average_try": 2.0202,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 92,
-                "tag_name": "dp_tree",
-                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122218.991606
-    },
-    "2233": {
-        "problemId": "2233",
-        "problemLevel": 15,
-        "problemName": "사과나무",
-        "average_try": 3.1652,
-        "solvedtags": [
-            {
-                "algorithm_id": 175,
-                "tag_name": "data_structures",
-                "full_name_ko": "자료 구조"
-            },
-            {
-                "algorithm_id": 127,
-                "tag_name": "dfs",
-                "full_name_ko": "깊이 우선 탐색"
-            },
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 41,
-                "tag_name": "lca",
-                "full_name_ko": "최소 공통 조상"
-            },
-            {
-                "algorithm_id": 71,
-                "tag_name": "stack",
-                "full_name_ko": "스택"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122219.057305
-    },
-    "12912": {
-        "problemId": "12912",
-        "problemLevel": 15,
-        "problemName": "트리 수정",
-        "average_try": 2.375,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122219.1069992
-    },
-    "12978": {
-        "problemId": "12978",
-        "problemLevel": 15,
-        "problemName": "스크루지 민호 2",
-        "average_try": 2.5713999999999997,
-        "solvedtags": [
-            {
-                "algorithm_id": 25,
-                "tag_name": "dp",
-                "full_name_ko": "다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 92,
-                "tag_name": "dp_tree",
-                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122219.154148
-    },
-    "14570": {
-        "problemId": "14570",
-        "problemLevel": 15,
-        "problemName": "나무 위의 구슬",
-        "average_try": 2.9741,
-        "solvedtags": [
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122219.205701
-    },
-    "19581": {
-        "problemId": "19581",
-        "problemLevel": 15,
-        "problemName": "두 번째 트리의 지름",
-        "average_try": 2.198,
-        "solvedtags": [
-            {
-                "algorithm_id": 7,
-                "tag_name": "graphs",
-                "full_name_ko": "그래프 이론"
-            },
-            {
-                "algorithm_id": 11,
-                "tag_name": "graph_traversal",
-                "full_name_ko": "그래프 탐색"
-            },
-            {
-                "algorithm_id": 120,
-                "tag_name": "trees",
-                "full_name_ko": "트리"
-            }
-        ],
-        "lastupdate": 1619122219.253886
     },
     "14425": {
         "problemId": "14425",
@@ -18981,35 +16311,6 @@
         ],
         "lastupdate": 1619122219.8969312
     },
-    "7453": {
-        "problemId": "7453",
-        "problemLevel": 14,
-        "problemName": "합이 0인 네 정수",
-        "average_try": 4.4412,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 46,
-                "tag_name": "mitm",
-                "full_name_ko": "중간에서 만나기"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122219.9641569
-    },
     "15565": {
         "problemId": "15565",
         "problemLevel": 10,
@@ -19201,49 +16502,6 @@
         ],
         "lastupdate": 1619122220.450969
     },
-    "3273": {
-        "problemId": "3273",
-        "problemLevel": 7,
-        "problemName": "두 수의 합",
-        "average_try": 2.4815,
-        "solvedtags": [
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122220.5022779
-    },
-    "10025": {
-        "problemId": "10025",
-        "problemLevel": 7,
-        "problemName": "게으른 백곰",
-        "average_try": 2.8651,
-        "solvedtags": [
-            {
-                "algorithm_id": 139,
-                "tag_name": "prefix_sum",
-                "full_name_ko": "누적 합"
-            },
-            {
-                "algorithm_id": 68,
-                "tag_name": "sliding_window",
-                "full_name_ko": "슬라이딩 윈도우"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122220.5566552
-    },
     "6159": {
         "problemId": "6159",
         "problemLevel": 7,
@@ -19381,30 +16639,6 @@
         ],
         "lastupdate": 1619122220.964118
     },
-    "9024": {
-        "problemId": "9024",
-        "problemLevel": 11,
-        "problemName": "두 수의 합",
-        "average_try": 2.7297000000000002,
-        "solvedtags": [
-            {
-                "algorithm_id": 12,
-                "tag_name": "binary_search",
-                "full_name_ko": "이분 탐색"
-            },
-            {
-                "algorithm_id": 97,
-                "tag_name": "sorting",
-                "full_name_ko": "정렬"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122221.01918
-    },
     "1484": {
         "problemId": "1484",
         "problemLevel": 12,
@@ -19452,39 +16686,6 @@
         ],
         "lastupdate": 1619122221.175734
     },
-    "20366": {
-        "problemId": "20366",
-        "problemLevel": 13,
-        "problemName": "같이 눈사람 만들래?",
-        "average_try": 3.9922,
-        "solvedtags": [
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122221.22618
-    },
-    "6137": {
-        "problemId": "6137",
-        "problemLevel": 13,
-        "problemName": "문자열 생성",
-        "average_try": 3.663,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122221.2829618
-    },
     "3151": {
         "problemId": "3151",
         "problemLevel": 13,
@@ -19503,25 +16704,6 @@
             }
         ],
         "lastupdate": 1619122221.339276
-    },
-    "20442": {
-        "problemId": "20442",
-        "problemLevel": 13,
-        "problemName": "ㅋㅋ루ㅋㅋ",
-        "average_try": 2.2903000000000002,
-        "solvedtags": [
-            {
-                "algorithm_id": 33,
-                "tag_name": "greedy",
-                "full_name_ko": "그리디 알고리즘"
-            },
-            {
-                "algorithm_id": 80,
-                "tag_name": "two_pointer",
-                "full_name_ko": "두 포인터"
-            }
-        ],
-        "lastupdate": 1619122221.39261
     },
     "21279": {
         "problemId": "21279",
@@ -19551,5 +16733,2823 @@
             }
         ],
         "lastupdate": 1619122221.44475
+    },
+    "11279": {
+        "problemId": "11279",
+        "problemLevel": 9,
+        "problemName": "최대 힙",
+        "average_try": 2.2532,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 59,
+                "tag_name": "priority_queue",
+                "full_name_ko": "우선순위 큐"
+            }
+        ],
+        "lastupdate": 1619126464.058584
+    },
+    "13418": {
+        "problemId": "13418",
+        "problemLevel": 13,
+        "problemName": "학교 탐방하기",
+        "average_try": 2.8788,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 49,
+                "tag_name": "mst",
+                "full_name_ko": "최소 스패닝 트리"
+            }
+        ],
+        "lastupdate": 1619126464.1085281
+    },
+    "12912": {
+        "problemId": "12912",
+        "problemLevel": 15,
+        "problemName": "트리 수정",
+        "average_try": 2.375,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126464.15402
+    },
+    "20366": {
+        "problemId": "20366",
+        "problemLevel": 13,
+        "problemName": "같이 눈사람 만들래?",
+        "average_try": 4.0382,
+        "solvedtags": [
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619126464.202934
+    },
+    "17090": {
+        "problemId": "17090",
+        "problemLevel": 14,
+        "problemName": "미로 탈출하기",
+        "average_try": 3.2133,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            },
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126473.926023
+    },
+    "9019": {
+        "problemId": "9019",
+        "problemLevel": 11,
+        "problemName": "DSLR",
+        "average_try": 4.5125,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126473.974176
+    },
+    "15681": {
+        "problemId": "15681",
+        "problemLevel": 11,
+        "problemName": "트리와 쿼리",
+        "average_try": 1.847,
+        "solvedtags": [
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 92,
+                "tag_name": "dp_tree",
+                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126474.027932
+    },
+    "3273": {
+        "problemId": "3273",
+        "problemLevel": 7,
+        "problemName": "두 수의 합",
+        "average_try": 2.481,
+        "solvedtags": [
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619126474.078482
+    },
+    "2800": {
+        "problemId": "2800",
+        "problemLevel": 11,
+        "problemName": "괄호 제거",
+        "average_try": 2.9553000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 62,
+                "tag_name": "recursion",
+                "full_name_ko": "재귀"
+            },
+            {
+                "algorithm_id": 71,
+                "tag_name": "stack",
+                "full_name_ko": "스택"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126475.057319
+    },
+    "11399": {
+        "problemId": "11399",
+        "problemLevel": 8,
+        "problemName": "ATM",
+        "average_try": 1.5146,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619126475.109823
+    },
+    "8972": {
+        "problemId": "8972",
+        "problemLevel": 12,
+        "problemName": "미친 아두이노",
+        "average_try": 4.1384,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126475.1587808
+    },
+    "12978": {
+        "problemId": "12978",
+        "problemLevel": 15,
+        "problemName": "스크루지 민호 2",
+        "average_try": 2.5713999999999997,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 92,
+                "tag_name": "dp_tree",
+                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126475.2124622
+    },
+    "7490": {
+        "problemId": "7490",
+        "problemLevel": 11,
+        "problemName": "0 만들기",
+        "average_try": 2.3657,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126475.932789
+    },
+    "20667": {
+        "problemId": "20667",
+        "problemLevel": 14,
+        "problemName": "크롬",
+        "average_try": 3.4773,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 148,
+                "tag_name": "knapsack",
+                "full_name_ko": "배낭 문제"
+            }
+        ],
+        "lastupdate": 1619126475.98178
+    },
+    "8980": {
+        "problemId": "8980",
+        "problemLevel": 13,
+        "problemName": "택배",
+        "average_try": 2.755,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619126476.029887
+    },
+    "9342": {
+        "problemId": "9342",
+        "problemLevel": 7,
+        "problemName": "염색체",
+        "average_try": 1.4076,
+        "solvedtags": [
+            {
+                "algorithm_id": 63,
+                "tag_name": "regex",
+                "full_name_ko": "정규 표현식"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126476.082842
+    },
+    "7511": {
+        "problemId": "7511",
+        "problemLevel": 12,
+        "problemName": "소셜 네트워킹 어플리케이션",
+        "average_try": 2.2613000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            }
+        ],
+        "lastupdate": 1619126476.7837
+    },
+    "5547": {
+        "problemId": "5547",
+        "problemLevel": 10,
+        "problemName": "일루미네이션",
+        "average_try": 1.7018,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126476.828016
+    },
+    "2982": {
+        "problemId": "2982",
+        "problemLevel": 13,
+        "problemName": "국왕의 방문",
+        "average_try": 2.5455,
+        "solvedtags": [
+            {
+                "algorithm_id": 22,
+                "tag_name": "dijkstra",
+                "full_name_ko": "다익스트라"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619126476.875885
+    },
+    "14570": {
+        "problemId": "14570",
+        "problemLevel": 15,
+        "problemName": "나무 위의 구슬",
+        "average_try": 2.9741,
+        "solvedtags": [
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126476.925828
+    },
+    "1212": {
+        "problemId": "1212",
+        "problemLevel": 2,
+        "problemName": "8진수 2진수",
+        "average_try": 3.0059,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126661.613749
+    },
+    "20543": {
+        "problemId": "20543",
+        "problemLevel": 14,
+        "problemName": "폭탄 던지는 태영이",
+        "average_try": 2.9516,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126661.665062
+    },
+    "19238": {
+        "problemId": "19238",
+        "problemLevel": 12,
+        "problemName": "스타트 택시",
+        "average_try": 5.145,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126661.71172
+    },
+    "9470": {
+        "problemId": "9470",
+        "problemLevel": 13,
+        "problemName": "Strahler 순서",
+        "average_try": 2.5468,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 78,
+                "tag_name": "topological_sorting",
+                "full_name_ko": "위상 정렬"
+            }
+        ],
+        "lastupdate": 1619126661.7605708
+    },
+    "1300": {
+        "problemId": "1300",
+        "problemLevel": 13,
+        "problemName": "K번째 수",
+        "average_try": 2.6424000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            }
+        ],
+        "lastupdate": 1619126665.846414
+    },
+    "14595": {
+        "problemId": "14595",
+        "problemLevel": 14,
+        "problemName": "동방 프로젝트 (Large)",
+        "average_try": 2.3813,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            },
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126665.8968918
+    },
+    "2753": {
+        "problemId": "2753",
+        "problemLevel": 2,
+        "problemName": "윤년",
+        "average_try": 1.8289,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619126665.945741
+    },
+    "5875": {
+        "problemId": "5875",
+        "problemLevel": 13,
+        "problemName": "오타",
+        "average_try": 2.6944,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126666.0251489
+    },
+    "11170": {
+        "problemId": "11170",
+        "problemLevel": 6,
+        "problemName": "0의 개수",
+        "average_try": 1.2581,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126669.299277
+    },
+    "2436": {
+        "problemId": "2436",
+        "problemLevel": 11,
+        "problemName": "공약수",
+        "average_try": 3.7476,
+        "solvedtags": [
+            {
+                "algorithm_id": 26,
+                "tag_name": "euclidean",
+                "full_name_ko": "유클리드 호제법"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 95,
+                "tag_name": "number_theory",
+                "full_name_ko": "정수론"
+            }
+        ],
+        "lastupdate": 1619126669.346727
+    },
+    "17780": {
+        "problemId": "17780",
+        "problemLevel": 14,
+        "problemName": "새로운 게임",
+        "average_try": 2.4244000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126669.394408
+    },
+    "14267": {
+        "problemId": "14267",
+        "problemLevel": 12,
+        "problemName": "회사 문화 1",
+        "average_try": 2.4773,
+        "solvedtags": [
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126669.447981
+    },
+    "15659": {
+        "problemId": "15659",
+        "problemLevel": 13,
+        "problemName": "연산자 끼워넣기 (3)",
+        "average_try": 1.6343999999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 71,
+                "tag_name": "stack",
+                "full_name_ko": "스택"
+            }
+        ],
+        "lastupdate": 1619126670.3871849
+    },
+    "14601": {
+        "problemId": "14601",
+        "problemLevel": 15,
+        "problemName": "샤워실 바닥 깔기 (Large)",
+        "average_try": 1.6226,
+        "solvedtags": [
+            {
+                "algorithm_id": 24,
+                "tag_name": "divide_and_conquer",
+                "full_name_ko": "분할 정복"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 62,
+                "tag_name": "recursion",
+                "full_name_ko": "재귀"
+            }
+        ],
+        "lastupdate": 1619126670.43589
+    },
+    "4095": {
+        "problemId": "4095",
+        "problemLevel": 11,
+        "problemName": "최대 정사각형",
+        "average_try": 2.3836,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619126670.4881768
+    },
+    "1449": {
+        "problemId": "1449",
+        "problemLevel": 8,
+        "problemName": "수리공 항승",
+        "average_try": 2.5606999999999998,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619126670.53773
+    },
+    "4811": {
+        "problemId": "4811",
+        "problemLevel": 11,
+        "problemName": "알약",
+        "average_try": 1.6116000000000001,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619126670.909533
+    },
+    "3673": {
+        "problemId": "3673",
+        "problemLevel": 13,
+        "problemName": "나눌 수 있는 부분 수열",
+        "average_try": 2.15,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126670.9574342
+    },
+    "1942": {
+        "problemId": "1942",
+        "problemLevel": 3,
+        "problemName": "디지털시계",
+        "average_try": 1.9022999999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 96,
+                "tag_name": "parsing",
+                "full_name_ko": "파싱"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126671.003362
+    },
+    "19581": {
+        "problemId": "19581",
+        "problemLevel": 15,
+        "problemName": "두 번째 트리의 지름",
+        "average_try": 2.198,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126671.060319
+    },
+    "3020": {
+        "problemId": "3020",
+        "problemLevel": 11,
+        "problemName": "개똥벌레",
+        "average_try": 2.4599,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126671.420436
+    },
+    "11256": {
+        "problemId": "11256",
+        "problemLevel": 6,
+        "problemName": "사탕",
+        "average_try": 1.44,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126671.468819
+    },
+    "14499": {
+        "problemId": "14499",
+        "problemLevel": 11,
+        "problemName": "주사위 굴리기",
+        "average_try": 2.3872999999999998,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126671.5199091
+    },
+    "16939": {
+        "problemId": "16939",
+        "problemLevel": 15,
+        "problemName": "2×2×2 큐브",
+        "average_try": 2.2379,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126671.5709498
+    },
+    "10653": {
+        "problemId": "10653",
+        "problemLevel": 12,
+        "problemName": "마라톤 2",
+        "average_try": 2.5231,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619126671.9353442
+    },
+    "3184": {
+        "problemId": "3184",
+        "problemLevel": 9,
+        "problemName": "양",
+        "average_try": 1.5864,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126671.987527
+    },
+    "9370": {
+        "problemId": "9370",
+        "problemLevel": 14,
+        "problemName": "미확인 도착지",
+        "average_try": 3.8887,
+        "solvedtags": [
+            {
+                "algorithm_id": 22,
+                "tag_name": "dijkstra",
+                "full_name_ko": "다익스트라"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619126672.037162
+    },
+    "6137": {
+        "problemId": "6137",
+        "problemLevel": 13,
+        "problemName": "문자열 생성",
+        "average_try": 3.663,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619126672.087786
+    },
+    "9944": {
+        "problemId": "9944",
+        "problemLevel": 13,
+        "problemName": "NxM 보드 완주하기",
+        "average_try": 3.3564,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126672.4535391
+    },
+    "5014": {
+        "problemId": "5014",
+        "problemLevel": 11,
+        "problemName": "스타트링크",
+        "average_try": 2.9248000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126672.503189
+    },
+    "3029": {
+        "problemId": "3029",
+        "problemLevel": 3,
+        "problemName": "경고",
+        "average_try": 2.5452,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126672.554703
+    },
+    "16437": {
+        "problemId": "16437",
+        "problemLevel": 14,
+        "problemName": "양 구출 작전",
+        "average_try": 3.5028,
+        "solvedtags": [
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619126672.604772
+    },
+    "6443": {
+        "problemId": "6443",
+        "problemLevel": 13,
+        "problemName": "애너그램",
+        "average_try": 2.3851,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 6,
+                "tag_name": "combinatorics",
+                "full_name_ko": "조합론"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619126672.966447
+    },
+    "20053": {
+        "problemId": "20053",
+        "problemLevel": 3,
+        "problemName": "최소, 최대 2",
+        "average_try": 1.4644,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126673.01778
+    },
+    "18769": {
+        "problemId": "18769",
+        "problemLevel": 12,
+        "problemName": "그리드 네트워크",
+        "average_try": 1.25,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 49,
+                "tag_name": "mst",
+                "full_name_ko": "최소 스패닝 트리"
+            }
+        ],
+        "lastupdate": 1619126673.0668302
+    },
+    "7453": {
+        "problemId": "7453",
+        "problemLevel": 14,
+        "problemName": "합이 0인 네 정수",
+        "average_try": 4.4391,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 46,
+                "tag_name": "mitm",
+                "full_name_ko": "중간에서 만나기"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619126673.124465
+    },
+    "15684": {
+        "problemId": "15684",
+        "problemLevel": 12,
+        "problemName": "사다리 조작",
+        "average_try": 4.7203,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126679.472508
+    },
+    "2758": {
+        "problemId": "2758",
+        "problemLevel": 12,
+        "problemName": "로또",
+        "average_try": 4.4839,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619126679.521863
+    },
+    "17276": {
+        "problemId": "17276",
+        "problemLevel": 9,
+        "problemName": "배열 돌리기",
+        "average_try": 1.6726999999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126679.568625
+    },
+    "15806": {
+        "problemId": "15806",
+        "problemLevel": 15,
+        "problemName": "영우의 기숙사 청소",
+        "average_try": 4.0667,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126679.616768
+    },
+    "1527": {
+        "problemId": "1527",
+        "problemLevel": 10,
+        "problemName": "금민수의 개수",
+        "average_try": 2.708,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126680.563454
+    },
+    "21278": {
+        "problemId": "21278",
+        "problemLevel": 11,
+        "problemName": "호석이 두 마리 치킨",
+        "average_try": 1.9301,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 31,
+                "tag_name": "floyd_warshall",
+                "full_name_ko": "플로이드–와샬"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126680.611657
+    },
+    "17398": {
+        "problemId": "17398",
+        "problemLevel": 15,
+        "problemName": "통신망 분할",
+        "average_try": 2.7157,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            }
+        ],
+        "lastupdate": 1619126680.6676018
+    },
+    "5624": {
+        "problemId": "5624",
+        "problemLevel": 11,
+        "problemName": "좋은 수",
+        "average_try": 3.2033,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126680.716099
+    },
+    "12757": {
+        "problemId": "12757",
+        "problemLevel": 12,
+        "problemName": "전설의 JBNU",
+        "average_try": 3.0588,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 136,
+                "tag_name": "hash_set",
+                "full_name_ko": "해시를 사용한 집합과 맵"
+            }
+        ],
+        "lastupdate": 1619126765.136367
+    },
+    "1269": {
+        "problemId": "1269",
+        "problemLevel": 8,
+        "problemName": "대칭 차집합",
+        "average_try": 1.8915,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 136,
+                "tag_name": "hash_set",
+                "full_name_ko": "해시를 사용한 집합과 맵"
+            },
+            {
+                "algorithm_id": 74,
+                "tag_name": "tree_set",
+                "full_name_ko": "트리를 사용한 집합과 맵"
+            }
+        ],
+        "lastupdate": 1619126765.188907
+    },
+    "17616": {
+        "problemId": "17616",
+        "problemLevel": 13,
+        "problemName": "등수 찾기",
+        "average_try": 2.3239,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126765.254017
+    },
+    "2900": {
+        "problemId": "2900",
+        "problemLevel": 14,
+        "problemName": "프로그램",
+        "average_try": 3.2093,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126765.3085408
+    },
+    "17124": {
+        "problemId": "17124",
+        "problemLevel": 8,
+        "problemName": "두 개의 배열",
+        "average_try": 2.9756,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619126767.055458
+    },
+    "8983": {
+        "problemId": "8983",
+        "problemLevel": 12,
+        "problemName": "사냥꾼",
+        "average_try": 3.2557,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619126767.105222
+    },
+    "17470": {
+        "problemId": "17470",
+        "problemLevel": 15,
+        "problemName": "배열 돌리기 5",
+        "average_try": 5.7308,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126767.1553411
+    },
+    "20442": {
+        "problemId": "20442",
+        "problemLevel": 13,
+        "problemName": "ㅋㅋ루ㅋㅋ",
+        "average_try": 2.375,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619126767.20777
+    },
+    "3165": {
+        "problemId": "3165",
+        "problemLevel": 14,
+        "problemName": "5",
+        "average_try": 2.9333,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126821.052552
+    },
+    "5430": {
+        "problemId": "5430",
+        "problemLevel": 11,
+        "problemName": "AC",
+        "average_try": 4.9527,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 73,
+                "tag_name": "deque",
+                "full_name_ko": "덱"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 96,
+                "tag_name": "parsing",
+                "full_name_ko": "파싱"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619126821.101502
+    },
+    "18513": {
+        "problemId": "18513",
+        "problemLevel": 11,
+        "problemName": "샘터",
+        "average_try": 5.1164,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619126821.1554391
+    },
+    "5597": {
+        "problemId": "5597",
+        "problemLevel": 4,
+        "problemName": "과제 안 내신 분..?",
+        "average_try": 1.492,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126821.206572
+    },
+    "20950": {
+        "problemId": "20950",
+        "problemLevel": 9,
+        "problemName": "미술가 미미",
+        "average_try": 2.129,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126823.279794
+    },
+    "14600": {
+        "problemId": "14600",
+        "problemLevel": 12,
+        "problemName": "샤워실 바닥 깔기 (Small)",
+        "average_try": 1.3195999999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 24,
+                "tag_name": "divide_and_conquer",
+                "full_name_ko": "분할 정복"
+            }
+        ],
+        "lastupdate": 1619126823.32761
+    },
+    "3687": {
+        "problemId": "3687",
+        "problemLevel": 14,
+        "problemName": "성냥개비",
+        "average_try": 2.6628,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126823.376671
+    },
+    "20002": {
+        "problemId": "20002",
+        "problemLevel": 11,
+        "problemName": "사과나무",
+        "average_try": 1.822,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1619126823.42687
+    },
+    "15489": {
+        "problemId": "15489",
+        "problemLevel": 6,
+        "problemName": "파스칼 삼각형",
+        "average_try": 1.609,
+        "solvedtags": [
+            {
+                "algorithm_id": 6,
+                "tag_name": "combinatorics",
+                "full_name_ko": "조합론"
+            },
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619126905.660319
+    },
+    "5557": {
+        "problemId": "5557",
+        "problemLevel": 11,
+        "problemName": "1학년",
+        "average_try": 2.7038,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619126905.71055
+    },
+    "14719": {
+        "problemId": "14719",
+        "problemLevel": 11,
+        "problemName": "빗물",
+        "average_try": 1.8269,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126905.762767
+    },
+    "15644": {
+        "problemId": "15644",
+        "problemLevel": 14,
+        "problemName": "구슬 탈출 3",
+        "average_try": 1.8491,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126905.813805
+    },
+    "13305": {
+        "problemId": "13305",
+        "problemLevel": 7,
+        "problemName": "주유소",
+        "average_try": 2.7715,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1619126910.58345
+    },
+    "16719": {
+        "problemId": "16719",
+        "problemLevel": 11,
+        "problemName": "ZOAC",
+        "average_try": 1.9615,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619126910.631913
+    },
+    "10423": {
+        "problemId": "10423",
+        "problemLevel": 14,
+        "problemName": "전기가 부족해",
+        "average_try": 1.465,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 49,
+                "tag_name": "mst",
+                "full_name_ko": "최소 스패닝 트리"
+            }
+        ],
+        "lastupdate": 1619126910.6815271
+    },
+    "15683": {
+        "problemId": "15683",
+        "problemLevel": 11,
+        "problemName": "감시",
+        "average_try": 2.3914999999999997,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619126910.73271
+    },
+    "3986": {
+        "problemId": "3986",
+        "problemLevel": 7,
+        "problemName": "좋은 단어",
+        "average_try": 2.0526,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 71,
+                "tag_name": "stack",
+                "full_name_ko": "스택"
+            }
+        ],
+        "lastupdate": 1619127033.752007
+    },
+    "7662": {
+        "problemId": "7662",
+        "problemLevel": 11,
+        "problemName": "이중 우선순위 큐",
+        "average_try": 4.190799999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 59,
+                "tag_name": "priority_queue",
+                "full_name_ko": "우선순위 큐"
+            },
+            {
+                "algorithm_id": 74,
+                "tag_name": "tree_set",
+                "full_name_ko": "트리를 사용한 집합과 맵"
+            }
+        ],
+        "lastupdate": 1619127033.804736
+    },
+    "12893": {
+        "problemId": "12893",
+        "problemLevel": 12,
+        "problemName": "적의 적",
+        "average_try": 2.9009,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619127033.855192
+    },
+    "18809": {
+        "problemId": "18809",
+        "problemLevel": 15,
+        "problemName": "Gaaaaaaaaaarden",
+        "average_try": 2.5031,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619127033.9135191
+    },
+    "21315": {
+        "problemId": "21315",
+        "problemLevel": 11,
+        "problemName": "카드 섞기",
+        "average_try": 1.9231,
+        "solvedtags": [
+            {
+                "algorithm_id": 109,
+                "tag_name": "ad_hoc",
+                "full_name_ko": "애드 혹"
+            },
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619127036.083468
+    },
+    "10775": {
+        "problemId": "10775",
+        "problemLevel": 14,
+        "problemName": "공항",
+        "average_try": 2.6306000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            },
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1619127036.1371782
+    },
+    "7562": {
+        "problemId": "7562",
+        "problemLevel": 9,
+        "problemName": "나이트의 이동",
+        "average_try": 2.1243,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619127036.191713
+    },
+    "10026": {
+        "problemId": "10026",
+        "problemLevel": 11,
+        "problemName": "적록색약",
+        "average_try": 1.7229999999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619127036.248966
+    },
+    "4690": {
+        "problemId": "4690",
+        "problemLevel": 3,
+        "problemName": "완전 세제곱",
+        "average_try": 2.4076,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619127039.076107
+    },
+    "7579": {
+        "problemId": "7579",
+        "problemLevel": 13,
+        "problemName": "앱",
+        "average_try": 2.6972,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 148,
+                "tag_name": "knapsack",
+                "full_name_ko": "배낭 문제"
+            }
+        ],
+        "lastupdate": 1619127039.1234078
+    },
+    "5569": {
+        "problemId": "5569",
+        "problemLevel": 11,
+        "problemName": "출근 경로",
+        "average_try": 2.3034,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619127039.174048
+    },
+    "20183": {
+        "problemId": "20183",
+        "problemLevel": 15,
+        "problemName": "골목 대장 호석 - 효율성 2",
+        "average_try": 4.928599999999999,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 22,
+                "tag_name": "dijkstra",
+                "full_name_ko": "다익스트라"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619127039.230688
+    },
+    "7682": {
+        "problemId": "7682",
+        "problemLevel": 11,
+        "problemName": "틱택토",
+        "average_try": 3.246,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619127041.998409
+    },
+    "15721": {
+        "problemId": "15721",
+        "problemLevel": 5,
+        "problemName": "번데기",
+        "average_try": 2.2541,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619127042.052014
+    },
+    "20210": {
+        "problemId": "20210",
+        "problemLevel": 14,
+        "problemName": "파일 탐색기",
+        "average_try": 4.0476,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619127042.1061382
+    },
+    "9024": {
+        "problemId": "9024",
+        "problemLevel": 11,
+        "problemName": "두 수의 합",
+        "average_try": 2.7297000000000002,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619127042.1520529
+    },
+    "18512": {
+        "problemId": "18512",
+        "problemLevel": 5,
+        "problemName": "점프 점프",
+        "average_try": 2.1192,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619127044.2728791
+    },
+    "9081": {
+        "problemId": "9081",
+        "problemLevel": 11,
+        "problemName": "단어 맞추기",
+        "average_try": 1.7143000000000002,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619127044.319742
+    },
+    "2933": {
+        "problemId": "2933",
+        "problemLevel": 13,
+        "problemName": "미네랄",
+        "average_try": 4.1271,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619127044.367179
+    },
+    "3665": {
+        "problemId": "3665",
+        "problemLevel": 15,
+        "problemName": "최종 순위",
+        "average_try": 2.7843,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 78,
+                "tag_name": "topological_sorting",
+                "full_name_ko": "위상 정렬"
+            }
+        ],
+        "lastupdate": 1619127044.4164321
+    },
+    "13164": {
+        "problemId": "13164",
+        "problemLevel": 10,
+        "problemName": "행복 유치원",
+        "average_try": 1.7877999999999998,
+        "solvedtags": [
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619127098.722531
+    },
+    "10159": {
+        "problemId": "10159",
+        "problemLevel": 13,
+        "problemName": "저울",
+        "average_try": 1.5671,
+        "solvedtags": [
+            {
+                "algorithm_id": 31,
+                "tag_name": "floyd_warshall",
+                "full_name_ko": "플로이드–와샬"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619127098.774503
+    },
+    "13911": {
+        "problemId": "13911",
+        "problemLevel": 13,
+        "problemName": "집 구하기",
+        "average_try": 3.8676,
+        "solvedtags": [
+            {
+                "algorithm_id": 22,
+                "tag_name": "dijkstra",
+                "full_name_ko": "다익스트라"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619127098.81852
+    },
+    "2887": {
+        "problemId": "2887",
+        "problemLevel": 15,
+        "problemName": "행성 터널",
+        "average_try": 2.7765,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 49,
+                "tag_name": "mst",
+                "full_name_ko": "최소 스패닝 트리"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619127098.8649411
+    },
+    "5618": {
+        "problemId": "5618",
+        "problemLevel": 3,
+        "problemName": "공약수",
+        "average_try": 1.6897,
+        "solvedtags": [
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619127292.065019
+    },
+    "9251": {
+        "problemId": "9251",
+        "problemLevel": 11,
+        "problemName": "LCS",
+        "average_try": 2.4665,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619127292.113469
+    },
+    "19641": {
+        "problemId": "19641",
+        "problemLevel": 11,
+        "problemName": "중첩 집합 모델",
+        "average_try": 2.1639,
+        "solvedtags": [
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619127292.167841
+    },
+    "19236": {
+        "problemId": "19236",
+        "problemLevel": 14,
+        "problemName": "청소년 상어",
+        "average_try": 1.5808,
+        "solvedtags": [
+            {
+                "algorithm_id": 5,
+                "tag_name": "backtracking",
+                "full_name_ko": "백트래킹"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619127292.228322
+    },
+    "20944": {
+        "problemId": "20944",
+        "problemLevel": 3,
+        "problemName": "팰린드롬 척화비",
+        "average_try": 1.3305,
+        "solvedtags": [
+            {
+                "algorithm_id": 109,
+                "tag_name": "ad_hoc",
+                "full_name_ko": "애드 혹"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619127293.951512
+    },
+    "9007": {
+        "problemId": "9007",
+        "problemLevel": 12,
+        "problemName": "카누 선수",
+        "average_try": 4.2069,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 97,
+                "tag_name": "sorting",
+                "full_name_ko": "정렬"
+            }
+        ],
+        "lastupdate": 1619127294.00206
+    },
+    "13459": {
+        "problemId": "13459",
+        "problemLevel": 13,
+        "problemName": "구슬 탈출",
+        "average_try": 3.0406,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619127294.050387
+    },
+    "2233": {
+        "problemId": "2233",
+        "problemLevel": 15,
+        "problemName": "사과나무",
+        "average_try": 3.1652,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 41,
+                "tag_name": "lca",
+                "full_name_ko": "최소 공통 조상"
+            },
+            {
+                "algorithm_id": 71,
+                "tag_name": "stack",
+                "full_name_ko": "스택"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619127294.1043541
+    },
+    "21312": {
+        "problemId": "21312",
+        "problemLevel": 3,
+        "problemName": "홀짝 칵테일",
+        "average_try": 1.5655000000000001,
+        "solvedtags": [
+            {
+                "algorithm_id": 121,
+                "tag_name": "arithmetic",
+                "full_name_ko": "사칙연산"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619127295.047921
+    },
+    "9466": {
+        "problemId": "9466",
+        "problemLevel": 12,
+        "problemName": "텀 프로젝트",
+        "average_try": 4.058,
+        "solvedtags": [
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619127295.0919292
+    },
+    "9489": {
+        "problemId": "9489",
+        "problemLevel": 12,
+        "problemName": "사촌",
+        "average_try": 3.7302,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 72,
+                "tag_name": "queue",
+                "full_name_ko": "큐"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619127295.140349
+    },
+    "2213": {
+        "problemId": "2213",
+        "problemLevel": 15,
+        "problemName": "트리의 독립집합",
+        "average_try": 2.025,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 92,
+                "tag_name": "dp_tree",
+                "full_name_ko": "트리에서의 다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 120,
+                "tag_name": "trees",
+                "full_name_ko": "트리"
+            }
+        ],
+        "lastupdate": 1619127295.193318
+    },
+    "10025": {
+        "problemId": "10025",
+        "problemLevel": 7,
+        "problemName": "게으른 백곰",
+        "average_try": 2.8729,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            },
+            {
+                "algorithm_id": 68,
+                "tag_name": "sliding_window",
+                "full_name_ko": "슬라이딩 윈도우"
+            },
+            {
+                "algorithm_id": 80,
+                "tag_name": "two_pointer",
+                "full_name_ko": "두 포인터"
+            }
+        ],
+        "lastupdate": 1619127295.9887528
+    },
+    "11404": {
+        "problemId": "11404",
+        "problemLevel": 12,
+        "problemName": "플로이드",
+        "average_try": 2.3769,
+        "solvedtags": [
+            {
+                "algorithm_id": 31,
+                "tag_name": "floyd_warshall",
+                "full_name_ko": "플로이드–와샬"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619127296.066206
+    },
+    "10711": {
+        "problemId": "10711",
+        "problemLevel": 13,
+        "problemName": "모래성",
+        "average_try": 3.589,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1619127296.116663
+    },
+    "20182": {
+        "problemId": "20182",
+        "problemLevel": 14,
+        "problemName": "골목 대장 호석 - 효율성 1",
+        "average_try": 1.8657,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 22,
+                "tag_name": "dijkstra",
+                "full_name_ko": "다익스트라"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1619127296.169622
+    },
+    "5534": {
+        "problemId": "5534",
+        "problemLevel": 6,
+        "problemName": "간판",
+        "average_try": 2.1069,
+        "solvedtags": [
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1619127296.994657
+    },
+    "11049": {
+        "problemId": "11049",
+        "problemLevel": 13,
+        "problemName": "행렬 곱셈 순서",
+        "average_try": 2.2815000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1619127297.044965
+    },
+    "15789": {
+        "problemId": "15789",
+        "problemLevel": 13,
+        "problemName": "CTP 왕국은 한솔 왕국을 이길 수 있을까?",
+        "average_try": 2.2542999999999997,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 81,
+                "tag_name": "disjoint_set",
+                "full_name_ko": "분리 집합"
+            }
+        ],
+        "lastupdate": 1619127297.0942779
+    },
+    "6209": {
+        "problemId": "6209",
+        "problemLevel": 14,
+        "problemName": "제자리 멀리뛰기",
+        "average_try": 2.5439,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            }
+        ],
+        "lastupdate": 1619127297.143889
     }
 }

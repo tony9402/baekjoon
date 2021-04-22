@@ -21,6 +21,9 @@ jobs:
     - name: Run assemble.py
       run: |
          python scripts/auto_update.py --all
+    - name: Run assemble.py
+      run: |
+         python scripts/pick_problem.py --all
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
