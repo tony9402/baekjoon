@@ -6,7 +6,13 @@
         "route": {
             "problemid": "problems/show.json?id="
         },
-        "encoding": "UTF-8"
+        "encoding": "UTF-8",
+        "update": 86400,
+        "solvedtags": [
+            "algorithm_id",
+            "tag_name",
+            "full_name_ko"
+        ]
     },
     "tags": [ 
         "backtracking",
