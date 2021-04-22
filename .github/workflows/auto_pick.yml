@@ -2,7 +2,7 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '30 18,20 * * *'
+    - cron: '30 22 * * *'
 
 jobs:
   build:
@@ -18,9 +18,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pytz
-    - name: Run assemble.py
+    - name: PICK
       run: |
-         python scripts/auto_update.py --all
+         python scripts/pick_problem.py
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
