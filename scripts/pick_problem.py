@@ -1,0 +1,79 @@
+from API import SolvedAPI
+import json
+import subprocess as sp
+import os
+import datetime
+import pytz
+
+def reset():
+    database = dict()
+    with open('./scripts/database.json', 'r') as f:
+        database = json.load(f)
+        f.close()
+
+    pick_data = list()
+    for key, data in database.items():
+        if 1 <= data.get('problemLevel') <= 15:
+            line = f"{key}${data.get('problemLevel')}\n"
+            pick_data.append(line)
+
+    with open('./scripts/pick_data.in', 'w') as f:
+        f.writelines(pick_data)
+        f.close()
+
+def pick():
+    data = None
+    with open('./scripts/pick_data.in', 'r') as f:
+        data = f.readlines()
+        f.close()
+
+    if len(data) <= 30:
+        reset()
+
+    ret = sp.check_output(['./scripts/pick.problem < ./scripts/pick_data.in'], shell=True).decode('utf8').strip().split('\n')
+    ret = [ _ + '$' for _ in ret ]
+
+    remain = list()
+    picked = list()
+    for v in ret:
+        for idx, line in enumerate(data):
+            if line.startswith(v):
+                picked.append(line)
+                del data[idx]
+                break
+
+    remain = data
+
+    preData = list()
+    with open('./picked.md', 'r') as f:
+        preData = f.readlines()
+        f.close()
+
+    timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    saveline = [ f"### {timeformat.strftime('%Y/%m/%d')}\n" ]
+    for problem in picked:
+        problemId, problemLevel = problem.split('$')
+        problemInfo = api.request(problemId)
+        problemName = problemInfo.get('problemName')
+        imageurl = f"<img height=\"25px\" width=\"25px\" src=\"https://static.solved.ac/tier_small/{problemLevel}.svg\"/>"
+        url = f"{imageurl} [{problemId}](https://www.acmicpc.net/problem/{problemId}) {problemName}  \n"
+        saveline.append(url)
+    saveline.append('\n')
+    saveline += preData
+
+    with open('./picked.md', 'w') as f:
+        f.writelines(saveline)
+        f.close()
+
+    with open('./scripts/pick_data.in', 'w') as f:
+        f.writelines(remain)
+        f.close()
+
+if __name__ == "__main__":
+    config = None
+    with open('./scripts/config.json', 'r') as f:
+        config = json.load(f)
+        f.close()
+
+    api = SolvedAPI(config.get("API"))
+    pick()

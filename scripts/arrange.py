@@ -4,7 +4,7 @@ import subprocess as sp
 import os
 import time
 
-EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__', 'markdown' ]
+EXCEPT_FOLDER = [ 'solution', '.git', 'solutions', '.github', '__pycache__', 'markdown', 'scripts' ]
 
 def getProblem(Dir):
     ret = list()
@@ -17,7 +17,7 @@ def Assemble(*args):
     problems = set()
     for i in args:
         for problem in i:
-            problemID = problem.split(',')[-3]
+            problemID = problem.split(',')[-2]
             problems.add(problemID)
     return problems
 
@@ -65,7 +65,7 @@ def getRecommend(*args):
             info = problem.split(",")
             rec = info[0].strip()
             if not rec == '':
-                ret.append((info[-3], ','.join(info[:-3][1:]), getTier(info[-2])))
+                ret.append(info[-2])
     return ret
 
 # Clean Code 생각 X
