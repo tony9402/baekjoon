@@ -16,7 +16,9 @@ def getFolder(path, EXCEPT=list()):
 
 # New Problem Update
 def updateProblems():
+    print("update start")
     table.run()
+    print("update end")
 
 # Solution Update
 def updateSolution():
@@ -96,6 +98,8 @@ if __name__=="__main__":
 
 
     args = parser.parse_args()
+
+    print("START")
 
     if args.pushEvent:
         args.updateSolution = True
