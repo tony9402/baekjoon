@@ -15,7 +15,6 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7274)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-<<<<<<< HEAD
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14929" target="_blank">14929</a> | <a href="https://www.acmicpc.net/problem/14929" target="_blank">귀찮아 (SIB)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |                      |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2167" target="_blank">2167</a> | <a href="https://www.acmicpc.net/problem/2167" target="_blank">2차원 배열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20438" target="_blank">20438</a> | <a href="https://www.acmicpc.net/problem/20438" target="_blank">출석체크</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
@@ -79,4 +78,3 @@
 | 28 |                      | <a href="https://www.acmicpc.net/problem/14476" target="_blank">14476</a> | <a href="https://www.acmicpc.net/problem/14476" target="_blank">최대공약수 하나 빼기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 29 |                      | <a href="https://www.acmicpc.net/problem/19566" target="_blank">19566</a> | <a href="https://www.acmicpc.net/problem/19566" target="_blank">수열의 구간 평균</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 30 |                      | <a href="https://www.acmicpc.net/problem/2900" target="_blank">2900</a> | <a href="https://www.acmicpc.net/problem/2900" target="_blank">프로그램</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
->>>>>>> origin/main
