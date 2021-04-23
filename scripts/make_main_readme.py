@@ -48,6 +48,10 @@ def assemble():
     for md in seq:
         os.system(f"cat ./markdown/{md} >> ./README.md")
 
+def make_contributors():
+    os.system('python3 ./scripts/make_contributor.py')
+
 if __name__=="__main__":
+    make_contributors()
     make_table()
     assemble()
