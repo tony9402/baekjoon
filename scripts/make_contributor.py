@@ -54,6 +54,7 @@ while idx < N:
     idx = idx + 5
 
 LIST.append("</table>")
+LIST.append("\n")
 
 LIST = [ f"{_}\n" for _ in LIST ]
 
