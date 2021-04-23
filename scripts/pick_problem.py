@@ -54,14 +54,17 @@ def pick():
         f.close()
 
     timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-    saveline = [ f"### {timeformat.strftime('%Y/%m/%d')}\n" ]
+    saveline = [ f"## {timeformat.strftime('%Y/%m/%d')}\n" ]
+    saveline.append('\n')
+    saveline.append("| 난이도 | 번호 | 문제 이름 |\n")
+    saveline.append("|:------:|:----:|:---------:|\n")
     for problem in picked:
         problemId, problemLevel = problem.strip().split('$')
         problemInfo = api.request(problemId)
         problemName = problemInfo.get('problemName')
         imageurl = f"<img height=\"25px\" width=\"25px\" src=\"https://static.solved.ac/tier_small/{problemLevel}.svg\"/>"
-        url = f"{imageurl} [{problemId}](https://www.acmicpc.net/problem/{problemId}) {problemName}  \n"
-        saveline.append(url)
+        line = f"| {imageurl} | [{problemId}](https://www.acmicpc.net/problem/{problemId}) | [{problemName}](https://www.acmicpc.net/problem/{problemId}) |\n"
+        saveline.append(line)
     saveline.append('\n')
     saveline += preData
 
