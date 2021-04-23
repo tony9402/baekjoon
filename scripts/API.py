@@ -103,7 +103,7 @@ class SolvedAPI:
             lastupdate = information.get('lastupdate', 0.0)
 
             assert type(lastupdate) == float, "[*** Type Error] lastupdate type is {type(lastupdate)}.\n It must be float"
-            if lastupdate + self.config.get('update') < time.time():
+            if lastupdate + self.config.get('update') > time.time():
                 return information
 
         # update

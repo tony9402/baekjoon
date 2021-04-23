@@ -5,6 +5,8 @@ import os
 import datetime
 import pytz
 
+os.system('g++ -std=c++17 pick_problem.cpp -o pick.problem')
+
 def reset():
     database = dict()
     with open('./scripts/database.json', 'r') as f:
