@@ -109,7 +109,7 @@ if __name__=="__main__":
         os.system('python3 ./scripts/make_main_readme.py')
 
     if args.updateAll or args.updateLevel:
-        db.updateLevel()
+        updateLevel()
 
     if args.updateAll or args.updateSolution:
         updateSolution()
