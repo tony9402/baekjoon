@@ -30,8 +30,10 @@ def pick():
     if len(data) <= 30:
         reset()
 
-    ret = sp.check_output(['./scripts/pick.problem < ./scripts/pick_data.in'], shell=True).decode('utf8').strip().split('\n')
-    ret = [ _ + '$' for _ in ret ]
+    os.system('./scripts/pick.problem < ./scripts/pick_data.in > ./scripts/today_problem.out')
+    with open("./scripts/today_problem.out", "r") as f:
+        ret = [ _.strip() + '$' for _ in f.readlines() ]
+        f.close()
 
     remain = list()
     picked = list()
