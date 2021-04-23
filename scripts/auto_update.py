@@ -108,9 +108,6 @@ if __name__=="__main__":
     if args.pushEvent or args.updateAll or args.updateSolution:
         os.system('python3 ./markdown/make_main_readme.py')
 
-    if args.updateProblem:
-        updateProblems()
-
     if args.updateAll or args.updateLevel:
         db.updateLevel()
 
@@ -118,4 +115,7 @@ if __name__=="__main__":
         updateSolution()
         updateList()
     
+    if args.updateProblem:
+        updateProblems()
+
     updateStatus()
