@@ -20,7 +20,7 @@
 | 00 |  [backtracking](./../../tree/main/backtracking) | 26 |![status](https://img.shields.io/badge/-3.70%25-31AE0F) |  
 | 01 |  [binary_search](./../../tree/main/binary_search) | 17 |![status](https://img.shields.io/badge/-10.53%25-31AE0F) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 23 |![status](https://img.shields.io/badge/-23.33%25-31AE0F) |  
-| 03 |  [data_structure](./../../tree/main/data_structure) | 14 |![status](https://img.shields.io/badge/-6.67%25-31AE0F) |  
+| 03 |  [data_structure](./../../tree/main/data_structure) | 13 |![status](https://img.shields.io/badge/-13.33%25-31AE0F) |  
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
@@ -42,4 +42,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/23 15:46:37 KST**
+**실행한 날짜(log) : 2021/04/23 15:50:35 KST**
