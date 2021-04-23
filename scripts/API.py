@@ -125,7 +125,7 @@ class SolvedAPI:
         assert type(problemId) == str, f"[*** Type Error] problemId type is {type(ProblemId)}.\n It must be string"
         newData = self.__request(problemId)
 
-        exist, information = self.getProblemInformation(problemnId)
+        exist, information = self.getProblemInformation(problemId)
 
         update    = False
         updateLog = ""
