@@ -1,6 +1,20 @@
 ## 업데이트 로그
 
 뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 때문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
+ - 2021.04.22 ~ 2021.04.23
+   - 코드 리팩토링 일부 완료
+     - 나머지는 시간 날때마다 하나씩 할 예정
+   - 문제 뽑는 방식 변경
+     - 이전 방식에서 [새로운](https://raw.githubusercontent.com/tony9402/baekjoon/main/dynamic_programming_2/list.md) 방식으로 변경
+     - 이전 방식 : [추천 문제 여부],[문제 이름],[문제 번호],[난이도],[솔루션 링크]
+     - 새로운 방식 : [추천 문제 여부],[문제 번호],[솔루션 링크]
+   - 매일 새벽에 자동으로 문제 뽑는 스크립트 제작 및 기능 추가
+     - [Solved.ac](https://solved.ac/) 기준 브론즈 5 ~ 골드 1 사이인 문제가 4문제 일정 조건 안에서 랜덤하게 뽑음
+     - [오늘 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md) 형식으로 업데이트.
+     - [문제 뽑는 스크립트](https://github.com/tony9402/baekjoon/blob/main/scripts/pick_problem.cpp)
+   - [Contributors](https://github.com/tony9402/baekjoon#contributors) 정보 만드는 표 스크립트 제작
+     - Contributor 정보만 [여기](https://github.com/tony9402/baekjoon/blob/main/markdown/contributor.json)에 넣으면 자동으로 표를 생성
+
  - 2021.04.20
    - [tree](./tree) 태그 추가
      - 트리와 관련된 문제 뽑았습니다.
