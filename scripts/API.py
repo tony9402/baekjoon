@@ -3,6 +3,8 @@ import ssl
 import json
 import atexit
 import time
+import datetime
+import pytz
 
 # ProblemId     : [str]   문제 번호 
 # ProblemName   : [str]   문제 이름
@@ -103,7 +105,9 @@ class SolvedAPI:
             lastupdate = information.get('lastupdate', 0.0)
 
             assert type(lastupdate) == float, "[*** Type Error] lastupdate type is {type(lastupdate)}.\n It must be float"
-            if lastupdate + self.config.get('update') > time.time():
+            
+            timestamp = datetime.datetime.now(pytz.timezone('Asia/Seoul')).timestamp()
+            if lastupdate + self.config.get('update') > timestamp:
                 return information
 
         # update
@@ -159,7 +163,8 @@ class SolvedAPI:
         # Check data type
         assert type(data) == dict, f"[*** Type Error] data type is {type(data)}.\n It must be dict"
 
-        data['lastupdate'] = time.time()
+        timestamp = datetime.datetime.now(pytz.timezone('Asia/Seoul')).timestamp()
+        data['lastupdate'] = timestamp
         problemId = data.get('problemId')
 
         if problemId in self.database.keys():
