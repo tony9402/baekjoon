@@ -56,7 +56,7 @@ def pick():
     timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
     saveline = [ f"### {timeformat.strftime('%Y/%m/%d')}\n" ]
     for problem in picked:
-        problemId, problemLevel = problem.split('$')
+        problemId, problemLevel = problem.strip().split('$')
         problemInfo = api.request(problemId)
         problemName = problemInfo.get('problemName')
         imageurl = f"<img height=\"25px\" width=\"25px\" src=\"https://static.solved.ac/tier_small/{problemLevel}.svg\"/>"
