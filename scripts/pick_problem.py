@@ -5,7 +5,7 @@ import os
 import datetime
 import pytz
 
-os.system('g++ -std=c++17 pick_problem.cpp -o pick.problem')
+os.system('g++ -std=c++17 ./scripts/pick_problem.cpp -o ./scripts/pick.problem')
 
 def reset():
     database = dict()
