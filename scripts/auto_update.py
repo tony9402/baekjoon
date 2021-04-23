@@ -100,7 +100,6 @@ if __name__=="__main__":
     args = parser.parse_args()
 
     print("START")
-    os.system('git pull')
 
     if args.pushEvent:
         args.updateSolution = True
