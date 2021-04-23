@@ -1,29 +1,30 @@
 ## Contributors
 
+
 <table>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/tony9402"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/30228292?s=460&u=1ff865fa5aee04bc2c09fc2e08042b1f4367c469&v=4" /></a>
+            <a href="https://github.com/tony9402"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/30228292?v=4"/></a>
             <br />
             <a href="https://github.com/tony9402">tony9402</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/4595546?s=460&v=4" /></a>
+            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/4595546?v=4"/></a>
             <br />
             <a href="https://github.com/VSFe">VSFe</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/kim1109123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66085474?s=460&v=4" /></a>
+            <a href="https://github.com/kim1109123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66085474?v=4"/></a>
             <br />
             <a href="https://github.com/kim1109123">kim1109123</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/cola314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66579357?s=460&v=4" /></a>
+            <a href="https://github.com/cola314"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66579357?v=4"/></a>
             <br />
             <a href="https://github.com/cola314">cola314</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/nnnlog"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/20399222?s=460&u=4d359f1433c32c941d9dbb162fe0c2c1b256e05a&v=4" /></a>
+            <a href="https://github.com/nnnlog"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/20399222?v=4"/></a>
             <br />
             <a href="https://github.com/nnnlog">nnnlog</a>
         </td>
@@ -39,9 +40,9 @@
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=klm03025" />
             <br />
-            <a href="https://www.acmicpc.net/user/tony9402">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/klm03025">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/tony9402">solved.ac</a>
+            <a href="https://solved.ac/profile/klm03025">solved.ac</a>
         </td>
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=amsminn" />
@@ -67,12 +68,12 @@
     </tr>
     <tr height="140px">
         <td align="center" width="130px">
-            <a href="https://github.com/inclue"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/13315923?v=4"></a>
+            <a href="https://github.com/inclue"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/13315923?v=4"/></a>
             <br />
             <a href="https://github.com/inclue">inclue</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/yeonjungin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/47666431?v=4"></a>
+            <a href="https://github.com/yeonjungin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/47666431?v=4"/></a>
             <br />
             <a href="https://github.com/yeonjungin">yeonjungin</a>
         </td>
@@ -90,4 +91,3 @@
         </td>
     </tr>
 </table>
-
