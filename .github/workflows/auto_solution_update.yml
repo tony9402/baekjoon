@@ -1,8 +1,8 @@
 name: Auto Solution Update
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  push:
+    branches: [ main ]
 
 jobs:
   build:
