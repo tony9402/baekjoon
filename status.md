@@ -13,7 +13,7 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 0.23% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 23.47% <br><br>
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -42,4 +42,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/24 06:23:31 KST**
+**실행한 날짜(log) : 2021/04/25 02:19:56 KST**
