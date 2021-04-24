@@ -13,11 +13,11 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 24.00% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 25.33% <br><br>
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
-| 00 |  [backtracking](./../../tree/main/backtracking) | 26 |![status](https://img.shields.io/badge/-3.70%25-31AE0F) |  
+| 00 |  [backtracking](./../../tree/main/backtracking) | 21 |![status](https://img.shields.io/badge/-22.22%25-31AE0F) |  
 | 01 |  [binary_search](./../../tree/main/binary_search) | 17 |![status](https://img.shields.io/badge/-10.53%25-31AE0F) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 23 |![status](https://img.shields.io/badge/-23.33%25-31AE0F) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 13 |![status](https://img.shields.io/badge/-13.33%25-31AE0F) |  
@@ -42,4 +42,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/25 04:00:34 KST**
+**실행한 날짜(log) : 2021/04/25 04:46:44 KST**
