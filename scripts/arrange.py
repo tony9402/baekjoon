@@ -82,10 +82,11 @@ def calPercentageOfRec(*args):
             if rec == '':
                 continue
             total += 1
-            
+
             if not link == '':
                 hasSolution += 1
-    return float(hasSolution) / total
+
+    return float(hasSolution) / total * 100
 
 
 # Get Folders
