@@ -26,7 +26,7 @@ jobs:
         git config --local user.email "tony9402@naver.com"
         git config --local user.name "Auto BOT"
         git add .
-        git commit -m "Auto UPDATE"
+        git commit -m "Auto UPDATE (ALL)"
     - name: Push
       uses: ad-m/github-push-action@master
       with:

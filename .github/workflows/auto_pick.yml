@@ -24,9 +24,9 @@ jobs:
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
-        git config --local user.name "Auto BOT"
+        git config --local user.name "Problem Picker"
         git add .
-        git commit -m "Auto UPDATE"
+        git commit -m "Today Problem"
     - name: Push
       uses: ad-m/github-push-action@master
       with:
