@@ -19575,5 +19575,24 @@
             }
         ],
         "lastupdate": 1619417396.666075
+    },
+    "1863": {
+        "problemId": "1863",
+        "problemLevel": 10,
+        "problemName": "스카이라인 쉬운거",
+        "average_try": 2.5438,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 71,
+                "tag_name": "stack",
+                "full_name_ko": "스택"
+            }
+        ],
+        "lastupdate": 1619417490.553449
     }
 }
