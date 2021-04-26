@@ -77,6 +77,11 @@
             <br />
             <a href="https://github.com/yeonjungin">yeonjungin</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/cpprhtn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/63298243?v=4"/></a>
+            <br />
+            <a href="https://github.com/cpprhtn">cpprhtn</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -88,6 +93,13 @@
         </td>
         <td align="center">
             <b>PRIVATE</b>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xkzl9830" />
+            <br />
+            <a href="https://www.acmicpc.net/user/xkzl9830">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/xkzl9830">solved.ac</a>
         </td>
     </tr>
 </table>

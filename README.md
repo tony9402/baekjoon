@@ -41,7 +41,7 @@
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
-| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 22 | ![status][Doing] |
+| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 23 | ![status][Doing] |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 08 | 18 | ![status][Doing] |
 | 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |
 | 03 | Math | 수학 | [바로가기](./math) | 14 | 25 | ![status][Doing] |
@@ -158,6 +158,11 @@
             <br />
             <a href="https://github.com/yeonjungin">yeonjungin</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/cpprhtn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/63298243?v=4"/></a>
+            <br />
+            <a href="https://github.com/cpprhtn">cpprhtn</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -169,6 +174,13 @@
         </td>
         <td align="center">
             <b>PRIVATE</b>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xkzl9830" />
+            <br />
+            <a href="https://www.acmicpc.net/user/xkzl9830">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/xkzl9830">solved.ac</a>
         </td>
     </tr>
 </table>

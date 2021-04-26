@@ -1,6 +1,6 @@
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
-| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 22 | ![status][Doing] |
+| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 15 | 23 | ![status][Doing] |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 08 | 18 | ![status][Doing] |
 | 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |
 | 03 | Math | 수학 | [바로가기](./math) | 14 | 25 | ![status][Doing] |

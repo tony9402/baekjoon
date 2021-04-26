@@ -19551,5 +19551,29 @@
             }
         ],
         "lastupdate": 1619383683.112717
+    },
+    "1864": {
+        "problemId": "1864",
+        "problemLevel": 3,
+        "problemName": "문어 숫자",
+        "average_try": 1.4189,
+        "solvedtags": [
+            {
+                "algorithm_id": 121,
+                "tag_name": "arithmetic",
+                "full_name_ko": "사칙연산"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            }
+        ],
+        "lastupdate": 1619417396.666075
     }
 }
