@@ -48,12 +48,12 @@
 | 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 26 | 60 | ![status][Doing] |
 | 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 25 | 77 | ![status][Doing] |
 | 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 26 | 76 | ![status][Doing] |
-| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 11 | 33 | ![status][Doing] |
+| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 11 | 34 | ![status][Doing] |
 | 08 | Implementation | 구현 | [바로가기](./implementation) | 23 | 43 | ![status][Doing] |
 | 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 28 | 90 | ![status][Doing] |
 | 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 30 | 90 | ![status][Doing] |
 | 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 26 | 44 | ![status][Doing] |
-| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 65 | ![status][Doing] |
+| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 19 | 64 | ![status][Doing] |
 | 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 27 | 74 | ![status][Doing] |
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |
 | 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 10 | 31 | ![status][Doing] |
