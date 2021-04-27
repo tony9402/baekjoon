@@ -24,7 +24,7 @@ jobs:
     - name: Commits
       run: |
         git config --local user.email "tony9402@naver.com"
-        git config --local user.name "Problem Picker"
+        git config --local user.name "tony9402"
         git add .
         git commit -m "Today Problem"
     - name: Push

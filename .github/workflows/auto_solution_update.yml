@@ -24,7 +24,7 @@ jobs:
     - name: Config Github
       run: |
         git config --local user.email "tony9402@naver.com"
-        git config --local user.name "Auto bot (push)"
+        git config --local user.name "tony9402"
         git add .
         git commit -m "Auto Update (PUSH)"
     - name: Push
