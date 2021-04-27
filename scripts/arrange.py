@@ -1,4 +1,5 @@
 # python3 arrange.py > status.md
+# 리팩토링 해야함
 
 import subprocess as sp
 import os
@@ -86,7 +87,7 @@ def calPercentageOfRec(*args):
             if not link == '':
                 hasSolution += 1
 
-    return float(hasSolution) / total * 100
+    return total - hasSolution, float(hasSolution) / total * 100
 
 
 # Get Folders
@@ -113,7 +114,9 @@ print(f"알고리즘 Tag 개수 : {len(Folders)}  ")
 print("\n") # lnln
 
 print("<hr>")
-print(f"각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> {calPercentageOfRec(*Problems):.2f}% <br><br>\n")
+_a, _b = calPercentageOfRec(*Problems)
+print(f"각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> {_b:.2f}% <br><br>\n")
+print(f"남은 문제 수 {_a}/{len(TotalProblem)}\n")
 
 # Make Table (Markdown)
 
