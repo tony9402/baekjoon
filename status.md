@@ -15,6 +15,8 @@
 <hr>
 각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 30.67% <br><br>
 
+남은 문제 수 260/948
+
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
 | 00 |  [backtracking](./../../tree/main/backtracking) | 11 |![status](https://img.shields.io/badge/-59.26%25-31AE0F) |  
@@ -42,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/28 03:29:09 KST**
+**실행한 날짜(log) : 2021/04/28 03:35:41 KST**
