@@ -20,12 +20,12 @@
 ,5549,
 ,2571,
 1,1749,./../solution/prefix_sum/1749
-1,20440,
+1,20440,./../solution/prefix_sum/20440
 ,3673,
 ,5875,
 ,14476,
 ,19566,
 ,16971,./../solution/prefix_sum/16971
 ,2900,
-1,20543,
+1,20543,./../solution/prefix_sum/20543
 1,21318,./../solution/prefix_sum/21318
