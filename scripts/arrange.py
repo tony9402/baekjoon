@@ -116,7 +116,7 @@ print("\n") # lnln
 print("<hr>")
 _a, _b = calPercentageOfRec(*Problems)
 print(f"각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> {_b:.2f}% <br><br>\n")
-print(f"남은 문제 수 {_a}/{len(TotalProblem)}\n")
+print(f"남은 문제 수 {_a}/{len(Recommend_List)}\n")
 
 # Make Table (Markdown)
 
