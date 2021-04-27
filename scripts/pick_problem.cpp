@@ -147,15 +147,15 @@ int main(){
         if(1 <= level && level <= 15) problems.emplace(level, number);
     }
 
-    // 1 ~ 10  1
-    // 11 ~ 13 2
-    // 14 ~ 15 1
+    //  1 ~  8 1
+    //  9 ~ 12 2
+    // 13 ~ 15 1
     
     vector<pair<int, int>> L;
-    L.emplace_back( 1, 10);
-    L.emplace_back(11, 13);
-    L.emplace_back(11, 13);
-    L.emplace_back(14, 15);
+    L.emplace_back( 1,  8); // B5 ~ S3
+    L.emplace_back( 9, 12); // S2 ~ G4
+    L.emplace_back( 9, 12); // S2 ~ G4
+    L.emplace_back(13, 15); // G3 ~ G1
     
     vector<pair<int, int>> output;
     for(auto &[l, r]: L){
