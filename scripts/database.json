@@ -19584,5 +19584,91 @@
             }
         ],
         "lastupdate": 1619549736.46179
+    },
+    "21611": {
+        "problemId": "21611",
+        "problemLevel": 13,
+        "problemName": "마법사 상어와 블리자드",
+        "average_try": 3,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619586053.347175
+    },
+    "21608": {
+        "problemId": "21608",
+        "problemLevel": 9,
+        "problemName": "상어 초등학교",
+        "average_try": 2.5305999999999997,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            }
+        ],
+        "lastupdate": 1619586054.154417
+    },
+    "21609": {
+        "problemId": "21609",
+        "problemLevel": 14,
+        "problemName": "상어 중학교",
+        "average_try": 2.6429,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619586054.973775
+    },
+    "21610": {
+        "problemId": "21610",
+        "problemLevel": 11,
+        "problemName": "마법사 상어와 비바라기",
+        "average_try": 2,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1619586055.762192
     }
 }

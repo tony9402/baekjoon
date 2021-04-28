@@ -7,15 +7,15 @@
 
 
 
-총 문제 수 : 948  
-총 추천 문제 수 : 375 (39.56%)  
+총 문제 수 : 952  
+총 추천 문제 수 : 379 (39.81%)  
 알고리즘 Tag 개수 : 23  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 30.93% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 30.61% <br><br>
 
-남은 문제 수 259/375
+남은 문제 수 263/379
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -31,12 +31,12 @@
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | 27 |![status](https://img.shields.io/badge/-3.57%25-31AE0F) |  
 | 11 |  [greedy](./../../tree/main/greedy) | 25 |![status](https://img.shields.io/badge/-3.85%25-31AE0F) |  
-| 12 |  [implementation](./../../tree/main/implementation) | 6 |![status](https://img.shields.io/badge/-73.91%25-31AE0F) |  
+| 12 |  [implementation](./../../tree/main/implementation) | 8 |![status](https://img.shields.io/badge/-68.00%25-31AE0F) |  
 | 13 |  [math](./../../tree/main/math) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | 18 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 17 |  [simulation](./../../tree/main/simulation) | 20 |![status](https://img.shields.io/badge/-23.08%25-31AE0F) |  
+| 17 |  [simulation](./../../tree/main/simulation) | 22 |![status](https://img.shields.io/badge/-21.43%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 19 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [tree](./../../tree/main/tree) | 15 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/04/28 05:02:53 KST**
+**실행한 날짜(log) : 2021/04/28 14:00:55 KST**
