@@ -6,7 +6,7 @@
 
 [![하루 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402%2Fbaekjoon)](https://github.com/tony9402/baekjoon)
 [![Discussions](https://img.shields.io/badge/discussions-바로가기-brightgreen)](https://github.com/tony9402/baekjoon/discussions)
-[![오늘의 문제](https://img.shields.io/badge/오늘의%20문제-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/main/picked.md)
+[![오늘의 문제 (Beta)](https://img.shields.io/badge/오늘의%20문제-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/main/picked.md)
 
 ❈  코딩테스트을 준비하시는 분들을 위해 문제집을 만들어봤습니다. ❈ 
 
