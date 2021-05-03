@@ -72,6 +72,6 @@
 ,2302,
 ,11568,
 ,12026,
-,14722,
+,14722,./../solution/dynamic_programming_1/14722
 ,13910,
 1,21317,./../solution/dynamic_programming_1/21317
