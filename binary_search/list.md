@@ -1,8 +1,8 @@
 1,1789,./../solution/binary_search/1789
 1,2417,./../solution/binary_search/2417
 ,17266,
-,1920,
-1,10815,
+,1920,./../solution/binary_search/1920
+1,10815,./../solution/binary_search/10815
 ,10816,
 ,20551,
 1,2805,

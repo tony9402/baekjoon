@@ -19685,5 +19685,24 @@
             }
         ],
         "lastupdate": 1619984860.099922
+    },
+    "12015": {
+        "problemId": "12015",
+        "problemLevel": 14,
+        "problemName": "가장 긴 증가하는 부분 수열 2",
+        "average_try": 2.2312000000000003,
+        "solvedtags": [
+            {
+                "algorithm_id": 12,
+                "tag_name": "binary_search",
+                "full_name_ko": "이분 탐색"
+            },
+            {
+                "algorithm_id": 43,
+                "tag_name": "lis",
+                "full_name_ko": "가장 긴 증가하는 부분 수열: O(n log n)"
+            }
+        ],
+        "lastupdate": 1620059347.085761
     }
 }

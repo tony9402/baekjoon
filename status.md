@@ -7,26 +7,26 @@
 
 
 
-총 문제 수 : 952  
-총 추천 문제 수 : 379 (39.81%)  
+총 문제 수 : 953  
+총 추천 문제 수 : 379 (39.77%)  
 알고리즘 Tag 개수 : 23  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 30.61% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 31.40% <br><br>
 
-남은 문제 수 263/379
+남은 문제 수 260/379
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
 | 00 |  [backtracking](./../../tree/main/backtracking) | 11 |![status](https://img.shields.io/badge/-59.26%25-31AE0F) |  
-| 01 |  [binary_search](./../../tree/main/binary_search) | 17 |![status](https://img.shields.io/badge/-10.53%25-31AE0F) |  
+| 01 |  [binary_search](./../../tree/main/binary_search) | 16 |![status](https://img.shields.io/badge/-15.79%25-31AE0F) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 23 |![status](https://img.shields.io/badge/-23.33%25-31AE0F) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 13 |![status](https://img.shields.io/badge/-13.33%25-31AE0F) |  
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
-| 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | 19 |![status](https://img.shields.io/badge/-24.00%25-31AE0F) |  
+| 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | 17 |![status](https://img.shields.io/badge/-32.00%25-31AE0F) |  
 | 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | 25 |![status](https://img.shields.io/badge/-3.85%25-31AE0F) |  
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | 27 |![status](https://img.shields.io/badge/-3.57%25-31AE0F) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 
 
-**실행한 날짜(log) : 2021/05/03 04:47:40 KST**
+**실행한 날짜(log) : 2021/05/04 01:29:07 KST**
