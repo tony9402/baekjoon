@@ -1,3 +1,12 @@
+## 2021/05/04
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2744](https://www.acmicpc.net/problem/2744) | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [6209](https://www.acmicpc.net/problem/6209) | [제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) |
+
 ## 2021/05/03
 
 | 난이도 | 번호 | 문제 이름 |
