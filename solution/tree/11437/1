@@ -1,0 +1,20 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+vector<vector<int>> graph;
+
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int N; cin >> N;
+    graph.resize(N + 1);
+    for(int i = 1; i < N; i++) {
+        int a, b; cin >> a >> b;
+        graph[a].push_back(b);
+        graph[b].push_back(a);
+    }
+
+    return 0;
+}
