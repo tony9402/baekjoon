@@ -59,7 +59,7 @@
 ,2565,
 ,2011,
 1,11660,./../solution/dynamic_programming_1/11660
-,10164,
+,10164,./../solution/dynamic_programming_1/10164
 ,16194,
 ,19622,
 ,15989,./../solution/dynamic_programming_1/15989
