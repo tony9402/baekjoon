@@ -18,6 +18,6 @@
 ,1944,
 ,10423,
 1,1368,./../solution/minimum_spanning_tree/1368
-,20010,
+,20010,./../solution/minimum_spanning_tree/20010
 ,1414,
 ,1045,
