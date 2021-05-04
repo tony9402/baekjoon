@@ -11,7 +11,7 @@
 1,1158,./../solution/data_structure/1158
 1,2164,./../solution/data_structure/2164
 1,1966,
-1,10866,
+1,10866,./../solution/data_structure/10866
 1,2346,
 ,10845,
 ,4949,
