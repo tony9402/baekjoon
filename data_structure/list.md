@@ -1,5 +1,5 @@
 1,10828,./../solution/data_structure/10828
-1,9012,
+1,9012,./../solution/data_structure/9012
 1,1874,
 1,1935,
 1,10799,
@@ -7,9 +7,9 @@
 1,2800,
 1,2493,./../solution/data_structure/2493
 1,1918,
-1,18258,
-1,1158,
-1,2164,
+1,18258,./../solution/data_structure/18258
+1,1158,./../solution/data_structure/1158
+1,2164,./../solution/data_structure/2164
 1,1966,
 1,10866,
 1,2346,
