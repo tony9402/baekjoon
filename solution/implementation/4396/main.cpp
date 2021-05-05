@@ -21,7 +21,6 @@ int main(){
         for(int j=0;j<n;j++){
             if(push[i][j] == '.')continue;
             if(board[i][j] == '*'){
-                push[i][j] = '*';
                 pushed_mine = true;
                 continue;
             }
