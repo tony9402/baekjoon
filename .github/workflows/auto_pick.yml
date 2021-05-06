@@ -2,7 +2,7 @@ name: Auto Pick Problem (Daliy)
 
 on:
   schedule:
-    - cron: '30 22 * * *'
+    - cron: '30 21 * * *'
 
 jobs:
   build:
