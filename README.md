@@ -1,4 +1,4 @@
-# 코딩테스트 대비 문제집
+# 코딩테스트 대비 문제집 with Baekjoon
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)
