@@ -56,12 +56,15 @@
             "link_for_study.md",
             "make_table.py",
             "minidatabase.py",
-            "status.md"
+            "status.md",
+            "assets",
+            "guideline_for_contribute.md"
         ],
         "folder": [
             "solution",
             "scripts",
             "markdown",
+            "assets",
             ".git"
         ],
         "file": [
@@ -77,7 +80,8 @@
             "link_for_study.md",
             "make_table.py",
             "minidatabase.py",
-            "status.md"
+            "status.md",
+            "guideline_for_contribute.md"
         ]
     }
 }
