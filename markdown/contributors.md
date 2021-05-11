@@ -87,6 +87,11 @@
             <br />
             <a href="https://github.com/seastar105">seastar105</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Dev-RubinJo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/16368650?v=4"/></a>
+            <br />
+            <a href="https://github.com/Dev-RubinJo">Dev-RubinJo</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -112,6 +117,41 @@
             <a href="https://www.acmicpc.net/user/seastar105">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/seastar105">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jybin321" />
+            <br />
+            <a href="https://www.acmicpc.net/user/jybin321">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/jybin321">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/shjeong92"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/75003424?v=4"/></a>
+            <br />
+            <a href="https://github.com/shjeong92">shjeong92</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/chj3748"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089817?v=4"/></a>
+            <br />
+            <a href="https://github.com/chj3748">chj3748</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=shjeong92" />
+            <br />
+            <a href="https://www.acmicpc.net/user/shjeong92">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/shjeong92">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chj3748" />
+            <br />
+            <a href="https://www.acmicpc.net/user/chj3748">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/chj3748">solved.ac</a>
         </td>
     </tr>
 </table>
