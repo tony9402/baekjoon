@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/6a874bc16cbc470eb3338e2ec945f180
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -9,16 +12,13 @@ bool bingo() {
     int line = 0;
 
     bool bingo = true;
-    // check x-axis & y-axis
     for(int i=0;i<5;i++){
-        // check x-axis
         bingo = true;
         for(int j=0;j<5;j++){
-            bingo &= used[i][j]; // 모든 곳이 체크 되어야 true
+            bingo &= used[i][j];
         }
         if(bingo) line ++;
         
-        // check y-axis
         bingo = true;
         for(int j=0;j<5;j++){
             bingo &= used[j][i];
@@ -26,7 +26,6 @@ bool bingo() {
         if(bingo) line ++;
     }
 
-    // 대각선
     bingo = true;
     for(int i=0;i<5;i++){
         bingo &= used[i][i];
