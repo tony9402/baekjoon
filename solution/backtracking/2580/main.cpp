@@ -1,4 +1,9 @@
-#include<iostream>
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/0ceb759a209343af89d8559da57a2bb2
+#include<bits/stdc++.h>
+
+using namespace std;
 
 int Quiz[9][9], zeroCnt; 
 bool y[9][10], x[9][10], xy[9][10];
@@ -6,7 +11,7 @@ bool y[9][10], x[9][10], xy[9][10];
 void input() {
     for(int i=0;i<9;i++){
         for(int j=0;j<9;j++){
-            std::cin >> Quiz[i][j];
+            cin >> Quiz[i][j];
             if(Quiz[i][j] == 0)zeroCnt++;
             else {
                 x[j][Quiz[i][j]] = true;
@@ -20,9 +25,9 @@ void input() {
 void output() {
     for(int i=0;i<9;i++){
         for(int j=0;j<9;j++){
-            std::cout << Quiz[i][j] << " ";
+            cout << Quiz[i][j] << " ";
         }
-        std::cout << '\n';
+        cout << '\n';
     }
 }
 
@@ -50,8 +55,8 @@ bool solve() {
 }
 
 int main(){
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(0);
 
     input();
     solve();

@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/bb3cca54213d47268ddc82a82728f730
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -22,7 +25,7 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
 
-    cin >> n;    
+    cin >> n;
     dfs(0, 0);
     cout << ans;
 
