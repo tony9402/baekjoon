@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/3866a743ca954b6fa27922ed08da2b5e
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -18,7 +21,7 @@ int main(){
                 pq.pop();
             }
         }
-        else pq.emplace(abs(x), x); // pq.push(make_pair(abs(x), x));
+        else pq.emplace(abs(x), x);
     }
 
     return 0;

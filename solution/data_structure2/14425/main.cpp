@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/c8831b4a36e741ddb4ae083cc32902ef
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -17,7 +20,6 @@ int main(){
     int answer = 0;
     for(int i=0;i<M;i++){
         string s; cin >> s;
-        // st.count(s) != 0 으로 체크 해도 됨.
         if(st.find(s) != st.end()) answer ++;
     }
     cout << answer;
