@@ -4,14 +4,14 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-int n, ans = INT_MAX, a[21][21];
+int n, ans = INT_MAX, arr[21][21];
 bool v[21];
 
 void input() {
     cin >> n;
     for(int i = 0; i < n; i++) 
         for(int j = 0; j < n; j++) 
-            cin >> a[i][j];
+            cin >> arr[i][j];
 }
 
 int check(int clan) {
@@ -19,7 +19,7 @@ int check(int clan) {
     for(int i = 0; i < n; i++) 
         for(int j = 0; j < n; j++) 
             if(v[i] == clan && v[j] == clan) 
-                res += a[i][j];
+                res += arr[i][j];
     return res;
 }
 
