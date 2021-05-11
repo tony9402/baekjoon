@@ -165,6 +165,11 @@
             <br />
             <a href="https://github.com/cpprhtn">cpprhtn</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/seastar105"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/30820469?v=4"/></a>
+            <br />
+            <a href="https://github.com/seastar105">seastar105</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -183,6 +188,13 @@
             <a href="https://www.acmicpc.net/user/xkzl9830">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/xkzl9830">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seastar105" />
+            <br />
+            <a href="https://www.acmicpc.net/user/seastar105">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/seastar105">solved.ac</a>
         </td>
     </tr>
 </table>
