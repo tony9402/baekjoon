@@ -1,12 +1,11 @@
 # // Authored by : chj3748
 # // Co-authored by : -
 # // Link : http://boj.kr/21536cc8d28a4570aca6c9b48fc41e26
-import sys
 
+import sys
 
 def input():
     return sys.stdin.readline().rstrip()
-
 
 odd_num = -1
 even_num = -1
