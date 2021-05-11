@@ -1,6 +1,6 @@
 # // Authored by : chj3748
 # // Co-authored by : -
-# // Link : https://www.acmicpc.net/source/29179486
+# // Link : http://boj.kr/21536cc8d28a4570aca6c9b48fc41e26
 import sys
 
 
