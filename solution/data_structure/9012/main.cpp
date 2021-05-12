@@ -1,9 +1,12 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/553d0936c1674183a249a58070467343
 #include<bits/stdc++.h>
 
 using namespace std;
 
 string solve(string str) {
-    stack<int> st; //스택을 안써도 되긴 함
+    stack<int> st; 
     for(int i=0;i<(int)str.size();i++){
         if(str[i] == '(') st.push('(');
         else {

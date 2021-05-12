@@ -1,8 +1,10 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/9289c0621c6f41dabd5bfc2ba190a2ce
 #include<bits/stdc++.h>
 
 using namespace std;
 
-// map으로 해도 상관없지만, 순서에는 상관이 없으니 unordered_map으로 사용
 unordered_map<string, string> pokemon;
 unordered_map<string, string> pokemonSeq;
 

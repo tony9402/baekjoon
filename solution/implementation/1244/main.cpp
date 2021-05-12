@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/f13978d7e3b8455c846f5825c6eca041
 #include<bits/stdc++.h>
 
 using namespace std;

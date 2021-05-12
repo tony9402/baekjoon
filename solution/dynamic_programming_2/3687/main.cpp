@@ -1,9 +1,10 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/72c8c91b832f4245a081dca0285edd18
 #include<bits/stdc++.h>
 
 using namespace std;
 
-// 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-// 6, 2, 5, 5, 4, 5, 6, 3, 7, 6
 const string DB[8] = { "0", "0", "1", "7", "4", "2", "0", "8" };
 string minstr[105] = { "0", "0", "1", "7", "4", "2", "6", "8", "10" };
 string maxstr[105];

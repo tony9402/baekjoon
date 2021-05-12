@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/a6ba32f17093473f9e0f5f3dee9f7ced
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -10,7 +13,6 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
 
-    // Input
     int n; cin >> n;
     board.resize(n); push.resize(n);
     for(int i=0;i<n;i++) cin >> board[i];

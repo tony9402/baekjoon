@@ -1,4 +1,10 @@
-# print(bin(int(input(),8))[2:]) 짧은 풀이
+# Authored by : tony9402
+# Co-authored by : -
+# Link : http://boj.kr/7d0d2bcb568d4c3d86770e520838ef65
+import sys
+
+def input():
+    return sys.stdin.readline().rstrip()
 
 def change(num, first = False):
     ret = ''

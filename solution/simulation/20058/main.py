@@ -1,20 +1,23 @@
+# Authored by : tony9402
+# Co-authored by : -
+# Link : http://boj.kr/f0c88b8e08204d33a7e63a384b5fdc4c
 import sys
 from copy import deepcopy
 from collections import deque
 
-def ri():
-    return sys.stdin.readline().strip()
+def input():
+    return sys.stdin.readline().rstrip()
 
 dy = (-1, 1, 0, 0)
 dx = ( 0, 0,-1, 1)
-K, Q = map(int, ri().split())
+K, Q = map(int, input().split())
 N = 1 << K
 
 arr = list()
 for i in range(N):
-    arr.append(list(map(int, ri().split())))
+    arr.append(list(map(int, input().split())))
 
-CMD = list(map(int, ri().split()))
+CMD = list(map(int, input().split()))
 
 for _L in CMD:
     L = 1 << _L

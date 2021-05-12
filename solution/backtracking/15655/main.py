@@ -1,10 +1,13 @@
+# Authored by : tony9402
+# Co-authored by : -
+# Link : http://boj.kr/d4f609a8ba2e40e8b578c37f3d21d344
 import sys
 
-def ri():
-    return sys.stdin.readline().strip()
+def input():
+    return sys.stdin.readline().rstrip()
 
-N, M = map(int, ri().split())
-arr  = sorted(list(map(int, ri().split())))
+N, M = map(int, input().split())
+arr  = sorted(list(map(int, input().split())))
 choose = [ 0 for _ in range(10) ]
 used   = [ 0 for _ in range(10) ]
 

@@ -1,17 +1,21 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/011509a1ee6b4edf8c2b2b2630b9822f
 import java.lang.*;
 import java.util.*;
 import java.io.*;
 
 public class Main{
-    static public void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // Scanner 쓰면 TLE
-        BufferedWriter wr = new BufferedWriter(new OutputStreamWriter(System.out)); // System.out.* 로 써도 가능은 함
+    static public void main(String[] args) {
+        FastReader rd = new FastReader();
 
-        int N = Integer.parseInt(br.readLine());
+        int N = rd.nextInt();
         
-        Stack<String> stack = new Stack<>(); // 값 계산 하는게 없으니 문자열로만 해도 됨.
+        Stack<String> stack = new Stack<>(); 
+
+        StringBuilder out = new StringBuilder();
         for(int i=0;i<N;i++){
-            String[] Line = br.readLine().split(" "); 
+            String[] Line = rd.nextLine().split(" ");
             String cmd = Line[0]; 
 
             if(cmd.equals("push")) {
@@ -19,33 +23,65 @@ public class Main{
             }
             else if(cmd.equals("pop")) {
                 if(stack.empty()){
-                    wr.write("-1");
+                    out.append("-1");
                 }
                 else {
-                    wr.write(stack.peek());
+                    out.append(stack.peek());
                     stack.pop();
                 }
-                wr.newLine();
+                out.append("\n");
             }
             else if(cmd.equals("size")) {
-                wr.write(String.format("%d", stack.size()));
-                wr.newLine();
+                out.append(stack.size() + "\n");
             }
             else if(cmd.equals("empty")) {
-                wr.write(stack.empty() ? "1" : "0");
-                wr.newLine();
+                out.append(stack.empty() ? "1" : "0");
+                out.append("\n");
             }
             else if(cmd.equals("top")) {
                 if(stack.empty()){
-                    wr.write("-1\n");
+                    out.append("-1\n");
                 }
                 else {
-                    wr.write(stack.peek() + "\n");
+                    out.append(stack.peek() + "\n");
                 }
             }
         }
-        
-        wr.flush();
-        wr.close();
+        System.out.print(out);
+    }
+
+    static class FastReader {
+        BufferedReader br;
+        StringTokenizer st;
+
+        public FastReader() {
+            br = new BufferedReader(new InputStreamReader(System.in));
+        }
+
+        String next() {
+            while(st == null || !st.hasMoreElements()) {
+                try {
+                    st = new StringTokenizer(br.readLine());
+                }
+                catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() { return Integer.parseInt(next()); }
+        long nextLong() { return Long.parseLong(next()); }
+        double nextDouble() { return Double.parseDouble(next()); }
+        String nextLine() {
+            String str = "";
+            try {
+                str = br.readLine();
+            }
+            catch (IOException e) {
+                e.printStackTrace();
+            }
+            return str;
+        }
     }
 }

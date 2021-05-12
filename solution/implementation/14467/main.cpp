@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/88f56047b85749c39427398cd19c31e9
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -8,7 +11,6 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
 
-    // 초기화
     for(int i=0;i<=100;i++) used[i] = -1;
 
     int n; cin >> n;

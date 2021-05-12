@@ -1,9 +1,14 @@
+# Authored by : tony9402
+# Co-authored by : -
+# Link : http://boj.kr/ab416f0794fc41cabc3d9ed46db29f60
 import sys
 
-input = sys.stdin.readline
+def input():
+    return sys.stdin.readline().rstrip()
+
 N = int(input())
 
-stack = [] # List 를 이용하여 stack을 구현
+stack = [] 
 
 for i in range(N):
     cmd = input().split()

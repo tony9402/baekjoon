@@ -1,10 +1,12 @@
-# Pypy3
+# Authored by : tony9402
+# Co-authored by : -
+# Link : http://boj.kr/117634e91c71493787610c9e0406a605
 import sys
 
-def ri():
-    return sys.stdin.readline().strip()
+def input():
+    return sys.stdin.readline().rstrip()
 
-N, M = map(int, ri().split())
+N, M = map(int, input().split())
 
 # 1-index
 Map = [ [ 0 for _ in range(M + 1) ] for __ in range(N + 1) ]
