@@ -137,6 +137,11 @@
             <br />
             <a href="https://github.com/chj3748">chj3748</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/seung-00"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46865281?v=4"/></a>
+            <br />
+            <a href="https://github.com/seung-00">seung-00</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -152,6 +157,13 @@
             <a href="https://www.acmicpc.net/user/chj3748">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/chj3748">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osy0056" />
+            <br />
+            <a href="https://www.acmicpc.net/user/osy0056">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/osy0056">solved.ac</a>
         </td>
     </tr>
 </table>
