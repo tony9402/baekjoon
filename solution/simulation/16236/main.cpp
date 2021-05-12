@@ -1,7 +1,9 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/a9ecf254aa654c0f878079eee6e2a275
 #include<bits/stdc++.h>
 
 using namespace std;
-using pii = pair<int, int>;
 
 constexpr int dy[] = {-1,0,0,1};
 constexpr int dx[] = {0,-1,1,0};
@@ -30,8 +32,8 @@ int main(){
         int ny = -1, nx = -1, times = -1;
         Map[sy][sx] = 0;
         
-        queue<pii> q;
-        q.push(pii(sy, sx));
+        queue<pair<int, int>> q;
+        q.push(pair<int, int>(sy, sx));
         visited[sy][sx] = true;
 
         while(!q.empty()){
@@ -54,7 +56,7 @@ int main(){
                     if(visited[qy][qx])continue;
                     visited[qy][qx] = true;
                     if(Map[qy][qx] > sharkSize)continue;
-                    q.push(pii(qy, qx));
+                    q.push(pair<int, int>(qy, qx));
                 } 
             }
             if(~ny){
