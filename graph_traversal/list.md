@@ -1,12 +1,12 @@
 1,1260,./../solution/graph_traversal/1260
-1,2606,
+1,2606,./../solution/graph_traversal/2606
 ,1012,
 ,11724,
 ,4963,
 ,7562,
 ,2644,
 1,11725,./../solution/graph_traversal/11725
-1,1325,
+1,1325,./../solution/graph_traversal/1325
 ,3184,
 ,18352,
 ,16928,
@@ -15,8 +15,8 @@
 ,3187,
 ,18232,
 ,14248,
-1,2178,
-1,2667,
+1,2178,./../solution/graph_traversal/2178
+1,2667,./../solution/graph_traversal/2667
 1,7576,
 ,1697,
 ,2583,
