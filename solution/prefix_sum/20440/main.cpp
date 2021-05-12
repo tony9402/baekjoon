@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/ded80dcd2d094ee8af7c04ff371b3749
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -21,7 +24,7 @@ int main(){
         sum += V[i].second;
         mx = max(mx, sum);
     }
-    // S = 0;
+
     for(int i=0;i<2 * N;i++) {
         sum += V[i].second;
         if(i + 1 < 2 * N && V[i + 1].first == V[i].first) continue;

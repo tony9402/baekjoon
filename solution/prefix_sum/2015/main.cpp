@@ -1,3 +1,6 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/d46daeae8c194cb080f41f07b383b113
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -18,7 +21,6 @@ int main(){
 
         if(prefix[i] == K) answer ++;
 
-        // Overflow 조심
         if(mp.count(prefix[i] - K)) answer += mp[prefix[i] - K];
         mp[prefix[i]] ++;
     }
