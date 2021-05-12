@@ -6,7 +6,7 @@
 ,7562,
 ,2644,
 1,11725,./../solution/graph_traversal/11725
-1,1325,
+1,1325,./../solution/graph_traversal/1325
 ,3184,
 ,18352,
 ,16928,
