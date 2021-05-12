@@ -1,6 +1,7 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/4e4a00d9c5004014aab885f379b3578f
+#include <bits/stdc++.h>
 
 using namespace std;
 typedef long long ll;
