@@ -1,5 +1,5 @@
 1,1260,./../solution/graph_traversal/1260
-1,2606,
+1,2606,./../solution/graph_traversal/2606
 ,1012,
 ,11724,
 ,4963,
