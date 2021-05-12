@@ -1,9 +1,12 @@
+// Authored by : tony9402
+// Co-authored by : -
+// Link : http://boj.kr/d63334103898471cb0d15ee6027d1abc
 #include<bits/stdc++.h>
 
 using namespace std;
 typedef long long ll;
 
-const ll B = 1'000'000'000; // 1e9 -> 1e9 * 1e9 <= LLONG_MAX (9 * 1e18)
+const ll B = 1000000000; // 1e9 -> 1e9 * 1e9 <= LLONG_MAX (9 * 1e18)
 pair<ll, ll> LLONG_MX = pair<ll, ll>(LLONG_MAX / B, LLONG_MAX % B);
 
 int convert(char x){
