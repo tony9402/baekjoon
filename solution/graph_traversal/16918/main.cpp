@@ -6,8 +6,8 @@ using namespace std;
 int R, C, N;
 int dx[4] = {-1, 1, 0, 0};
 int dy[4] = {0, 0, -1, 1};
-vector<string> a(200);
-int fire_time[200][200];
+vector<string> a(201);
+int fire_time[201][201];
 
 bool valid(int x, int y) {
     return 0<=x && x<R && 0<=y && y<C;
