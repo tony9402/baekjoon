@@ -34,7 +34,10 @@ def answer(line, max_seq, coupon):
 
 
 import sys
-input = sys.stdin.readline
+
+def input():
+    return sys.stdin.readline().rstrip()
+
 n, f_kind, max_seq, coupon = map(int, input().split())
 line = [int(input().rstrip()) for _ in range(n)]
 eat = [0 for _ in range(3000001)]
