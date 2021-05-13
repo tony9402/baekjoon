@@ -225,6 +225,11 @@
             <br />
             <a href="https://github.com/seung-00">seung-00</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bn-tw2020"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/66770613?v=4"/></a>
+            <br />
+            <a href="https://github.com/bn-tw2020">bn-tw2020</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -247,6 +252,13 @@
             <a href="https://www.acmicpc.net/user/osy0056">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/osy0056">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ap4o" />
+            <br />
+            <a href="https://www.acmicpc.net/user/ap4o">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/ap4o">solved.ac</a>
         </td>
     </tr>
 </table>
