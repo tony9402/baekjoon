@@ -1,9 +1,12 @@
 # Authored by : kis03160
-# Co-authored by : -
+# Co-authored by : tony9402
 # Link : http://boj.kr/a074da0ce3c34775a50d386da92800e4
+import sys
+
+def input():
+    return sys.stdin.readline().rstrip()
 
 def answer(line, max_seq, coupon):
-    global n, eat
 
     count = 0
     for i in range(max_seq):
@@ -32,13 +35,7 @@ def answer(line, max_seq, coupon):
 
     return max_count
 
-
-import sys
-
-def input():
-    return sys.stdin.readline().rstrip()
-
 n, f_kind, max_seq, coupon = map(int, input().split())
-line = [int(input().rstrip()) for _ in range(n)]
+line = [int(input()) for _ in range(n)]
 eat = [0 for _ in range(3000001)]
 print(answer(line, max_seq, coupon))
