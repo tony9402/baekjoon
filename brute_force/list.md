@@ -1,5 +1,5 @@
 ,9094,
-,4690,
+,4690,./../solution/brute_force/4690
 ,3040,
 ,10448,
 1,2798,./../solution/brute_force/2798
