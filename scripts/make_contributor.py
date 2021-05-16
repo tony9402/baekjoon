@@ -19,11 +19,12 @@ LIST.append(LN)
 LIST.append("<table>")
 
 idx = 0
+columns = 6
 SP  = "    "
 N   = len(contributors)
 
 while idx < N:
-    cur = contributors[idx:idx + 5]
+    cur = contributors[idx:idx + columns]
 
     # TOP
     LIST.append(f"{SP}<tr height=\"140px\">")
@@ -51,7 +52,7 @@ while idx < N:
             LIST.append(f"{SP}{SP}{SP}<a href=\"https://solved.ac/profile/{baekjoon}\">solved.ac</a>")
         LIST.append(f"{SP}{SP}</td>")
     LIST.append(f"{SP}</tr>")
-    idx = idx + 5
+    idx = idx + columns
 
 LIST.append("</table>")
 LIST.append("\n")
