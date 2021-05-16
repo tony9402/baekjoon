@@ -61,7 +61,7 @@ arr = [list(map(int, input().split())) for _ in range(n)]
 empty, virus = get_pos()  # 빈 위치, 바이러스 위치
 combs = combinations(empty, 3)  # 벽을 세울 수 있는 조합
 
-count = 1e9  # 바이러스 개수
+count = int(1e9)  # 바이러스 개수
 # 모든 조합에 대해서
 for comb in combs:
     # 벽 세우기
