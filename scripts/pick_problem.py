@@ -37,8 +37,9 @@ def update():
     newdata = list()
     for line in data:
         problemId, problemLevel = line.split('$')
-        problemLevel = api.request(problemId)
-        newdata.append(f"{problemId}${problemLevel}")
+        problemInfo = api.request(problemId)
+        problemLevel = problemInfo["problemLevel"]
+        newdata.append(f"{problemId}${problemLevel}\n")
 
     with open('./scripts/pick_data.in', 'w') as f:
         f.writelines(newdata)
@@ -65,7 +66,7 @@ def make_table():
             line = f"| {imageurl} | [{problem}](https://www.acmicpc.net/problem/{problem}) | [{problemName}](https://www.acmicpc.net/problem/{problem}) |\n"
             saveline.append(line)
 
-    saveline.append('\n')
+        saveline.append('\n')
 
     with open('./picked.md', 'w') as f:
         f.writelines(saveline)
@@ -128,5 +129,5 @@ if __name__ == "__main__":
     api = SolvedAPI(config.get("API"))
     
     update()
-    pick()
+    # pick()
     make_table()
