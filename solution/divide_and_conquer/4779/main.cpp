@@ -9,7 +9,7 @@ string answer;
 
 void dfs(int L, int dis) {
     if(dis == 1) {
-        answer[L - 1] = '-';
+        answer[L] = '-';
         return;
     }
 
@@ -27,7 +27,7 @@ int main(){
         int N = 1;
         for(int i = 0; i < k; i++) N *= 3;
         answer = string(N, ' ');
-        dfs(1, N);
+        dfs(0, N);
         cout << answer << '\n';
     }
 
