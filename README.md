@@ -273,6 +273,22 @@
             <a href="https://solved.ac/profile/kis03160">solved.ac</a>
         </td>
     </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/CoodingPenguin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/37505775?v=4"/></a>
+            <br />
+            <a href="https://github.com/CoodingPenguin">CoodingPenguin</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=unodostre" />
+            <br />
+            <a href="https://www.acmicpc.net/user/unodostre">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/unodostre">solved.ac</a>
+        </td>
+    </tr>
 </table>
 
 
