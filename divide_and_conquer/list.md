@@ -1,5 +1,5 @@
 1,2630,./../solution/divide_and_conquer/2630
-,4779,
+,4779,./../solution/divide_and_conquer/4779
 ,1780,
 1,17829,./../solution/divide_and_conquer/17829
 1,18222,./../solution/divide_and_conquer/18222
