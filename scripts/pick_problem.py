@@ -23,6 +23,54 @@ def reset():
         f.writelines(pick_data)
         f.close()
 
+def update():
+    data = None
+    with open('./scripts/pick_data.in', 'r') as f:
+        data = f.readlines()
+        f.close()
+
+    problem_database = None
+    with open('./scripts/database.json', 'r') as f:
+        problem_database = json.load(f)
+        f.close()
+
+    newdata = list()
+    for line in data:
+        problemId, problemLevel = line.split('$')
+        problemLevel = api.request(problemId)
+        newdata.append(f"{problemId}${problemLevel}")
+
+    with open('./scripts/pick_data.in', 'w') as f:
+        f.writelines(newdata)
+        f.close()
+
+def make_table():
+    data = dict()
+    with open('./scripts/picked.json', 'r') as f:
+        data = json.load(f)
+        f.close()
+
+    saveline = []
+    keys = data.keys()
+    for key in keys:
+        saveline.append(f"## {key} \n")
+        saveline.append('\n')
+        saveline.append("| 난이도 | 번호 | 문제 이름 |\n")
+        saveline.append("|:------:|:----:|:---------:|\n")
+        for problem in data[key]:
+            problemInfo = api.request(problem)
+            problemName = problemInfo.get('problemName')
+            problemLevel = problemInfo.get('problemLevel')
+            imageurl = f"<img height=\"25px\" width=\"25px\" src=\"https://static.solved.ac/tier_small/{problemLevel}.svg\"/>"
+            line = f"| {imageurl} | [{problem}](https://www.acmicpc.net/problem/{problem}) | [{problemName}](https://www.acmicpc.net/problem/{problem}) |\n"
+            saveline.append(line)
+
+    saveline.append('\n')
+
+    with open('./picked.md', 'w') as f:
+        f.writelines(saveline)
+        f.close()
+
 def pick():
     data = None
     with open('./scripts/pick_data.in', 'r') as f:
@@ -48,28 +96,23 @@ def pick():
 
     remain = data
 
-    preData = list()
-    with open('./picked.md', 'r') as f:
-        preData = f.readlines()
+    picked_json = dict()
+    with open('./scripts/picked.json', 'r') as f:
+        picked_json = json.load(f)
         f.close()
 
     timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-    saveline = [ f"## {timeformat.strftime('%Y/%m/%d')}\n" ]
-    saveline.append('\n')
-    saveline.append("| 난이도 | 번호 | 문제 이름 |\n")
-    saveline.append("|:------:|:----:|:---------:|\n")
+    timeformat = f"{timeformat.strftime('%Y/%m/%d')}"
+    new_data = dict()
+    new_data[timeformat] = list()
     for problem in picked:
         problemId, problemLevel = problem.strip().split('$')
-        problemInfo = api.request(problemId)
-        problemName = problemInfo.get('problemName')
-        imageurl = f"<img height=\"25px\" width=\"25px\" src=\"https://static.solved.ac/tier_small/{problemLevel}.svg\"/>"
-        line = f"| {imageurl} | [{problemId}](https://www.acmicpc.net/problem/{problemId}) | [{problemName}](https://www.acmicpc.net/problem/{problemId}) |\n"
-        saveline.append(line)
-    saveline.append('\n')
-    saveline += preData
+        new_data[timeformat].append(problemId)
 
-    with open('./picked.md', 'w') as f:
-        f.writelines(saveline)
+    new_data.update(picked_json)
+
+    with open('./scripts/picked.json', 'w') as f:
+        f.write(json.dumps(new_data, indent=4, ensure_ascii=False))
         f.close()
 
     with open('./scripts/pick_data.in', 'w') as f:
@@ -83,4 +126,7 @@ if __name__ == "__main__":
         f.close()
 
     api = SolvedAPI(config.get("API"))
+    
+    update()
     pick()
+    make_table()
