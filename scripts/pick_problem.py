@@ -5,8 +5,6 @@ import os
 import datetime
 import pytz
 
-os.system('g++ -std=c++17 ./scripts/pick_problem.cpp -o ./scripts/pick.problem')
-
 def reset():
     database = dict()
     with open('./scripts/database.json', 'r') as f:
@@ -73,6 +71,8 @@ def make_table():
         f.close()
 
 def pick():
+    os.system('g++ -std=c++17 ./scripts/pick_problem.cpp -o ./scripts/pick.problem')
+
     data = None
     with open('./scripts/pick_data.in', 'r') as f:
         data = f.readlines()
@@ -129,5 +129,5 @@ if __name__ == "__main__":
     api = SolvedAPI(config.get("API"))
     
     update()
-    # pick()
+    pick()
     make_table()
