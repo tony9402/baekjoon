@@ -18,15 +18,17 @@ for idx in range(N):
         min_size = oranges[idx]
         for j in range(M):
             left_idx = idx - j
-            if left_idx >= 0:
-                if max_size < oranges[left_idx]:
-                    max_size = oranges[left_idx]
-                if min_size > oranges[left_idx]:
-                    min_size = oranges[left_idx]
-                if left_idx - 1 >= 0:
-                    temp = dp[left_idx - 1] + K + (max_size - min_size) * (j + 1)
-                else:
-                    temp = K + (max_size - min_size) * (j + 1)
-                if dp[idx] > temp:
-                    dp[idx] = temp
+            if left_idx < 0:
+                break
+            if max_size < oranges[left_idx]:
+                max_size = oranges[left_idx]
+            if min_size > oranges[left_idx]:
+                min_size = oranges[left_idx]
+            if left_idx - 1 >= 0:
+                temp = dp[left_idx - 1] + K + (max_size - min_size) * (j + 1)
+            else:
+                temp = K + (max_size - min_size) * (j + 1)
+            if dp[idx] > temp:
+                dp[idx] = temp
+
 print(dp[N - 1])
