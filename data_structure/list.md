@@ -6,7 +6,7 @@
 1,2504,
 1,2800,
 1,2493,./../solution/data_structure/2493
-1,1918,
+1,1918,./../solution/data_structure/1918
 1,18258,./../solution/data_structure/18258
 1,1158,./../solution/data_structure/1158
 1,2164,./../solution/data_structure/2164
