@@ -37,7 +37,8 @@ for sort_n in range(3):
     for i in range(N - 1):
         p1x, p1 = planets[i][sort_n], planets[i][3]
         p2x, p2 = planets[i + 1][sort_n], planets[i + 1][3]
-        heapq.heappush(edges, [abs(p1x - p2x), p1, p2])
+        heapq.heappush(edges, [ abs(p1x - p2x), p1, p2 ])
+
 answer = 0
 cnt = 0
 while edges:
