@@ -19772,5 +19772,24 @@
             }
         ],
         "lastupdate": 1621272876.75452
+    },
+    "21756": {
+        "problemId": "21756",
+        "problemLevel": 4,
+        "problemName": "지우개",
+        "average_try": 1,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1621273003.487372
     }
 }
