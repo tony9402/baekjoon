@@ -14,7 +14,7 @@
 ,14950,
 ,2406,
 ,17490,
-,2887,
+,2887,./../solution/minimum_spanning_tree/2887
 ,1944,
 ,10423,
 1,1368,./../solution/minimum_spanning_tree/1368
