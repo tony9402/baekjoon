@@ -171,6 +171,11 @@
             <br />
             <a href="https://github.com/CoodingPenguin">CoodingPenguin</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bsm8734"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/35002768?v=4"/></a>
+            <br />
+            <a href="https://github.com/bsm8734">bsm8734</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -200,6 +205,13 @@
             <a href="https://www.acmicpc.net/user/unodostre">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/unodostre">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bsoomin8734" />
+            <br />
+            <a href="https://www.acmicpc.net/user/bsoomin8734">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/bsoomin8734">solved.ac</a>
         </td>
     </tr>
 </table>
