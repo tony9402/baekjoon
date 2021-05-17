@@ -29,4 +29,4 @@
 ,2900,
 1,20543,./../solution/prefix_sum/20543
 1,21318,./../solution/prefix_sum/21318
-1,21757,
+1,21757,./../solution/prefix_sum/21757
