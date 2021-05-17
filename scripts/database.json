@@ -19734,5 +19734,43 @@
             }
         ],
         "lastupdate": 1621194829.594851
+    },
+    "21758": {
+        "problemId": "21758",
+        "problemLevel": 9,
+        "problemName": "꿀 따기",
+        "average_try": 1,
+        "solvedtags": [
+            {
+                "algorithm_id": 137,
+                "tag_name": "case_work",
+                "full_name_ko": "Case work"
+            },
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            },
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1621272875.865353
+    },
+    "21757": {
+        "problemId": "21757",
+        "problemLevel": 10,
+        "problemName": "나누기",
+        "average_try": 2.25,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            }
+        ],
+        "lastupdate": 1621272876.75452
     }
 }
