@@ -22,7 +22,6 @@ for _ in range(P):
     if gate_n == 0:
         print(answer)
         sys.exit(0)
-        break
     answer += 1
     gates[gate_n] = gates[gate_n - 1]
 print(answer)
