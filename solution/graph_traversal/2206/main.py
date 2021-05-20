@@ -1,11 +1,14 @@
 # Authored by : kis03160
 # Co-authored by : tony9402
 # Link : http://boj.kr/2cb5e18deb964794bec3e960225ad83e
-
 from collections import deque
+import sys
+
+def input():
+    return sys.stdin.readline().rstrip()
 
 def answer(row, col):
-    global G, m, n, walls
+    global m, n
 
     shortest = 10000001
     q = deque()
@@ -48,10 +51,7 @@ def answer(row, col):
 
     return return_val
 
-import sys
-
-def input():
-    return sys.stdin.readline().rstrip()n, m = map(int, input().split())
+n, m = map(int, input().split())
 
 G = []
 walls = []
