@@ -13,9 +13,9 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 39.47% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 39.74% <br><br>
 
-남은 문제 수 230/380
+남은 문제 수 229/380
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -36,7 +36,7 @@
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 15 |  [prefix_sum](./../../tree/main/prefix_sum) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 16 |  [shortest_path](./../../tree/main/shortest_path) | 17 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
-| 17 |  [simulation](./../../tree/main/simulation) | 22 |![status](https://img.shields.io/badge/-21.43%25-31AE0F) |  
+| 17 |  [simulation](./../../tree/main/simulation) | 21 |![status](https://img.shields.io/badge/-25.00%25-31AE0F) |  
 | 18 |  [string](./../../tree/main/string) | 17 |![status](https://img.shields.io/badge/-10.53%25-31AE0F) |  
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [tree](./../../tree/main/tree) | 13 |![status](https://img.shields.io/badge/-13.33%25-31AE0F) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 10 |![status](https://img.shields.io/badge/-9.09%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2021/05/27 05:19:31 KST**
+**실행한 날짜(log) : 2021/05/28 03:42:08 KST**
