@@ -1,3 +1,12 @@
+## 2021/05/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [6550](https://www.acmicpc.net/problem/6550) | [부분 문자열](https://www.acmicpc.net/problem/6550) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [12919](https://www.acmicpc.net/problem/12919) | [A와 B 2](https://www.acmicpc.net/problem/12919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14675](https://www.acmicpc.net/problem/14675) | [단절점과 단절선](https://www.acmicpc.net/problem/14675) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8980](https://www.acmicpc.net/problem/8980) | [택배](https://www.acmicpc.net/problem/8980) |
+
 ## 2021/05/27 
 
 | 난이도 | 번호 | 문제 이름 |
