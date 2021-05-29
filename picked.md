@@ -1,3 +1,12 @@
+## 2021/05/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11653](https://www.acmicpc.net/problem/11653) | [소인수분해](https://www.acmicpc.net/problem/11653) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9934](https://www.acmicpc.net/problem/9934) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15918](https://www.acmicpc.net/problem/15918) | [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9470](https://www.acmicpc.net/problem/9470) | [Strahler 순서](https://www.acmicpc.net/problem/9470) |
+
 ## 2021/05/29 
 
 | 난이도 | 번호 | 문제 이름 |
