@@ -2,7 +2,9 @@
 // Co-authored by : -
 // Link : https://www.acmicpc.net/source/share/628806951c694c76a58fa0c5e510d10f
 #include<bits/stdc++.h>
+
 using namespace std;
+
 int dy[4] = {-1, 1, 0, 0};
 int dx[4] = {0, 0, -1, 1};
 int N;
@@ -11,7 +13,7 @@ bool vis[55][55];
 int L, R;
 
 bool valid(int y, int x) {
-	return 0<=y && y<N && 0<=x && x<N;
+	return 0 <= y && y < N && 0 <= x && x < N;
 }
 
 bool bfs() {
@@ -26,7 +28,7 @@ bool bfs() {
 			if(vis[i][j]) continue;
 			vector<pair<int,int>> cur;
 			int sum = 0;
-			q.push({i, j});
+			q.emplace(i, j);
 			vis[i][j] = true;
 			while(!q.empty()) {
 				int y = q.front().first;
@@ -42,7 +44,7 @@ bool bfs() {
 					if(diff > R || diff < L) continue;
 					flag = true;
 					vis[ny][nx] = true;
-					q.push({ny, nx});
+					q.emplace(ny, nx);
 				}
 			}
 			comp.push_back(cur);
