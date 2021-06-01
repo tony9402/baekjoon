@@ -15,11 +15,10 @@ for _ in range(N):
 end_points = []
 while lecture:
     l = heapq.heappop(lecture)
-    temp = []
+    
     if end_points:
         if l[0] >= end_points[0]:
             heapq.heappop(end_points)
     heapq.heappush(end_points, l[1])
 
 print(len(end_points))
-
