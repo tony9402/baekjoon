@@ -1,3 +1,12 @@
+## 2021/06/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [12764](https://www.acmicpc.net/problem/12764) | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) |
+
 ## 2021/06/02 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -282,7 +291,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9012](https://www.acmicpc.net/problem/9012) | [괄호](https://www.acmicpc.net/problem/9012) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14722](https://www.acmicpc.net/problem/14722) | [우유 도시](https://www.acmicpc.net/problem/14722) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14722](https://www.acmicpc.net/problem/14722) | [우유 도시](https://www.acmicpc.net/problem/14722) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15684](https://www.acmicpc.net/problem/15684) | [사다리 조작](https://www.acmicpc.net/problem/15684) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6137](https://www.acmicpc.net/problem/6137) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
 
