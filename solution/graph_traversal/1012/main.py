@@ -3,11 +3,13 @@
 #Link : https://www.acmicpc.net/source/share/061583cd645e449d9936ecd6491016f4
 import sys
 from collections import deque
+
 def input():
     return sys.stdin.readline().rstrip()
-def bfs(x,y):
+
+def bfs(x, y):
     queue = deque()
-    queue.append((x,y))
+    queue.append((x, y))
     visited[x][y] = True
     while queue:
         x,y = queue.popleft()
@@ -22,12 +24,13 @@ def bfs(x,y):
 T = int(input())
 dx = [-1,1,0,0]
 dy = [0,0,-1,1]
+
 for _ in range(T):
-    M,N,K = map(int,input().split())
+    M, N, K = map(int, input().split())
     field = [[0 for _ in range(M)] for _ in range(N)]
     visited = [[False for _ in range(M)] for _ in range(N)]
     for _ in range(K):
-        y,x = map(int,input().split())
+        y, x = map(int,input().split())
         field[x][y] = 1
     result = 0
     for x in range(N):
@@ -35,4 +38,5 @@ for _ in range(T):
             if field[x][y] and not visited[x][y]:
                 bfs(x,y)
                 result += 1
+
     print(result)
