@@ -19984,5 +19984,124 @@
             }
         ],
         "lastupdate": 1622830093.992172
+    },
+    "21925": {
+        "problemId": "21925",
+        "problemLevel": 13,
+        "problemName": "짝수 팰린드롬",
+        "average_try": 1.5556,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1622830850.72187
+    },
+    "21923": {
+        "problemId": "21923",
+        "problemLevel": 12,
+        "problemName": "곡예 비행",
+        "average_try": 1.875,
+        "solvedtags": [
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            }
+        ],
+        "lastupdate": 1622830851.474961
+    },
+    "21920": {
+        "problemId": "21920",
+        "problemLevel": 7,
+        "problemName": "서로소 평균",
+        "average_try": 1.1,
+        "solvedtags": [
+            {
+                "algorithm_id": 26,
+                "tag_name": "euclidean",
+                "full_name_ko": "유클리드 호제법"
+            },
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 95,
+                "tag_name": "number_theory",
+                "full_name_ko": "정수론"
+            }
+        ],
+        "lastupdate": 1622830852.268766
+    },
+    "21919": {
+        "problemId": "21919",
+        "problemLevel": 7,
+        "problemName": "소수 최소 공배수",
+        "average_try": 2.3846,
+        "solvedtags": [
+            {
+                "algorithm_id": 124,
+                "tag_name": "math",
+                "full_name_ko": "수학"
+            },
+            {
+                "algorithm_id": 95,
+                "tag_name": "number_theory",
+                "full_name_ko": "정수론"
+            },
+            {
+                "algorithm_id": 9,
+                "tag_name": "primality_test",
+                "full_name_ko": "소수 판정"
+            },
+            {
+                "algorithm_id": 67,
+                "tag_name": "sieve",
+                "full_name_ko": "에라토스테네스의 체"
+            }
+        ],
+        "lastupdate": 1622830853.03218
+    },
+    "21924": {
+        "problemId": "21924",
+        "problemLevel": 12,
+        "problemName": "도시 건설",
+        "average_try": 1,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 49,
+                "tag_name": "mst",
+                "full_name_ko": "최소 스패닝 트리"
+            }
+        ],
+        "lastupdate": 1622830853.787673
+    },
+    "21921": {
+        "problemId": "21921",
+        "problemLevel": 8,
+        "problemName": "블로그",
+        "average_try": 1.0909,
+        "solvedtags": [
+            {
+                "algorithm_id": 139,
+                "tag_name": "prefix_sum",
+                "full_name_ko": "누적 합"
+            },
+            {
+                "algorithm_id": 68,
+                "tag_name": "sliding_window",
+                "full_name_ko": "슬라이딩 윈도우"
+            }
+        ],
+        "lastupdate": 1622830854.561951
     }
 }
