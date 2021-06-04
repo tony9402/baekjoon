@@ -1,11 +1,11 @@
 # Authored by : gkgg123
 # Co-authored by : -
-# Link : https://www.acmicpc.net/source/share/c79ad6eb7c0e404c9beaf828f6d59e24
+# Link : http://boj.kr/ab9a5bb2d14943b3aefaf98f4648a469
 import sys
 from collections import deque
 def input():
     return sys.stdin.readline().rstrip()
-def dfs(N):
+def bfs(N):
     queue = deque()
     for i in range(1,10):
         queue.append((i,str(i)))
@@ -24,7 +24,7 @@ result = []
 for i in range(10):
     result.append(i)
 if N >=10:
-    dfs(N)
+    bfs(N)
 if len(result) > N:
     print(result[N])
 else:
