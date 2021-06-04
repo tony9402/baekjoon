@@ -259,6 +259,11 @@
             <br />
             <a href="https://github.com/bsm8734">bsm8734</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/gkgg123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089810?v=4"/></a>
+            <br />
+            <a href="https://github.com/gkgg123">gkgg123</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -295,6 +300,13 @@
             <a href="https://www.acmicpc.net/user/bsoomin8734">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/bsoomin8734">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkgg123" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gkgg123">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gkgg123">solved.ac</a>
         </td>
     </tr>
 </table>
