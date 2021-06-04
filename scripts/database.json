@@ -19936,5 +19936,53 @@
             }
         ],
         "lastupdate": 1622754154.14871
+    },
+    "21918": {
+        "problemId": "21918",
+        "problemLevel": 4,
+        "problemName": "전구",
+        "average_try": 1.0909,
+        "solvedtags": [
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1622830093.041989
+    },
+    "21922": {
+        "problemId": "21922",
+        "problemLevel": 10,
+        "problemName": "학부 연구생 민상",
+        "average_try": 3.8333,
+        "solvedtags": [
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 141,
+                "tag_name": "simulation",
+                "full_name_ko": "시뮬레이션"
+            }
+        ],
+        "lastupdate": 1622830093.992172
     }
 }
