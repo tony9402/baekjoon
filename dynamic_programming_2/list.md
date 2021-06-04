@@ -76,3 +76,5 @@
 1,3687,./../solution/dynamic_programming_2/3687
 ,12015,./../solution/dynamic_programming_2/12015
 ,11909,./../solution/dynamic_programming_2/11909
+,21925,
+1,21923,

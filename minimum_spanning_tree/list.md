@@ -21,3 +21,4 @@
 ,20010,./../solution/minimum_spanning_tree/20010
 ,1414,
 ,1045,
+1,21924,
