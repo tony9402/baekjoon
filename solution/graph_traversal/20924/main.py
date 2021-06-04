@@ -1,8 +1,12 @@
 # Authored by : kis03160
 # Co-authored by : tony9402
 # Link : http://boj.kr/2cb5e18deb964794bec3e960225ad83e
-
 from collections import deque
+import sys
+
+def input():
+    return sys.stdin.readline().rstrip()
+
 def answer(G, r):
     is_giga_find = False
     longest = 0
@@ -37,11 +41,6 @@ def answer(G, r):
 
     # 기둥, 가장 긴 가지 길이(루트~해당가지 길이 - 기둥 길이)
     return body, longest - body
-
-import sys
-
-def input():
-    return sys.stdin.readline().rstrip()
 
 n, r = map(int, input().split())
 G = {i: dict() for i in range(n + 1)}
