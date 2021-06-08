@@ -7,27 +7,27 @@
 
 
 
-총 문제 수 : 964  
-총 추천 문제 수 : 387 (40.15%)  
+총 문제 수 : 971  
+총 추천 문제 수 : 392 (40.37%)  
 알고리즘 Tag 개수 : 23  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 39.79% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 39.29% <br><br>
 
-남은 문제 수 233/387
+남은 문제 수 238/392
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
 | 00 |  [backtracking](./../../tree/main/backtracking) | 11 |![status](https://img.shields.io/badge/-59.26%25-31AE0F) |  
 | 01 |  [binary_search](./../../tree/main/binary_search) | 16 |![status](https://img.shields.io/badge/-15.79%25-31AE0F) |  
-| 02 |  [brute_force](./../../tree/main/brute_force) | 23 |![status](https://img.shields.io/badge/-23.33%25-31AE0F) |  
+| 02 |  [brute_force](./../../tree/main/brute_force) | 24 |![status](https://img.shields.io/badge/-22.58%25-31AE0F) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 7 |![status](https://img.shields.io/badge/-53.33%25-31AE0F) |  
-| 04 |  [data_structure2](./../../tree/main/data_structure2) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
+| 04 |  [data_structure2](./../../tree/main/data_structure2) | 3 |![status](https://img.shields.io/badge/-72.73%25-31AE0F) |  
 | 05 |  [disjoint_set](./../../tree/main/disjoint_set) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 06 |  [divide_and_conquer](./../../tree/main/divide_and_conquer) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 07 |  [dynamic_programming_1](./../../tree/main/dynamic_programming_1) | 15 |![status](https://img.shields.io/badge/-40.00%25-31AE0F) |  
-| 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | 23 |![status](https://img.shields.io/badge/-14.81%25-31AE0F) |  
+| 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | 24 |![status](https://img.shields.io/badge/-14.29%25-31AE0F) |  
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | 13 |![status](https://img.shields.io/badge/-53.57%25-31AE0F) |  
 | 11 |  [greedy](./../../tree/main/greedy) | 24 |![status](https://img.shields.io/badge/-11.11%25-31AE0F) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-8.33%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2021/06/08 06:00:33 KST**
+**실행한 날짜(log) : 2021/06/08 22:05:33 KST**

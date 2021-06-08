@@ -20088,5 +20088,198 @@
             }
         ],
         "lastupdate": 1623099633.229562
+    },
+    "21943": {
+        "problemId": "21943",
+        "problemLevel": 14,
+        "problemName": "연산 최대로",
+        "average_try": 1.5,
+        "solvedtags": [
+            {
+                "algorithm_id": 125,
+                "tag_name": "bruteforcing",
+                "full_name_ko": "브루트포스 알고리즘"
+            },
+            {
+                "algorithm_id": 25,
+                "tag_name": "dp",
+                "full_name_ko": "다이나믹 프로그래밍"
+            },
+            {
+                "algorithm_id": 33,
+                "tag_name": "greedy",
+                "full_name_ko": "그리디 알고리즘"
+            }
+        ],
+        "lastupdate": 1623157529.188758
+    },
+    "21939": {
+        "problemId": "21939",
+        "problemLevel": 11,
+        "problemName": "문제 추천 시스템 Version 1",
+        "average_try": 1,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 59,
+                "tag_name": "priority_queue",
+                "full_name_ko": "우선순위 큐"
+            },
+            {
+                "algorithm_id": 136,
+                "tag_name": "hash_set",
+                "full_name_ko": "해시를 사용한 집합과 맵"
+            },
+            {
+                "algorithm_id": 74,
+                "tag_name": "tree_set",
+                "full_name_ko": "트리를 사용한 집합과 맵"
+            }
+        ],
+        "lastupdate": 1623157529.957538
+    },
+    "21942": {
+        "problemId": "21942",
+        "problemLevel": 14,
+        "problemName": "부품 대여장",
+        "average_try": 1.25,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 96,
+                "tag_name": "parsing",
+                "full_name_ko": "파싱"
+            },
+            {
+                "algorithm_id": 136,
+                "tag_name": "hash_set",
+                "full_name_ko": "해시를 사용한 집합과 맵"
+            },
+            {
+                "algorithm_id": 74,
+                "tag_name": "tree_set",
+                "full_name_ko": "트리를 사용한 집합과 맵"
+            },
+            {
+                "algorithm_id": 158,
+                "tag_name": "string",
+                "full_name_ko": "문자열"
+            }
+        ],
+        "lastupdate": 1623157530.61872
+    },
+    "21944": {
+        "problemId": "21944",
+        "problemLevel": 14,
+        "problemName": "문제 추천 시스템 Version 2",
+        "average_try": 1.8,
+        "solvedtags": [
+            {
+                "algorithm_id": 175,
+                "tag_name": "data_structures",
+                "full_name_ko": "자료 구조"
+            },
+            {
+                "algorithm_id": 102,
+                "tag_name": "implementation",
+                "full_name_ko": "구현"
+            },
+            {
+                "algorithm_id": 74,
+                "tag_name": "tree_set",
+                "full_name_ko": "트리를 사용한 집합과 맵"
+            }
+        ],
+        "lastupdate": 1623157531.255015
+    },
+    "21937": {
+        "problemId": "21937",
+        "problemLevel": 9,
+        "problemName": "작업",
+        "average_try": 1.3636,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1623157532.051186
+    },
+    "21938": {
+        "problemId": "21938",
+        "problemLevel": 9,
+        "problemName": "영상처리",
+        "average_try": 1.4,
+        "solvedtags": [
+            {
+                "algorithm_id": 126,
+                "tag_name": "bfs",
+                "full_name_ko": "너비 우선 탐색"
+            },
+            {
+                "algorithm_id": 127,
+                "tag_name": "dfs",
+                "full_name_ko": "깊이 우선 탐색"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            },
+            {
+                "algorithm_id": 11,
+                "tag_name": "graph_traversal",
+                "full_name_ko": "그래프 탐색"
+            }
+        ],
+        "lastupdate": 1623157532.686295
+    },
+    "21940": {
+        "problemId": "21940",
+        "problemLevel": 12,
+        "problemName": "가운데에서 만나기",
+        "average_try": 1.6,
+        "solvedtags": [
+            {
+                "algorithm_id": 31,
+                "tag_name": "floyd_warshall",
+                "full_name_ko": "플로이드–와샬"
+            },
+            {
+                "algorithm_id": 7,
+                "tag_name": "graphs",
+                "full_name_ko": "그래프 이론"
+            }
+        ],
+        "lastupdate": 1623157533.332547
     }
 }
