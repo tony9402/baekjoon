@@ -19,7 +19,7 @@ LIST.append(LN)
 LIST.append("<table>")
 
 idx = 0
-columns = 6
+columns = 5
 SP  = "    "
 N   = len(contributors)
 
