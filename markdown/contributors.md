@@ -28,11 +28,6 @@
             <br />
             <a href="https://github.com/nnnlog">nnnlog</a>
         </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/inclue"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/13315923?v=4"/></a>
-            <br />
-            <a href="https://github.com/inclue">inclue</a>
-        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -70,15 +65,13 @@
             <br />
             <a href="https://solved.ac/profile/chansol">solved.ac</a>
         </td>
-        <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlstj0923" />
-            <br />
-            <a href="https://www.acmicpc.net/user/dlstj0923">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/dlstj0923">solved.ac</a>
-        </td>
     </tr>
     <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/inclue"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/13315923?v=4"/></a>
+            <br />
+            <a href="https://github.com/inclue">inclue</a>
+        </td>
         <td align="center" width="130px">
             <a href="https://github.com/yeonjungin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/47666431?v=4"/></a>
             <br />
@@ -99,18 +92,15 @@
             <br />
             <a href="https://github.com/Dev-RubinJo">Dev-RubinJo</a>
         </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/shjeong92"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/75003424?v=4"/></a>
-            <br />
-            <a href="https://github.com/shjeong92">shjeong92</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/chj3748"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089817?v=4"/></a>
-            <br />
-            <a href="https://github.com/chj3748">chj3748</a>
-        </td>
     </tr>
     <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlstj0923" />
+            <br />
+            <a href="https://www.acmicpc.net/user/dlstj0923">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/dlstj0923">solved.ac</a>
+        </td>
         <td align="center">
             <b>PRIVATE</b>
         </td>
@@ -135,22 +125,18 @@
             <br />
             <a href="https://solved.ac/profile/jybin321">solved.ac</a>
         </td>
-        <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=shjeong92" />
-            <br />
-            <a href="https://www.acmicpc.net/user/shjeong92">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/shjeong92">solved.ac</a>
-        </td>
-        <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chj3748" />
-            <br />
-            <a href="https://www.acmicpc.net/user/chj3748">Baekjoon</a>
-            <br />
-            <a href="https://solved.ac/profile/chj3748">solved.ac</a>
-        </td>
     </tr>
     <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/shjeong92"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/75003424?v=4"/></a>
+            <br />
+            <a href="https://github.com/shjeong92">shjeong92</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/chj3748"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089817?v=4"/></a>
+            <br />
+            <a href="https://github.com/chj3748">chj3748</a>
+        </td>
         <td align="center" width="130px">
             <a href="https://github.com/seung-00"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46865281?v=4"/></a>
             <br />
@@ -166,23 +152,22 @@
             <br />
             <a href="https://github.com/kjh03160">kjh03160</a>
         </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/CoodingPenguin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/37505775?v=4"/></a>
-            <br />
-            <a href="https://github.com/CoodingPenguin">CoodingPenguin</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/bsm8734"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/35002768?v=4"/></a>
-            <br />
-            <a href="https://github.com/bsm8734">bsm8734</a>
-        </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/gkgg123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089810?v=4"/></a>
-            <br />
-            <a href="https://github.com/gkgg123">gkgg123</a>
-        </td>
     </tr>
     <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=shjeong92" />
+            <br />
+            <a href="https://www.acmicpc.net/user/shjeong92">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/shjeong92">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chj3748" />
+            <br />
+            <a href="https://www.acmicpc.net/user/chj3748">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/chj3748">solved.ac</a>
+        </td>
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osy0056" />
             <br />
@@ -204,6 +189,30 @@
             <br />
             <a href="https://solved.ac/profile/kis03160">solved.ac</a>
         </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/CoodingPenguin"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/37505775?v=4"/></a>
+            <br />
+            <a href="https://github.com/CoodingPenguin">CoodingPenguin</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bsm8734"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/35002768?v=4"/></a>
+            <br />
+            <a href="https://github.com/bsm8734">bsm8734</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/gkgg123"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60089810?v=4"/></a>
+            <br />
+            <a href="https://github.com/gkgg123">gkgg123</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/simon-hoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/54058621?v=4"/></a>
+            <br />
+            <a href="https://github.com/simon-hoon">simon-hoon</a>
+        </td>
+    </tr>
+    <tr height="50px">
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=unodostre" />
             <br />
@@ -225,15 +234,6 @@
             <br />
             <a href="https://solved.ac/profile/gkgg123">solved.ac</a>
         </td>
-    </tr>
-    <tr height="140px">
-        <td align="center" width="130px">
-            <a href="https://github.com/simon-hoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/54058621?v=4"/></a>
-            <br />
-            <a href="https://github.com/simon-hoon">simon-hoon</a>
-        </td>
-    </tr>
-    <tr height="50px">
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ropeiny" />
             <br />
