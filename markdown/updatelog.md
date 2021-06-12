@@ -1,6 +1,10 @@
 ## 업데이트 로그
 
 뽑아야 하는 문제가 많고 이를 보기 좋게 표로 정리하는 과정은 너무 노가다성이 많기 때문에 편하게 작업할 수 있도록 업데이트 하고 있습니다.
+
+<details>
+    <summary>자세히</summary><p>
+
  - 2021.04.28
    - [오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md) 뽑히는 문제 난이도 변경 
      - 이전 난이도
@@ -59,3 +63,4 @@
  - 2021.01.15
    - 문제 [이렇게](https://raw.githubusercontent.com/tony9402/baekjoon/main/math/list.md) 뽑으면 자동으로 markdown 테이블을 만들어주는 스크립트 제작
 
+</p></details>
