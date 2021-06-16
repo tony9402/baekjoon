@@ -3,7 +3,7 @@
 ,3040,
 ,10448,
 1,2798,./../solution/brute_force/2798
-,2309,
+,2309,./../solution/brute_force/2309
 1,2231,./../solution/brute_force/2231
 ,14697,
 ,1668,
