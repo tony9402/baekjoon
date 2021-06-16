@@ -211,6 +211,11 @@
             <br />
             <a href="https://github.com/simon-hoon">simon-hoon</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/gusdn3477"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/46596758?v=4"/></a>
+            <br />
+            <a href="https://github.com/gusdn3477">gusdn3477</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -240,6 +245,13 @@
             <a href="https://www.acmicpc.net/user/ropeiny">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/ropeiny">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gusdn3477" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gusdn3477">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gusdn3477">solved.ac</a>
         </td>
     </tr>
 </table>
