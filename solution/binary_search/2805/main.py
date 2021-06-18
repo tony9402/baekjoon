@@ -1,6 +1,6 @@
 # Authored by : gusdn3477
 # Co-authored by : -
-# Link : http://boj.kr/56d516d6c3764a05b912f892e7271ebd
+# Link : http://boj.kr/331c1288d35f4db9b12e371e014dfffd
 import sys
 
 def input():
