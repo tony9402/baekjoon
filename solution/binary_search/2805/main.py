@@ -13,14 +13,12 @@ def binary_search():
     while start <= end:
         mid = (start + end) // 2
         total_length = 0
-
         for i in arr:
             if i - mid >= 0:
                 total_length += i - mid
 
         if total_length < M:
             end = mid - 1
-
         else:
             start = mid + 1
             ans = mid
