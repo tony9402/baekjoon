@@ -1,7 +1,6 @@
 # Authored by : gusdn3477
 # Co-authored by : -
 # Link : http://boj.kr/8adc986ae26b461eadd65abdff3cfba9
-
 import sys
 
 def input():
@@ -11,10 +10,8 @@ N = int(input())
 book = {}
 for i in range(N):
     name = input()
-
     if name not in book:
         book[name] = 1
-
     else:
         book[name] += 1
 
