@@ -3,6 +3,9 @@ import subprocess as sp
 from bs4 import BeautifulSoup as bs
 import requests
 
+print(glob('**', recursive=True))
+exit(0)
+
 path = sp.check_output(['git status -su'], shell=True).decode('utf8').strip()
 path = path.split(" ")[1]
 language = path.split('.')[-1]
