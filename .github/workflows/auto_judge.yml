@@ -30,7 +30,7 @@ jobs:
           tree ./../../
       - name: Run judge
         run: |
-          python scripts/judge.py < "${{env.filepath}}" # > result.out
+          python scripts/judge.py "${{env.filepath}}" > result.out
       - name: Save result
         run: |
           cat result.out
