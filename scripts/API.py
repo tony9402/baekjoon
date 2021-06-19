@@ -68,7 +68,8 @@ class SolvedAPI:
     # using SolvedAPI
     def __request(self, problemId):
         URL      = f"{self.config['targeturl']}/{self.config['route']['problemid']}{problemId}"
-        response = request.urlopen(request.Request(URL), context=self.ssl_context)
+        req      = request.Request(URL, headers={'User-Agent': 'Mozilla/5.0'})
+        response = request.urlopen(req, context=self.ssl_context)
         try:
             JSON     = json.loads(response.read().decode(self.config.get('encoding')))
         except:

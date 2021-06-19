@@ -3,7 +3,7 @@
         "database": "./scripts/database.json",
         "targeturl": "https://solved.ac/api/v3",
         "route": {
-            "problemid": "problems/show?problemId="
+            "problemid": "problem/show?problemId="
         },
         "encoding": "UTF-8",
         "update": 86400,
