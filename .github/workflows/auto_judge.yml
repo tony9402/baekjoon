@@ -25,21 +25,18 @@ jobs:
           python scripts/judge.py > result.out
       - name: Save result
         run: |
-          RESULT_MESSAGE=`head -1 result.out`
-          RESULT=`set -n '2,\$p' result.out`
+          echo `head -1 result.out` >> $GITHUB_ENV
+          echo set -n '2,\$p' result.out` >> $GITHUB_ENV
       - name: comment
         uses: actions/github-script@0.3.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            const ENV = process.env
-            github.issues.createComment({ issue_number, owner, repo, body: `${ENV}` });
-            if (ENV.RESULT_MESSAGE === "ERROR")
+            const { result, result_message }= process.env
+            if (result === "ERROR")
             github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
-            else {
-              const result = ENV.RESULT
-              github.issues.createComment({ issue_number, owner, repo, body: `${result}` });
-            }
+            else 
+            github.issues.createComment({ issue_number, owner, repo, body: `${result_message}` });
 
 
