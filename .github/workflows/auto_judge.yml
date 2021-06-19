@@ -25,7 +25,7 @@ jobs:
       - name: Test
         run: |
           sudo apt-get install -y tree
-          tree
+          tree ./../
       - name: Run judge
         run: |
           python scripts/judge.py < "${{env.filepath}}" > result.out
