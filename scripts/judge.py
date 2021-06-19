@@ -3,10 +3,11 @@ import subprocess as sp
 from bs4 import BeautifulSoup as bs
 import requests
 
-path = sp.check_output(['git status -su'], shell=True).decode('utf8').strip()
-print(path)
-print(glob('*', recursive=True))
+os.system('git diff > temp.out')
+path = sp.check_output(['cat temp.out | grep +++'], shell=True).decode('utf8').strip()
 path = path.split(" ")[1]
+path = path.split('/')[1:]
+path = f"./{'/'.join(path)}"
 language = path.split('.')[-1]
 check_all = True
 
