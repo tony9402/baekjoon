@@ -6,6 +6,7 @@ import os
 
 os.system('git diff > temp.out')
 path_ = sp.check_output(['cat temp.out'], shell=True).decode('utf8').strip()
+print(path_)
 path  = ""
 for line in path_.split('\n'):
     if "+++" in line:
