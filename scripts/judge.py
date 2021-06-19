@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup as bs
 import requests
 
 path = sp.check_output(['git status -su'], shell=True).decode('utf8').strip()
+print(path)
+print(glob('*', recursive=True))
 path = path.split(" ")[1]
 language = path.split('.')[-1]
 check_all = True
