@@ -3,6 +3,8 @@ name: Auto Judge
 on:
   issue_comment:
     types: [created]
+  pull_request:
+    types: [opened, reopened]
 
 jobs:
   build:
@@ -13,9 +15,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
