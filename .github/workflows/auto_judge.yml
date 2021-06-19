@@ -27,7 +27,7 @@ jobs:
         run: |
           cat result.out
           echo `head -1 result.out` >> $GITHUB_ENV
-          echo set -n '2,\$p' result.out` >> $GITHUB_ENV
+          echo `set -n '2,\$p' result.out` >> $GITHUB_ENV
       - name: comment
         uses: actions/github-script@0.3.0
         with:
