@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import os
 
+print(os.getcwd())
 path = input().strip().split()[-1].strip()
 language = path.split('.')[-1]
 check_all = True
