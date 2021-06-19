@@ -3,6 +3,20 @@ name: Auto Solution Update
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - assets
+      - .github
+      - markdown
+      - scripts
+      - '.gitignore'
+      - 'CodingTest.md'
+      - 'LICENSE'
+      - 'README.md'
+      - 'algorithm_list.md'
+      - 'change_level.log'
+      - 'guideline_for_contribute.md'
+      - 'picked.md'
+      - 'status.md'
 
 jobs:
   build:
