@@ -5,10 +5,18 @@ import requests
 import os
 
 os.system('git diff > temp.out')
-path = sp.check_output(['cat temp.out | grep +++'], shell=True).decode('utf8').strip()
-path = path.split(" ")[1]
-path = path.split('/')[1:]
-path = f"./{'/'.join(path)}"
+path_ = sp.check_output(['cat temp.out'], shell=True).decode('utf8').strip()
+path  = ""
+for line in path_.split('\n'):
+    if "+++" in line:
+        if "solution" not in line:
+            continue
+        if ".py" in line or ".cpp" in line or ".java" in line:
+            path = line.split(' ')[1]
+            path = path.split('/')[1:]
+            path = f"./{'/'.join(path)}"
+            break
+            
 language = path.split('.')[-1]
 check_all = True
 
