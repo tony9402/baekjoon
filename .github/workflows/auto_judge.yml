@@ -6,8 +6,10 @@ on:
 
 jobs:
   build:
-    if: contains(github.event.comment.body, 'judge')
+    if: contains(github.event.comment.body, 'judge') 
     runs-on: ubuntu-latest
+    env:
+      filepath: github.event.comment.body
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -22,7 +24,7 @@ jobs:
           pip install bs4 requests
       - name: Run judge
         run: |
-          python scripts/judge.py > result.out
+          python scripts/judge.py < ${{env.filepath}} > result.out
       - name: Save result
         run: |
           cat result.out
