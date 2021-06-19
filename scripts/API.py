@@ -69,16 +69,17 @@ class SolvedAPI:
     def __request(self, problemId):
         URL      = f"{self.config['targeturl']}/{self.config['route']['problemid']}{problemId}"
         response = request.urlopen(request.Request(URL), context=self.ssl_context)
-        JSON     = json.loads(response.read().decode(self.config.get('encoding')))
-
-        assert JSON.get("success") == True, "[*** API Error] Failed"
-        INFO     = JSON["result"]["problems"][0]
+        try:
+            JSON     = json.loads(response.read().decode(self.config.get('encoding')))
+        except:
+            assert False, "[*** API Error] Failed"
+        INFO     = JSON
 
         data = {
-            "problemId":    str(INFO.get('id')),   # int -> str
+            "problemId":    str(INFO.get('problemId')),   # int -> str
             "problemLevel": INFO.get('level'),
-            "problemName":  INFO.get('title'),
-            "average_try":  INFO.get('average_try'),
+            "problemName":  INFO.get('titleKo'),
+            "average_try":  INFO.get('averageTries'),
             "solvedtags":   list()
         }
 
