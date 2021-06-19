@@ -5,34 +5,35 @@ on:
     types: [created]
 
   jobs:
-    if: contains(github.event.comment.body, 'judge') && ${{ GITHUB_ACTOR == "tony9402" }}
-    runs-on: ubuntu-latest
-    step:
-      - name: Setup Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: '3.x'
-          architecture: 'x64'
-      - name: Setup pip
-        run: |
-          python -m pip install --upgrade pip
-          pip install bs4 requests
-      - name: Run judge
-        run: |
-          python scripts/judge.py > result.out
-      - name: Save result
-        run: |
-          RESULT_MESSAGE=`head -1 result.out`
-          RESULT=`set -n '2,\$p' result.out`
-      - name: comment
-        uses: actions/github-script@0.3.0
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            if ( ${{ env.RESULT_MESSAGE }} == "ERROR")
-            github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
-            else
-            github.issues.createComment({ issue_number, owner, repo, body: '${{ env.RESULT }}' });
+    build:
+      if: contains(github.event.comment.body, 'judge') && ${{ GITHUB_ACTOR == "tony9402" }}
+      runs-on: ubuntu-latest
+      step:
+        - name: Setup Python
+          uses: actions/setup-python@v1
+          with:
+            python-version: '3.x'
+            architecture: 'x64'
+        - name: Setup pip
+          run: |
+            python -m pip install --upgrade pip
+            pip install bs4 requests
+        - name: Run judge
+          run: |
+            python scripts/judge.py > result.out
+        - name: Save result
+          run: |
+            RESULT_MESSAGE=`head -1 result.out`
+            RESULT=`set -n '2,\$p' result.out`
+        - name: comment
+          uses: actions/github-script@0.3.0
+          with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            script: |
+              const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
+              if ( ${{ env.RESULT_MESSAGE }} == "ERROR")
+              github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
+              else
+              github.issues.createComment({ issue_number, owner, repo, body: '${{ env.RESULT }}' });
 
 
