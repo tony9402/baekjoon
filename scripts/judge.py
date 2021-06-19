@@ -6,6 +6,7 @@ import os
 
 print(os.getcwd())
 path = input().strip().split()[-1]
+path = f"../{path}"
 language = path.split('.')[-1]
 check_all = True
 
