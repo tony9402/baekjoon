@@ -4,20 +4,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import os
 
-os.system('git diff > temp.out')
-path_ = sp.check_output(['cat temp.out'], shell=True).decode('utf8').strip()
-print(path_)
-path  = ""
-for line in path_.split('\n'):
-    if "+++" in line:
-        if "solution" not in line:
-            continue
-        if ".py" in line or ".cpp" in line or ".java" in line:
-            path = line.split(' ')[1]
-            path = path.split('/')[1:]
-            path = f"./{'/'.join(path)}"
-            break
-            
+path = input().strip().split()[-1]
 language = path.split('.')[-1]
 check_all = True
 
