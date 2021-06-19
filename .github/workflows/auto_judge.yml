@@ -25,6 +25,7 @@ jobs:
           python scripts/judge.py > result.out
       - name: Save result
         run: |
+          cat result.out
           echo `head -1 result.out` >> $GITHUB_ENV
           echo set -n '2,\$p' result.out` >> $GITHUB_ENV
       - name: comment
