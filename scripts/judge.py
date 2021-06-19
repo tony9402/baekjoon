@@ -2,6 +2,7 @@ from glob import glob
 import subprocess as sp
 from bs4 import BeautifulSoup as bs
 import requests
+import os
 
 os.system('git diff > temp.out')
 path = sp.check_output(['cat temp.out | grep +++'], shell=True).decode('utf8').strip()
