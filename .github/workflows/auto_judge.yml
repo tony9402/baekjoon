@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
@@ -25,7 +27,7 @@ jobs:
       - name: Test
         run: |
           sudo apt-get install -y tree
-          tree ./../
+          tree ./../../
       - name: Run judge
         run: |
           python scripts/judge.py < "${{env.filepath}}" > result.out
