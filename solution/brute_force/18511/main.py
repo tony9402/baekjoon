@@ -2,7 +2,6 @@
 # Co-authored by : -
 # Link : http://boj.kr/b56f91d1e33b44c2b24d57cd460eace2
 import sys
-from itertools import permutations
 
 def input():
     return sys.stdin.readline().rstrip()
