@@ -42,8 +42,6 @@ if not check_all:
     printError()
     exit(0)
 
-HASH = "b56f91d1e33b44c2b24d57cd460eace2"
-
 # check Link
 url  = f"https://www.acmicpc.net/source/share/{HASH}"
 req  = requests.get(url).text
