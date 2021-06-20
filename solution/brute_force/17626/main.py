@@ -1,55 +1,37 @@
 # Authored by : gusdn3477
-# Co-authored by : -
-# Link : http://boj.kr/986f23862eab4f97b7df8bd16177ac70
+# Co-authored by : tony9402
+# Link : http://boj.kr/816fdae98bec4a4f95a3fb44fd2f348f
 import sys
 from math import sqrt
 
 def input():
     return sys.stdin.readline().rstrip()
 
-def find_1(N):
-    for a in range(int(sqrt(N))+1, 0, -1):
-        if a ** 2 == N:
-            return 1
-    return 0
+def solve(N):
+    ret = 4
+    for a in range(1, sqrtN + 1):
+        if a * a == N:
+            ret = 1
+        
+        if ret == 1:
+            break
+        for b in range(1, sqrtN + 1):
+            if a * a + b * b  > N:
+                break
+            if a * a + b * b == N:
+                ret = 2
 
-def find_2(N):
-    for a in range(int(sqrt(N))+1, 0, -1):
-        for b in range(int(sqrt(N))+1, 0, -1):
-            if a ** 2 + b ** 2 > N:
-                continue
-            if a ** 2 + b ** 2 == N:
-                return 2
-    return 0
-                    
-def find_3(N):
-    for a in range(int(sqrt(N))+1, 0, -1):
-        for b in range(int(sqrt(N))+1, 0, -1):
-            if a ** 2 + b ** 2 > N:
-                continue
-            for c in range(int(sqrt(N))+1, 0, -1):
-                if a ** 2 + b ** 2 + c ** 2> N:
-                    continue
-                if a ** 2 + b ** 2 + c ** 2 == N:
-                    return 3
-    return 0
-                    
-def find_4(N):
-    for a in range(int(sqrt(N))+1, 0, -1):
-        for b in range(int(sqrt(N))+1, 0, -1):
-            if a ** 2 + b ** 2 > N:
-                continue
-            for c in range(int(sqrt(N))+1, 0, -1):
-                if a ** 2 + b ** 2 + c ** 2> N:
-                    continue
-                for d in range(int(sqrt(N))+1, 0, -1):
-                    if a ** 2 + b ** 2 + c ** 2 + d ** 2 > N:
-                        continue
-                    if a ** 2 + b ** 2 + c ** 2 + d ** 2 == N:
-                        return 4
-    return 0
+            if ret <= 2:
+                break
+            for c in range(1, sqrtN + 1):
+                if a * a + b * b + c * c  > N:
+                    break
+                if a * a + b * b + c * c == N:
+                    ret = 3
+                    break
 
+    return ret
 
 N = int(input())
-ans = find_1(N) or find_2(N) or find_3(N) or find_4(N)
-print(ans)
+sqrtN = int(sqrt(N))
+print(solve(N))
