@@ -5,14 +5,7 @@ import requests
 import os
 import sys
 
-if sys.argv[1] == "command":
-    path = sys.stdin.readline().strip().split(' ')[1]
-else:
-    inputs = [ line.strip() for line in sys.stdin.readlines() ]
-    inputs = [ line for line in inputs if 'solution' in line  ]
-    inputs = [ line for line in inputs if 'py' in line or 'cpp' in line or 'java' in line ][0]
-    path = '/'.join(inputs.split(' ')[-1].split('/')[1:])
-
+path = sys.stdin.readline().strip().split(' ')[1]
 language = path.split('.')[-1]
 check_all = True
 
@@ -72,6 +65,6 @@ print(f"솔루션 경로 : {path}")
 print(f"BOJ USER : {boj_user}")
 print(f"결과 : {result}")
 print(f"메모리 : {memory}")
-print(f"문제 링크 : {problemID}")
 print(f"실행 시간 : {time}")
 print(f"태그 : {tag}")
+print(f"문제 링크 : https://www.acmicpc.net/problem/{problemID}")
