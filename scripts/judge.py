@@ -11,8 +11,8 @@ else:
     inputs = [ line.strip() for line in sys.stdin.readlines() ]
     inputs = [ line for line in inputs if 'solution' in line  ]
     inputs = [ line for line in inputs if 'py' in line or 'cpp' in line or 'java' in line ][0]
+    path = '/'.join(inputs.split(' ')[-1].split('/')[1:])
 
-path = '/'.join(inputs.split(' ')[-1].split('/')[1:])
 language = path.split('.')[-1]
 check_all = True
 
