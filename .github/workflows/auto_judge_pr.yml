@@ -26,7 +26,7 @@ jobs:
           pip install bs4 requests
       - name: Run judge
         run: |
-          git diff refs/pull/${{ github.event.number }}/merge origin/main | grep +++ > input.in
+          git diff | grep +++ > input.in
           python scripts/judge.py PR < input.in > result.out
       - name: Save result
         run: |
