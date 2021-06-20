@@ -13,9 +13,9 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 41.84% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 42.09% <br><br>
 
-남은 문제 수 228/392
+남은 문제 수 227/392
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -30,7 +30,7 @@
 | 08 |  [dynamic_programming_2](./../../tree/main/dynamic_programming_2) | 23 |![status](https://img.shields.io/badge/-17.86%25-31AE0F) |  
 | 09 |  [dynamic_programming_on_trees](./../../tree/main/dynamic_programming_on_trees) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 10 |  [graph_traversal](./../../tree/main/graph_traversal) | 12 |![status](https://img.shields.io/badge/-57.14%25-31AE0F) |  
-| 11 |  [greedy](./../../tree/main/greedy) | 22 |![status](https://img.shields.io/badge/-18.52%25-31AE0F) |  
+| 11 |  [greedy](./../../tree/main/greedy) | 21 |![status](https://img.shields.io/badge/-22.22%25-31AE0F) |  
 | 12 |  [implementation](./../../tree/main/implementation) | 8 |![status](https://img.shields.io/badge/-69.23%25-31AE0F) |  
 | 13 |  [math](./../../tree/main/math) | 2 |![status](https://img.shields.io/badge/-87.50%25-31AE0F) |  
 | 14 |  [minimum_spanning_tree](./../../tree/main/minimum_spanning_tree) | 1 |![status](https://img.shields.io/badge/-87.50%25-31AE0F) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-8.33%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2021/06/20 12:25:11 KST**
+**실행한 날짜(log) : 2021/06/20 12:26:00 KST**
