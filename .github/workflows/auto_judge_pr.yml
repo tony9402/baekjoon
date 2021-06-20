@@ -3,7 +3,7 @@ name: Auto Judge
 on:
   pull_request:
     branches: [ main ]
-    types: [ opened, reopened ]
+    types: [ opened, reopened, synchronize ]
 
 jobs:
   build:
