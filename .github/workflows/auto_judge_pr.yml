@@ -14,8 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: $GITHUB_REF
-          # refs/pull/${{ github.event.issue.number }}/head
+          ref: refs/pull/${{ github.event.number }}/head
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
