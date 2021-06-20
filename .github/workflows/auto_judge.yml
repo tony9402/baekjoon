@@ -34,17 +34,31 @@ jobs:
           echo "RESULT=`head -1 result.out`" >> $GITHUB_ENV
           tail -5 result.out > result2.out
       - name: comment
-        uses: actions/github-script@v1
+        uses: actions/github-script@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
             const { RESULT } = process.env
             if (RESULT === "ERROR") {
-                github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
-                github.issues.addLabels({ issue_number, owner, repo, labels: [ "Simple Check Failed" ] });
+                github.issues.createComment({ 
+                    issue_number: context.issue.number,
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    body: 'ERROR' 
+                });
+                github.issues.addLabels({
+                    issue_number: context.issue.number,
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    labels: [ "Simple Check Failed" ] 
+                });
                 try {
-                    github.issues.removeLabel({ issue_number, owner, repo, name: "Simple Check Success" });
+                    github.issues.removeLabel({ 
+                        issue_number: context.issue.number,
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        name: "Simple Check Success" 
+                    });
                 }
                 catch (error) {
                     ; # Not Exist Label
@@ -53,10 +67,25 @@ jobs:
             else {
                 const fs = require('fs');
                 var text = fs.readFileSync('result2.out', 'utf8');
-                github.issues.createComment({ issue_number, owner, repo, body: text });
-                github.issues.addLabels({ issue_number, owner, repo, labels: [ "Simple Check Success" ] });
+                github.issues.createComment({ 
+                    issue_number: context.issue.number,
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    body: text
+                });
+                github.issues.addLabels({
+                    issue_number: context.issue.number,
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    labels: [ "Simple Check Success" ] 
+                });
                 try {
-                    github.issues.removeLabel({ issue_number, owner, repo, name: "Simple Check Failed" });
+                    github.issues.removeLabel({ 
+                        issue_number: context.issue.number,
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                        name: "Simple Check Failed" 
+                    });
                 }
                 catch (error) {
                     ; # Not Exist Label
