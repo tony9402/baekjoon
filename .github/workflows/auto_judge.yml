@@ -27,7 +27,7 @@ jobs:
       - name: Run judge
         run: |
           echo "${{ env.filepath }}" > input.in
-          python scripts/judge.py < input.in > result.out
+          python scripts/judge.py PR command < input.in > result.out
       - name: Save result
         run: |
           cat result.out

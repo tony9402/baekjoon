@@ -27,7 +27,7 @@ jobs:
       - name: Run judge
         run: |
           git diff refs/pull//${{ github.event.issue.number }}/merge origin/main | grep +++ > input.in
-          python scripts/judge.py < input.in > result.out
+          python scripts/judge.py PR < input.in > result.out
       - name: Save result
         run: |
           cat result.out
