@@ -19,7 +19,7 @@ def binary_search():
             end = mid - 1
         else:
             start = mid + 1
-            ans = mid
+    ans = end
 
 K,N = map(int, input().split())
 arr = []
