@@ -35,17 +35,20 @@ jobs:
         run: |
           cat result.out
           echo "RESULT=`head -1 result.out`" >> $GITHUB_ENV
-          echo "RESULT_MESSAGE=`sed -n '2,\$p' result.out`" >> $GITHUB_ENV
+          sed -n '2,$\p' result.out > result2.out
       - name: comment
         uses: actions/github-script@0.3.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            const { RESULT, RESULT_MESSAGE } = process.env
+            const { RESULT } = process.env
             if (RESULT === "ERROR")
             github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
-            else 
-            github.issues.createComment({ issue_number, owner, repo, body: `${RESULT_MESSAGE}` });
+            else {
+              const fs = require('fs');
+              var text = fs.readFileSync('result.out', 'utf8');
+              github.issues.createComment({ issue_number, owner, repo, body: text });
+            }
 
 
