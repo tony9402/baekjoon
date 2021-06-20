@@ -1,8 +1,11 @@
 # Authored by : gusdn3477
 # Co-authored by : -
-# Link : http://boj.kr/678594e9965d474e99795e9f0ec7d890
+# Link : http://boj.kr/db333837b5af4d84a2a5ba1dc83d2086
 import sys
 from collections import deque
+
+def input():
+    return sys.stdin.readline().rstrip()
 
 N = int(input())
 arr = input()
@@ -13,11 +16,9 @@ num = deque()
 
 for i in range(N):
     num.append(int(input()))
-
 for i in arr:
     if i not in dic and i not in oper:
         dic[i] = num.popleft()
-
 for i in arr:
     if i not in oper:
         stack.append(dic[i])
