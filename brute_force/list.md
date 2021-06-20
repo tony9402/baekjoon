@@ -16,7 +16,7 @@
 ,18868,
 1,15721,./../solution/brute_force/15721
 1,1969,./../solution/brute_force/1969
-1,2503,
+1,2503,./../solution/brute_force/2503
 ,1436,./../solution/brute_force/1436
 ,1018,
 ,7568,./../solution/brute_force/7568
