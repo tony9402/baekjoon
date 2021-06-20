@@ -16,9 +16,11 @@ num = deque()
 
 for i in range(N):
     num.append(int(input()))
+
 for i in arr:
     if i not in dic and i not in oper:
         dic[i] = num.popleft()
+
 for i in arr:
     if i not in oper:
         stack.append(dic[i])
@@ -40,4 +42,4 @@ for i in arr:
             b = stack.pop()
             stack.append(b/a)
 
-print("%.2f" %(stack[0]))
+print(f"{stack[0]:.2f}")
