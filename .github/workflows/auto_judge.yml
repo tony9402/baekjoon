@@ -3,6 +3,8 @@ name: Auto Judge
 on:
   issue_comment:
     types: [ created ]
+  pull_request:
+    types: [ opened, reopened, synchronize ]
 
 jobs:
   build:
@@ -42,11 +44,13 @@ jobs:
             if (RESULT === "ERROR") {
               github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
               github.issues.addLabels({ issue_number, owner, repo, labels: [ "Simple Check Failed" ] })
+              github.issues.removeLabel({ issue_number, owner, repo, "Simple Check Success" })
             }
             else {
               const fs = require('fs');
               var text = fs.readFileSync('result2.out', 'utf8');
               github.issues.createComment({ issue_number, owner, repo, body: text });
               github.issues.addLabels({ issue_number, owner, repo, labels: [ "Simple Check Success" ] })
+              github.issues.removeLabel({ issue_number, owner, repo, "Simple Check Failed" })
             }
 
