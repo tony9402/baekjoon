@@ -1,4 +1,4 @@
-,9094,
+,9094,./../solution/brute_force/9094
 ,4690,./../solution/brute_force/4690
 ,3040,
 ,10448,
