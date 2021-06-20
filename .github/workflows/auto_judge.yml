@@ -41,11 +41,10 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            const { result, result_message }= process.env
-            if (result === "ERROR")
+            const { RESULT, RESULT_MESSAGE } = process.env
+            if (RESULT === "ERROR")
             github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
             else 
-            github.issues.createComment({ issue_number, owner, repo, body: `${result_message}` });
+            github.issues.createComment({ issue_number, owner, repo, body: `${RESULT_MESSAGE}` });
 
 
