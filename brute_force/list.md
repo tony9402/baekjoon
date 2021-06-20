@@ -22,7 +22,7 @@
 ,7568,./../solution/brute_force/7568
 1,2422,./../solution/brute_force/2422
 ,2435,
-1,17626,
+1,17626,./../solution/brute_force/17626
 ,2635,
 ,1059,
 1,5568,./../solution/brute_force/5568
