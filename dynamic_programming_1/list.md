@@ -11,7 +11,7 @@
 1,1463,
 1,9095,./../solution/dynamic_programming_1/9095
 ,1003,
-1,11726,
+1,11726,./../solution/dynamic_programming_1/11726
 1,2579,
 ,2193,
 1,11727,
