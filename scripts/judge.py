@@ -5,7 +5,11 @@ import requests
 import os
 import sys
 
-path = sys.argv[1].strip().split()[-1].strip()
+inputs = [ line.strip() for line in sys.stdin.readlines() ]
+inputs = [ line for line in inputs if 'solution' in line  ]
+inputs = [ line for line in inputs if 'py' in line or 'cpp' in line or 'java' in line ][0]
+
+path = '/'.join(inputs.split(' ')[-1].split('/')[1:])
 language = path.split('.')[-1]
 check_all = True
 
@@ -58,9 +62,13 @@ if not check_all:
     printError()
     exit(0)
 
+problemID = path.split('/')[-2]
+tag       = path.split('/')[-3]
 print("SUCCESS")
 print(f"솔루션 경로 : {path}")
 print(f"BOJ USER : {boj_user}")
 print(f"결과 : {result}")
 print(f"메모리 : {memory}")
+print(f"문제 링크 : {problemID}")
 print(f"실행 시간 : {time}")
+print(f"태그 : {tag}")

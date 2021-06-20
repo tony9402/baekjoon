@@ -1,12 +1,12 @@
 name: Auto Judge
 
 on:
-  issue_comment:
-    types: [ created ]
+  pull_request:
+    branches: [ main ]
+    types: [ opened, reopened ]
 
 jobs:
   build:
-    if: contains(github.event.comment.body, 'judge') 
     runs-on: ubuntu-latest
     env:
       filepath: "${{ github.event.comment.body }}"
@@ -26,13 +26,13 @@ jobs:
           pip install bs4 requests
       - name: Run judge
         run: |
-          echo "${{ env.filepath }}" > input.in
+          git diff refs/pull//${{ github.event.issue.number }}/merge origin/main | grep +++ > input.in
           python scripts/judge.py < input.in > result.out
       - name: Save result
         run: |
           cat result.out
           echo "RESULT=`head -1 result.out`" >> $GITHUB_ENV
-          tail -5 result.out > result2.out
+          tail -7 result.out > result2.out
       - name: comment
         uses: actions/github-script@0.3.0
         with:
