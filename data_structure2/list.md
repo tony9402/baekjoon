@@ -7,7 +7,7 @@
 1,4358,./../solution/data_structure2/4358
 1,2696,./../solution/data_structure2/2696
 ,9375,
-,1927,
+,1927,./../solution/data_structure2/1927
 ,19583,
 ,17255,
 ,12764,
