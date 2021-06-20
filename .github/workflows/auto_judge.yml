@@ -35,7 +35,7 @@ jobs:
         run: |
           cat result.out
           echo "RESULT=`head -1 result.out`" >> $GITHUB_ENV
-          sed -n '2,\$p' result.out > result2.out
+          tail -5 result.out > result2.out
       - name: comment
         uses: actions/github-script@0.3.0
         with:
@@ -47,7 +47,7 @@ jobs:
             github.issues.createComment({ issue_number, owner, repo, body: 'ERROR' });
             else {
               const fs = require('fs');
-              var text = fs.readFileSync('result.out', 'utf8');
+              var text = fs.readFileSync('result2.out', 'utf8');
               github.issues.createComment({ issue_number, owner, repo, body: text });
             }
 
