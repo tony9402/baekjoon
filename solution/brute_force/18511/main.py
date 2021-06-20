@@ -10,8 +10,7 @@ def backTracking(num):
     global ans
     if num > N:
         return
-    if num <= N:
-        ans = max(ans,num)
+    ans = max(ans,num)
     for i in K:
         num = num * 10 + i
         backTracking(num)
