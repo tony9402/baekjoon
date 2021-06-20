@@ -53,7 +53,7 @@ result   = html.select('body > div.wrapper > div.container.content > div > secti
 memory   = html.select('body > div.wrapper > div.container.content > div > section > div:nth-child(3) > div > table > tbody > tr > td:nth-child(2)')[0].text + " KB"
 time     = html.select('body > div.wrapper > div.container.content > div > section > div:nth-child(3) > div > table > tbody > tr > td:nth-child(3)')[0].text + " ms"
 
-if boj_user != user_name or result != "맞았습니다!!!":
+if boj_user != user_name or result != "맞았습니다!!":
     check_all = False
 
 if not check_all:
