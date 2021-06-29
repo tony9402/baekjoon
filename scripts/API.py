@@ -28,10 +28,49 @@ class SolvedAPI:
 
         # Load Database
         self.__load_database()
+        self.__all_update()
 
         # For saving Database
         atexit.register(self.__save_database)
         atexit.register(self.__save_change_log)
+
+    def __all_update(self):
+        problemList = list()
+        problemIds  = list(self.database.keys())
+        L = 0
+        R = 100
+        N = len(problemIds)
+        
+        while L < N:
+            Ids = problemIds[L : R]
+            L += 100
+            R += 100
+            R = min(R, N)
+
+            # 임시, 반드시 업데이트 해야함.
+            URL         = f"https://solved.ac/api/v3/problem/lookup?problemIds={','.join(Ids)}"
+            req         = request.Request(URL, headers = {'User-Agent': 'Mozilla/5.0'})
+            response    = request.urlopen(req, context=self.ssl_context)
+            try:
+                JSON    = json.loads(response.read().decode(self.config.get('encoding')))
+            except:
+                assert False, "[*** API Error] Failed"
+
+            for INFO in JSON:
+                data = {
+                    "problemId":    str(INFO.get('problemId')),   # int -> str
+                    "problemLevel": INFO.get('level'),
+                    "problemName":  INFO.get('titleKo'),
+                    "average_try":  INFO.get('averageTries'),
+                    "solvedtags":   list()
+                }
+
+                for tag in INFO.get('tags', [ ]):
+                    solvedtags = dict()
+                    for config_tags in self.config.get('solvedtags'):
+                        solvedtags[ config_tags ] = tag[ config_tags ]
+                    data['solvedtags'].append(solvedtags)
+                self.saveInformation(data)
 
     def __save_change_log(self):
 
@@ -92,7 +131,7 @@ class SolvedAPI:
 
         return data
 
-    # update
+    # lazy update
     def request(self, problemId):
 
         if type(problemId) == int:
@@ -125,7 +164,8 @@ class SolvedAPI:
 
         # Check ProblemId Type
         assert type(problemId) == str, f"[*** Type Error] problemId type is {type(ProblemId)}.\n It must be string"
-        newData = self.__request(problemId)
+        # newData = self.__request(problemId)
+        newData = self.request(problemId)
 
         exist, information = self.getProblemInformation(problemId)
 
