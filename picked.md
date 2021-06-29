@@ -1,3 +1,12 @@
+## 2021/06/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [10798](https://www.acmicpc.net/problem/10798) | [세로읽기](https://www.acmicpc.net/problem/10798) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16571](https://www.acmicpc.net/problem/16571) | [알파 틱택토](https://www.acmicpc.net/problem/16571) |
+
 ## 2021/06/28 
 
 | 난이도 | 번호 | 문제 이름 |
