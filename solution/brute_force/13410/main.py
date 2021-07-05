@@ -7,8 +7,5 @@ def input():
     return sys.stdin.readline().rstrip()
 
 N, K = map(int, input().split())
-M = 0
-for i in range(1,K+1):
-    num = int(str(N * i)[::-1])
-    M = max(M,num)
-print(M)
+num  = [ int(str(N * i)[::-1]) for i in range(1, K + 1) ]
+print(max(num))
