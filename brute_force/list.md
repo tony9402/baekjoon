@@ -7,7 +7,7 @@
 1,2231,./../solution/brute_force/2231
 ,14697,
 ,1668,
-,13410,
+,13410,./../solution/brute_force/13410
 1,19532,./../solution/brute_force/19532
 1,18312,./../solution/brute_force/18312
 ,1145,./../solution/brute_force/1145
