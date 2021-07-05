@@ -1,6 +1,6 @@
 # Authored by : gusdn3477
-# Co-authored by : -
-# Link : http://boj.kr/8570a9ed0ba943e79fc675e72952f4a1
+# Co-authored by : tony9402
+# Link : http://boj.kr/aef57ade1e5c4c6e90f08a159fe96ca2
 import sys
 
 def input():
@@ -14,14 +14,19 @@ def GCD(x,y):
 
 n = int(input())
 arr = list(map(int, input().split()))
-if len(arr) == 2:
-    gcd = GCD(arr[0],arr[1])
-    for i in range(1,gcd+1):
-        if arr[0] % i == 0 and arr[1] % i == 0:
-            print(i)
-else:
-    gcd = GCD(arr[0], arr[1])
-    gcd = GCD(gcd, arr[2])
-    for i in range(1,gcd+1):
-        if arr[0] % i == 0 and arr[1] % i == 0 and arr[2] % i == 0:
-            print(i)
+outputs = list()
+
+gcd = arr[0]
+for i in range(1, n):
+    gcd = GCD(gcd, arr[i])
+
+x = 1
+while x * x <= gcd:
+    if gcd % x == 0:
+        outputs.append(x)
+        if x * x != gcd:
+            outputs.append(gcd // x)
+    x += 1
+
+outputs.sort()
+print(*outputs)
