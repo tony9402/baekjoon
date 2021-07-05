@@ -14,7 +14,7 @@
 ,1655,
 ,2776,
 ,1269,./../solution/data_structure2/1269
-,10546,
+,10546,./../solution/data_structure2/10546
 ,1302,./../solution/data_structure2/1302
 1,21939,
 1,21942,
