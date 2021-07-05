@@ -13,7 +13,7 @@
 1,1966,
 1,10866,./../solution/data_structure/10866
 1,2346,
-,10845,
+,10845,./../solution/data_structure/10845
 ,4949,
 ,3986,./../solution/data_structure/3986
 ,1021,
