@@ -2,7 +2,6 @@
 # Co-authored by : -
 # Link : http://boj.kr/9824ccd807974698b94586b14edbb348
 import sys
-from math import sqrt
 
 def input():
     return sys.stdin.readline().rstrip()
