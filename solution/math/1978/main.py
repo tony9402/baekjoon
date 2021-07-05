@@ -7,17 +7,17 @@ from math import sqrt
 def input():
     return sys.stdin.readline().rstrip()
 
-prime = [0] * 1005
-prime[0] = 1
-prime[1] = 1
+prime = [1] * 1005
+prime[0] = 0
+prime[1] = 0
 ct = 0
 N = int(input())
 arr = list(map(int, input().split()))
 for i in range(2, int(sqrt(1005))+1):
     for j in range(i+i, 1005, i):
-        if prime[j] == 0:
-            prime[j] = 1
+        if prime[j] == 1:
+            prime[j] = 0
 for i in arr:
-    if not prime[i]:
+    if prime[i]:
         ct += 1
 print(ct)
