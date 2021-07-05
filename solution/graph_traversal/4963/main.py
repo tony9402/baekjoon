@@ -2,12 +2,12 @@
 # Co-authored by : -
 # Link : http://boj.kr/27c8f362bf2c4defbe77f079e9eaa89e
 import sys
-
 sys.setrecursionlimit(10000)
+
 def input():
     return sys.stdin.readline().rstrip()
 
-def DFS(x,y):
+def DFS(x, y):
     arr[x][y] = 0
     for i in range(8):
         dx = nx[i] + x
@@ -19,8 +19,9 @@ def DFS(x,y):
 
 nx = [-1,-1,-1,0,1,1,1,0]
 ny = [-1,0,1,1,1,0,-1,-1]
+
 while True:
-    w,h = map(int, input().split())
+    w, h = map(int, input().split())
     if w == 0 and h == 0:
         break
     arr = []
