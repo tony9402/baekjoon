@@ -10,7 +10,7 @@
 ,13410,
 1,19532,./../solution/brute_force/19532
 1,18312,./../solution/brute_force/18312
-,1145,
+,1145,./../solution/brute_force/1145
 ,2160,
 ,18512,
 ,18868,
