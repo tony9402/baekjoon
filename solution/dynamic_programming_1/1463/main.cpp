@@ -1,4 +1,4 @@
-// Authored by : tallua
+// Authored by : tallua_y
 // Co-authored by : -
 // Link : http://boj.kr/529bea24f4ef45f3a65713bab79f6b3f
 
