@@ -1,10 +1,7 @@
 // Authored by : tallua_y
 // Co-authored by : -
-// Link : http://boj.kr/529bea24f4ef45f3a65713bab79f6b3f
-
-#include <iostream>
-#include <vector>
-#include <utility>
+// Link : http://boj.kr/96a171e5da7746c7a51d5d348bc759a8
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -13,7 +10,7 @@ int main(int argc, char** argv)
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    int N;
+    size_t N;
     cin >> N;
 
     vector<int> count(N + 1);
