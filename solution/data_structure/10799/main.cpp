@@ -1,18 +1,18 @@
 // Authored by : tallua_y
 // Co-authored by : -
-// Link : http://boj.kr/53875935b49b422486b56441978f7ad7
-#include <iostream>
+// Link : http://boj.kr/6f2667a520d749d9adcee6ec0591da98
+#include <bits/stdc++.h>
 
 using namespace std;
-using ull = unsigned long long;
+using ll = long long;
 
 int main(int argc, char** argv)
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    ull total = 0;
-    ull pipe_stack = 0;
+    ll total = 0;
+    ll pipe_stack = 0;
     bool is_opened = true;
 
     char ch;
