@@ -1,3 +1,12 @@
+## 2021/07/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [9933](https://www.acmicpc.net/problem/9933) | [민균이의 비밀번호](https://www.acmicpc.net/problem/9933) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1240](https://www.acmicpc.net/problem/1240) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13424](https://www.acmicpc.net/problem/13424) | [비밀 모임](https://www.acmicpc.net/problem/13424) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2696](https://www.acmicpc.net/problem/2696) | [중앙값 구하기](https://www.acmicpc.net/problem/2696) |
+
 ## 2021/07/19 
 
 | 난이도 | 번호 | 문제 이름 |
