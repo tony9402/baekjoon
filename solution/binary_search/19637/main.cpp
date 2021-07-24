@@ -1,40 +1,16 @@
 // Authored by : tallua_y
-// Co-authored by : -
-// Link : http://boj.kr/8685d839f8704dc697d2d62a8a4c6925
-
+// Co-authored by : tony9402
+// Link : http://boj.kr/f9b5128041b54d33822f60534944128c
 #include <bits/stdc++.h>
 
 using namespace std;
 
-size_t find_ge(const vector<int>& power_levels, const int power, size_t l, size_t r)
-{
-    if (r <= l + 1) {
-        if (power_levels[l] < power) {
-            return l + 1;
-        }
-
-        return l;
-    }
-
-    const size_t mid = (l + r) / 2u;
-    if (power < power_levels[mid]) {
-        return find_ge(power_levels, power, l, mid);
-    } else {
-        return find_ge(power_levels, power, mid, r);
-    }
-}
-
-size_t lower_bound(const vector<int>& power_levels, const int power)
-{
-    return find_ge(power_levels, power, 0u, power_levels.size());
-}
-
-int main(int argc, char** argv)
+int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    size_t N, M;
+    int N, M;
     cin >> N >> M;
 
     vector<int> title_levels;
@@ -43,10 +19,9 @@ int main(int argc, char** argv)
     title_levels.reserve(N);
     title_names.reserve(N);
 
-    while (N--)
-    {
-        int level;
+    for(int i = 0; i < N; i++) {
         string name;
+        int level;
         cin >> name >> level;
 
         if (!title_levels.empty() && title_levels.back() == level) {
@@ -57,13 +32,11 @@ int main(int argc, char** argv)
         title_names.push_back(name);
     }
 
-    while (M--)
-    {
+    for(int i = 0; i < M; i++) {
         int power_level;
         cin >> power_level;
 
-        const auto index = lower_bound(title_levels, power_level);
-
+        int index = lower_bound(title_levels.begin(), title_levels.end(), power_level) - title_levels.begin();
         cout << title_names[index] << '\n';
     }
 
