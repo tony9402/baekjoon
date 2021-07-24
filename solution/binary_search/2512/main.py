@@ -7,7 +7,6 @@ def input():
     return sys.stdin.readline().rstrip()
 
 def binary_search():
-    global ans
     start, end = 0, max(arr)
     while start <= end:
         mid = (start + end) // 2
@@ -18,14 +17,12 @@ def binary_search():
             else:
                 total += i
         if total <= M:
-            ans = mid
             start = mid + 1
         else:
             end = mid - 1
-
+    return end
+    
 N = int(input())
 arr = list(map(int, input().split()))
-ans = 0
 M = int(input())
-binary_search()
-print(ans)
+print(binary_search())
