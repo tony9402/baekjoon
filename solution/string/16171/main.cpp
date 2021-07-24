@@ -5,15 +5,15 @@
 using namespace std;
 string input, s, k;
 int main() {
-	cin.sync_with_stdio(0);
-	cin.tie(0);
-	cin >> input >> k;
+    cin.sync_with_stdio(0);
+    cin.tie(0);
+    cin >> input >> k;
 
-	for (int i = 0; i < (int)input.length(); i++) {
+    for (int i = 0; i < (int)input.length(); i++) {
         if('0' <= input[i] && input[i] <= '9') continue;
         s += input[i];
-	}
+    }
 
-	if (s.find(k) != string::npos) cout << "1";
-	else cout << "0";
+    if (s.find(k) != string::npos) cout << "1";
+    else cout << "0";
 } 
