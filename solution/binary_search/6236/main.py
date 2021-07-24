@@ -2,7 +2,7 @@
 # Co-authored by : -
 # Link : http://boj.kr/2fe2f6f8da4f448a8b1b2e6a4da13627
 import sys
-from collections import deque
+
 def input():
     return sys.stdin.readline().rstrip()
 
