@@ -2,6 +2,7 @@
 # Co-authored by : -
 # Link : http://boj.kr/a1c26275e6af44f5a080d54a61b4c677
 import sys
+
 def input():
     return sys.stdin.readline().rstrip()
 
@@ -12,10 +13,11 @@ for i in range(5):
     a = input()
     max_len = max(max_len, len(a))
     arr.append(a)
+
 for i in range(max_len):
     for j in range(5):
-        try:
-            ans += arr[j][i]
-        except:
+        if len(arr[j]) <= i:
             continue
+        ans += arr[j][i]
+
 print(ans)
