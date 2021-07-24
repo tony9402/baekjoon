@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     vector<int> count(N + 1);
     count[1] = 0;
 
-    for(size_t i = 2; i < N + 1; ++i) {
+    for(int i = 2; i < N + 1; ++i) {
         count[i] = count[i - 1] + 1;
         if (i % 2 == 0) {
             count[i] = min(count[i], count[i / 2] + 1);
