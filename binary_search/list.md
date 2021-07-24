@@ -3,7 +3,7 @@
 ,17266,
 ,1920,./../solution/binary_search/1920
 1,10815,./../solution/binary_search/10815
-,10816,
+,10816,./../solution/binary_search/10816
 ,20551,
 1,2805,./../solution/binary_search/2805
 1,1654,./../solution/binary_search/1654
