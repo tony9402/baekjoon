@@ -10,7 +10,7 @@
 1,2512,./../solution/binary_search/2512
 ,1072,
 ,2776,./../solution/binary_search/2776
-,6236,
+,6236,./../solution/binary_search/6236
 ,7795,
 ,2792,
 ,16401,
