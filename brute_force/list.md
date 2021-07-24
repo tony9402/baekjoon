@@ -35,7 +35,7 @@
 ,15779,
 1,18511,./../solution/brute_force/18511
 ,17484,
-1,9079,
+1,9079,./../solution/brute_force/9079
 ,4096,./../solution/brute_force/4096
 ,1065,
 1,14501,
