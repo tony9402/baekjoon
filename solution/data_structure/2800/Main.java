@@ -71,7 +71,7 @@ public class Main {
         int start, end;
         public Bracket(int start, int end) {
             this.start = start;
-            this.end  =end;
+            this.end = end;
         }
     }
 
