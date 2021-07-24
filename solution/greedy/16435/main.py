@@ -2,7 +2,6 @@
 # Co-authored by : -
 # Link : http://boj.kr/ee8c8ce8f36344348accd5605c2aba66
 import sys
-from collections import deque
 
 def input():
     return sys.stdin.readline().rstrip()
@@ -10,6 +9,7 @@ def input():
 N, L = map(int, input().split())
 arr = list(map(int, input().split()))
 arr.sort()
+
 for i in arr:
     if L >= i:
         L += 1
