@@ -7,7 +7,7 @@
 ,10808,
 1,11365,./../solution/string/11365
 ,1159,
-,2744,
+,2744,./../solution/string/2744
 ,1718,
 1,9046,./../solution/string/9046
 ,1032,./../solution/string/1032
