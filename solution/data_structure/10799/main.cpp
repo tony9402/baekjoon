@@ -4,15 +4,14 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-using ll = long long;
 
-int main(int argc, char** argv)
+int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    ll total = 0;
-    ll pipe_stack = 0;
+    int total = 0;
+    int pipe_stack = 0;
     bool is_opened = true;
 
     char ch;
