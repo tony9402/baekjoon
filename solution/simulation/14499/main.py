@@ -25,7 +25,6 @@ for i in command:
         else:
             s, arr[x][y] = arr[x][y], 0
         print(n)
-        
     elif i == 2: # 서쪽으로 이동
         dy = y - 1
         if dy < 0:
@@ -37,7 +36,6 @@ for i in command:
         else:
             s, arr[x][y] = arr[x][y], 0
         print(n)
-
     elif i == 3: # 북쪽으로 이동
         dx = x - 1
         if dx < 0:
@@ -49,7 +47,6 @@ for i in command:
         else:
             s, arr[x][y] = arr[x][y], 0
         print(n)
-
     elif i == 4: # 남쪽으로 이동
         dx = x + 1
         if dx >= N:
