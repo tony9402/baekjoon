@@ -1,3 +1,6 @@
+// Authored by : lms0806
+// Co-authored by : -
+// Link : http://boj.kr/1637cf27836f425aa8d0393e55b23c45
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
