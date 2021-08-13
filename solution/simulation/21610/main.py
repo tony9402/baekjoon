@@ -1,5 +1,6 @@
 # Authored by : gusdn3477
-# Co-authhttp://boj.kr/709edf708bcb49e3972565b8fce5a993
+# Co-authored by : -
+# Link : http://boj.kr/709edf708bcb49e3972565b8fce5a993
 
 import sys
 from collections import deque
