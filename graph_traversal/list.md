@@ -41,7 +41,7 @@
 ,3055,
 1,16234,./../solution/graph_traversal/16234
 ,5014,
-,2589,
+,2589,./../solution/graph_traversal/2589
 ,9019,
 1,2636,./../solution/graph_traversal/2636
 1,13549,./../solution/graph_traversal/13549
