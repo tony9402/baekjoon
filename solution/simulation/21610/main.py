@@ -16,14 +16,18 @@ visited = [[0 for x in range(N)] for y in range(N)]
 storm = []
 nx = [0,-1,-1,-1,0,1,1,1]
 ny = [-1,-1,0,1,1,1,0,-1]
+
 for i in range(N):
     arr.append(list(map(int, input().split())))
+
 for i in range(M):
     move.append(list(map(int, input().split())))
+
 storm.append((N-1, 0))
 storm.append((N-1, 1))
 storm.append((N-2, 0))
 storm.append((N-2, 1))
+
 for i in range(M):
     d, s = move[i][0]-1, move[i][1]
     visited = [[0 for x in range(N)] for y in range(N)]
@@ -57,8 +61,10 @@ for i in range(M):
                 dy -= N
         new_storm.append((dx,dy))
         visited[dx][dy] = 1
+
     for j in range(len(new_storm)):
         arr[new_storm[j][0]][new_storm[j][1]] += 1
+
     save = []
     for j in range(len(new_storm)):
         ct = 0
@@ -72,17 +78,21 @@ for i in range(M):
             if arr[dx][dy] > 0:
                 ct += 1
         save.append(ct)
+
     for j in range(len(new_storm)):
         arr[new_storm[j][0]][new_storm[j][1]] += save[j]
+
     storm = []
     for x in range(N):
         for y in range(N):
             if visited[x][y] == 0 and arr[x][y] >= 2:
                 arr[x][y] -= 2
                 storm.append((x,y))
+
 total = 0
 for i in range(N):
     for j in range(N):
         if arr[i][j] > 0:
             total += arr[i][j]
+
 print(total)
