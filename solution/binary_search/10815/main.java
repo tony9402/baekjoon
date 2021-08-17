@@ -1,44 +1,55 @@
 // Authored by : lms0806
 // Co-authored by : -
-// Link : http://boj.kr/91161b29442545bd8335d4e292d0d507
+// Link : http://boj.kr/7105d879677a4ebb96ade9837f789f03
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        FastReader rd = new FastReader();
-        System.out.print(solve(rd.nextLine(), rd.nextLine()));
-    }
-
-    public static String solve(String s1, String s2) {
-        if(s1.equals(s2)) {
-            return "24:00:00";
-        }
-
-        int h = Integer.parseInt(s2.split(":")[0]) - Integer.parseInt(s1.split(":")[0]);
-        int m = Integer.parseInt(s2.split(":")[1]) - Integer.parseInt(s1.split(":")[1]);
-        int s = Integer.parseInt(s2.split(":")[2]) - Integer.parseInt(s1.split(":")[2]);
-
-        if(s < 0) {
-            s += 60;
-            m--;
-        }
-
-        if(m < 0) {
-            m += 60;
-            h--;
-        }
-
-        if(h < 0) {
-            h += 24;
-        }
-
-        return String.format("%02d:%02d:%02d", h, m, s);
-    }
-
-    static class FastReader {
+	static int[] arr;
+	public static void main(String[] args) throws IOException{
+		FastReader rd = new FastReader();
+		
+		int size = rd.nextInt();
+		
+		arr = new int[size];
+		
+		for(int i = 0; i < size; i++) {
+			arr[i] = rd.nextInt();
+		}
+		
+		Arrays.sort(arr);
+		
+		size = rd.nextInt();
+		
+		StringBuilder sb = new StringBuilder();
+		while(size --> 0) {
+			sb.append(binary_search(0, arr.length - 1, rd.nextInt())).append(" ");
+		}
+		System.out.print(sb);
+	}
+	
+	public static int binary_search(int start, int end, int n) {
+		while(start <= end) {
+			int mid = (start + end) / 2;
+			
+			if(arr[mid] == n) {
+				return 1;
+			}
+			
+			if(n < arr[mid]) {
+				end = mid - 1;
+			}
+			else {
+				start = mid + 1;
+			}
+		}
+		return 0;
+	}
+	
+	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
