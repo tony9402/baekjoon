@@ -6,11 +6,15 @@ from collections import deque
 
 def input():
     return sys.stdin.readline().rstrip()
+
 arr = []
 ans = 0
+
 for i in range(4):
     arr.append(deque(input()))
+
 K = int(input())
+
 for i in range(K):
     queue = deque()
     a, b = map(int, input().split())
@@ -28,7 +32,9 @@ for i in range(K):
             visited[n+1] = 1
             queue.append((n+1, -d, arr[n+1][6], arr[n+1][2]))
             arr[n+1].rotate(-d)
+
 for i in range(4):
     if arr[i][0] == '1':
         ans += 2 ** i
+
 print(ans)
