@@ -358,6 +358,11 @@
             <br />
             <a href="https://github.com/chance0523">chance0523</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/lms0806"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/42136056?v=4"/></a>
+            <br />
+            <a href="https://github.com/lms0806">lms0806</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -387,6 +392,13 @@
             <a href="https://www.acmicpc.net/user/samuel95">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/samuel95">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lms0806" />
+            <br />
+            <a href="https://www.acmicpc.net/user/lms0806">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/lms0806">solved.ac</a>
         </td>
     </tr>
 </table>
