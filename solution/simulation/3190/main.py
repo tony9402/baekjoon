@@ -10,7 +10,9 @@ def input():
 N = int(input())
 arr = [[0 for i in range(N)] for j in range(N)]
 apple = [0] * 10005
+
 K = int(input())
+
 for i in range(K):
     a,b = map(int, input().split())
     arr[a-1][b-1] = 1
@@ -19,11 +21,13 @@ nx = [1,0,-1,0]
 ny = [0,1,0,-1]
 d = 1
 time = 1
+
 queue = deque()
 queue.append((0,0))
 for i in range(L):
     a,b = input().split()
     apple[int(a)] = b
+
 while True:
     x,y = queue.pop()
     dx = nx[d] + x
@@ -43,5 +47,5 @@ while True:
     elif apple[time] == 'D':
         d = (d+3) % 4
     time += 1
+
 print(time)
-    
