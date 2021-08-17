@@ -1,6 +1,6 @@
 1,10828,./../solution/data_structure/10828
 1,9012,./../solution/data_structure/9012
-1,1874,
+1,1874,./../solution/data_structure/1874
 1,1935,./../solution/data_structure/1935
 1,10799,./../solution/data_structure/10799
 1,2504,
