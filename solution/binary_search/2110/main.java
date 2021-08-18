@@ -1,44 +1,51 @@
 // Authored by : lms0806
 // Co-authored by : -
-// Link : http://boj.kr/91161b29442545bd8335d4e292d0d507
+// Link : http://boj.kr/200735713a4a43b9a67e046187e1c2d9
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        FastReader rd = new FastReader();
-        System.out.print(solve(rd.nextLine(), rd.nextLine()));
-    }
-
-    public static String solve(String s1, String s2) {
-        if(s1.equals(s2)) {
-            return "24:00:00";
-        }
-
-        int h = Integer.parseInt(s2.split(":")[0]) - Integer.parseInt(s1.split(":")[0]);
-        int m = Integer.parseInt(s2.split(":")[1]) - Integer.parseInt(s1.split(":")[1]);
-        int s = Integer.parseInt(s2.split(":")[2]) - Integer.parseInt(s1.split(":")[2]);
-
-        if(s < 0) {
-            s += 60;
-            m--;
-        }
-
-        if(m < 0) {
-            m += 60;
-            h--;
-        }
-
-        if(h < 0) {
-            h += 24;
-        }
-
-        return String.format("%02d:%02d:%02d", h, m, s);
-    }
-
-    static class FastReader {
+	static int[] arr;
+	public static void main(String[] args) throws IOException{
+		FastReader rd = new FastReader();
+		
+		int size = rd.nextInt(), num = rd.nextInt();
+		
+		arr = new int[size];
+		
+		for(int i = 0; i < size; i++) {
+			arr[i] = rd.nextInt();
+		}
+		
+		Arrays.sort(arr);
+		
+		int start = 1, end = arr[size - 1], answer = -1;
+		while(start <= end) {
+			int mid = (start + end) / 2;
+			int count = 1, last = arr[0];
+			
+			for(int i = 1; i < size; i++) {
+				if(arr[i] - last >= mid) {
+					count++;
+					last = arr[i];//차이 좁혀가기
+				}
+			}
+			
+			if(count >= num) {
+				answer = mid;
+				start = mid + 1;//start 차이 좁혀가기
+			}
+			else {
+				end = mid - 1;//end 차이 좁혀가기
+			}
+		}
+		System.out.print(answer);
+	}
+	
+	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 

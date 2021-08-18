@@ -1,44 +1,42 @@
 // Authored by : lms0806
 // Co-authored by : -
-// Link : http://boj.kr/91161b29442545bd8335d4e292d0d507
+// Link : http://boj.kr/f0278bc8beb34ad08e2fa207bc873406
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        FastReader rd = new FastReader();
-        System.out.print(solve(rd.nextLine(), rd.nextLine()));
-    }
-
-    public static String solve(String s1, String s2) {
-        if(s1.equals(s2)) {
-            return "24:00:00";
-        }
-
-        int h = Integer.parseInt(s2.split(":")[0]) - Integer.parseInt(s1.split(":")[0]);
-        int m = Integer.parseInt(s2.split(":")[1]) - Integer.parseInt(s1.split(":")[1]);
-        int s = Integer.parseInt(s2.split(":")[2]) - Integer.parseInt(s1.split(":")[2]);
-
-        if(s < 0) {
-            s += 60;
-            m--;
-        }
-
-        if(m < 0) {
-            m += 60;
-            h--;
-        }
-
-        if(h < 0) {
-            h += 24;
-        }
-
-        return String.format("%02d:%02d:%02d", h, m, s);
-    }
-
-    static class FastReader {
+	static String[] arr;
+	public static void main(String[] args) throws IOException{
+		FastReader rd = new FastReader();
+		
+		int size = rd.nextInt();
+		
+		arr = new String[size];
+		for(int i = 0; i < size; i++) {
+			arr[i] = rd.nextLine();
+		}
+		
+		Arrays.sort(arr, new Comparator<String>() {
+			public int compare(String s1, String s2) {
+				return s1.length() == s2.length() ? s1.compareTo(s2) : s1.length() - s2.length();
+			}
+		});
+		
+		StringBuilder sb = new StringBuilder();
+		sb.append(arr[0]).append("\n");
+		for(int i = 1; i < size; i++) {
+			if(arr[i - 1].equals(arr[i])) {
+				continue;
+			}
+			sb.append(arr[i]).append("\n");
+		}
+		System.out.print(sb);
+	}
+	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 

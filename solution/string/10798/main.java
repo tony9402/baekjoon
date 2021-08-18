@@ -1,44 +1,31 @@
 // Authored by : lms0806
 // Co-authored by : -
-// Link : http://boj.kr/91161b29442545bd8335d4e292d0d507
+// Link : http://boj.kr/3c8eb525866b4ac08270094c21906461
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        FastReader rd = new FastReader();
-        System.out.print(solve(rd.nextLine(), rd.nextLine()));
-    }
-
-    public static String solve(String s1, String s2) {
-        if(s1.equals(s2)) {
-            return "24:00:00";
-        }
-
-        int h = Integer.parseInt(s2.split(":")[0]) - Integer.parseInt(s1.split(":")[0]);
-        int m = Integer.parseInt(s2.split(":")[1]) - Integer.parseInt(s1.split(":")[1]);
-        int s = Integer.parseInt(s2.split(":")[2]) - Integer.parseInt(s1.split(":")[2]);
-
-        if(s < 0) {
-            s += 60;
-            m--;
-        }
-
-        if(m < 0) {
-            m += 60;
-            h--;
-        }
-
-        if(h < 0) {
-            h += 24;
-        }
-
-        return String.format("%02d:%02d:%02d", h, m, s);
-    }
-
-    static class FastReader {
+	static String[] str = new String[5];
+	public static void main(String[] args) throws IOException{
+		FastReader rd = new FastReader();
+		
+		for(int i = 0; i < 5; i++) {
+			str[i] = rd.nextLine();
+		}
+		
+		StringBuilder sb  = new StringBuilder();
+		for(int i = 0; i < 15; i++) {
+			for(int j = 0; j < 5; j++) {
+				if(str[j].length() > i) {
+					sb.append(str[j].charAt(i));
+				}
+			}
+		}
+		System.out.print(sb);
+	}
+	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 

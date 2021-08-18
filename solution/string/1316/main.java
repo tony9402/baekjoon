@@ -1,44 +1,41 @@
 // Authored by : lms0806
 // Co-authored by : -
-// Link : http://boj.kr/91161b29442545bd8335d4e292d0d507
+// Link : http://boj.kr/de995483538e4f32b2e3bacb12a79832
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
-        FastReader rd = new FastReader();
-        System.out.print(solve(rd.nextLine(), rd.nextLine()));
-    }
-
-    public static String solve(String s1, String s2) {
-        if(s1.equals(s2)) {
-            return "24:00:00";
-        }
-
-        int h = Integer.parseInt(s2.split(":")[0]) - Integer.parseInt(s1.split(":")[0]);
-        int m = Integer.parseInt(s2.split(":")[1]) - Integer.parseInt(s1.split(":")[1]);
-        int s = Integer.parseInt(s2.split(":")[2]) - Integer.parseInt(s1.split(":")[2]);
-
-        if(s < 0) {
-            s += 60;
-            m--;
-        }
-
-        if(m < 0) {
-            m += 60;
-            h--;
-        }
-
-        if(h < 0) {
-            h += 24;
-        }
-
-        return String.format("%02d:%02d:%02d", h, m, s);
-    }
-
-    static class FastReader {
+	static boolean[] alpha;
+	public static void main(String[] args) throws IOException{
+		FastReader rd = new FastReader();
+		
+		int size = rd.nextInt();
+		
+		int answer = 0;
+		while(size --> 0) {
+			String str = rd.nextLine();
+			
+			alpha = new boolean[26];
+			
+			alpha[str.charAt(0) - 'a'] = true;
+			boolean istrue = true;
+			for(int i = 1; i < str.length(); i++) {
+				char ch = str.charAt(i);
+				if(alpha[ch - 'a'] && ch != str.charAt(i - 1)) {
+					istrue = false;
+					break;
+				}
+				if(!alpha[ch - 'a']) {
+					alpha[ch - 'a'] = true;
+				}
+			}
+			answer += istrue ? 1 : 0;
+		}
+		System.out.print(answer);
+	}
+	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
