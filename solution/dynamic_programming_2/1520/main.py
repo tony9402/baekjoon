@@ -28,5 +28,4 @@ ny = [0, -1, 0, 1]
 dp = [[-1 for i in range(M)] for j in range(N)]
 for i in range(N):
     arr.append(list(map(int, input().split())))
-DFS(0,0)
-print(dp[0][0])
+print(DFS(0,0))
