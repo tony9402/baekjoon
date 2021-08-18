@@ -1,7 +1,6 @@
 # Authored by : gusdn3477
 # Co-authored by : -
 # Link : http://boj.kr/f386e090dfe84518a7329d6f0a77f8c6
-
 import sys
 
 def input():
