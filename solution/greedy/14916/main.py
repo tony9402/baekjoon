@@ -1,6 +1,6 @@
 # Authored by : gusdn3477
 # Co-authored by : -
-# Link : http://boj.kr/7800ff5a4f2d4764851c251826604eaa
+# Link : http://boj.kr/f274a6ac753440deb8c47de3ee127244
 
 import sys
 
@@ -10,19 +10,18 @@ def input():
 N = int(input())
 if N < 5:
     if N % 2 != 0:
-        print(-1)
+        ans = -1
     else:
-        print(N // 2)
+        ans = N // 2
 else:
     ct, N = divmod(N, 5)
     if N == 0:
-        print(ct)
+        ans = ct
     else:
         if N % 2 == 0:
             ct += N // 2
-            print(ct)
+            ans = ct
         else:
-            ct -= 1
-            N += 5
-            ct += N // 2
-            print(ct)
+            ct += (N + 5) // 2 - 1
+            ans = ct
+print(ans)
