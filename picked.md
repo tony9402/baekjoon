@@ -1,3 +1,12 @@
+## 2021/08/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14923](https://www.acmicpc.net/problem/14923) | [미로 탈출](https://www.acmicpc.net/problem/14923) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14621](https://www.acmicpc.net/problem/14621) | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
+
 ## 2021/08/28 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -49,7 +58,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
 
 ## 2021/08/22 
@@ -1075,7 +1084,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20154](https://www.acmicpc.net/problem/20154) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2293](https://www.acmicpc.net/problem/2293) | [동전 1](https://www.acmicpc.net/problem/2293) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21276](https://www.acmicpc.net/problem/21276) | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21276](https://www.acmicpc.net/problem/21276) | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
 ## 2021/04/30 
