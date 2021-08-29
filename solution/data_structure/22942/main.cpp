@@ -1,21 +1,23 @@
 // Authored by : tallua_y
 // Co-authored by :
-// Link : http://boj.kr/ff12ba55f7be4aa4bdc3b46b438b8966
+// Link : http://boj.kr/7637094ad3f24a62939ad2b4811c9f77
 #include <bits/stdc++.h>
 
 using namespace std;
+
+struct circle_t {
+    int begin;
+    int end;
+};
 
 int main(int argc, char** argv) {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    // map<begin point, end point>
-    map<int, int> circles;
-
     size_t N;
     cin >> N;
 
-    bool is_valid = true;
+    vector<circle_t> circles(N);
     while (N--) {
         int x, r;
         cin >> x >> r;
@@ -23,28 +25,28 @@ int main(int argc, char** argv) {
         const int begin = x - r;
         const int end = x + r;
 
-        // circle started same is not valid
-        const auto circle_after = circles.lower_bound(begin);
-        if (circle_after != circles.end() && circle_after->first == begin) {
+        circles[N] = {begin, end};
+    }
+
+    sort(circles.begin(), circles.end(), [](circle_t const& lhs, circle_t const& rhs) {
+        return lhs.begin != rhs.begin ? lhs.begin < rhs.begin : lhs.end < rhs.end;
+    });
+
+    bool is_valid = true;
+    vector<decltype(circle_t::end)> end_stack;
+    for (auto const& circle : circles) {
+        // prune circle not ended
+        while (!end_stack.empty() && end_stack.back() < circle.begin) {
+            end_stack.pop_back();
+        }
+
+        // circle should not exist between other circle
+        if (!end_stack.empty() && circle.begin <= end_stack.back() && end_stack.back() <= circle.end) {
             is_valid = false;
             break;
         }
 
-        // circle started after should stop before this circle
-        if (circle_after != circles.end() && circle_after->first <= end && end <= circle_after->second) {
-            is_valid = false;
-            break;
-        }
-
-        // circle started before should stop after this circle
-        const auto circle_before = circle_after != circles.begin() ? prev(circle_after) : circles.end();
-        if (circle_before != circles.end() && circle_before->second <= end && begin <= circle_before->second) {
-            is_valid = false;
-            break;
-        }
-
-        // add circle
-        circles.insert({begin, end});
+        end_stack.push_back(circle.end);
     }
 
     if (is_valid) {
