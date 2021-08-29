@@ -1,3 +1,12 @@
+## 2021/08/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2609](https://www.acmicpc.net/problem/2609) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15886](https://www.acmicpc.net/problem/15886) | [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14938](https://www.acmicpc.net/problem/14938) | [서강그라운드](https://www.acmicpc.net/problem/14938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14442](https://www.acmicpc.net/problem/14442) | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |
+
 ## 2021/08/29 
 
 | 난이도 | 번호 | 문제 이름 |
