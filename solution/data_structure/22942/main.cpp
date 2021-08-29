@@ -1,6 +1,6 @@
 // Authored by : tallua_y
 // Co-authored by :
-// Link : http://boj.kr/9efb426713394b95921f674b0ac0f735
+// Link : http://boj.kr/ff12ba55f7be4aa4bdc3b46b438b8966
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -37,8 +37,8 @@ int main(int argc, char** argv) {
         }
 
         // circle started before should stop after this circle
-        const auto circle_begin = circle_after != circles.begin() ? std::prev(circle_after) : circles.end();
-        if (circle_begin != circles.end() && circle_begin->second <= end && begin <= circle_begin->second) {
+        const auto circle_before = circle_after != circles.begin() ? prev(circle_after) : circles.end();
+        if (circle_before != circles.end() && circle_before->second <= end && begin <= circle_before->second) {
             is_valid = false;
             break;
         }
