@@ -60,3 +60,5 @@ public class Main {
         }
     }
 }
+
+// 설명 링크 : https://github.com/tony9402/baekjoon/pull/249#issue-978163457
