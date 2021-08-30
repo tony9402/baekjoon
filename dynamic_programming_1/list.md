@@ -12,7 +12,7 @@
 1,9095,./../solution/dynamic_programming_1/9095
 ,1003,
 1,11726,./../solution/dynamic_programming_1/11726
-1,2579,
+1,2579,./../solution/dynamic_programming_1/2579
 ,2193,
 1,11727,./../solution/dynamic_programming_1/11727
 ,9461,./../solution/dynamic_programming_1/9461
