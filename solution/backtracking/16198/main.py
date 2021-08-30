@@ -17,9 +17,9 @@ def DFS(x):
         arr.pop(i)
         DFS(x + arr[i-1] * arr[i])
         arr.insert(i, save)
-    return MAX
 
 N = int(input())
 MAX = 0
 arr = list(map(int, input().split()))
-print(DFS(0))
+DFS(0)
+print(MAX)
