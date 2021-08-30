@@ -2,8 +2,6 @@
 // Co-authored by : -
 // Link : http://boj.kr/6993dc4aebe24e399f02ac7fd5b2c0f8
 
-//TEST
-
 #include <bits/stdc++.h>
 using namespace std;
 
