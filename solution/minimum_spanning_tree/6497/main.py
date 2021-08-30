@@ -3,13 +3,16 @@
 # Link : http://boj.kr/b650c3b805ac4251a7a125606197836a
 
 import sys
+
 def input():
     return sys.stdin.readline().rstrip()
 
 while True:
     n, m = map(int, input().split())
+    
     if n == 0 and m == 0:
         break
+    
     edge = []
     total = 0
     for _ in range(m):
@@ -18,7 +21,6 @@ while True:
         total += w
     num_edge = 0
     edge.sort(key=lambda x: -x[2])
-
 
     # Disjoint set 구성
     dis_set = [-1 for _ in range(n+1)]
