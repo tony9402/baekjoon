@@ -54,7 +54,7 @@
 1,2293,
 ,11051,
 ,11048,./../solution/dynamic_programming_1/11048
-1,2294,
+1,2294,./../solution/dynamic_programming_1/2294
 ,1309,
 ,2565,
 ,2011,
