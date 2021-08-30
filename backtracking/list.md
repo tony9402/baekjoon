@@ -43,7 +43,7 @@
 ,15684,
 ,1038,./../solution/backtracking/1038
 ,2023,
-,1405,
+,1405,./../solution/backtracking/1405
 ,1342,
 ,7490,
 ,13908,
