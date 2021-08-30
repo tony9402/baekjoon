@@ -2,7 +2,7 @@
 1,1922,./../solution/minimum_spanning_tree/1922
 1,1647,./../solution/minimum_spanning_tree/1647
 ,4386,./../solution/minimum_spanning_tree/4386
-,6497,
+,6497,./../solution/minimum_spanning_tree/6497
 1,1774,./../solution/minimum_spanning_tree/1774
 1,16398,./../solution/minimum_spanning_tree/16398
 ,13905,
