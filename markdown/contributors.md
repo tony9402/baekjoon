@@ -324,6 +324,26 @@
             <br />
             <a href="https://github.com/zmrdltl">zmrdltl</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/cieske"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/36599490?v=4"/></a>
+            <br />
+            <a href="https://github.com/cieske">cieske</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Rain3321"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/39397110?v=4"/></a>
+            <br />
+            <a href="https://github.com/Rain3321">Rain3321</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/sio2whocodes"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/41771874?v=4"/></a>
+            <br />
+            <a href="https://github.com/sio2whocodes">sio2whocodes</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/kang-hyuck"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/61424701?v=4"/></a>
+            <br />
+            <a href="https://github.com/kang-hyuck">kang-hyuck</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -332,6 +352,34 @@
             <a href="https://www.acmicpc.net/user/xhdxhl">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/xhdxhl">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cieske" />
+            <br />
+            <a href="https://www.acmicpc.net/user/cieske">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/cieske">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=smw123123" />
+            <br />
+            <a href="https://www.acmicpc.net/user/smw123123">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/smw123123">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fltcy2039" />
+            <br />
+            <a href="https://www.acmicpc.net/user/fltcy2039">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/fltcy2039">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bakh1" />
+            <br />
+            <a href="https://www.acmicpc.net/user/bakh1">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/bakh1">solved.ac</a>
         </td>
     </tr>
 </table>
