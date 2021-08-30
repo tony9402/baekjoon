@@ -318,6 +318,22 @@
             <a href="https://solved.ac/profile/lms0806">solved.ac</a>
         </td>
     </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/zmrdltl"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/22141521?v=4"/></a>
+            <br />
+            <a href="https://github.com/zmrdltl">zmrdltl</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xhdxhl" />
+            <br />
+            <a href="https://www.acmicpc.net/user/xhdxhl">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/xhdxhl">solved.ac</a>
+        </td>
+    </tr>
 </table>
 
 
