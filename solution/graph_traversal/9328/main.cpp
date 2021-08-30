@@ -108,3 +108,5 @@ int main(){
         cout << countDoc << '\n';
     }
 }
+
+// 설명 : https://github.com/tony9402/baekjoon/pull/255#issue-722190601
