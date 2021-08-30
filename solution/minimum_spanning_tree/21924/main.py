@@ -22,7 +22,7 @@ def find_parent(x):
 
 N, M = map(int, input().split())
 parent = [i for i in range(N+1)]
-ct = 0
+
 total = 0
 total_tree = 0
 arr = []
@@ -35,12 +35,12 @@ for i in range(M):
     total += arr[i][2]
     if a != b:
         union(a,b)
-        if ct < N - 1:
-            ct += 1
-            total_tree += arr[i][2]
+        total_tree += arr[i][2]
+
 for i in range(1, N+1):
     find_parent(i)
+
 if parent.count(parent[1]) == N:
     print(total - total_tree)
 else:
-    print(-1)
+    print(-1) 
