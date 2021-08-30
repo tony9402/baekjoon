@@ -38,15 +38,12 @@ int main(void) {
         int p, num, prev;
         cin >> p;
         for (int j = 0; j < p; j++) {
-            
             if (j >= 1) {
                 prev = num;
                 cin >> num;
                 merge(prev, num);
             }
-
             else cin >> num;
-
             v[i].push_back(num);
         }
     }
@@ -54,13 +51,13 @@ int main(void) {
     for (auto& list : v) {
         bool flag = false;
         for (auto& person : list) {
-            if (flag) break;
             for (auto& t : know) {
                 if (find(person) == find(t)) {
                     flag = true;
                     break;
                 }
             }
+            if (flag) break;
         }
         if(flag) m--;
     }
