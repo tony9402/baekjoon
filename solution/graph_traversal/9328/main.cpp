@@ -1,15 +1,19 @@
 // Authored by : xhdxhl
 // Co-authored by : -
 // Link : http://boj.kr/6993dc4aebe24e399f02ac7fd5b2c0f8
+
+//TEST
+
 #include <bits/stdc++.h>
 using namespace std;
-using pii = pair<int,int>;
+
 struct Coords{ int r, c; };
+
 int dr[] = {0,0,-1,1};
 int dc[] = {1,-1,0,0};
 int n, m, testCase, countDoc, ck[101][101];
 char building[101][101];
-map <char,int> keys;
+map <char, int> keys;
 vector <Coords> entry;
 
 //테두리에 있는 출입구 모두 찾아 entry에 push
@@ -41,7 +45,7 @@ int bfs(){
 
     for(auto e : entry) {
         if('A' <= building[e.r][e.c] && building[e.r][e.c] <= 'Z'){
-            if(keys[building[e.r][e.c] -'A' + 'a']) building[e.r][e.c] = '.';
+            if(keys.count(building[e.r][e.c] -'A' + 'a')) building[e.r][e.c] = '.';
             else continue;
         }
         if('a' <= building[e.r][e.c] && building[e.r][e.c] <= 'z'){
@@ -63,7 +67,7 @@ int bfs(){
             if(building[nr][nc] == '*' || ck[nr][nc]) continue;
             if('A' <= building[nr][nc] && building[nr][nc] <= 'Z'){
                 char key = building[nr][nc] - 'A' + 'a';
-                if(!keys[key]) continue;
+                if(keys.count(key) == 0) continue;
                 isNeedUpdate = 1;
             }
 
@@ -104,6 +108,5 @@ int main(){
         pushEntries();
         while(bfs());
         cout << countDoc << '\n';
-
     }
 }
