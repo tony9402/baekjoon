@@ -74,3 +74,22 @@
 
  - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Github)](https://github.com/ndb796/python-for-coding-test) [무료]
  - [이것이 취업을 위한 코딩 테스트다 with 파이썬 (Youtube)](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) [무료]
+
+<br><br>
+<hr>
+
+### 5. [코딩몬스터 TV](https://github.com/dongyi-kim)
+
+<table>
+    <td align="center">Github</td>
+    <td align="center">Solved</td>
+    <tr>
+        <td height="140px"> <a href="https://github.com/dongyi-kim"><img src="https://avatars.githubusercontent.com/u/7837143?v=4" width="140px" /></a> </td>
+        <td height="140px"> <a href="https://solved.ac/mitslll"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mitslll" /></a> </td>
+    </tr>
+</table>
+
+#### 공부자료
+
+ - [10주 완성 알고리즘 코딩테스트](https://edu.goorm.io/lecture/554/10%EC%A3%BC-%EC%99%84%EC%84%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) [유료]  
+ 20% 할인쿠폰 : codingmonster
