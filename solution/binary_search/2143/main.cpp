@@ -1,68 +1,34 @@
-// Authored by : xhdxhl
-// Co-authored by : -
-// Link : http://boj.kr/7bb72686d3ca4feaba809fd4dd3f8c2e
-
 #include <bits/stdc++.h>
+#define ll long long
 using namespace std;
- 
-int n, m, k, parent[51];
-
-vector<int> know;
-vector <vector<int>> v(51);
- 
-int find(int x) {
-    if (parent[x] == x) return x;
-    return parent[x] = find(parent[x]);
-}
- 
-void merge(int x, int y) {
-    x = find(x);
-    y = find(y);
-    parent[x] = y;
-}
-
-int main(void) {
-    ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
-    
-    cin >> n >> m >> k;
- 
-    while (k--) {
-        int t;
-        cin >> t;
-        know.push_back(t);
-    }
- 
-    for (int i = 1; i <= n; i++) parent[i] = i;
- 
-    for (int i = 0; i < m; i++) {
-        int p, num, prev;
-        cin >> p;
-        for (int j = 0; j < p; j++) {
-            
-            if (j >= 1) {
-                prev = num;
-                cin >> num;
-                merge(prev, num);
-            }
-
-            else cin >> num;
-
-            v[i].push_back(num);
+ll n, m, t, ans;
+int main(){
+    cin >> t >> n;
+    vector <ll> a(n);
+    for(int i = 0; i < n; i++) cin >> a[i];
+    cin >> m;
+    vector <ll> b(m);
+    for(int i = 0; i < m; i++) cin >> b[i];
+    for(int i = 0; i < n; i++){
+        ll sum = a[i];
+        for(int j = i+1; j < n; j++){
+            sum += a[j];
+            a.push_back(sum);
         }
     }
 
-    for (auto& list : v) {
-        bool flag = false;
-        for (auto& person : list) {
-            if (flag) break;
-            for (auto& t : know) {
-                if (find(person) == find(t)) {
-                    flag = true;
-                    break;
-                }
-            }
+    for(int i = 0; i < m; i++){
+        ll sum = b[i];
+        for(int j = i+1; j < m; j++){
+            sum += b[j];
+            b.push_back(sum);
         }
-        if(flag) m--;
     }
-    cout << m;
+    sort(b.begin(),b.end());
+    for(int i = 0; i < a.size(); i++){
+        int idx = lower_bound(b.begin(),b.end(),t - a[i]) - b.begin();
+        int endIdx = upper_bound(b.begin(),b.end(),t - a[i]) - b.begin();
+        ans += endIdx - idx;
+    }
+    cout << ans;
 }
