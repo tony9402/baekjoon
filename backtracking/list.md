@@ -11,7 +11,7 @@
 1,15665,./../solution/backtracking/15665
 1,15666,./../solution/backtracking/15666
 ,14889,./../solution/backtracking/14889
-,10974,
+,10974,./../solution/backtracking/10974
 ,15658,
 ,16922,
 ,18429,
