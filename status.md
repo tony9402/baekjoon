@@ -13,9 +13,9 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 49.51% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 49.76% <br><br>
 
-남은 문제 수 208/412
+남은 문제 수 207/412
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -41,7 +41,7 @@
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [tree](./../../tree/main/tree) | 13 |![status](https://img.shields.io/badge/-13.33%25-31AE0F) |  
 | 21 |  [trie](./../../tree/main/trie) | 4 |![status](https://img.shields.io/badge/-20.00%25-31AE0F) |  
-| 22 |  [two_pointer](./../../tree/main/two_pointer) | 13 |![status](https://img.shields.io/badge/-7.14%25-31AE0F) |  
+| 22 |  [two_pointer](./../../tree/main/two_pointer) | 12 |![status](https://img.shields.io/badge/-14.29%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2021/08/30 17:03:21 KST**
+**실행한 날짜(log) : 2021/08/30 17:05:25 KST**
