@@ -1,3 +1,12 @@
+## 2021/09/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14916](https://www.acmicpc.net/problem/14916) | [거스름돈](https://www.acmicpc.net/problem/14916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16973](https://www.acmicpc.net/problem/16973) | [직사각형 탈출](https://www.acmicpc.net/problem/16973) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2412](https://www.acmicpc.net/problem/2412) | [암벽 등반](https://www.acmicpc.net/problem/2412) |
+
 ## 2021/09/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -545,7 +554,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1145](https://www.acmicpc.net/problem/1145) | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20010](https://www.acmicpc.net/problem/20010) | [악덕 영주 혜유](https://www.acmicpc.net/problem/20010) |
 
 ## 2021/07/06 
 
