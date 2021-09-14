@@ -1,3 +1,12 @@
+## 2021/09/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17208](https://www.acmicpc.net/problem/17208) | [카우버거 알바생](https://www.acmicpc.net/problem/17208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1958](https://www.acmicpc.net/problem/1958) | [LCS 3](https://www.acmicpc.net/problem/1958) |
+
 ## 2021/09/14 
 
 | 난이도 | 번호 | 문제 이름 |
