@@ -58,7 +58,7 @@ Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/0
 #### C++
 
 - Rule 7 : 솔루션에는 `bits/stdc++.h` 헤더파일만 존재해야합니다. 다른 해더파일이 있으면 안됩니다.  
-- Rule 8 : 입출력은 C++ stream을 이용해야 합니다. `ios::sync_with_stdio(false); cin.tie(false);`이 main 함수 안에 맨 첫줄에 있어야 합니다. `endl` 대신 `'\n'`을 써야합니다.  
+- Rule 8 : 입출력은 C++ stream을 이용해야 합니다. `ios::sync_with_stdio(false); cin.tie(nullptr);`이 main 함수 안에 맨 첫줄에 있어야 합니다. `endl` 대신 `'\n'`을 써야합니다.  
 - Rule 9 : `#define, typedef`는 `typedef long long ll;` 또는 `#define ll long long`만 허용됩니다.  
 - Rule 10 : 논리 연산자인 `and, or`인 경우는 반드시 `&&, ||` 로 사용해야 합니다.  
 - Rule 11 : 반드시 실수 연산을 해야하는 경우는 `float`보단 `double`로 사용해주세요. 이 외에는 반드시 정수에서 연산을 해주세요.
