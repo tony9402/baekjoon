@@ -15,7 +15,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7165)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14567" target="_blank">14567</a> | <a href="https://www.acmicpc.net/problem/14567" target="_blank">선수과목 (Prerequisite)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
+| 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14567" target="_blank">14567</a> | <a href="https://www.acmicpc.net/problem/14567" target="_blank">선수과목 (Prerequisite)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a> | <a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a> | <a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
 | 03 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1766" target="_blank">1766</a> | <a href="https://www.acmicpc.net/problem/1766" target="_blank">문제집</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
