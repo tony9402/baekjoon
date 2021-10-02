@@ -1,3 +1,12 @@
+## 2021/10/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1302](https://www.acmicpc.net/problem/1302) | [베스트셀러](https://www.acmicpc.net/problem/1302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1535](https://www.acmicpc.net/problem/1535) | [안녕](https://www.acmicpc.net/problem/1535) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2665](https://www.acmicpc.net/problem/2665) | [미로만들기](https://www.acmicpc.net/problem/2665) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2758](https://www.acmicpc.net/problem/2758) | [로또](https://www.acmicpc.net/problem/2758) |
+
 ## 2021/10/02 
 
 | 난이도 | 번호 | 문제 이름 |
