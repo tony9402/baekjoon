@@ -1,3 +1,12 @@
+## 2021/10/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2285](https://www.acmicpc.net/problem/2285) | [우체국](https://www.acmicpc.net/problem/2285) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+
 ## 2021/10/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -660,7 +669,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [18311](https://www.acmicpc.net/problem/18311) | [왕복](https://www.acmicpc.net/problem/18311) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3343](https://www.acmicpc.net/problem/3343) | [장미](https://www.acmicpc.net/problem/3343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16434](https://www.acmicpc.net/problem/16434) | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) |
 
