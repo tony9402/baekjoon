@@ -1,3 +1,12 @@
+## 2021/10/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2847](https://www.acmicpc.net/problem/2847) | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20208](https://www.acmicpc.net/problem/20208) | [진우의 민트초코우유](https://www.acmicpc.net/problem/20208) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1939](https://www.acmicpc.net/problem/1939) | [중량제한](https://www.acmicpc.net/problem/1939) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1956](https://www.acmicpc.net/problem/1956) | [운동](https://www.acmicpc.net/problem/1956) |
+
 ## 2021/10/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1533,7 +1542,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9465](https://www.acmicpc.net/problem/9465) | [스티커](https://www.acmicpc.net/problem/9465) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9465](https://www.acmicpc.net/problem/9465) | [스티커](https://www.acmicpc.net/problem/9465) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
 
