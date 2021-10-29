@@ -1,3 +1,12 @@
+## 2021/10/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986](https://www.acmicpc.net/problem/3986) | [좋은 단어](https://www.acmicpc.net/problem/3986) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1577](https://www.acmicpc.net/problem/1577) | [도로의 개수](https://www.acmicpc.net/problem/1577) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1647](https://www.acmicpc.net/problem/1647) | [도시 분할 계획](https://www.acmicpc.net/problem/1647) |
+
 ## 2021/10/29 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1256,7 +1265,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10809](https://www.acmicpc.net/problem/10809) | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20955](https://www.acmicpc.net/problem/20955) | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [15653](https://www.acmicpc.net/problem/15653) | [구슬 탈출 4](https://www.acmicpc.net/problem/15653) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [15653](https://www.acmicpc.net/problem/15653) | [구슬 탈출 4](https://www.acmicpc.net/problem/15653) |
 
 ## 2021/06/11 
 
