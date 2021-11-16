@@ -1,3 +1,12 @@
+## 2021/11/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2212](https://www.acmicpc.net/problem/2212) | [센서](https://www.acmicpc.net/problem/2212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+
 ## 2021/11/16 
 
 | 난이도 | 번호 | 문제 이름 |
