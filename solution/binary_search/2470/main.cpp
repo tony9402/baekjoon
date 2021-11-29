@@ -11,38 +11,33 @@ int main(){
     cin.tie(NULL);
     
     //input & init
-    int N;
-    cin >> N;
+    int N; cin >> N;
+    for(int i = 0 ; i < N; i++) cin >> arr[i];
     
-    for(int i = 0 ; i < N ; i++)
-        cin >> arr[i];
-    
-    long long min;
+    int min;
     int start, end, answer_start, answer_end;
     
     //process
-    sort(arr, arr+N);
+    sort(arr, arr + N);
     
     //답 후보 인덱스 answer_start, answer_end
     //갱신을 위해 이동하는 인덱스 start, end
     answer_start = start = 0;
-    answer_end = end = N-1;
-    min = llabs(arr[start]+arr[end]);
+    answer_end = end = N - 1;
+    min = abs(arr[start]+arr[end]);
         
-    long long sum = min;
+    int sum = min;
     while(start < end){
-        sum = arr[start]+arr[end];
-        if(min > llabs(sum)){
-            min = llabs(sum);
+        sum = arr[start] + arr[end];
+        if(min > abs(sum)){
+            min = abs(sum);
             answer_start = start;
             answer_end = end;
         }
         
         //절댓값을 줄이는 방향으로 인덱스 이동
-        if(sum < 0)
-            start++;
-        else
-            end--;
+        if(sum < 0) start++;
+        else end--;
     }
     
     //output
