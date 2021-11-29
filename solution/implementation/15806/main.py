@@ -9,37 +9,34 @@ def input():
     return sys.stdin.readline().rstrip()
 
 N, M, K, t = map(int, input().split())
+board = [[0]*N for _ in range(N)]
 
-board = [[0] * N for _ in range(N)]
-
-molds = []
+molds, cleans = [], []
 for _ in range(M):
     x, y = map(int, input().split())
-    y-=1
-    x-=1
+    y -= 1
+    x -= 1
     board[y][x] = 1
     molds.append([y, x])
 
-cleans = []
 for _ in range(K):
     x, y = map(int, input().split())
-    y-=1
-    x-=1
+    y -= 1
+    x -= 1
     cleans.append([y, x])
+
 visit = [[[False]*N for _ in range(N)] for _ in range(2)]
 
 def bfs(molds, t):
-    global board, visit
     next_molds = deque()
     
-    dy = [-2, -2, -1 ,-1 , 1, 1 ,2 ,2]
-    dx = [-1, 1, -2, 2, -2, 2, -1, 1]
+    dy = [-2,-2,-1,-1,1,1,2,2]
+    dx = [-1,1,-2,2,-2,2,-1,1]
     while molds:
         y, x = molds.popleft()
         
         for i in range(8):
-            ny = y + dy[i]
-            nx = x + dx[i]
+            ny, nx = y + dy[i], x + dx[i]
             if ny>=N or ny<0 or nx>=N or nx<0: continue
             if visit[(t+1)%2][ny][nx]: continue
             visit[(t+1)%2][ny][nx] = True
@@ -58,6 +55,5 @@ def solution(cleans, molds):
             return True
     return False
 
-check = solution(cleans, molds)
-if check: print('YES')
-else: print('NO')
+result = solution(cleans, molds)
+print('YES' if result else 'NO')
