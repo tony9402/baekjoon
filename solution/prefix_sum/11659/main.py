@@ -1,7 +1,7 @@
-
 # Authored by : cieske
 # Co-authored by : -
 # Link : http://boj.kr/6ada03e306dd451fbea38bfb38db2a74
+
 import sys
 def input():
     return sys.stdin.readline().rstrip()
