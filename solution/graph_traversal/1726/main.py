@@ -8,9 +8,7 @@ def input():
     return sys.stdin.readline().rstrip()
 
 m, n = map(int,input().split())
-board = []
-for _ in range(m):
-    board.append(list(map(int,input().split())))
+board = [list(map(int,input().split())) for _ in range(m)]
 start = list(map(int,input().split()))
 start[0]-=1
 start[1]-=1
@@ -40,7 +38,7 @@ def bfs():
         if y==end[0] and x==end[1] and dir==end[2]:
             result = cnt
             break
-        for i in range(1,4):
+        for i in range(1, 4):
             dy,dx = move(dir)
             ny = y + dy * i
             nx = x + dx * i
@@ -50,14 +48,15 @@ def bfs():
             visit[dir][ny][nx] = True
             q.append((ny, nx, dir, cnt+1))
 
-        for n_dir in [1,2,3,4]:
-            if dir==n_dir: continue
-            if visit[n_dir][y][x]: continue
-            visit[n_dir][y][x] = True
-            if (dir==1 and n_dir==2) : q.append((y, x, n_dir, cnt+2))
-            elif (dir==2 and n_dir==1) : q.append((y, x, n_dir, cnt+2))
-            elif (dir==3 and n_dir==4) : q.append((y, x, n_dir, cnt+2))
-            elif (dir==4 and n_dir==3) : q.append((y, x, n_dir, cnt+2))
-            else: q.append((y, x, n_dir, cnt+1))
+        for next_dir in range(1, 5):
+            if dir==next_dir: continue
+            if visit[next_dir][y][x]: continue
+            visit[next_dir][y][x] = True
+            if (dir==1 and next_dir==2) : q.append((y, x, next_dir, cnt+2))
+            elif (dir==2 and next_dir==1) : q.append((y, x, next_dir, cnt+2))
+            elif (dir==3 and next_dir==4) : q.append((y, x, next_dir, cnt+2))
+            elif (dir==4 and next_dir==3) : q.append((y, x, next_dir, cnt+2))
+            else: q.append((y, x, next_dir, cnt+1))
     return result
+
 print(bfs())
