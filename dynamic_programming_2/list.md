@@ -39,7 +39,7 @@
 ,16400,
 ,17216,
 ,11985,./../solution/dynamic_programming_2/11985
-1,17485,
+1,17485,./../solution/dynamic_programming_2/17485
 1,15724,
 ,20002,
 ,17255,
