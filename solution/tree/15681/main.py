@@ -5,9 +5,9 @@ import sys
 def input():
     return sys.stdin.readline().rstrip()
 
-sys.setrecursionlimit(1000000) # 꼭 걸어주도록 하자....
+sys.setrecursionlimit(1000000) # 꼭 걸어주도록 하자.... (Python 인 경우)
 
-n, r, q = map(int, input().split())
+n, root, query = map(int, input().split())
 tree = [[] for _ in range(n+1)]
 for _ in range(n-1): # Tree 생성
     x, y = map(int, input().split())
@@ -21,14 +21,14 @@ def dfs(cur, parent):
         num_child[cur] = 1
         return 1
 
-    n_c = 0 # cur를 root로 하는 subtree의 node 개수
-    for c in tree[cur]:
-        if c != parent: # 각 child를 root로 하는 subtree의 node 개수 추가
-            n_c += dfs(c, cur)
-    num_child[cur] = n_c+1 # 본인 추가
-    return n_c+1
+    n_sub = 0 # cur를 root로 하는 subtree의 node 개수
+    for child in tree[cur]:
+        if child != parent: # 각 child를 root로 하는 subtree의 node 개수 추가
+            n_sub += dfs(child, cur)
+    num_child[cur] = n_sub + 1 # 본인 추가
+    return n_sub + 1
 
-dfs(r, -1)
+dfs(root, -1)
 
-for _ in range(q):
+for _ in range(query):
     print(num_child[int(input())])
