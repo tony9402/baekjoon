@@ -3,32 +3,30 @@
 # Link : http://boj.kr/62858e6576584934b6d2db90001acd5b
 
 import sys
-
+sys.setrecursionlimit(10**4)
 
 def input():
     return sys.stdin.readline().rstrip()
-
-
-sys.setrecursionlimit(10**4)
 
 n, h, d = map(int, input().split())
 
 visit = [[False] * n for _ in range(n)]
 umbs = []
 for i in range(n):
-    _str = input()
+    line = input()
     for j in range(n):
-        if _str[j] == 'U':
+        if line[j] == 'U':
             umbs.append([i, j])
-        if _str[j] == 'S':
+        elif line[j] == 'S':
             start = [i, j]
-        if _str[j] == 'E':
+        elif line[j] == 'E':
             end = [i, j]
-answer = 99999999
+
+INF = 99999999
+answer = INF
 
 dy = [0, 0, -1, 1]
 dx = [-1, 1, 0, 0]
-
 
 def dfs(cur):
     global answer, n
@@ -50,9 +48,9 @@ def dfs(cur):
                 dfs((uy, ux, health + durability - dist2, d, cnt + dist2))
             visit[uy][ux] = False
 
-
 dfs((start[0], start[1], h, 0, 0))
-if answer == 99999999:
+
+if answer == INF:
     print(-1)
 else:
     print(answer)
