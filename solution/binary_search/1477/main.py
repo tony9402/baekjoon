@@ -1,6 +1,6 @@
 # Authored by : yj2221
-# Co-authored by : tony9402
-# Link : http://boj.kr/3fe7ddd4b0c2437882109089a41a0349
+# Co-authored by : -
+# Link : http://boj.kr/b93ed1e8f2a7413fa8fe39483692604f
 
 import sys
 
@@ -8,8 +8,7 @@ def input():
     return sys.stdin.readline().rstrip()
 
 n, m, l = map(int, input().split())
-rests = [0] + list(map(int, input().split())) + [l]
-rests.sort()
+rests = sorted([0] + list(map(int, input().split())) + [l])
 
 low = 1
 high = l
