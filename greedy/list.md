@@ -22,7 +22,7 @@
 1,11508,./../solution/greedy/11508
 ,1817,./../solution/greedy/1817
 1,20115,./../solution/greedy/20115
-1,20300,
+1,20300,./../solution/greedy/20300
 ,14247,./../solution/greedy/14247
 1,1541,
 ,1080,
