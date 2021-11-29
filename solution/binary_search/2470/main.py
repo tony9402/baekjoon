@@ -35,7 +35,7 @@ else:
         if idx == len(lst_pos): idx -= 1 # 마지막 인덱스
         elif idx == 0: pass # 처음 인덱스
         elif abs(num+lst_pos[idx]) > abs(num+lst_pos[idx-1]): # 둘 중 최적 선택
-                idx -= 1
+            idx -= 1
 
         if tmp > abs(num+lst_pos[idx]): # 필요 시 업데이트
             tmp = abs(num+lst_pos[idx])
