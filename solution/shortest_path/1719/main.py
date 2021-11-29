@@ -9,32 +9,33 @@ def input():
     return sys.stdin.readline().rstrip()
 
 n, m = map(int, input().split())
-dic = {i:{} for i in range(1, n+1)}
+graph = {i:{} for i in range(1, n+1)}
 for _ in range(m):
     a, b, t = map(int, input().split())
-    dic[a][b] = t
-    dic[b][a] = t
-    
-def dijk(start):
-    dist_result = [999999 for _ in range(n+1)]
+    graph[a][b] = min(graph[a][b], t)
+    graph[b][a] = min(graph[b][a], t)
+
+INF = 999999
+def dijkstra(start):
+    dist_result = [INF for _ in range(n+1)]
     dist_result[start] = 0
     index_result = [None] * (n+1)
     visit = [False] * (n+1)
     visit[start] = True
-    pq = [(0, start,[])]
+    pq = [(0, start, [])]
     while pq:
         cur_dist, cur, path = heapq.heappop(pq)
-        for _next, next_dist in dic[cur].items():
+        for next_node, next_dist in graph[cur].items():
             dist = next_dist + cur_dist
-            if visit[_next]: continue
-            if dist_result[_next]<=dist: continue
-            dist_result[_next] = dist
-            index_result[_next] = path + [_next]
-            heapq.heappush(pq, (dist, _next, index_result[_next]))
+            if visit[next_node]: continue
+            if dist_result[next_node] <= dist: continue
+            dist_result[next_node] = dist
+            index_result[next_node] = path + [next_node]
+            heapq.heappush(pq, (dist, next_node, index_result[next_node]))
     return index_result
             
-for start in range(0, n):
-    result = dijk(start+1)
+for start in range(1, n+1):
+    result = dijkstra(start)
     answer = ''
     for i in range(0, n):
         if start==i:
