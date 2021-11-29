@@ -6,7 +6,7 @@ def input():
     return sys.stdin.readline().rstrip()
 sys.setrecursionlimit(1000000)
 
-def bfs(cur):
+def dfs(cur):
     flag = True
     visited[cur] = True
     for nei in graph[cur]:
@@ -14,8 +14,8 @@ def bfs(cur):
             if label[cur] == label[nei]: #만약 neighbor node와 label이 같다면?
                 return False # Bipartite graph가 아니다!
         else:
-            label[nei] = 3-label[cur] # 현재 node와 다른 label 저장
-            flag &= bfs(nei)
+            label[nei] = 3 - label[cur] # 현재 node와 다른 label 저장
+            flag &= dfs(nei)
     return flag
     
 
@@ -34,7 +34,7 @@ for _ in range(k):
     for i in range(1, v+1): # 주어지는 모든 node가 하나의 connected graph에 없을 수 있음
         if not visited[i]:
             label[i] = i
-            bipartite &= bfs(i) # 각 graph마다 최소 한 번씩 bfs를 돌려야 함
+            bipartite &= dfs(i) # 각 graph마다 최소 한 번씩 dfs를 돌려야 함
         if not bipartite: break # 그 중 하나라도 bipartite가 아니면 중지
     if bipartite:
         print("YES")
