@@ -8,21 +8,17 @@ def input():
     return sys.stdin.readline().rstrip()
 
 n, m = map(int, input().split())
-arr = []
-for _ in range(n):
-    arr.append(int(input()))
+arr = [int(input()) for _ in range(n)]
     
-_min = 0
-_max = 1000000000 * m
-answer = _max
-while _min<=_max:
-    mid = (_min + _max)//2
+low, high = 0, 1000000000 * m
+while low <= high:
+    mid = (low + high)//2
     cnt = 0
     for time in arr:
         cnt += mid//time
     if cnt>=m:
-        _max = mid-1
-        answer = min(answer, mid)
+        high = mid - 1
     else:
-        _min = mid+1
-print(answer)
+        low = mid + 1
+
+print(low)
