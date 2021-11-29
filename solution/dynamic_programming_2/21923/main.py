@@ -8,11 +8,10 @@ def input():
     return sys.stdin.readline().rstrip()
 
 n, m = map(int, input().split())
-board = []
-for _ in range(n):
-    board.append(list(map(int, input().split())))
+board = [list(map(int, input().split())) for _ in range(n)]
 
-dp = [[[-1e18] * m for _ in range(n)] for _ in range(2)]
+INF = 1e10
+dp = [[[-INF] * m for _ in range(n)] for _ in range(2)]
 
 # up
 dp[0][n-1][0] = board[n-1][0]
@@ -32,8 +31,9 @@ for y in range(n-1, -1 ,-1):
         if x+1<m:
             dp[1][y][x] = max(dp[1][y][x], dp[1][y][x+1] + board[y][x])
 
-answer = -1e18
+answer = -INF
 for i in range(n):
     for j in range(m):
         answer = max(answer, dp[0][i][j] + dp[1][i][j])
+
 print(answer)
