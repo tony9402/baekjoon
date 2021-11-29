@@ -393,6 +393,11 @@
             <br />
             <a href="https://github.com/youngjun0627">youngjun0627</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/suinj8"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/90179555?v=4"/></a>
+            <br />
+            <a href="https://github.com/suinj8">suinj8</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -408,6 +413,13 @@
             <a href="https://www.acmicpc.net/user/yj2221">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/yj2221">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=suin8" />
+            <br />
+            <a href="https://www.acmicpc.net/user/suin8">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/suin8">solved.ac</a>
         </td>
     </tr>
 </table>
