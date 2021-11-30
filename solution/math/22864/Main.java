@@ -32,12 +32,12 @@ public class Main {
         System.out.print(work);
     }
     
-	static boolean can_work(int A, int tired, int M) {
-		if(tired + A <= M) return true;
-		else return false;
-	}
+    static boolean can_work(int A, int tired, int M) {
+        if(tired + A <= M) return true;
+        else return false;
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
