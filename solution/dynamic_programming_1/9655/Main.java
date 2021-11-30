@@ -1,5 +1,3 @@
-package baekjoon_9655;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/945004772e74412fa8f1094de077eac4
@@ -8,17 +6,16 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		int N = rd.nextInt();
+        int N = rd.nextInt();
 		
-		//Â¦¼öÀÏ¶§´Â Ã¢¿µÀÌ°¡, È¦¼öÀÏ¶§´Â »ó±ÙÀÌ°¡ ÀÌ±â°Ô µË´Ï´Ù.
-		System.out.println((N % 2 == 0) ? "CY" : "SK");
-	}
+        //ì§ìˆ˜ì¼ë•ŒëŠ” ì°½ì˜ì´ê°€, í™€ìˆ˜ì¼ë•ŒëŠ” ìƒê·¼ì´ê°€ ì´ê¸°ê²Œ ë©ë‹ˆë‹¤.
+        System.out.println((N % 2 == 0) ? "CY" : "SK");
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
