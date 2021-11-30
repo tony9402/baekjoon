@@ -1,5 +1,3 @@
-package baekjoon_22864;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/9e22093a088c4facb197d261767247ba
@@ -8,32 +6,31 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 		FastReader rd = new FastReader();
 		
-		int A = rd.nextInt();
+        int A = rd.nextInt();
 		int B = rd.nextInt();
 		int C = rd.nextInt();
 		int M = rd.nextInt();
 		
 		int time = 0;
-		int tired = 0; //ÇÇ·Îµµ
+		int tired = 0; //í”¼ë¡œë„
 		int work = 0;
-		while(time < 24) { //24½Ã°£ µ¿¾È ÀÏ
-			if(can_work(A, tired, M)) { // ÀÏÀ» ÇÒ ¼ö ÀÖÀ» ¶§
+		while(time < 24) { //24ì‹œê°„ ë™ì•ˆ ì¼
+			if(can_work(A, tired, M)) { // ì¼ì„ í•  ìˆ˜ ìˆì„ ë•Œ
 				work += B;
 				tired += A;
 			}
-			else {// ÀÏÀ» ÇÒ ¼ö ¾øÀ» ¶§ => ½®´Ù.
+			else {// ì¼ì„ í•  ìˆ˜ ì—†ì„ ë•Œ => ì‰°ë‹¤.
 				tired -= C;
-				if(tired < 0) tired = 0; //ÇÇ·Îµµ°¡ 0º¸´Ù ÀÛ¾ÆÁöÁö ¾Ê°Ô
+				if(tired < 0) tired = 0; //í”¼ë¡œë„ê°€ 0ë³´ë‹¤ ì‘ì•„ì§€ì§€ ì•Šê²Œ
 			}
 			time++;
 		}
 		System.out.print(work);
 	}
-	static boolean can_work(int A, int tired, int M) {
+    static boolean can_work(int A, int tired, int M) {
 		if(tired + A <= M) return true;
 		else return false;
 	}
