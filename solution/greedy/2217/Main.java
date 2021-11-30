@@ -1,5 +1,3 @@
-package baekjoon_2217;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/a334ac368b9b42b9a9cb34e313c6cd3b
@@ -8,26 +6,27 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-	
-	static Vector<Integer> rope =  new Vector<Integer>();
-
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    static Vector<Integer> rope =  new Vector<Integer>();
+        
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		int N = rd.nextInt();
-		for(int i = 0;i < N; i++) rope.add(rd.nextInt());
+        int N = rd.nextInt();
+        for(int i = 0;i < N; i++) 
+            rope.add(rd.nextInt());
 		
-		Collections.sort(rope); //¿À¸§Â÷¼øÀ¸·Î Á¤·Ä
+        Collections.sort(rope); //ì˜¤ë¦„ì°¨ìˆœìœ¼ë¡œ ì •ë ¬
 		
-		//±âº»°ªÀ» °¡Àå ÀÛÀº ¹«°Ô * N°³ ·Î ÁöÁ¤ÇÏ°í
-		int weight = rope.get(0) * N; 
-		for(int i = 1;i < N;i++) {
-			if(rope.get(i) * (N - i) > weight) 
-				weight = rope.get(i) * (N - i);
-		} // 1°³¾¿ rope¸¦ ÁÙ¿©°¡¸ç ´õ ¸¹ÀÌ µé ¼ö ÀÖ´Â °æ¿ì¸¦ º»´Ù.
-		System.out.print(weight);
-	}
-	static class FastReader {
+        //ê¸°ë³¸ê°’ì„ ê°€ì¥ ì‘ì€ ë¬´ê²Œ * Nê°œ ë¡œ ì§€ì •í•˜ê³ 
+        int weight = rope.get(0) * N; 
+        for(int i = 1;i < N;i++) {
+            if(rope.get(i) * (N - i) > weight) 
+                weight = rope.get(i) * (N - i);
+        } // 1ê°œì”© ropeë¥¼ ì¤„ì—¬ê°€ë©° ë” ë§ì´ ë“¤ ìˆ˜ ìˆëŠ” ê²½ìš°ë¥¼ ë³¸ë‹¤.
+        System.out.print(weight);
+    }
+        
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
