@@ -1,5 +1,3 @@
-package baekjoon_20922;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/f6232bedc14545ecb59f0398d4826f7d
@@ -8,41 +6,42 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-	static int[] num = new int[200010];
-	static int[] count = new int[200010];
+    static int[] num = new int[200010];
+    static int[] count = new int[200010];
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		int N = rd.nextInt();
-		int K = rd.nextInt();
+        int N = rd.nextInt();
+        int K = rd.nextInt();
 		
-		for(int i = 1;i <= N;i++)
-			num[i] = rd.nextInt();
+        for(int i = 1;i <= N;i++)
+            num[i] = rd.nextInt();
 		
-		//ÅõÆ÷ÀÎÅÍ·Î Ç®ÀÌ
-		//start¿Í end»çÀÌ¿¡ °ãÄ¡´Â ¼ö°¡ K°³ ÀÌÇÏÀÏ ¶§´Â endÁõ°¡
-		//K°³ ÃÊ°úÀÏ ¶§´Â start¸¦ ´Ã·Á°¡¸ç °ãÄ¡´Â ¼ö°¡ ºüÁú¶§±îÁö beginÁõ°¡
-		int begin = 1, end = 1, max = 0;
-		while(end <= N) {
-			if(count[num[end]] < K) {
-				max = Math.max(end - begin + 1, max);
-				count[num[end]]++;
-				end++;
-			}
-			else {
-				max = Math.max(end - begin, max);
-				//(end - 1) - begin + 1
-				//end¹øÂ°¿¡ K¸¦ ÃÊ°úÇÏ±â ¶§¹®¿¡ end - 1¹øÂ° ±îÁö
-				//±æÀÌ¸¦ °í·ÁÇØ¾ß ÇÔ.
-				count[num[begin]]--;
-				begin++;
-			}
-		}
+        //íˆ¬í¬ì¸í„°ë¡œ í’€ì´
+        //startì™€ endì‚¬ì´ì— ê²¹ì¹˜ëŠ” ìˆ˜ê°€ Kê°œ ì´í•˜ì¼ ë•ŒëŠ” endì¦ê°€
+        //Kê°œ ì´ˆê³¼ì¼ ë•ŒëŠ” startë¥¼ ëŠ˜ë ¤ê°€ë©° ê²¹ì¹˜ëŠ” ìˆ˜ê°€ ë¹ ì§ˆë•Œê¹Œì§€ beginì¦ê°€
+        int begin = 1, end = 1, max = 0;
+        while(end <= N) {
+            if(count[num[end]] < K) {
+                max = Math.max(end - begin + 1, max);
+                count[num[end]]++;
+                end++;
+            }
+            else {
+                max = Math.max(end - begin, max);
+                //(end - 1) - begin + 1
+                //endë²ˆì§¸ì— Kë¥¼ ì´ˆê³¼í•˜ê¸° ë•Œë¬¸ì— end - 1ë²ˆì§¸ ê¹Œì§€
+                //ê¸¸ì´ë¥¼ ê³ ë ¤í•´ì•¼ í•¨.
+                count[num[begin]]--;
+                begin++;
+            }
+        }
 		
-		System.out.println(max);
-	}
-	static class FastReader {
+        System.out.println(max);
+    }
+	
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
