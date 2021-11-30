@@ -7,26 +7,26 @@ import java.io.*;
 
 public class Main {
 
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		String N = rd.next();
-		int B = rd.nextInt();
+        String N = rd.next();
+        int B = rd.nextInt();
 		
-		int num = 0;
-		int digit = 0;
-		for(int i = N.length() - 1; i >= 0; i--) {
-			if(N.charAt(i) >= 65) // 문자 A~Z == 정수(65~90) -> 10진법(-55)
-				num += (N.charAt(i) - 55) * Math.pow(B, digit);
-			else  // 문자 0~9 == 십진법(48~57)
-				num += (N.charAt(i) - 48) * Math.pow(B, digit);
+        int num = 0;
+        int digit = 0;
+        for(int i = N.length() - 1; i >= 0; i--) {
+            if(N.charAt(i) >= 65) // 문자 A~Z == 정수(65~90) -> 10진법(-55)
+                num += (N.charAt(i) - 55) * Math.pow(B, digit);
+            else  // 문자 0~9 == 십진법(48~57)
+                num += (N.charAt(i) - 48) * Math.pow(B, digit);
 
-			digit++;
-		}
+            digit++;
+        }
 		
-		System.out.print(num);
-	}
-	static class FastReader {
+        System.out.print(num);
+    }
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
