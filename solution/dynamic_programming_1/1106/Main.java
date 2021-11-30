@@ -1,5 +1,3 @@
-package baekjoon_1106;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/f27ceec311074b119fc847208aad7a4a
@@ -8,49 +6,49 @@ import java.util.*;
 import java.io.*;
 
 class Pair{
-	private int cost, customer;
-	Pair(int cost, int customer) {
-		this.cost = cost;
-		this.customer = customer;
-	}
-	public int getCo() { return cost; }
-	public int getCu() { return customer; }
+    private int cost, customer;
+    Pair(int cost, int customer) {
+        this.cost = cost;
+        this.customer = customer;
+    }
+    public int getCo() { return cost; }
+    public int getCu() { return customer; }
 }
 
 public class Main {
 	
-	static Pair[] city = new Pair[30]; // µµ½ÃÀÇ ¼ö
-	static int[] dp = new int[100010]; 
-	//dp[i]´Â iÀÇ ºñ¿ëÀ¸·Î ¸î¸íÀÇ °í°´À» ´Ã¸± ¼ö ÀÖ´ÂÁö
-	//ÃÖ´ë : 100¿øÀ¸·Î 1¸íÀÇ ÀÎ¿øÀÌ ´Ã¾î³¯ ¼ö ÀÖ°í 1000¸íÀ» ¸ğÁıÇØ¾ß ÇÑ´Ù¸é
-	//100 * 1000 = 100000 ¸¸Å­ ÇÊ¿ä 
+    static Pair[] city = new Pair[30]; // ë„ì‹œì˜ ìˆ˜
+    static int[] dp = new int[100010]; 
+    //dp[i]ëŠ” iì˜ ë¹„ìš©ìœ¼ë¡œ ëª‡ëª…ì˜ ê³ ê°ì„ ëŠ˜ë¦´ ìˆ˜ ìˆëŠ”ì§€
+    //ìµœëŒ€ : 100ì›ìœ¼ë¡œ 1ëª…ì˜ ì¸ì›ì´ ëŠ˜ì–´ë‚  ìˆ˜ ìˆê³  1000ëª…ì„ ëª¨ì§‘í•´ì•¼ í•œë‹¤ë©´
+    //100 * 1000 = 100000 ë§Œí¼ í•„ìš” 
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		int C = rd.nextInt();
-		int N = rd.nextInt();
+        int C = rd.nextInt();
+        int N = rd.nextInt();
 		
-		for(int i = 0;i < N;i++) {
-			int x = rd.nextInt();
-			int y = rd.nextInt();
-			city[i] = new Pair(x,y);
-		}
+        for(int i = 0;i < N;i++) {
+            int x = rd.nextInt();
+            int y = rd.nextInt();
+            city[i] = new Pair(x,y);
+        }
 		
-		for(int i = 1;i < 100001;i++) {
-			for(int j = 0;j < N;j++) {
-				if(city[j].getCo() <= i) 
-					dp[i] = Math.max(dp[i], dp[i - city[j].getCo()] + city[j].getCu());
-				//dp[i], Áï iÀÇ µ·À¸·Î È«º¸ ÇÒ ¼ö ÀÖ´Â ÃÖ´ëÀÇ ÀÎ¿øÀ» °¢ µµ½Ã¸¦ µ¹¸é¼­ È®ÀÎÇÏ¿© ÃÖ´ë°ªÀ¸·Î °»½ÅÇÕ´Ï´Ù.
-			}
-			if(dp[i] >= C) {//dp[i]°¡ È«º¸ ÇØ¾ß ÇÒ ÀÎ¿øÀ» ¸¸Á·ÇÏ¸é i´Â ÃÖ¼Òºñ¿ë
-				System.out.println(i);
-				break;
-			}
-		}
-	}
+        for(int i = 1;i < 100001;i++) {
+            for(int j = 0;j < N;j++) {
+                if(city[j].getCo() <= i) 
+                    dp[i] = Math.max(dp[i], dp[i - city[j].getCo()] + city[j].getCu());
+                    //dp[i], ì¦‰ iì˜ ëˆìœ¼ë¡œ í™ë³´ í•  ìˆ˜ ìˆëŠ” ìµœëŒ€ì˜ ì¸ì›ì„ ê° ë„ì‹œë¥¼ ëŒë©´ì„œ í™•ì¸í•˜ì—¬ ìµœëŒ€ê°’ìœ¼ë¡œ ê°±ì‹ í•©ë‹ˆë‹¤.
+            }
+            if(dp[i] >= C) {//dp[i]ê°€ í™ë³´ í•´ì•¼ í•  ì¸ì›ì„ ë§Œì¡±í•˜ë©´ iëŠ” ìµœì†Œë¹„ìš©
+                System.out.println(i);
+                break;
+            }
+        }
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
@@ -79,7 +77,7 @@ public class Main {
             catch (IOException e) {
                 e.printStackTrace();
             }
-            return str;
+        return str;
         }
     }
 }
