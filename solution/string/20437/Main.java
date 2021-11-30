@@ -1,62 +1,63 @@
-package baekjoon_20437;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/0d345a8508a74a1fbf363c6719797709
 
-/* 3. ¾î¶²¹®ÀÚ¸¦ Á¤È®È÷ k°³ Æ÷ÇÔÇÏ´Â °¡Àå ÂªÀº ¹®ÀÚ¿­
-      == ½ÃÀÛ°ú ³¡ÀÌ ¾î¶² ¹®ÀÚÀÎ °¡Àå ÂªÀº ¹®ÀÚ¿­
-   4. Á¤È®È÷ k°³ Æ÷ÇÔÇÏ´Â °¡Àå ±ä ¹®ÀÚ¿­
-      == ½ÃÀÛ°ú ³¡ÀÌ ¾î¶² ¹®ÀÚÀÎ °¡Àå ±ä ¹®ÀÚ¿­  */
+/* 
+3. ì–´ë–¤ë¬¸ìë¥¼ ì •í™•íˆ kê°œ í¬í•¨í•˜ëŠ” ê°€ì¥ ì§§ì€ ë¬¸ìì—´
+    == ì‹œì‘ê³¼ ëì´ ì–´ë–¤ ë¬¸ìì¸ ê°€ì¥ ì§§ì€ ë¬¸ìì—´
+4. ì •í™•íˆ kê°œ í¬í•¨í•˜ëŠ” ê°€ì¥ ê¸´ ë¬¸ìì—´
+    == ì‹œì‘ê³¼ ëì´ ì–´ë–¤ ë¬¸ìì¸ ê°€ì¥ ê¸´ ë¬¸ìì—´  
+*/
 
 import java.util.*;
 import java.io.*;
 
 public class Main {
-	static int[] alpha = new int[26];
+    static int[] alpha = new int[26];
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		int T = rd.nextInt();
+        int T = rd.nextInt();
 		
-		for(int i = 0;i < T;i++) {
-			
-			for(int j = 0;j < 26;j++) // ÃÊ±âÈ­ 
-				alpha[j] = 0;
+        for(int i = 0;i < T;i++) {
 
-			String W = rd.nextLine();
-			int K = rd.nextInt();
+            // ì´ˆê¸°í™” 
+			for(int j = 0;j < 26;j++) 
+                alpha[j] = 0;
+
+            String W = rd.nextLine();
+            int K = rd.nextInt();
 			
-			//°¢ ¾ËÆÄºªÀÌ ¸î¹ø ³ª¿Ô´ÂÁö ¼¾´Ù
-			for(int j = 0;j < W.length();j++) 
-				alpha[W.charAt(j) - 'a']++;
+            //ê° ì•ŒíŒŒë²³ì´ ëª‡ë²ˆ ë‚˜ì™”ëŠ”ì§€ ì„¼ë‹¤
+            for(int j = 0;j < W.length();j++) 
+                alpha[W.charAt(j) - 'a']++;
 			
-			int min = Integer.MAX_VALUE, max = 0;
-			for(int j = 0;j < W.length();j++) {
-				if(alpha[W.charAt(j) - 'a'] < K) continue;
+            int min = Integer.MAX_VALUE, max = 0;
+            for(int j = 0;j < W.length();j++) {
+                if(alpha[W.charAt(j) - 'a'] < K) continue;
 				
-				//Kº¸´Ù Å©°Å³ª °°Àº ºóµµ·Î ³ª¿Â ¹®ÀÚ¸¸ º»´Ù
-				//±× ¹®ÀÚ°¡ ¹®ÀÚ¿­ÀÇ ½ÃÀÛ°ú ³¡
-				char ch = W.charAt(j);
-				int count = 0;
-				for(int l = j;l < W.length();l++) {
-					if(ch != W.charAt(l)) continue;
-					else count++;
+                //Kë³´ë‹¤ í¬ê±°ë‚˜ ê°™ì€ ë¹ˆë„ë¡œ ë‚˜ì˜¨ ë¬¸ìë§Œ ë³¸ë‹¤
+                //ê·¸ ë¬¸ìê°€ ë¬¸ìì—´ì˜ ì‹œì‘ê³¼ ë
+                char ch = W.charAt(j);
+                int count = 0;
+                for(int l = j;l < W.length();l++) {
+                    if(ch != W.charAt(l)) continue;
+                    else count++;
 						
-					//Á¤È®È÷ K°³°¡ µÇ´Â ¼ø°£ min, max°ª °»½Å
-					if(count == K) {
-						min = Math.min(min, l - j + 1);
-						max = Math.max(max, l - j + 1);
-						break;
-					}
-				}
-			}
+                    //ì •í™•íˆ Kê°œê°€ ë˜ëŠ” ìˆœê°„ min, maxê°’ ê°±ì‹ 
+                    if(count == K) {
+                        min = Math.min(min, l - j + 1);
+                        max = Math.max(max, l - j + 1);
+                        break;
+                    }
+                }
+            }
 	
-			if(min == 10001 || max == 0) System.out.println("-1");
-			else System.out.println(min + " " + max);
-		}
-	}
+            if(min == 10001 || max == 0) System.out.println("-1");
+            else System.out.println(min + " " + max);
+        }
+    }
 	static class FastReader {
         BufferedReader br;
         StringTokenizer st;
