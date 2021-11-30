@@ -1,6 +1,6 @@
 //Authored by : suin8
 //Co-authored by : -
-//Link : 
+//Link : http://boj.kr/f8aaf2020e9d4d9eb2576568171482a6
 
 import java.util.*;
 import java.io.*;
