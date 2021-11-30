@@ -1,5 +1,3 @@
-package baekjoon_1541;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : 
@@ -8,31 +6,33 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		String input = rd.nextLine();
-		//ÀÔ·Â¹ŞÀº ¹®ÀåÀ» +,-¸¦ Æ÷ÇÔÇÏ¿© ÅäÅ«È­
-		StringTokenizer stk = new StringTokenizer(input, "+ | -", true);
-		//Ã¹ ¸¶ÀÌ³Ê½º ÀÌÀüÀº ¸ğµÎ ´õÇÏ°í 
-		//ÀÌÈÄ¿¡ ¸ğµç ¼ö¸¦ »©¸é ÃÖ¼Ò°ªÀÌ µÈ´Ù.
-		boolean minus = false;
-		int sum = 0;
-		while(stk.hasMoreTokens()) {
-			String token = stk.nextToken();
+        String input = rd.nextLine();
+            
+        //ì…ë ¥ë°›ì€ ë¬¸ì¥ì„ +,-ë¥¼ í¬í•¨í•˜ì—¬ í† í°í™”
+        StringTokenizer stk = new StringTokenizer(input, "+ | -", true);
+            
+        //ì²« ë§ˆì´ë„ˆìŠ¤ ì´ì „ì€ ëª¨ë‘ ë”í•˜ê³  
+        //ì´í›„ì— ëª¨ë“  ìˆ˜ë¥¼ ë¹¼ë©´ ìµœì†Œê°’ì´ ëœë‹¤.
+        boolean minus = false;
+        int sum = 0;
+        while(stk.hasMoreTokens()) {
+            String token = stk.nextToken();
 			
-			if(token.equals("+")) continue;
-			else if(token.equals("-")) minus = true;
-			else {
-				if(minus == true) sum -= Integer.parseInt(token);
-				else sum += Integer.parseInt(token);
-			}
-		}
+            if(token.equals("+")) continue;
+            else if(token.equals("-")) minus = true;
+            else {
+                if(minus == true) sum -= Integer.parseInt(token);
+                else sum += Integer.parseInt(token);
+            }
+        }
 		
-		System.out.print(sum);
-	}
-	static class FastReader {
+        System.out.print(sum);
+    }
+
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
