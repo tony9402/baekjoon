@@ -1,5 +1,3 @@
-package baekjoon_21921;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/1c1a979d8e70465fbe6b2aed1835549a
@@ -8,39 +6,43 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-	static int[] day = new int[250010];
-	static int[] sum = new int[250010];
+    static int[] day = new int[250010];
+    static int[] sum = new int[250010];
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		int N = rd.nextInt();
-		int X = rd.nextInt();
-		//i¹øÂ°±îÁö ´©Àû ¹æ¹®ÀÚ ¼ö ±¸ÇÏ±â
-		for(int i = 1;i <= N;i++) {
-			day[i] = rd.nextInt();
-			sum[i] = sum[i - 1] + day[i];
-		}
+        int N = rd.nextInt();
+        int X = rd.nextInt();
+	    
+        //ië²ˆì§¸ê¹Œì§€ ëˆ„ì  ë°©ë¬¸ì ìˆ˜ êµ¬í•˜ê¸°
+        for(int i = 1;i <= N;i++) {
+            day[i] = rd.nextInt();
+            sum[i] = sum[i - 1] + day[i];
+        }
 		
-		int max = 0; //ÃÖ´ë·Î ¹æ¹®ÇÑ ´©Àû ¹æ¹®ÀÚ ¼ö
-		int cnt = 0; //ÃÖ´ë·Î ¹æ¹®ÇÑ ³¯ÀÇ ¼ö
-		for(int i = X;i <= N;i++) {
-			//½½¶óÀÌµù À©µµ¿ì ¹æ½ÄÀ¸·Î XÀÏ¸¸Å­ ¹æ¹®ÀÚ ¼ö¸¦ ±¸ÇØ¼­
-			int tmp = sum[i] - sum[i - X];
-			//max°ªº¸´Ù Å©¸é max°ª °»½Å ÈÄ
-			//±â°£À» 1·Î ÃÊ±âÈ­
-			if(tmp > max) {
-				max = tmp;
-				cnt = 1;
-			}
-			//max°ª°ú µ¿ÀÏÇÑ ³¯ÀÌ ¶Ç ÀÖ´Â°æ¿ì ±â°£Áõ°¡
-			else if(tmp == max) cnt++;
-		}
+        int max = 0; //ìµœëŒ€ë¡œ ë°©ë¬¸í•œ ëˆ„ì  ë°©ë¬¸ì ìˆ˜
+        int cnt = 0; //ìµœëŒ€ë¡œ ë°©ë¬¸í•œ ë‚ ì˜ ìˆ˜
+        for(int i = X;i <= N;i++) {
+            //ìŠ¬ë¼ì´ë”© ìœˆë„ìš° ë°©ì‹ìœ¼ë¡œ Xì¼ë§Œí¼ ë°©ë¬¸ì ìˆ˜ë¥¼ êµ¬í•´ì„œ
+            int tmp = sum[i] - sum[i - X];
 		
-		if(max == 0) System.out.println("SAD");
-		else System.out.println(max + "\n" + cnt);
-	}
-	static class FastReader {
+            //maxê°’ë³´ë‹¤ í¬ë©´ maxê°’ ê°±ì‹  í›„
+            //ê¸°ê°„ì„ 1ë¡œ ì´ˆê¸°í™”
+            if(tmp > max) {
+                max = tmp;
+                cnt = 1;
+            }
+		
+            //maxê°’ê³¼ ë™ì¼í•œ ë‚ ì´ ë˜ ìˆëŠ”ê²½ìš° ê¸°ê°„ì¦ê°€
+            else if(tmp == max) cnt++;
+        }
+		
+        if(max == 0) System.out.println("SAD");
+        else System.out.println(max + "\n" + cnt);
+    }
+	
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
