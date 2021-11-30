@@ -1,5 +1,3 @@
-package baekjoon_11659;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/d42746a577ac40cf8921ca94bbed14d6
@@ -8,31 +6,32 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-	static int[] num = new int[100010];
-	static int[] sum = new int[100010];
+    static int[] num = new int[100010];
+    static int[] sum = new int[100010];
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		int N = rd.nextInt();
-		int M = rd.nextInt();
+        int N = rd.nextInt();
+        int M = rd.nextInt();
 		
-		//1ºÎÅÍ i±îÁö ÇÕÀ» ±¸ÇØ³õ´Â´Ù.
-		for(int i = 1;i <= N;i++) {
-			num[i] = rd.nextInt();
-			sum[i] = sum[i - 1] + num[i];
-		}
+        //1ë¶€í„° iê¹Œì§€ í•©ì„ êµ¬í•´ë†“ëŠ”ë‹¤.
+        for(int i = 1;i <= N;i++) {
+            num[i] = rd.nextInt();
+            sum[i] = sum[i - 1] + num[i];
+        }
 		
-		//end±îÁöÀÇ ÇÕ¿¡¼­ beginÀü±îÁöÀÇ ÇÕÀ» »©¸é ±× Áß°£ °ªÀÌ ³ª¿Â´Ù.
-		//¸Å¹ø ½ÃÇà¸¶´Ù ´õÇÏ¸é ½Ã°£ÃÊ°ú
-		for(int i = 0;i < M;i++) {
-			int begin = rd.nextInt();
-			int end = rd.nextInt();
+        //endê¹Œì§€ì˜ í•©ì—ì„œ beginì „ê¹Œì§€ì˜ í•©ì„ ë¹¼ë©´ ê·¸ ì¤‘ê°„ ê°’ë“¤ì˜ í•©ì´ ë‚˜ì˜¨ë‹¤.
+        //ë§¤ë²ˆ ì‹œí–‰ë§ˆë‹¤ ë”í•˜ë©´ ì‹œê°„ì´ˆê³¼ê°€ ë‚œë‹¤.
+        for(int i = 0;i < M;i++) {
+            int begin = rd.nextInt();
+            int end = rd.nextInt();
 		
-			System.out.println(sum[end] - sum[begin - 1]);
-		}
-	}
-	static class FastReader {
+            System.out.println(sum[end] - sum[begin - 1]);
+        }
+    }
+
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
