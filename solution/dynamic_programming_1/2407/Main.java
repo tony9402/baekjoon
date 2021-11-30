@@ -1,5 +1,3 @@
-package baekjoon_2407;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/342101ba2b5246bb9801f2d356ea8c56
@@ -9,33 +7,32 @@ import java.io.*;
 import java.math.*;
 
 public class Main {
-	static BigInteger[][] dp = new BigInteger[110][110]; 
+    static BigInteger[][] dp = new BigInteger[110][110]; 
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		int n = rd.nextInt();
-		int m = rd.nextInt();
+        int n = rd.nextInt();
+        int m = rd.nextInt();
 		
-		//¸Å¿ì¸Å¿ì Å«¼ö°¡ ³ª¿À´Â Á¶ÇÕ µû¶ó¼­ biginteger»ç¿ë
-		//µ¿ÀûÇÁ·Î±×·¡¹ÖÀº 1010¹ø ´Ù¸®³õ±â¿Í ¶È°°´Ù.
-		dp[0][0] = new BigInteger("1");
+        //ë§¤ìš°ë§¤ìš° í°ìˆ˜ê°€ ë‚˜ì˜¤ëŠ” ì¡°í•©(n C m), ë”°ë¼ì„œ bigintegerì‚¬ìš©
+        dp[0][0] = new BigInteger("1");
 		
-		for(int i = 1;i <= n;i++) {
-			dp[i][0] = new BigInteger("1");
-			for(int j = 1;j <= i;j++) {
-				//biginteger¹è¿­ÀÌ¶ó null·Î ÃÊ±âÈ­ µÇ¾î ÀÖ±â ¶§¹®¿¡
-				//°¢ ¿¹¿Ü»óÈ²¸¶´Ù °ªÀ» Á¤ÇØÁÖ¾î¾ß ÇÑ´Ù. 
-				if(i == j) dp[i][j] = new BigInteger("1");
-				else if(i < j) dp[i][j] = new BigInteger("0");		 
-				else dp[i][j] = dp[i - 1][j - 1].add(dp[i - 1][j]);	
-			}
-		}
+        for(int i = 1;i <= n;i++) {
+            dp[i][0] = new BigInteger("1");
+            for(int j = 1;j <= i;j++) {
+                //bigintegerë°°ì—´ì´ë¼ nullë¡œ ì´ˆê¸°í™” ë˜ì–´ ìˆê¸° ë•Œë¬¸ì—
+                //ê° ì˜ˆì™¸ìƒí™©ë§ˆë‹¤ ê°’ì„ ì •í•´ì£¼ì–´ì•¼ í•œë‹¤. 
+                if(i == j) dp[i][j] = new BigInteger("1");
+                else if(i < j) dp[i][j] = new BigInteger("0");		 
+                else dp[i][j] = dp[i - 1][j - 1].add(dp[i - 1][j]);	
+            }
+        }
 		
-		System.out.println(dp[n][m]);
-	}
+        System.out.println(dp[n][m]);
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
