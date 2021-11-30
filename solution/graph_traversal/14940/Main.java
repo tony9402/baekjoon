@@ -1,5 +1,3 @@
-package baekjoon_14940;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/07019ff960d14af3840cf2210023fbf3
@@ -8,82 +6,82 @@ import java.util.*;
 import java.io.*;
 
 class Pair{
-	int x, y;
-	Pair(int x, int y){
-		this.x = x;
-		this.y = y;
-	}
+    int x, y;
+    Pair(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
 }
 
 public class Main {
-	static int[][] map, distance;
-	static int[] dx = {1, 0, -1, 0};
-	static int[] dy = {0, 1, 0, -1};
-	static int n, m;
-	static boolean[][] visited;
+    static int[][] map, distance;
+    static int[] dx = {1, 0, -1, 0};
+    static int[] dy = {0, 1, 0, -1};
+    static int n, m;
+    static boolean[][] visited;
 			
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		n = rd.nextInt();
-		m = rd.nextInt();
+        n = rd.nextInt();
+        m = rd.nextInt();
 		
-		map = new int[n + 10][m + 10];
-		distance = new int[n + 10][m + 10];
-		visited = new boolean[n + 10][m + 10];
+        map = new int[n + 10][m + 10];
+        distance = new int[n + 10][m + 10];
+        visited = new boolean[n + 10][m + 10];
 		
-		//∏Ò«•¡ˆ¡° ¿˙¿Â
-		int destX = 0, destY = 0;
-		for(int i = 1;i <= n;i++) {
-			for(int j = 1;j <= m;j++) {
-				map[i][j] = rd.nextInt(); 
-				if(map[i][j] == 2) {
-					destX = i;
-					destY = j;
-				}
-			}
-		}
+        //Î™©ÌëúÏßÄÏ†ê Ï†ÄÏû•
+        int destX = 0, destY = 0;
+        for(int i = 1;i <= n;i++) {
+            for(int j = 1;j <= m;j++) {
+                map[i][j] = rd.nextInt(); 
+		    
+                if(map[i][j] == 2) {
+                    destX = i;
+                    destY = j;
+                }
+            }
+        }
 		
-		//∏Ò«•¡ˆ¡°¿ª ±‚¡ÿ¿∏∑Œ bfs∏¶ ¡¯«‡«œø©
-		//∞¢ ¿ßƒ°∫∞∑Œ æÛ∏∏≈≠ ∂≥æÓ¡Æ ¿÷¥¬¡ˆ ±∏«—¥Ÿ.
-		bfs(destX, destY);
+        //Î™©ÌëúÏßÄÏ†êÏùÑ Í∏∞Ï§ÄÏúºÎ°ú bfsÎ•º ÏßÑÌñâÌïòÏó¨
+        //Í∞Å ÏúÑÏπòÎ≥ÑÎ°ú ÏñºÎßåÌÅº Îñ®Ïñ¥Ï†∏ ÏûàÎäîÏßÄ Íµ¨ÌïúÎã§.
+        bfs(destX, destY);
 		
-		//∞≈∏Æ∞° 0¿Œµ• map∞™¿Ã 1¿Ã∏È ∞• ºˆ æ¯¥¬ ¡¬«•¿Ã¥Ÿ µ˚∂Ûº≠ -1
-		for(int i = 1;i <= n;i++) {
-			for(int j = 1;j <= m ;j++) {
-				if(distance[i][j] == 0 && map[i][j] == 1)
-					System.out.print("-1 ");
-				else 
-					System.out.print(distance[i][j] + " ");
-			}
-			System.out.print("\n");
-		}
-	}
+        //Í±∞Î¶¨Í∞Ä 0Ïù∏Îç∞ mapÍ∞íÏù¥ 1Ïù¥Î©¥ Í∞à Ïàò ÏóÜÎäî Ï¢åÌëúÏù¥Îã§ Îî∞ÎùºÏÑú -1
+        for(int i = 1;i <= n;i++) {
+            for(int j = 1;j <= m ;j++) {
+                if(distance[i][j] == 0 && map[i][j] == 1)
+                    System.out.print("-1 ");
+                else 
+                    System.out.print(distance[i][j] + " ");
+            }
+            System.out.print("\n");
+        }
+    }
 	
-	static void bfs(int X, int Y) {
-		Queue<Pair> q = new LinkedList<>();
-		q.add(new Pair(X, Y));
-		visited[X][Y] = true;
+    static void bfs(int X, int Y) {
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(X, Y));
+        visited[X][Y] = true;
 		
-		while(!q.isEmpty()) {
-			Pair cur = q.poll();
+        while(!q.isEmpty()) {
+            Pair cur = q.poll();
 			
-			for(int i = 0;i < 4;i++) {
-				int nextx = cur.x + dx[i];
-				int nexty = cur.y + dy[i];
+            for(int i = 0;i < 4;i++) {
+                int nextx = cur.x + dx[i];
+                int nexty = cur.y + dy[i];
 				
-				if(nextx <= 0 || nexty <= 0 || nextx > n || nexty > m) continue;
-				if(visited[nextx][nexty] == true || map[nextx][nexty] == 0) continue;
+                if(nextx <= 0 || nexty <= 0 || nextx > n || nexty > m) continue;
+                if(visited[nextx][nexty] == true || map[nextx][nexty] == 0) continue;
 				
-				q.add(new Pair(nextx, nexty));
-				distance[nextx][nexty] = distance[cur.x][cur.y] + 1;
-				visited[nextx][nexty] = true;
-			}
-		}
-		
-	}
+                q.add(new Pair(nextx, nexty));
+                distance[nextx][nexty] = distance[cur.x][cur.y] + 1;
+                visited[nextx][nexty] = true;
+            }
+        }
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
