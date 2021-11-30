@@ -1,5 +1,3 @@
-package baekjoon_1912;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/788f5770927f4da79551c4bc06c3351b
@@ -9,30 +7,31 @@ import java.io.*;
 
 public class Main {
 	
-	static int[] arr = new int[100010];
-	static int[] dp = new int[100010];
+    static int[] arr = new int[100010];
+    static int[] dp = new int[100010];
  	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		int n = rd.nextInt();
-		for(int i = 0;i < n;i++) 
-			arr[i] = rd.nextInt();
+        int n = rd.nextInt();
+        for(int i = 0;i < n;i++) 
+            arr[i] = rd.nextInt();
 		
-		//ÃÊ±âÈ­
-		int max = arr[0];
-		dp[0] = arr[0];
+        //ì´ˆê¸°í™”
+        int max = arr[0];
+        dp[0] = arr[0];
 		
-		//dp[i]¾È¿¡´Â arr[0~i]±îÁöÀÇ ÇÕ Áß ÃÖ´ë°ªÀ» °¡Áø´Ù.
-		//max´Â dp°ªÁß ÃÖ´ë°ªÀ» °¡Áø´Ù.=> °á°ú°ª
-		for(int i = 1;i < n;i++) {
-			dp[i] = Math.max(dp[i - 1] + arr[i], arr[i]);
-			max = Math.max(dp[i], max);
-		}
+        //dp[i]ì•ˆì—ëŠ” arr[0~i]ê¹Œì§€ì˜ í•© ì¤‘ ìµœëŒ€ê°’ì„ ê°€ì§„ë‹¤.
+        //maxëŠ” dpê°’ì¤‘ ìµœëŒ€ê°’ì„ ê°€ì§„ë‹¤.=> ê²°ê³¼ê°’
+        for(int i = 1;i < n;i++) {
+            dp[i] = Math.max(dp[i - 1] + arr[i], arr[i]);
+            max = Math.max(dp[i], max);
+        }
 		
-		System.out.println(max);
-	}
-	static class FastReader {
+        System.out.println(max);
+    }
+
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
