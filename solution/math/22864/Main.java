@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 		FastReader rd = new FastReader();
 		
-        int A = rd.nextInt();
+                int A = rd.nextInt();
 		int B = rd.nextInt();
 		int C = rd.nextInt();
 		int M = rd.nextInt();
