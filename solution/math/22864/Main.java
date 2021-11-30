@@ -7,30 +7,31 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-		FastReader rd = new FastReader();
+        FastReader rd = new FastReader();
 		
-		int A = rd.nextInt();
-		int B = rd.nextInt();
-		int C = rd.nextInt();
-		int M = rd.nextInt();
+        int A = rd.nextInt();
+        int B = rd.nextInt();
+        int C = rd.nextInt();
+        int M = rd.nextInt();
 		
-		int time = 0;
-		int tired = 0; //피로도
-		int work = 0;
+        int time = 0;
+        int tired = 0; //피로도
+        int work = 0;
         
-		while(time < 24) { //24시간 동안 일
-			if(can_work(A, tired, M)) { // 일을 할 수 있을 때
-				work += B;
-				tired += A;
-			}
-			else {// 일을 할 수 없을 때 => 쉰다.
-				tired -= C;
-				if(tired < 0) tired = 0;//피로도가 0보다 작아지지 않게
-			}
-			time++;
-		}
-		System.out.print(work);
-	}
+        while(time < 24) { //24시간 동안 일
+            if(can_work(A, tired, M)) { // 일을 할 수 있을 때
+                work += B;
+                tired += A;
+            }
+            else {// 일을 할 수 없을 때 => 쉰다.
+                tired -= C;
+                if(tired < 0) tired = 0;//피로도가 0보다 작아지지 않게
+            }
+            time++;
+        }
+        System.out.print(work);
+    }
+    
 	static boolean can_work(int A, int tired, int M) {
 		if(tired + A <= M) return true;
 		else return false;
