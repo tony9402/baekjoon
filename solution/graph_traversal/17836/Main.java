@@ -1,5 +1,3 @@
-package baekjoon_17836;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/d70329d0bfa74ad692b57abcff5fc0b3
@@ -8,82 +6,84 @@ import java.util.*;
 import java.io.*;
 
 class Point{
-	int x, y;
-	Point(int x, int y){
-		this.x = x;
-		this.y = y;
-	}
+    int x, y;
+    Point(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
 }
 
 public class Main {
-	static int N, M, T;
-	static int[][] castle, distance;
-	static int[] dx = {1, 0, -1, 0};
-	static int[] dy = {0, 1, 0, -1};
-	static boolean[][] visited;
-	static Point sword;
+    static int N, M, T;
+    static int[][] castle, distance;
+    static int[] dx = {1, 0, -1, 0};
+    static int[] dy = {0, 1, 0, -1};
+    static boolean[][] visited;
+    static Point sword;
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 		
-		N = rd.nextInt();
-		M = rd.nextInt();
-		T = rd.nextInt();
+        N = rd.nextInt();
+        M = rd.nextInt();
+        T = rd.nextInt();
 		
-		castle = new int[N + 10][M + 10];
-		distance = new int[N + 10][M + 10];
-		visited = new boolean[N + 10][M + 10];
+        castle = new int[N + 10][M + 10];
+        distance = new int[N + 10][M + 10];
+        visited = new boolean[N + 10][M + 10];
 		
-		for(int i = 1;i <= N;i++) {
-			for(int j = 1;j <= M;j++) {
-				castle[i][j] = rd.nextInt();
-				if(castle[i][j] == 2)
-					sword = new Point(i, j);
-			}
-		}
+        for(int i = 1;i <= N;i++) {
+            for(int j = 1;j <= M;j++) {
+                castle[i][j] = rd.nextInt();
+                if(castle[i][j] == 2)
+                    sword = new Point(i, j);
+            }
+        }
+
+        //bfsë¡œ ê° ì§€ì ê¹Œì§€ ê±°ë¦¬ë¥¼ êµ¬í•´ë†“ëŠ”ë‹¤.
+        bfs();
 		
-		bfs();
+        int use_sword = 0, not_use_sword = 0;
 		
-		int use_sword = 0, not_use_sword = 0;
+        //ê²€ì„ ì‚¬ìš©í–ˆì„ ë•Œ ê±¸ë¦¬ëŠ” ì‹œê°„. êµ¬í•˜ì§€ ëª»í•˜ëŠ” ê²½ìš°ëŠ” intí˜• ìµœëŒ€ê°’
+        if(distance[sword.x][sword.y] != 0)
+            use_sword = distance[sword.x][sword.y] + (N - sword.x) + (M - sword.y);
+        else use_sword = Integer.MAX_VALUE;
 		
-		//°ËÀ» »ç¿ëÇßÀ» ¶§ °É¸®´Â ½Ã°£. ±¸ÇÏÁö ¸øÇÏ´Â °æ¿ì´Â intÇü ÃÖ´ë°ª
-		if(distance[sword.x][sword.y] != 0)
-			use_sword = distance[sword.x][sword.y] + (N - sword.x) + (M - sword.y);
-		else use_sword = Integer.MAX_VALUE;
+        //ê²€ì„ ì‚¬ìš©í•˜ì§€ ì•Šê³  ê±¸ë¦¬ëŠ” ì‹œê°„. êµ¬í•˜ì§€ ëª»í•˜ëŠ” ê²½ìš°ëŠ” intí˜• ìµœëŒ€ê°’
+        if(distance[N][M] != 0)
+            not_use_sword = distance[N][M];
+        else not_use_sword = Integer.MAX_VALUE;
 		
-		//°ËÀ» »ç¿ëÇÏÁö ¾Ê°í °É¸®´Â ½Ã°£. ±¸ÇÏÁö ¸øÇÏ´Â °æ¿ì´Â intÇü ÃÖ´ë°ª
-		if(distance[N][M] != 0)
-			not_use_sword = distance[N][M];
-		else not_use_sword = Integer.MAX_VALUE;
-		
-		//µÑ Áß ÀÛÀº °ªÀ» Tº¸´Ù ÀÛÀ»¶§¸¸ Ãâ·Â, ±× ¿Ü´Â FailÃâ·Â
-		if(Math.min(use_sword, not_use_sword) > T)
-			System.out.println("Fail");
-		else System.out.println(Math.min(use_sword, not_use_sword));
-	}
-	
-	static void bfs() {
-		Queue<Point> q = new LinkedList<>();
-		q.add(new Point(1, 1));
-		visited[1][1] = true;
-		
-		while(!q.isEmpty()) {
-			Point cur = q.poll();
-			
-			for(int i = 0;i < 4;i++) {
-				int nextx = cur.x + dx[i];
-				int nexty = cur.y + dy[i];
-				
-				if(nextx <= 0 || nexty <= 0 || nextx > N || nexty > M) continue;
-				if(visited[nextx][nexty] == true || castle[nextx][nexty] == 1) continue;
-				
-				q.add(new Point(nextx, nexty));
-				visited[nextx][nexty] = true;
-				distance[nextx][nexty] = distance[cur.x][cur.y] + 1;
-			}
-		}
-	}
-	static class FastReader {
+        //ë‘˜ ì¤‘ ìž‘ì€ ê°’ì„ Të³´ë‹¤ ìž‘ì„ë•Œë§Œ ì¶œë ¥, ê·¸ ì™¸ëŠ” Failì¶œë ¥
+        if(Math.min(use_sword, not_use_sword) > T)
+            System.out.println("Fail");
+        else System.out.println(Math.min(use_sword, not_use_sword));
+    }
+
+    static void bfs() {
+        Queue<Point> q = new LinkedList<>();
+        q.add(new Point(1, 1));
+        visited[1][1] = true;
+
+        while(!q.isEmpty()) {
+            Point cur = q.poll();
+
+            for(int i = 0;i < 4;i++) {
+                int nextx = cur.x + dx[i];
+                int nexty = cur.y + dy[i];
+
+                if(nextx <= 0 || nexty <= 0 || nextx > N || nexty > M) continue;
+                if(visited[nextx][nexty] == true || castle[nextx][nexty] == 1) continue;
+
+                q.add(new Point(nextx, nexty));
+                visited[nextx][nexty] = true;
+                distance[nextx][nexty] = distance[cur.x][cur.y] + 1;
+            }
+        }
+    }
+
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
