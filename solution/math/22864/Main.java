@@ -17,6 +17,7 @@ public class Main {
 		int time = 0;
 		int tired = 0; //피로도
 		int work = 0;
+        
 		while(time < 24) { //24시간 동안 일
 			if(can_work(A, tired, M)) { // 일을 할 수 있을 때
 				work += B;
