@@ -23,7 +23,7 @@ public class Main {
         for(int i = 0;i < T;i++) {
 
             // 초기화 
-			for(int j = 0;j < 26;j++) 
+            for(int j = 0;j < 26;j++) 
                 alpha[j] = 0;
 
             String W = rd.nextLine();
@@ -58,7 +58,7 @@ public class Main {
             else System.out.println(min + " " + max);
         }
     }
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
