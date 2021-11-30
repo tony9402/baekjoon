@@ -1,5 +1,3 @@
-package baekjoon_16954;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/b8fc50e235a44c1a9cfd95e860c9f8be
@@ -8,99 +6,98 @@ import java.util.*;
 import java.io.*;
 
 class Point{
-	int y, x;
-	Point(int y, int x){
-		this.y = y;
-		this.x = x;
-	}
+    int y, x;
+    Point(int y, int x){
+        this.y = y;
+        this.x = x;
+    }
 }
 
 public class Main {
-	static char[][] chess;
-	static boolean[][] visited;
-	static int wall_count = 0;
-	static int[] dx = {1, 0, -1, 0, 1, -1, 1, -1, 0};
-	static int[] dy = {0, 1, 0, -1, -1, 1, 1, -1, 0};
+    static char[][] chess;
+    static boolean[][] visited;
+    static int wall_count = 0;
+    static int[] dx = {1, 0, -1, 0, 1, -1, 1, -1, 0};
+    static int[] dy = {0, 1, 0, -1, -1, 1, 1, -1, 0};
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
-		
-		chess = new char[10][10];
-		visited = new boolean[10][10];
-		
-		//ÀÔ·ÂÀ» ¹ŞÀ¸¸é¼­ º® °³¼ö¸¦ ±¸ÇÔ
-		for(int i = 1;i <= 8;i++) {
-			String str = rd.nextLine();
-			for(int j = 1;j <= 8;j++) {
-				chess[i][j] = str.charAt(j - 1);
-				if(chess[i][j] == '#') wall_count++;
-			}
-		}
-		
-		if(bfs() == true) System.out.println("1");
-		else System.out.println("0");
-	}
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
+
+        chess = new char[10][10];
+        visited = new boolean[10][10];
+
+        //ì…ë ¥ì„ ë°›ìœ¼ë©´ì„œ ë²½ ê°œìˆ˜ë¥¼ êµ¬í•¨
+        for(int i = 1;i <= 8;i++) {
+            String str = rd.nextLine();
+            for(int j = 1;j <= 8;j++) {
+                chess[i][j] = str.charAt(j - 1);
+                if(chess[i][j] == '#') wall_count++;
+            }
+        }
+
+        if(bfs() == true) System.out.println("1");
+        else System.out.println("0");
+    }
+
+    static boolean bfs() {
+        Queue<Point> q = new LinkedList<>();
+        q.add(new Point(8, 1));
+
+        while(!q.isEmpty()) {
+            int check = q.size();
+
+            //í˜„ì¬ìœ„ì¹˜ì—ì„œ ë‹¤ìŒ ìœ„ì¹˜ë¡œ ê°ˆ ìˆ˜ ìˆëŠ” ê³³ì„ íì— ì§‘ì–´ ë„£ê³ 
+            //ë‹¤ìŒ while roopë•Œ íì•ˆì˜ ëª¨ë“  ê°’ë“¤ì„ ê²€ì‚¬í•œ í›„ì— ë²½ì„ ì›€ì§ì—¬ì•¼ í•œë‹¤.
+            //ê·¸ë ‡ì§€ ì•Šìœ¼ë©´ ë²½ë§Œ ê³„ì† ì´ë™í•˜ëŠ” ìƒí™©ì´ ë²Œì–´ì§„ë‹¤.
+            for(int i = 0;i < check;i++) {
+                Point cur = q.poll();
+                //í˜„ì¬ ìœ„ì¹˜ê°€ ë²½ê³¼ ê°™ì€ ìœ„ì¹˜(ì¦‰ ë²½ì— ê¹”ë¦° ìƒí™©)ë¼ë©´ ë„˜ì–´ê°„ë‹¤.
+                if(chess[cur.y][cur.x] == '#') continue;
+
+                //ë„ì°©ì  ì´ê±°ë‚˜ ë˜ëŠ” ë²½ì´ ì—†ì–´ì„œ ë°˜ë“œì‹œ ë„ì°©ì ì— ë„ë‹¬í•  ìˆ˜ ìˆëŠ” ìƒí™©.
+                if(cur.y == 1 && cur.x == 8 || wall_count == 0) return true;
+
+                //8ë°©í–¥ + ì œìë¦¬ ìœ„ì¹˜ê¹Œì§€ ì´ 9ë°©í–¥ì„ ê²€ì‚¬í•˜ì—¬ íì— ë„£ëŠ”ë‹¤.
+                for(int j = 0;j < 9;j++) {
+                    int nexty = cur.y + dy[j];
+                    int nextx = cur.x + dx[j];	
+
+                    if(nextx <= 0 || nexty <= 0 || nextx > 8 || nexty > 8) continue;
+                    if(visited[nexty][nextx] == true || chess[nexty][nextx] == '#') continue;
+
+                    visited[nexty][nextx] = true;
+                    q.add(new Point(nexty, nextx));
+                }
+            }
+            //ì´ë™í•˜ì˜€ë‹¤ê°€ ë‹¤ì‹œ ë˜ëŒì•„ ì˜¬ ìˆ˜ ìˆê¸° ë•Œë¬¸ì— ì´ˆê¸°í™”.
+            for(int i = 0;i < 10;i++)
+                Arrays.fill(visited[i], false);
+
+            //ë²½ì´ ë‚¨ì•„ìˆì„ ë•Œ ë²½ì„ ì˜®ê¸´ë‹¤.
+            if(wall_count > 0) moveWall();
+        }
+        return false;
+    }
 	
-	static boolean bfs() {
-		Queue<Point> q = new LinkedList<>();
-		q.add(new Point(8, 1));
-		
-		while(!q.isEmpty()) {
-			int check = q.size();
-			
-			/*ÇöÀçÀ§Ä¡¿¡¼­ ´ÙÀ½ À§Ä¡·Î °¥ ¼ö ÀÖ´Â °÷À» Å¥¿¡ Áı¾î ³Ö°í
-			 ´ÙÀ½ while roop¶§ Å¥¾ÈÀÇ ¸ğµç °ªµéÀ» °Ë»çÇÑ ÈÄ¿¡ º®À» ¿òÁ÷¿©¾ß ÇÑ´Ù.
-			 ±×·¸Áö ¾ÊÀ¸¸é º®¸¸ °è¼Ó ÀÌµ¿ÇÏ´Â »óÈ²ÀÌ ¹ú¾îÁø´Ù.*/
-			for(int i = 0;i < check;i++) {
-				Point cur = q.poll();
-				//ÇöÀç À§Ä¡°¡ º®°ú °°Àº À§Ä¡(Áï º®¿¡ ±ò¸° »óÈ²)¶ó¸é ³Ñ¾î°£´Ù.
-				if(chess[cur.y][cur.x] == '#') continue;
-				
-				//µµÂøÁ¡ ¶Ç´Â º®ÀÌ ¾ø¾î¼­ ¹İµå½Ã µµÂøÁ¡¿¡ µµ´ŞÇÒ ¼ö ÀÖ´Â »óÈ².
-				if(cur.y == 1 && cur.x == 8 || wall_count == 0) return true;
-				
-				//8¹æÇâ + Á¦ÀÚ¸® À§Ä¡±îÁö ÃÑ 9¹æÇâÀ» °Ë»çÇÏ¿© Å¥¿¡ ³Ö´Â´Ù.
-				for(int j = 0;j < 9;j++) {
-					int nexty = cur.y + dy[j];
-					int nextx = cur.x + dx[j];	
-					
-					if(nextx <= 0 || nexty <= 0 || nextx > 8 || nexty > 8) continue;
-					if(visited[nexty][nextx] == true || chess[nexty][nextx] == '#') continue;
-					
-					visited[nexty][nextx] = true;
-					q.add(new Point(nexty, nextx));
-				}
-			}
-			//ÀÌµ¿ÇÏ¿´´Ù°¡ ´Ù½Ã µÇµ¹¾Æ ¿Ã ¼ö ÀÖ±â ¶§¹®¿¡ ÃÊ±âÈ­.
-			for(int i = 0;i < 10;i++)
-				Arrays.fill(visited[i], false);
-			
-			//º®ÀÌ ³²¾ÆÀÖÀ» ¶§ º®À» ¿Å±ä´Ù.
-			if(wall_count > 0) moveWall();
-		}
-		
-		return false;
-	}
-	
-	static void moveWall() {
-		for(int i = 8;i > 0;i--) {
-			for(int j = 1;j <= 8;j++) {
-				if(chess[i][j] != '#') continue;
-				
-				int nextwall = i + 1;
-				if(nextwall <= 8) {
-					chess[nextwall][j] = '#';
-					chess[i][j] = '.';
-				}
-				else {
-					chess[i][j] = '.';
-					wall_count--;
-				}
-			}
-		}
-	}
-	
-	static class FastReader {
+    static void moveWall() {
+        for(int i = 8;i > 0;i--) {
+            for(int j = 1;j <= 8;j++) {
+                if(chess[i][j] != '#') continue;
+
+                int nextwall = i + 1;
+                if(nextwall <= 8) {
+                    chess[nextwall][j] = '#';
+                    chess[i][j] = '.';
+                }
+                else {
+                    chess[i][j] = '.';
+                    wall_count--;
+                }
+            }
+        }
+    }
+
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
