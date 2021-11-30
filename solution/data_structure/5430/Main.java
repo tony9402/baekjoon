@@ -1,105 +1,107 @@
-package baekjoon_5430;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/fc75d4683aa44fd5be618ed3934ac634
 
-/*½Ã°£ÀÌ ºıºıÇØ¼­ ½ÇÁ¦·Î µÚÁı±â, »èÁ¦ÇÏ±â¸¦ ±¸ÇöÇÏ¸é ¾ÈµË´Ï´Ù.
-µÚÁı±â´Â ½ÇÁ¦·Î µÚÁı´Â °ÍÀÌ ¾Æ´Ñ ¾Õ¿¡¼­ µÚ·Î ÀĞ´Â°É µÚ¿¡¼­ ¾ÕÀ¸·Î ÀĞ°Ô ÇÏ¿´°í
-»èÁ¦ÇÏ±â´Â ½ÇÁ¦ »èÁ¦°¡ ¾Æ´Ñ frontÆ÷ÀÎÅÍ¸¦ ÇÏ³ª Áõ°¡½ÃÅ°´Â ½ÄÀ¸·Î ±¸ÇöÇß½À´Ï´Ù.
-Ãâ·Âµµ ºü¸¥ Ãâ·ÂÀ» ÇØ¾ß ½Ã°£ÃÊ°ú°¡ ³ªÁö ¾Ê½À´Ï´Ù. */
+/*
+ì‹œê°„ì´ ë¹¡ë¹¡í•´ì„œ ì‹¤ì œë¡œ ë’¤ì§‘ê¸°, ì‚­ì œí•˜ê¸°ë¥¼ êµ¬í˜„í•˜ë©´ ì•ˆë©ë‹ˆë‹¤.
+ë’¤ì§‘ê¸°ëŠ” ì‹¤ì œë¡œ ë’¤ì§‘ëŠ” ê²ƒì´ ì•„ë‹Œ ì•ì—ì„œ ë’¤ë¡œ ì½ëŠ”ê±¸ ë’¤ì—ì„œ ì•ìœ¼ë¡œ ì½ê²Œ í•˜ì˜€ê³ 
+ì‚­ì œí•˜ê¸°ëŠ” ì‹¤ì œ ì‚­ì œê°€ ì•„ë‹Œ frontí¬ì¸í„°ë¥¼ í•˜ë‚˜ ì¦ê°€ì‹œí‚¤ëŠ” ì‹ìœ¼ë¡œ êµ¬í˜„í–ˆìŠµë‹ˆë‹¤.
+ì¶œë ¥ë„ ë¹ ë¥¸ ì¶œë ¥ì„ í•´ì•¼ ì‹œê°„ì´ˆê³¼ê°€ ë‚˜ì§€ ì•ŠìŠµë‹ˆë‹¤. 
+*/
 
 import java.util.*;
 import java.io.*;
 
 public class Main {
-	static ArrayList <String> numlist = new ArrayList<String>();
-	static boolean reverse = false;
-	static int front, end; //listÀÇ Ã³À½°ú ³¡À» °¡¸£Å°´Â index¹øÈ£
-	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-	//ºü¸¥ Ãâ·Â
-	public static void main(String[] args) throws IOException {
-		FastReader rd = new FastReader();
+    static ArrayList <String> numlist = new ArrayList<String>();
+    static boolean reverse = false;
+    static int front, end; //listì˜ ì²˜ìŒê³¼ ëì„ ê°€ë¥´í‚¤ëŠ” indexë²ˆí˜¸
+    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    //ë¹ ë¥¸ ì¶œë ¥
+    public static void main(String[] args) throws IOException {
+        FastReader rd = new FastReader();
 
-		int T = rd.nextInt();//Å×½ºÆ®ÄÉÀÌ½º
+        int T = rd.nextInt();//í…ŒìŠ¤íŠ¸ì¼€ì´ìŠ¤
 		
-		for(int i = 0;i < T;i++) {
-			String p = rd.nextLine(); // ½ÇÇàÇÒ ÇÔ¼ö
-			int n = rd.nextInt(); // ¹è¿­¿¡ ¼ıÀÚÀÇ ¼ö
+        for(int i = 0;i < T;i++) {
+            String p = rd.nextLine(); // ì‹¤í–‰í•  í•¨ìˆ˜
+            int n = rd.nextInt(); // ë°°ì—´ì— ìˆ«ìì˜ ìˆ˜
 			
-			//inputString => tokenizer·Î ±¸ºĞÀÚ Á¦°Å ÈÄ list¿¡ »ğÀÔ
-			InputString(rd.nextLine());
+            //inputString => tokenizerë¡œ êµ¬ë¶„ì ì œê±° í›„ listì— ì‚½ì…
+            InputString(rd.nextLine());
 			
-			boolean error = false;
-			for(int j = 0;j < p.length();j++) {
-				if(p.charAt(j) == 'R')  
-					ReverseList(); //ListReverse => µÚÁı±â
+            boolean error = false;
+            for(int j = 0;j < p.length();j++) {
+                if(p.charAt(j) == 'R')  
+                    ReverseList(); //ListReverse => ë’¤ì§‘ê¸°
 				
-				else {
-					if(front > end) {//¿¡·¯»óÈ²
-						//front°¡ endº¸´Ù Å« »óÈ²Àº 
-						//front == end == 1 ÀÎ »óÈ²(list¿¡ °ªÀÌ ÇÏ³ª)¿¡¼­
-						//ÇÏ³ª¸¦ Áö¿î ÈÄ »óÈ²ÀÌ´Ù. Áï Áö¿ï °ÍÀÌ ¾ø´Â »óÅÂ
-						bw.write("error\n");
-						bw.flush();
-						error = true;
-						break;
-					}
-					else //Áö¿ï ¼ö ÀÖ´Â ¹®ÀÚ°¡ ÀÖÀ» ¶§
-						DeleteList(); //DeleteList => 0¹ø ÀÎµ¦½º »èÁ¦
-				}
-			}
-			if(error == false) OutputList();
-			numlist.clear();
-			reverse = false;
-		}
-		bw.close();
-	}
-	static void OutputList() throws IOException{
-		bw.write("[");
-		//reverse°¡ false¸é Á¤»ó»óÅÂ => ¾Õ(front) µÚ(end)¹æÇâÀ¸·Î Ãâ·Â
-		if(reverse == false) {
-			for(int i = front;i <= end;i++) {
-				if(i == end) bw.write(numlist.get(i));
-				else bw.write(numlist.get(i) + ","); 
-			}
-		}
-		//reverse°¡ true¸é µÚÁıÈù »óÅÂ => µÚ(end) ¾Õ(front)¹æÇâÀ¸·Î Ãâ·Â
-		else {
-			for(int i = end;i >= front;i--) 
-				if(i == front) bw.write(numlist.get(i));
-				else bw.write(numlist.get(i) + ",");
-		}
-		bw.write("]\n");
-		bw.flush();
-	}
+                else {
+                    if(front > end) {//ì—ëŸ¬ìƒí™©
+                        //frontê°€ endë³´ë‹¤ í° ìƒí™©ì€ 
+                        //front == end == 1 ì¸ ìƒí™©(listì— ê°’ì´ í•˜ë‚˜)ì—ì„œ
+                        //í•˜ë‚˜ë¥¼ ì§€ìš´ í›„ ìƒí™©ì´ë‹¤. ì¦‰ ì§€ìš¸ ê²ƒì´ ì—†ëŠ” ìƒíƒœ
+                        bw.write("error\n");
+                        bw.flush();
+                        error = true;
+                        break;
+                    }
+                    else //ì§€ìš¸ ìˆ˜ ìˆëŠ” ë¬¸ìê°€ ìˆì„ ë•Œ
+                        DeleteList(); //DeleteList => 0ë²ˆ ì¸ë±ìŠ¤ ì‚­ì œ
+                }
+            }
+            if(error == false) OutputList();
+		    
+            numlist.clear();
+            reverse = false;
+        }
+        bw.close();
+    }
+
+    static void OutputList() throws IOException{
+        bw.write("[");
+        //reverseê°€ falseë©´ ì •ìƒìƒíƒœ => ì•(front) ë’¤(end)ë°©í–¥ìœ¼ë¡œ ì¶œë ¥
+        if(reverse == false) {
+            for(int i = front;i <= end;i++) {
+                if(i == end) bw.write(numlist.get(i));
+                else bw.write(numlist.get(i) + ","); 
+            }
+        }
+        //reverseê°€ trueë©´ ë’¤ì§‘íŒ ìƒíƒœ => ë’¤(end) ì•(front)ë°©í–¥ìœ¼ë¡œ ì¶œë ¥
+        else {
+            for(int i = end;i >= front;i--) 
+                if(i == front) bw.write(numlist.get(i));
+                else bw.write(numlist.get(i) + ",");
+        }
+        bw.write("]\n");
+        bw.flush();
+    }
 	
-	static void DeleteList() {
-		if(reverse == false) front++;
-		else end--;
-		//½ÇÁ¦·Î Áö¿ì´Â °ÍÀÌ ¾Æ´Ñ °¡¸®Å°´Â ÀÎµ¦½º¸¦ Áõ°¡, °¨¼Ò½ÃÅ´
-		//Á¤»ó »óÅÂÀÌ¸é ¾Õ ÀÎµ¦½º¸¦ Áõ°¡(¾ÕÀ» »èÁ¦ÇÏ°Ô µÇ¹Ç·Î)
-		//µÚÁıÈù »óÅÂÀÌ¸é µÚ ÀÎµ¦½º¸¦ °¨¼Ò(µÚ°¡ °¡Àå ¾ÕÀÌ µÇ¹Ç·Î) 
-	}
+    static void DeleteList() {
+        //ì‹¤ì œë¡œ ì§€ìš°ëŠ” ê²ƒì´ ì•„ë‹Œ ê°€ë¦¬í‚¤ëŠ” ì¸ë±ìŠ¤ë¥¼ ì¦ê°€ ë˜ëŠ” ê°ì†Œì‹œí‚´
+        //ì •ìƒ ìƒíƒœì´ë©´ ì• ì¸ë±ìŠ¤ë¥¼ ì¦ê°€(ì•ì„ ì‚­ì œí•˜ê²Œ ë˜ë¯€ë¡œ)
+        //ë’¤ì§‘íŒ ìƒíƒœì´ë©´ ë’¤ ì¸ë±ìŠ¤ë¥¼ ê°ì†Œ(ë’¤ê°€ ê°€ì¥ ì•ì´ ë˜ë¯€ë¡œ) 
+        if(reverse == false) front++;
+        else end--;
+    }
 	
-	static void ReverseList() {
-		if(reverse == true) reverse = false;
-		else reverse = true;
-		//½ÇÁ¦·Î µÚÁı´Â °ÍÀÌ ¾Æ´Ñ µÚÁıÇôÀÖ´ÂÁö ¾Æ´ÑÁö¸¸ ÆÇ´Ü
-		//ÈÄ¿¡ Ãâ·ÂÇÒ¶§ Ãâ·Â ¼ø¼­¸¦ ¹Ù²Û´Ù
-	}
+    static void ReverseList() {
+        //ì‹¤ì œë¡œ ë’¤ì§‘ëŠ” ê²ƒì´ ì•„ë‹Œ ë’¤ì§‘í˜€ìˆëŠ”ì§€ ì•„ë‹Œì§€ë§Œ íŒë‹¨
+        //í›„ì— ì¶œë ¥í• ë•Œ ì¶œë ¥ ìˆœì„œë¥¼ ë°”ê¾¼ë‹¤
+        if(reverse == true) reverse = false;
+        else reverse = true;
+    }
 	
-	static void InputString(String numstr) {
-		StringTokenizer st = new StringTokenizer(numstr, "[ | , | ]");
+    static void InputString(String numstr) {
+        StringTokenizer st = new StringTokenizer(numstr, "[ | , | ]");
 		
-		while(st.hasMoreTokens()) 
-			numlist.add(st.nextToken());
+        while(st.hasMoreTokens()) 
+            numlist.add(st.nextToken());
 		
-		front = 0;
-		end = numlist.size() - 1;
-	}
+        front = 0;
+        end = numlist.size() - 1;
+    }
 	
-	static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
