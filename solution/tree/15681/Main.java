@@ -1,5 +1,3 @@
-package baekjoon_15681;
-
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/0f61f373c1df4a91bb7dcc3a52dea9cf
@@ -7,62 +5,67 @@ package baekjoon_15681;
 import java.util.*;
 import java.io.*;
 
-public class Main {
-	static int[] subtreesize, parent;
-	static ArrayList<Integer>[] tree, list;
-	
-	public static void main(String[] args) throws IOException {
-		FastReader rd = new FastReader();
+/*
+ë¬¸ì œì—ì„œ ì£¼ì–´ì§„ íŒíŠ¸ë¥¼ ê·¸ëŒ€ë¡œ êµ¬í˜„í•˜ì˜€ìŠµë‹ˆë‹¤.
+*/
 
-		int N = rd.nextInt();
-		int R = rd.nextInt();
-		int Q = rd.nextInt();
-		
-		tree = new ArrayList[N + 1];
-		list = new ArrayList[N + 1];
-		subtreesize = new int[N + 1];
-		parent = new int[N + 1];
-		
-		for(int i = 0;i <= N;i++) {
-			tree[i] = new ArrayList<Integer>();
-			list[i] = new ArrayList<Integer>();
-		}
-		
-		for(int i = 0;i < N - 1;i++) {
-			int U = rd.nextInt();
-			int V = rd.nextInt();
-			list[U].add(V);
-			list[V].add(U);
-		}
-		//¹®Á¦¿¡ ÁÖ¾îÁø ÈùÆ®
-		makeTree(R, -1);
-		countSubtreeNodes(R);
-		
-		for(int i = 0;i < Q;i++) {
-			int U = rd.nextInt();
-			System.out.println(subtreesize[U]);
-		}
-	}
+public class Main {
+    static int[] subtreesize, parent;
+    static ArrayList<Integer>[] tree, list;
 	
-	static void makeTree(int curNode, int p) {
-		for(int node : list[curNode]) {
-			if(node != p) {
-				tree[curNode].add(node);
-				parent[node] = curNode;
-				makeTree(node, curNode);
-			}
-		}
-	}
+    public static void main(String[] args) throws IOException {
+        FastReader rd = new FastReader();
+
+        int N = rd.nextInt();
+        int R = rd.nextInt();
+        int Q = rd.nextInt();
+		
+        tree = new ArrayList[N + 1];
+        list = new ArrayList[N + 1];
+        subtreesize = new int[N + 1];
+        parent = new int[N + 1];
+		
+        for(int i = 0;i <= N;i++) {
+            tree[i] = new ArrayList<Integer>();
+            list[i] = new ArrayList<Integer>();
+        }
+		
+        for(int i = 0;i < N - 1;i++) {
+            int U = rd.nextInt();
+            int V = rd.nextInt();
+            list[U].add(V);
+            list[V].add(U);
+        }
+	    
+        //ë¬¸ì œì— ì£¼ì–´ì§„ íŒíŠ¸
+        makeTree(R, -1);
+        countSubtreeNodes(R);
+		
+        for(int i = 0;i < Q;i++) {
+            int U = rd.nextInt();
+            System.out.println(subtreesize[U]);
+        }
+    }
 	
-	static void countSubtreeNodes(int curNode) {
-		subtreesize[curNode] = 1;//ÀÚ½Åµµ size¿¡ Æ÷ÇÔ
-		for(int node : tree[curNode]) {
-			countSubtreeNodes(node);
-			subtreesize[curNode] += subtreesize[node];
-		}
-	}
+    static void makeTree(int curNode, int p) {
+        for(int node : list[curNode]) {
+            if(node != p) {
+                tree[curNode].add(node);
+                parent[node] = curNode;
+                makeTree(node, curNode);
+            }
+        }
+    }
 	
-	static class FastReader {
+    static void countSubtreeNodes(int curNode) {
+        subtreesize[curNode] = 1;//ìì‹ ë„ sizeì— í¬í•¨
+        for(int node : tree[curNode]) {
+            countSubtreeNodes(node);
+            subtreesize[curNode] += subtreesize[node];
+        }
+    }
+	
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
