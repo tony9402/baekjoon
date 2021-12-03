@@ -27,7 +27,7 @@ void bfs(){
             int nexty = cur.second + dy[i];
 
             if(nextx <= 0 || nexty <= 0 || nextx > N || nexty > M) continue;
-			if(visited[nextx][nexty] == true || castle[nextx][nexty] == 1) continue;
+            if(visited[nextx][nexty] == true || castle[nextx][nexty] == 1) continue;
 
             q.push(make_pair(nextx, nexty));
             visited[nextx][nexty] = true;
