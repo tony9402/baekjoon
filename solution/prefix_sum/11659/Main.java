@@ -6,31 +6,31 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-	static int[] num = new int[100010];
-	static int[] sum = new int[100010];
+    static int[] num = new int[100010];
+    static int[] sum = new int[100010];
 	
-	public static void main(String[] args) {
-		FastReader rd = new FastReader();
+    public static void main(String[] args) {
+        FastReader rd = new FastReader();
 
-		int N = rd.nextInt();
-		int M = rd.nextInt();
+        int N = rd.nextInt();
+        int M = rd.nextInt();
 		
-		//1부터 i까지 합을 구해놓는다.
-		for(int i = 1;i <= N;i++) {
-			num[i] = rd.nextInt();
-			sum[i] = sum[i - 1] + num[i];
-		}
+        //1부터 i까지 합을 구해놓는다.
+        for(int i = 1;i <= N;i++) {
+            num[i] = rd.nextInt();
+            sum[i] = sum[i - 1] + num[i];
+        }
 		
-		//end까지의 합에서 begin전까지의 합을 빼면 그 중간 값이 나온다.
-		//매번 시행마다 더하면 시간초과
-		for(int i = 0;i < M;i++) {
-			int begin = rd.nextInt();
-			int end = rd.nextInt();
+        //end까지의 합에서 begin전까지의 합을 빼면 그 중간 값이 나온다.
+        //매번 시행마다 더하면 시간초과
+        for(int i = 0;i < M;i++) {
+            int begin = rd.nextInt();
+            int end = rd.nextInt();
 		
-			System.out.println(sum[end] - sum[begin - 1]);
-		}
-	}
-	static class FastReader {
+            System.out.println(sum[end] - sum[begin - 1]);
+        }
+    }
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
