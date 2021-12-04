@@ -14,23 +14,23 @@ import java.io.*;
 
 public class Main {
     static int[] dp = new int[1010]; 
-	
+
     public static void main(String[] args) {
         FastReader rd = new FastReader();
-		
+
         int n = rd.nextInt();
-		
+
         dp[1] = 1;
         dp[2] = 2;
-		
-        //dp[i] = dp[i - 1] + dp[i - 2]
+
+        // dp[i] = dp[i - 1] + dp[i - 2]
         if(n >= 3) {
             for(int i = 3;i <= n;i++) 
                 dp[i] = (dp[i - 1] + dp[i - 2]) % 10007;
         }
         System.out.println(dp[n]);
     }
-	
+
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
