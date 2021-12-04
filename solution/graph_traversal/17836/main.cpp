@@ -13,16 +13,16 @@ int dy[] = {0, 1, 0, -1};
 bool visited[110][110];
 pair<int, int> sword;
 
-void bfs(){
+void bfs() {
     queue<pair<int, int>> q;
     q.push(make_pair(1, 1));
     visited[1][1] = true;
 
-    while(!q.empty()){
+    while(!q.empty()) {
         pair cur = q.front();
         q.pop();
 
-        for(int i = 0;i < 4;i++){
+        for(int i = 0;i < 4;i++) {
             int nextx = cur.first + dx[i];
             int nexty = cur.second + dy[i];
 
@@ -41,8 +41,8 @@ int main() {
 
     cin >> N >> M >> T;
 
-    for(int i = 1;i <= N;i++){
-        for(int j = 1;j <= M;j++){
+    for(int i = 1;i <= N;i++) {
+        for(int j = 1;j <= M;j++) {
             cin >> castle[i][j];
             if(castle[i][j] == 2)
                 sword = make_pair(i, j);
@@ -53,20 +53,20 @@ int main() {
 
     int use_sword = 0, not_use_sword = 0;
 
-    //검을 사용했을 때 걸리는 시간. 구하지 못하는 경우는 int형 최대값
-	if(dist[sword.first][sword.second] != 0)
-		use_sword = dist[sword.first][sword.second] + (N - sword.first) + (M - sword.second);
-	else use_sword = INT_MAX;
-		
-	//검을 사용하지 않고 걸리는 시간. 구하지 못하는 경우는 int형 최대값
-	if(dist[N][M] != 0)
-		not_use_sword = dist[N][M];
-	else not_use_sword = INT_MAX;
-		
-	//둘 중 작은 값을 T보다 작을때만 출력, 그 외는 Fail출력
-	if(min(use_sword, not_use_sword) > T)
-		cout << "Fail";
-	else cout << min(use_sword, not_use_sword);
+    // 검을 사용했을 때 걸리는 시간. 구하지 못하는 경우는 int형 최대값
+    if(dist[sword.first][sword.second] != 0)
+        use_sword = dist[sword.first][sword.second] + (N - sword.first) + (M - sword.second);
+    else use_sword = INT_MAX;
+
+    //검을 사용하지 않고 걸리는 시간. 구하지 못하는 경우는 int형 최대값
+    if(dist[N][M] != 0)
+        not_use_sword = dist[N][M];
+    else not_use_sword = INT_MAX;
+
+    //둘 중 작은 값을 T보다 작을때만 출력, 그 외는 Fail출력
+    if(min(use_sword, not_use_sword) > T)
+        cout << "Fail";
+    else cout << min(use_sword, not_use_sword);
 
     return 0;
 } 
