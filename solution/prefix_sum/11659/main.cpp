@@ -15,14 +15,14 @@ int main() {
     int N, M;
     cin >> N >> M;
 
-    //입력과 동시에 누적합을 구해놓습니다.
-    for(int i = 1;i <= N;i++){
+    // 입력과 동시에 누적합을 구해놓습니다.
+    for(int i = 1;i <= N;i++) {
         cin >> num[i];
         sum[i] = sum[i - 1] + num[i];
     }
 
-    //end까지의 합 - begin전 까지의 합 = begin ~ end사이 합
-    for(int i = 0;i < M;i++){
+    // end까지의 합 - begin전 까지의 합 = begin ~ end사이 합
+    for(int i = 0;i < M;i++) {
         int begin, end;
         cin >> begin >> end;
 
