@@ -17,18 +17,18 @@ int main() {
 
     for(int i = 1;i <= N;i++)
         cin >> num[i];
-    
-    //start와 end사이에 겹치는 수가 K개 이하일 때는 end를 늘리며
-    //최대 길이를 늘리고
-    //K개 초과일 때는 begin를 늘리며 겹치는 수가 빠질때까지 begin을 증가
+
+    // start와 end사이에 겹치는 수가 K개 이하일 때는 end를 늘리며
+    // 최대 길이를 늘리고
+    // K개 초과일 때는 begin를 늘리며 겹치는 수가 빠질때까지 begin을 증가
     int begin = 1, end = 1, _max = 0;
-    while(end <= N){
-        if(cnt[num[end]] < K){
+    while(end <= N) {
+        if(cnt[num[end]] < K) {
             _max = max(end - begin + 1, _max);
             cnt[num[end]]++;
             end++;
         }
-        else{
+        else {
             _max = max(end - begin, _max);
             cnt[num[begin]]--;
             begin++;
