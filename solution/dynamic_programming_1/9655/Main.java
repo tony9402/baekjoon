@@ -8,13 +8,14 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) {
         FastReader rd = new FastReader();
-		
+
         int N = rd.nextInt();
-		
-        //짝수일때는 창영이가, 홀수일때는 상근이가 이기게 됩니다.
+
+        // 짝수일때는 창영이가, 홀수일때는 상근이가 이기게 됩니다.
+        // 반드시 상근이가 먼저 시작하고 1,3 홀수개 만큼 가져가기 때문.
         System.out.println((N % 2 == 0) ? "CY" : "SK");
     }
-	
+
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
