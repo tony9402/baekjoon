@@ -7,25 +7,27 @@ import java.io.*;
 
 public class Main {
     static Vector<Integer> rope =  new Vector<Integer>();
-        
+
     public static void main(String[] args) {
         FastReader rd = new FastReader();
-		
+
         int N = rd.nextInt();
         for(int i = 0;i < N; i++) 
             rope.add(rd.nextInt());
-		
-        Collections.sort(rope); //오름차순으로 정렬
-		
-        //기본값을 가장 작은 무게 * N개 로 지정하고
-        int weight = rope.get(0) * N; 
+
+        // 오름차순으로 정렬
+        Collections.sort(rope);
+
+        // 기본값을 가장 작은 무게 * N개 로 지정하고
+        // 1개씩 rope를 줄여가며 더 많이 들 수 있는 경우를 본다.
+        int weight = rope.get(0) * N;
         for(int i = 1;i < N;i++) {
-            if(rope.get(i) * (N - i) > weight) 
+            if(rope.get(i) * (N - i) > weight)
                 weight = rope.get(i) * (N - i);
-        } // 1개씩 rope를 줄여가며 더 많이 들 수 있는 경우를 본다.
+        }
         System.out.print(weight);
     }
-        
+
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
