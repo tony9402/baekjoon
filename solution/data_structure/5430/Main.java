@@ -15,42 +15,43 @@ import java.io.*;
 public class Main {
     static ArrayList <String> numlist = new ArrayList<String>();
     static boolean reverse = false;
-    static int front, end; //list의 처음과 끝을 가르키는 index번호
+    static int front, end;
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-    //빠른 출력
+
     public static void main(String[] args) throws IOException {
         FastReader rd = new FastReader();
 
-        int T = rd.nextInt();//테스트케이스
-		
+        int T = rd.nextInt();
+
         for(int i = 0;i < T;i++) {
-            String p = rd.nextLine(); // 실행할 함수
-            int n = rd.nextInt(); // 배열에 숫자의 수
-			
-            //inputString => tokenizer로 구분자 제거 후 list에 삽입
+            String p = rd.nextLine();
+            int n = rd.nextInt();
+
+            // inputString => tokenizer로 구분자 제거 후 list에 삽입
             InputString(rd.nextLine());
-			
+
             boolean error = false;
             for(int j = 0;j < p.length();j++) {
                 if(p.charAt(j) == 'R')  
-                    ReverseList(); //ListReverse => 뒤집기
-				
+                    ReverseList(); // ListReverse => 뒤집기
+
                 else {
-                    if(front > end) {//에러상황
-                        //front가 end보다 큰 상황은 
-                        //front == end == 1 인 상황(list에 값이 하나)에서
-                        //하나를 지운 후 상황이다. 즉 지울 것이 없는 상태
+                    if(front > end) {
+                        // 에러상황
+                        // front가 end보다 큰 상황은 
+                        // front == end == 1 인 상황(list에 값이 하나)에서
+                        // 하나를 지운 후 상황이다. 즉 지울 것이 없는 상태
                         bw.write("error\n");
                         bw.flush();
                         error = true;
                         break;
                     }
-                    else //지울 수 있는 문자가 있을 때
-                        DeleteList(); //DeleteList => 0번 인덱스 삭제
+                    else // 지울 수 있는 문자가 있을 때
+                        DeleteList(); // DeleteList => 0번 인덱스 삭제
                 }
             }
             if(error == false) OutputList();
-		    
+
             numlist.clear();
             reverse = false;
         }
@@ -59,14 +60,14 @@ public class Main {
 
     static void OutputList() throws IOException{
         bw.write("[");
-        //reverse가 false면 정상상태 => 앞(front) 뒤(end)방향으로 출력
+        // reverse가 false면 정상상태 => 앞(front) 뒤(end)방향으로 출력
         if(reverse == false) {
             for(int i = front;i <= end;i++) {
                 if(i == end) bw.write(numlist.get(i));
                 else bw.write(numlist.get(i) + ","); 
             }
         }
-        //reverse가 true면 뒤집힌 상태 => 뒤(end) 앞(front)방향으로 출력
+        // reverse가 true면 뒤집힌 상태 => 뒤(end) 앞(front)방향으로 출력
         else {
             for(int i = end;i >= front;i--) 
                 if(i == front) bw.write(numlist.get(i));
@@ -75,32 +76,32 @@ public class Main {
         bw.write("]\n");
         bw.flush();
     }
-	
+
     static void DeleteList() {
-        //실제로 지우는 것이 아닌 가리키는 인덱스를 증가 또는 감소시킴
-        //정상 상태이면 앞 인덱스를 증가(앞을 삭제하게 되므로)
-        //뒤집힌 상태이면 뒤 인덱스를 감소(뒤가 가장 앞이 되므로) 
+        // 실제로 지우는 것이 아닌 가리키는 인덱스를 증가 또는 감소시킴
+        // 정상 상태이면 앞 인덱스를 증가(앞을 삭제하게 되므로)
+        // 뒤집힌 상태이면 뒤 인덱스를 감소(뒤가 가장 앞이 되므로) 
         if(reverse == false) front++;
         else end--;
     }
-	
+
     static void ReverseList() {
-        //실제로 뒤집는 것이 아닌 뒤집혀있는지 아닌지만 판단
-        //후에 출력할때 출력 순서를 바꾼다
+        // 실제로 뒤집는 것이 아닌 뒤집혀있는지 아닌지만 판단
+        // 후에 출력할때 출력 순서를 바꾼다
         if(reverse == true) reverse = false;
         else reverse = true;
     }
-	
+
     static void InputString(String numstr) {
         StringTokenizer st = new StringTokenizer(numstr, "[ | , | ]");
-		
+
         while(st.hasMoreTokens()) 
             numlist.add(st.nextToken());
-		
+
         front = 0;
         end = numlist.size() - 1;
     }
-	
+
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
