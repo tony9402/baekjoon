@@ -11,13 +11,13 @@ string dp[110][110];
 
 int main() {
     ios::sync_with_stdio(false); cin.tie(nullptr);
-    
+
     int n, m;
     cin >> n >> m;
 
-    //큰수 조합 문제입니다. long long형도 벗어나기 때문에
-    //string으로 입력받아 계산을 진행합니다.
-    //조합은 dp문제로 풀이합니다.(파스칼의 삼각형)
+    // 큰수 조합 문제입니다. long long형도 벗어나기 때문에
+    // string으로 입력받아 계산을 진행합니다.
+    // 조합은 dp문제로 풀이합니다.(파스칼의 삼각형)
     dp[0][0] = "1";
     for(int i = 1;i <= n;i++){
         dp[i][0] = "1";
@@ -33,8 +33,8 @@ int main() {
 string bignumAdd(string num1, string num2){
     string result = "";
     int plus = 0;
-    //plus는 자리 올림을 담당합니다.
-    //1의자리부터 올라가며 더합니다.
+    // plus는 자리 올림을 담당합니다.
+    // 1의자리부터 올라가며 더합니다.
     while(!num1.empty() || !num2.empty() || plus){
         if(!num1.empty()){
             plus += num1.back() - '0';
