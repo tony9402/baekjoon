@@ -20,7 +20,7 @@ int main() {
     int _max = arr[0];
     dp[0] = arr[0];
 
-    //dp[i]는 i번째까지 오면서 가질 수 있는 가장 큰 값
+    // dp[i]는 i번째까지 오면서 가질 수 있는 가장 큰 값
     for(int i = 1;i < n;i++){
         dp[i] = max(dp[i - 1] + arr[i], arr[i]);
         _max = max(dp[i],_max);
