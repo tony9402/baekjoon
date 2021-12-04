@@ -8,19 +8,19 @@ import java.io.*;
 public class Main {
     static int[] num = new int[200010];
     static int[] count = new int[200010];
-	
+
     public static void main(String[] args) {
         FastReader rd = new FastReader();
 
         int N = rd.nextInt();
         int K = rd.nextInt();
-		
+
         for(int i = 1;i <= N;i++)
             num[i] = rd.nextInt();
-		
-        //투포인터로 풀이
-        //start와 end사이에 겹치는 수가 K개 이하일 때는 end증가
-        //K개 초과일 때는 start를 늘려가며 겹치는 수가 빠질때까지 begin증가
+
+        // 투포인터로 풀이
+        // start와 end사이에 겹치는 수가 K개 이하일 때는 end증가
+        // K개 초과일 때는 start를 늘려가며 겹치는 수가 빠질때까지 begin증가
         int begin = 1, end = 1, max = 0;
         while(end <= N) {
             if(count[num[end]] < K) {
@@ -30,17 +30,17 @@ public class Main {
             }
             else {
                 max = Math.max(end - begin, max);
-                //(end - 1) - begin + 1
-                //end번째에 K를 초과하기 때문에 end - 1번째 까지
-                //길이를 고려해야 함.
+                // (end - 1) - begin + 1
+                // end번째에 K를 초과하기 때문에 end - 1번째 까지
+                // 길이를 고려해야 함.
                 count[num[begin]]--;
                 begin++;
             }
         }
-		
+
         System.out.println(max);
     }
-	
+
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
