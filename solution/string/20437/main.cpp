@@ -21,34 +21,34 @@ int main() {
     int T;
     cin >> T;
 
-    while(T--){
-        //alpha 배열을 초기화 합니다.
+    while(T--) {
+        // alpha 배열을 초기화 합니다.
         for(int i = 0;i < 26;i++)
             alpha[i] = 0;
-        
+
         string W;
         int K;
         cin >> W >> K;
-        
-        //입력받은 문자열의 알파벳을 기록합니다.
+
+        // 입력받은 문자열의 알파벳을 기록합니다.
         for(int i = 0;i < W.length();i++)
             alpha[W[i] - 'a']++;
-        
-        //K보다 크거나 같은 빈도로 나온 알파벳에
-        //대해서만 검사합니다.
+
+        // K보다 크거나 같은 빈도로 나온 알파벳에
+        // 대해서만 검사합니다.
         int _min = INT_MAX, _max = 0;
-        for(int i = 0;i < W.length();i++){
+        for(int i = 0;i < W.length();i++) {
             if(alpha[W[i] - 'a'] < K) continue;
 
-            //그 알파벳을 시작과 끝으로 생각하고
-            //그 알파벳이 정확히 K개가 나왔을 때 문자열의 길이를
-            //기존의 _max와 _min값과 비교하여 업데이트 합니다.
+            // 그 알파벳을 시작과 끝으로 생각하고
+            // 그 알파벳이 정확히 K개가 나왔을 때 문자열의 길이를
+            // 기존의 _max와 _min값과 비교하여 업데이트 합니다.
             int count = 0;
-            for(int j = i;j < W.length();j++){
+            for(int j = i;j < W.length();j++) {
                 if(W[i] != W[j]) continue;
                 else count++;
 
-                if(count == K){
+                if(count == K) {
                     _min = min(_min, j - i + 1);
                     _max = max(_max, j - i + 1);
                     break;
