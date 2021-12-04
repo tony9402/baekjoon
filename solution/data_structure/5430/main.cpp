@@ -27,16 +27,16 @@ int main() {
     int T;
     cin >> T;
 
-    while(T--){
+    while(T--) {
         string p, arr;
         int n;
         cin >> p >> n >> arr;
 
         inputString(arr);
 
-        //실행할 함수를보고 적절하게 구현
+        // 실행할 함수를보고 적절하게 구현
         bool error = false;
-        for(int i = 0;i < p.length();i++){
+        for(int i = 0;i < p.length();i++) {
             if(p[i] == 'R')
                 reverseList();
             else {
@@ -55,18 +55,18 @@ int main() {
     return 0;
 } 
 
-//비어있는 상황 []도 출력을 할 경우가 있기 때문에
-//for문 안에 마지막 숫자는 컴마(,)를 출력하지 않도록 하였습니다.
+// 비어있는 상황 []도 출력을 할 경우가 있기 때문에
+// for문 안에 마지막 숫자는 컴마(,)를 출력하지 않도록 하였습니다.
 void outputList(){
     cout << '[';
     if(_reverse == false){
-        for(int i = front;i <= back;i++){
+        for(int i = front;i <= back;i++) {
             if(i == back) cout << numlist[i];
             else cout << numlist[i] << ",";
         }
     }
-    else{
-        for(int i = back;i >= front;i--){
+    else {
+        for(int i = back;i >= front;i--) {
             if(i == front) cout << numlist[i];
             else cout << numlist[i] << ",";
         }
@@ -74,9 +74,9 @@ void outputList(){
     cout << "]\n";
 }
 
-//뒤집혀 있는 상태에서는 back이 앞쪽이 됩니다.
-//따라서 back크기를 하나 줄여줍니다.
-//추가로 front > back 일때 error상황을 체크합니다.
+// 뒤집혀 있는 상태에서는 back이 앞쪽이 됩니다.
+// 따라서 back크기를 하나 줄여줍니다.
+// 추가로 front > back 일때 error상황을 체크합니다.
 bool deleteList(){
     if(front > back) return false;
     else {
@@ -87,17 +87,17 @@ bool deleteList(){
     }
 }
 
-//_reverse가 true면 뒤집혀있다 라고 생각합니다.
+// _reverse가 true면 뒤집혀있다 라고 생각합니다.
 void reverseList(){
     if(_reverse == true) _reverse = false;
     else _reverse = true;
 }
 
-//문자열을 뒤에서부터 읽으며 숫자만 numlist에 넣습니다.
-void inputString(string arr){
+// 문자열을 뒤에서부터 읽으며 숫자만 numlist에 넣습니다.
+void inputString(string arr) {
     string num = "";
-    while(!arr.empty()){
-        if(arr.back() >= '0' && arr.back() <= '9'){
+    while(!arr.empty()) {
+        if(arr.back() >= '0' && arr.back() <= '9') {
             num += arr.back();
             arr.pop_back();
         }
@@ -112,7 +112,7 @@ void inputString(string arr){
             }
         }
     }
-    
+
     reverse(numlist.begin(), numlist.end());
 
     front = 0;
