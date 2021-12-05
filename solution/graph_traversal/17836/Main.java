@@ -43,17 +43,15 @@ public class Main {
         // bfs로 각 지점까지 거리를 구해놓는다.
         bfs();
 
-        int use_sword = 0, not_use_sword = 0;
+        int use_sword = Integer.MAX_VALUE, not_use_sword = Integer.MAX_VALUE;
 
         // 검을 사용했을 때 걸리는 시간. 구하지 못하는 경우는 int형 최대값
         if(distance[sword.x][sword.y] != 0)
             use_sword = distance[sword.x][sword.y] + (N - sword.x) + (M - sword.y);
-        else use_sword = Integer.MAX_VALUE;
 
         // 검을 사용하지 않고 걸리는 시간. 구하지 못하는 경우는 int형 최대값
         if(distance[N][M] != 0)
             not_use_sword = distance[N][M];
-        else not_use_sword = Integer.MAX_VALUE;
 
         // 둘 중 작은 값을 T보다 작을때만 출력, 그 외는 Fail출력
         if(Math.min(use_sword, not_use_sword) > T)
