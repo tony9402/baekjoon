@@ -26,6 +26,7 @@ jobs:
             python scripts/check_pull_request.py --check_solution --pr_number ${{ github.event.number }}
             echo "SOLUTION_LANG=`head -1 result`" >> $GITHUB_ENV
         - name: add Label
+          if: contains(github.event.pull_request.labels.*.name, 'Solution') == false
           uses: actions/github-script@v4
           with:
             script: |
