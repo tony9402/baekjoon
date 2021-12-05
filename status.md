@@ -8,14 +8,14 @@
 
 
 총 문제 수 : 993  
-총 추천 문제 수 : 412 (41.49%)  
+총 추천 문제 수 : 411 (41.39%)  
 알고리즘 Tag 개수 : 23  
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 57.52% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 57.66% <br><br>
 
-남은 문제 수 175/412
+남은 문제 수 174/411
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
@@ -41,7 +41,7 @@
 | 19 |  [topological_sorting](./../../tree/main/topological_sorting) | 5 |![status](https://img.shields.io/badge/-0.00%25-DFFD26) |  
 | 20 |  [tree](./../../tree/main/tree) | 12 |![status](https://img.shields.io/badge/-20.00%25-31AE0F) |  
 | 21 |  [trie](./../../tree/main/trie) | 4 |![status](https://img.shields.io/badge/-20.00%25-31AE0F) |  
-| 22 |  [two_pointer](./../../tree/main/two_pointer) | 12 |![status](https://img.shields.io/badge/-14.29%25-31AE0F) |  
+| 22 |  [two_pointer](./../../tree/main/two_pointer) | 11 |![status](https://img.shields.io/badge/-15.38%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2021/12/06 02:22:41 KST**
+**실행한 날짜(log) : 2021/12/06 03:12:44 KST**
