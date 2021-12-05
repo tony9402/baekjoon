@@ -1,4 +1,3 @@
-1,11659,
 1,2470,
 1,15961,./../solution/two_pointer/15961
 1,1806,./../solution/two_pointer/1806
