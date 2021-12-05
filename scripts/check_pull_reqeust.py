@@ -84,7 +84,7 @@ def compile_test(path):
         if extension == 'cpp':
             run(f"g++ -std=c++17 {path} -o Main")
         elif extension == 'java':
-            run(f"javac {path}")
+            run(f"javac {path} -d  .")
     except:
         raise RuntimeError("Compile Error")
 
