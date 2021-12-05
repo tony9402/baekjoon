@@ -1,7 +1,6 @@
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/1744c1e07a70449ba28fd54faab4b25b
-
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -64,7 +63,7 @@ bool bfs() {
         }
 
         for(int i = 0;i < 10;i++)
-            memset(visited[i], false, sizeof(visited[i]) * sizeof(bool));
+            memset(visited[i], false, 10 * sizeof(bool));
 
         if(wall_count > 0) moveWall();
     }
@@ -73,7 +72,8 @@ bool bfs() {
 }
 
 int main() {
-    ios::sync_with_stdio(false); cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
 
     // 입력과 동시에 벽 개수를 카운트 합니다.
     for(int i = 1;i <= 8;i++) {
