@@ -31,7 +31,6 @@ jobs:
           if: contains(github.event.pull_request.labels.*.name, 'Solution') == false
           uses: actions/github-script@v4
           with:
-            github-token: ${{ secrets.GH_TOKEN }}
             script: |
               const { SOLUTION_LANG } = process.env
               if (SOLUTION_LANG == "python") {
@@ -39,7 +38,7 @@ jobs:
                   issue_number: context.issue.number,
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  labels: [ "Python", "Solution" ] 
+                  labels: ["Python", "Solution"]
                 });
               }
               else if(SOLUTION_LANG == "cpp") {
@@ -47,7 +46,7 @@ jobs:
                   issue_number: context.issue.number,
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  labels: [ "C++", "Solution" ] 
+                  labels: ["C++", "Solution"]
                 });
               }
               else if(SOLUTION_LANG == "java") {
@@ -55,7 +54,7 @@ jobs:
                   issue_number: context.issue.number,
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  labels: [ "Java", "Solution" ] 
+                  labels: ["Java", "Solution"]
                 });
               }
         - name: Check Solution
