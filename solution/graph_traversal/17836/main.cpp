@@ -19,7 +19,7 @@ void bfs() {
     visited[1][1] = true;
 
     while(!q.empty()) {
-        pair cur = q.front();
+        pair<int, int> cur = q.front();
         q.pop();
 
         for(int i = 0;i < 4;i++) {
@@ -37,7 +37,8 @@ void bfs() {
 }
 
 int main() {
-    ios::sync_with_stdio(false); cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
 
     cin >> N >> M >> T;
 
@@ -51,17 +52,15 @@ int main() {
 
     bfs();
 
-    int use_sword = 0, not_use_sword = 0;
+    int use_sword = INT_MAX, not_use_sword = INT_MAX;
 
     // 검을 사용했을 때 걸리는 시간. 구하지 못하는 경우는 int형 최대값
     if(dist[sword.first][sword.second] != 0)
         use_sword = dist[sword.first][sword.second] + (N - sword.first) + (M - sword.second);
-    else use_sword = INT_MAX;
 
     //검을 사용하지 않고 걸리는 시간. 구하지 못하는 경우는 int형 최대값
     if(dist[N][M] != 0)
         not_use_sword = dist[N][M];
-    else not_use_sword = INT_MAX;
 
     //둘 중 작은 값을 T보다 작을때만 출력, 그 외는 Fail출력
     if(min(use_sword, not_use_sword) > T)
