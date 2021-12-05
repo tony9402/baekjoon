@@ -3,6 +3,8 @@ name: Auto Check Solution
 on:
   pull_request_target:
     types: [opened, reopened]
+  pull_request:
+    branches: [main]
 
 jobs:
     create-pull-requst:
