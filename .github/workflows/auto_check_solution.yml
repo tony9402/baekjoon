@@ -23,4 +23,4 @@ jobs:
           pip install bs4 requests
       - name: Check Solution
         run: |
-          python scripts/check_pull_reqeust.py --pr_number ${{ github.event.number }}
+          python scripts/check_pull_request.py --pr_number ${{ github.event.number }}
