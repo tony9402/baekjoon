@@ -2,6 +2,10 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [15721](https://www.acmicpc.net/problem/15721) | [번데기](https://www.acmicpc.net/problem/15721) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14248](https://www.acmicpc.net/problem/14248) | [점프 점프](https://www.acmicpc.net/problem/14248) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21938](https://www.acmicpc.net/problem/21938) | [영상처리](https://www.acmicpc.net/problem/21938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19236](https://www.acmicpc.net/problem/19236) | [청소년 상어](https://www.acmicpc.net/problem/19236) |
 
 ## 2021/12/05 
 

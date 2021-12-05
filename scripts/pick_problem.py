@@ -21,11 +21,16 @@ def reset():
         f.writelines(pick_data)
         f.close()
 
+    return pick_data
+
 def update():
     data = None
     with open('./scripts/pick_data.in', 'r') as f:
         data = f.readlines()
         f.close()
+
+    if len(data) <= 30:
+        data = reset()
 
     problem_database = None
     with open('./scripts/database.json', 'r') as f:
@@ -77,9 +82,6 @@ def pick():
     with open('./scripts/pick_data.in', 'r') as f:
         data = f.readlines()
         f.close()
-
-    if len(data) <= 30:
-        reset()
 
     os.system('./scripts/pick.problem < ./scripts/pick_data.in > ./scripts/today_problem.out')
     with open("./scripts/today_problem.out", "r") as f:
