@@ -18,14 +18,14 @@ void outputList();
 bool deleteList();
 
 vector<string> numlist;
-bool _reverse = false;
+bool rev; // reverse, default : false
 int front, back;
 
 int main() {
-    ios::sync_with_stdio(false); cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
 
-    int T;
-    cin >> T;
+    int T; cin >> T;
 
     while(T--) {
         string p, arr;
@@ -34,11 +34,10 @@ int main() {
 
         inputString(arr);
 
-        // 실행할 함수를보고 적절하게 구현
+        // 실행할 함수를 보고 적절하게 구현
         bool error = false;
         for(int i = 0;i < p.length();i++) {
-            if(p[i] == 'R')
-                reverseList();
+            if(p[i] == 'R') reverseList();
             else {
                 if(deleteList() == false) {
                     cout << "error" << '\n';
@@ -49,7 +48,7 @@ int main() {
         }
         if(error == false) outputList();
         numlist.clear();
-        _reverse = false;
+        rev = false;
     }
 
     return 0;
@@ -59,7 +58,7 @@ int main() {
 // for문 안에 마지막 숫자는 컴마(,)를 출력하지 않도록 하였습니다.
 void outputList(){
     cout << '[';
-    if(_reverse == false){
+    if(rev == false){
         for(int i = front;i <= back;i++) {
             if(i == back) cout << numlist[i];
             else cout << numlist[i] << ",";
@@ -79,32 +78,29 @@ void outputList(){
 // 추가로 front > back 일때 error상황을 체크합니다.
 bool deleteList(){
     if(front > back) return false;
-    else {
-        if(_reverse == false) front++;
-        else back--;
-
-        return true;
-    }
+    if(rev == false) front++;
+    else back--;
+    return true;
 }
 
-// _reverse가 true면 뒤집혀있다 라고 생각합니다.
+// rev(reverse)가 true면 뒤집혀있다 라고 생각합니다.
 void reverseList(){
-    if(_reverse == true) _reverse = false;
-    else _reverse = true;
+    if(rev == true) rev = false;
+    else rev = true;
 }
 
 // 문자열을 뒤에서부터 읽으며 숫자만 numlist에 넣습니다.
 void inputString(string arr) {
     string num = "";
     while(!arr.empty()) {
-        if(arr.back() >= '0' && arr.back() <= '9') {
+        if('0' <= arr.back() && arr.back() <= '9') {
             num += arr.back();
             arr.pop_back();
         }
-        else{
+        else {
             if(num.empty() == true)
                 arr.pop_back();
-            else{
+            else {
                 reverse(num.begin(), num.end());
                 numlist.push_back(num);
                 num = "";
@@ -116,5 +112,5 @@ void inputString(string arr) {
     reverse(numlist.begin(), numlist.end());
 
     front = 0;
-    back = numlist.size() - 1;
+    back = (int)numlist.size() - 1;
 }
