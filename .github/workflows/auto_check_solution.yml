@@ -31,6 +31,7 @@ jobs:
           if: contains(github.event.pull_request.labels.*.name, 'Solution') == false
           uses: actions/github-script@v4
           with:
+            github_token: ${{ secrets.GH_TOKEN }}
             script: |
               const { SOLUTION_LANG } = process.env
               if (SOLUTION_LANG == "python") {
