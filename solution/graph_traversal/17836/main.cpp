@@ -63,9 +63,10 @@ int main() {
         not_use_sword = dist[N][M];
 
     //둘 중 작은 값을 T보다 작을때만 출력, 그 외는 Fail출력
-    if(min(use_sword, not_use_sword) > T)
+    int answer = min(use_sword, not_use_sword);
+    if(answer > T)
         cout << "Fail";
-    else cout << min(use_sword, not_use_sword);
+    else cout << answer;
 
     return 0;
 } 
