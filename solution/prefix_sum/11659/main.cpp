@@ -6,14 +6,13 @@
 
 using namespace std;
 
-int num[100010];
-int sum[100010];
+int num[100010], sum[100010];
 
 int main() {
-    ios::sync_with_stdio(false); cin.tie(nullptr);
+    ios::sync_with_stdio(false); 
+    cin.tie(nullptr);
 
-    int N, M;
-    cin >> N >> M;
+    int N, M; cin >> N >> M;
 
     // 입력과 동시에 누적합을 구해놓습니다.
     for(int i = 1;i <= N;i++) {
@@ -25,7 +24,6 @@ int main() {
     for(int i = 0;i < M;i++) {
         int begin, end;
         cin >> begin >> end;
-
         cout << sum[end] - sum[begin - 1] << '\n';
     }
 
