@@ -1,12 +1,10 @@
 //Authored by : suin8
 //Co-authored by : -
 //Link : http://boj.kr/31dab421076b458aac0065580a31cbe2
-
 import java.util.*;
 import java.io.*;
 
 public class Main {
-
     public static void main(String[] args) {
         FastReader rd = new FastReader();
 
@@ -25,10 +23,8 @@ public class Main {
                 num += (N.charAt(i) - 55) * Math.pow(B, digit);
             else  
                 num += (N.charAt(i) - 48) * Math.pow(B, digit);
-
             digit++;
         }
-
         System.out.print(num);
     }
 
