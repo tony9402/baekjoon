@@ -119,8 +119,8 @@ def judge_test(path):
         if spj:
             continue
 
-        result = result.strip()
-        data_output = data_output.strip()
+        result = [ line.strip() for line in result if line.strip() != '']
+        data_output = [ line.strip() for line in data_output if line.strip() != '' ]
 
         if result != data_output:
             raise Exception("Wrong Solution")
