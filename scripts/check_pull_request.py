@@ -15,6 +15,8 @@ def load_arg():
     parser = argparse.ArgumentParser()
     arg = parser.add_argument
     arg('--pr_number', type=int, help="Pull Request Number")
+    arg('--check_solution', action='store_true')
+    parser.set_defaults(check_solution=False)
     return parser.parse_args()
 
 def check_alreay_exist_solution(path):
@@ -129,8 +131,15 @@ def judge_test(path):
 
 if __name__ == "__main__":
     args = load_arg()
-    file = get_pr_file(args.pr_number)
-    check_alreay_exist_solution(file)
-    run(f"git checkout FETCH_HEAD")
-    judge_test(file)
-
+    
+    if args.check_solution:
+        file = get_pr_file(args.pr_number)
+        lang = get_solution_language(file)
+        with open("result", 'w') as f:
+            f.write(lang)
+            f.close()
+    else:
+        file = get_pr_file(args.pr_number)
+        check_alreay_exist_solution(file)
+        run(f"git checkout FETCH_HEAD")
+        judge_test(file)
