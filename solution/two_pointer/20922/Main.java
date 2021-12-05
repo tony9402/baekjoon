@@ -1,13 +1,13 @@
 //Authored by : suin8
 //Co-authored by : tony9402
-//Link : http://boj.kr/f6232bedc14545ecb59f0398d4826f7d
+//Link : http://boj.kr/a390775f4af44af3af4239329e91fdcb
 
 import java.util.*;
 import java.io.*;
 
 public class Main {
     static int[] num = new int[200010];
-    static int[] count = new int[200010];
+    static int[] count = new int[100010];
 
     public static void main(String[] args) {
         FastReader rd = new FastReader();
