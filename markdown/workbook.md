@@ -16,7 +16,7 @@
 | 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 | ![status][Doing] |
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |
 | 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | ![status][Doing] |
-| 16 | String | 문자열 | [바로가기](./string) | 19 | 65 | ![status][Doing] |
+| 16 | String | 문자열 | [바로가기](./string) | 19 | 64 | ![status][Doing] |
 | 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 | ![status][Doing] |
 | 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 | ![status][Doing] |
 | 19 | Disjoint Set | 분리 집합 | [바로가기](./disjoint_set) | 06 | 20 | ![status][Doing] |
