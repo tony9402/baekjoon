@@ -24,7 +24,7 @@
 1,20115,./../solution/greedy/20115
 1,20300,./../solution/greedy/20300
 ,14247,./../solution/greedy/14247
-1,1541,
+1,1541,./../solution/greedy/1541
 ,1080,
 ,2138,
 1,20365,./../solution/greedy/20365
