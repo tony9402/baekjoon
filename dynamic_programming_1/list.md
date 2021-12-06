@@ -25,7 +25,7 @@
 ,2876,
 ,20152,
 1,11053,./../solution/dynamic_programming_1/11053
-1,1912,
+1,1912,./../solution/dynamic_programming_1/1912
 1,9465,./../solution/dynamic_programming_1/9465
 1,11055,./../solution/dynamic_programming_1/11055
 ,11722,./../solution/dynamic_programming_1/11722
