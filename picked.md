@@ -1,3 +1,12 @@
+## 2021/12/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5212](https://www.acmicpc.net/problem/5212) | [지구 온난화](https://www.acmicpc.net/problem/5212) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16971](https://www.acmicpc.net/problem/16971) | [배열 B의 값](https://www.acmicpc.net/problem/16971) |
+
 ## 2021/12/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -21,7 +30,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15779](https://www.acmicpc.net/problem/15779) | [Zigzag](https://www.acmicpc.net/problem/15779) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14499](https://www.acmicpc.net/problem/14499) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [15732](https://www.acmicpc.net/problem/15732) | [도토리 숨기기](https://www.acmicpc.net/problem/15732) |
 
@@ -786,7 +795,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [17266](https://www.acmicpc.net/problem/17266) | [어두운 굴다리](https://www.acmicpc.net/problem/17266) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17129](https://www.acmicpc.net/problem/17129) | [윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17129) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
 
@@ -876,7 +885,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2263](https://www.acmicpc.net/problem/2263) | [트리의 순회](https://www.acmicpc.net/problem/2263) |
 
