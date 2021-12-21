@@ -25,7 +25,6 @@ public class Main {
     
     public static void main(String[] args) {
         FastReader rd = new FastReader();
-        FastWriter rw = new FastWriter();
         
         int N = rd.nextInt();
         
