@@ -53,23 +53,22 @@ public class Main {
         int max_idx = 0;
         Queue<Integer> q = new LinkedList<>();
         q.add(start);
+        visited[start] = true;
         
         while(!q.isEmpty()) {
             int cur = q.poll();
             
-            visited[cur] = true;
-            
             for(Pair p : tree[cur]) {
                 if(visited[p.idx] == true) continue; // 방문한 노드
-                else { // 미방문
-                    weight[p.idx] = p.w + weight[cur];
-                    // 가장 먼 노드의 인덱스와 가중치를 저장합니다.
-                    if(max_weight < weight[p.idx]) {
-                        max_weight = weight[p.idx];
-                        max_idx = p.idx;
-                    }
-                    q.add(p.idx);
+                // 미방문
+                visited[p.idx] = true;
+                weight[p.idx] = p.w + weight[cur];
+                // 가장 먼 노드의 인덱스와 가중치를 저장합니다.
+                if(max_weight < weight[p.idx]) {
+                    max_weight = weight[p.idx];
+                    max_idx = p.idx;
                 }
+                q.add(p.idx);
             }
         }
         
