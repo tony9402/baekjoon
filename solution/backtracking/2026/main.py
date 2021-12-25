@@ -2,13 +2,10 @@
 # Co-authored by : -
 # Link : http://boj.kr/23aa0efe0fd94f888b47fdcacfbce2c7
 
-
 import sys
-
 
 def input():
     return sys.stdin.readline().rstrip()
-
 
 K, N, F = map(int, sys.stdin.readline().split())
 relation = [[True if i == j else False for j in range(N+1)] for i in range(N+1)]
@@ -18,7 +15,6 @@ for _ in range(F):
     relation[a][b] = True
     relation[b][a] = True
 
-
 def check(cur, friends):  # 지금까지 쌓아온 친구들과 모두 관계가 성립하는지 확인
     result = True
     for friend in friends:
@@ -26,7 +22,6 @@ def check(cur, friends):  # 지금까지 쌓아온 친구들과 모두 관계가
             result = False
             break
     return result
-
 
 def dfs(start, relation, friends):
     global flag, visit, answer
@@ -36,14 +31,13 @@ def dfs(start, relation, friends):
         flag = True
         answer = friends
         return
-    for _next, status in enumerate(relation[start]):
+    for nxt, status in enumerate(relation[start]):
         if not status: continue
-        if visit[_next]: continue
-        if not check(_next, friends): continue
-        visit[_next] = True
-        dfs(_next, relation, friends + [_next])
-        visit[_next] = False
-
+        if visit[nxt]: continue
+        if not check(nxt, friends): continue
+        visit[nxt] = True
+        dfs(nxt, relation, friends + [nxt])
+        visit[nxt] = False
 
 def solution(relation, K):
     global flag, visit, answer
@@ -59,8 +53,8 @@ def solution(relation, K):
         visit[i] = False
     return answer
 
-
 answer = solution(relation, K)
+
 if flag:
     for num in answer:
         print(num)
