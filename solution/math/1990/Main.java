@@ -6,7 +6,7 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-    static boolean prime_num[]; // false면 소수
+    static boolean prime_num[]; // false면 소수 (단, 2 이상인 정수)
     public static void main(String[] args) {
         FastReader rd = new FastReader();
         
