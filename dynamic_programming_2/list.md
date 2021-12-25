@@ -5,7 +5,7 @@
 ,14728,
 ,17845,
 ,17208,
-1,18427,
+1,18427,./../solution/dynamic_programming_2/18427
 ,7579,./../solution/dynamic_programming_2/7579
 1,2629,
 ,19645,
