@@ -6,10 +6,8 @@ from itertools import combinations
 from collections import deque
 import sys
 
-
 def input():
     return sys.stdin.readline().rstrip()
-
 
 N, M = map(int, input().split())
 graph = {i: [] for i in range(1, N+1)}
@@ -17,7 +15,6 @@ for _ in range(M):
     a, b = map(int, input().split())
     graph[a].append(b)
     graph[b].append(a)
-
 
 def bfs(start1, start2, graph, N):
     result = [99999999 for _ in range(N+1)]
@@ -34,11 +31,11 @@ def bfs(start1, start2, graph, N):
         if len(visit) == N:
             break
         cur, dist = q.popleft()
-        for _next in graph[cur]:
-            if _next in visit: continue
-            visit.add(_next)
-            q.append((_next, dist + 1))
-            result[_next] = dist + 1
+        for nxt in graph[cur]:
+            if nxt in visit: continue
+            visit.add(nxt)
+            q.append((nxt, dist + 1))
+            result[nxt] = dist + 1
     return sum(result)
 
 
@@ -64,7 +61,7 @@ def solution(graph, N):
                     fin_store1 = store1
                     fin_store2 = store2
                     answer = result
-    return ' '.join(map(str, [fin_store1, fin_store2, answer * 2]))
 
+    return ' '.join(map(str, [fin_store1, fin_store2, answer * 2]))
 
 print(solution(graph, N))
