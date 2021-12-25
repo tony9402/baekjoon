@@ -8,10 +8,10 @@ import sys
 def input():
     return sys.stdin.readline().rstrip()
 
-def rotate(arr,N):
-    result = []
-    i_array=[]
-    j_array=[]
+def rotate(arr, N):
+    result  = []
+    i_array = []
+    j_array = []
     for item in arr:
         i,j = item
         i_array.append(j)
@@ -32,7 +32,7 @@ def check(n,m,arr,visit):
             temp = set()
             for y,x in arr:
                 if y+i<n and x+j<m:
-                    if(y+i,x+j) in visit:
+                    if (y+i,x+j) in visit:
                         chk = False
                         break
                     else:
@@ -48,7 +48,7 @@ n, m, k = map(int, input().split())
 visit = set()
 sticker = [] # (max 크기, 스티커들)
 for c in range(k):
-    a, b = map(int,input().split())
+    a, b = map(int, input().split())
     sticker.append([0, []])
     sticker[c][0] = max(a, b)
     for i in range(a):
@@ -62,10 +62,11 @@ cnt = 0
 while q:
     if cnt == 4:
         q.popleft()
-        cnt=0
+        cnt = 0
         continue
+
     current_sticker = q.popleft()
-    M,s = current_sticker
+    M, s = current_sticker
     chk, li = check(n, m, s, visit)
     if chk:
         for i in li:
