@@ -2,9 +2,7 @@
 # Co-authored by : -
 # Link : http://boj.kr/16de6b69c0ca419a908289ee440a407a
 
-
 import sys
-
 
 def input():
     return sys.stdin.readline().rstrip()
@@ -18,13 +16,11 @@ def calculate_days_per_month():
 
 month_days = calculate_days_per_month()
 
-
 def change_str(_str):
     date, time, item, person = _str.split()
     _, month, day = map(int, date.split('-')) # 년도 필요없음
     hour, minute = map(int, time.split(':'))
     return person, item, (month_days[month-1] + day) * 24 * 60 + hour * 60 + minute
-
 
 def solution(info, deadline_time, F):
     dic = {}
@@ -49,10 +45,8 @@ def solution(info, deadline_time, F):
     else:
         print(-1)
 
-
 N, L, F = input().split()
-N = int(N)
-F = int(F)
+N, F = int(N), int(F)
 day, time = L.split('/')
 day = int(day)
 hour, minute = map(int, time.split(':'))
@@ -61,4 +55,5 @@ info = []
 for _ in range(N):
     _str = input()
     info.append(_str)
+
 solution(info, deadline_time, F)
