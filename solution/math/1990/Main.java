@@ -18,7 +18,7 @@ public class Main {
         check_prime(b);
         palindrome(a, b);
     }
-    
+
     // 소수 판별 에라토스테네스의 체
     // 소수인 수의 배수들을 지우는 방식
     // 배수를 지울 때 끝 수(b)의 제곱근 이하 수 까지만 확인한다
@@ -29,8 +29,8 @@ public class Main {
                 prime_num[i * j] = true;
         }
     }
-    
-    //팰린드롬 판별
+
+    // 팰린드롬 판별
     static void palindrome(int a, int b) {
         for(int i = a;i <= b;i++) {
             if(prime_num[i] == false) { // 소수에 대해서만 확인
