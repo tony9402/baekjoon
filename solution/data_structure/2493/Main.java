@@ -27,8 +27,8 @@ public class Main {
         FastReader rd = new FastReader();
         
         int N = rd.nextInt();
-        
         stack.push(new Pair(rd.nextInt(), 1));
+        
         for(int i = 2;i <= N;i++) {
             int n = rd.nextInt();
             
@@ -54,7 +54,7 @@ public class Main {
             }
         }
         
-        for(int i = 1;i <=N;i++) {
+        for(int i = 1;i <= N;i++) {
             System.out.print(receive[i] + " ");
         }
     }
