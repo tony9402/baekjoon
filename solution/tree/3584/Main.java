@@ -15,6 +15,7 @@ public class Main {
         while(T --> 0) { // T번 반복합니다.
             int N = rd.nextInt();
             parent = new int[N + 10];
+
             // comm_1, comm_2는 공통조상을 찾아야 할 수 comm1, comm2의
             // 자신을 포함한 루트까지의 조상 값을 저장하는 벡터입니다.
             comm_1 = new Vector<Integer>();
@@ -28,19 +29,21 @@ public class Main {
 
             int comm1 = rd.nextInt();
             int comm2 = rd.nextInt();
-            // 첫번째 수의 자신포함 모든 조상를 벡터에 넣습니다.
+            // 첫 번째 수의 자신포함 모든 조상를 벡터에 넣습니다.
             // parent[i]값이 0이면 루트라는 뜻입니다.
             while(comm1 != 0) {
                 comm_1.add(comm1);
                 comm1 = parent[comm1];
             }
-            // 두번째 수의 자신포함 모든 조상를 벡터에 넣습니다.
+
+            // 두 번째 수의 자신포함 모든 조상를 벡터에 넣습니다.
             while(comm2 != 0) {
                 comm_2.add(comm2);
                 comm2 = parent[comm2];
             }
-            // 두개의 벡터를 하나씩 비교하면서 가장 먼저 겹치는 수가
-            // 첫번째 공통 조상의 index입니다.
+
+            // 두 개의 벡터를 하나씩 비교하면서 가장 먼저 겹치는 수가
+            // 첫 번째 공통 조상의 index입니다.
             for(int i : comm_1) {
                 if(comm_2.indexOf(i) != -1) {
                     System.out.println(i);
