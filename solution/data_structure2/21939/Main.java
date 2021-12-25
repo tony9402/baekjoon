@@ -32,7 +32,7 @@ public class Main {
         FastReader rd = new FastReader();
         int N = rd.nextInt();
         
-        // problem배열에서 문제번호와 난이도를 저장하고
+        // problem 배열에서 문제번호와 난이도를 저장하고
         // TreeSet을 이용하여 난이도, 문제번호 순으로 정렬합니다.
         for(int i = 0;i < N;i++) {
             int num = rd.nextInt();
@@ -45,21 +45,21 @@ public class Main {
         for(int i = 0;i < M;i++) {
             String command = rd.next();
             
-            // add명령시 treeset과 problem배열에 추가
+            // "add" 명령시 TreeSet과 problem 배열에 추가
             if(command.equals("add")) {
                 int num = rd.nextInt();
                 int lev = rd.nextInt();
                 tset.add(new Problem(num, lev));
                 problem[num] = lev;
             }
-            // solved명령시 입력받은 문제번호와
-            // 저장해놓은 문제번호의 난이도를 배열에서 찾아와
-            // treeset에서 삭제합니다.
+            // "solved" 명령시 입력받은 문제번호와
+            // 저장해놓은 문제번호의 난이도를 배열에서 찾은 후
+            // TreeSet에서 삭제합니다.
             else if(command.equals("solved")) {
                 int num = rd.nextInt();
                 tset.remove(new Problem(num, problem[num]));
             }
-            // recommend 1 은 가장 어렵고 큰 번호 이므로 첫번째 값
+            // recommend 1 은 가장 어렵고 큰 번호 이므로 첫 번째 값
             // recommend 2 는 가장 쉽고 작은 번호 이므로 마지막 값
             else {
                 int n = rd.nextInt();
