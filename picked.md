@@ -1,3 +1,12 @@
+## 2022/01/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [21312](https://www.acmicpc.net/problem/21312) | [홀짝 칵테일](https://www.acmicpc.net/problem/21312) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17503](https://www.acmicpc.net/problem/17503) | [맥주 축제](https://www.acmicpc.net/problem/17503) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
+
 ## 2022/01/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1336,7 +1345,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1359](https://www.acmicpc.net/problem/1359) | [복권](https://www.acmicpc.net/problem/1359) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11509](https://www.acmicpc.net/problem/11509) | [풍선 맞추기](https://www.acmicpc.net/problem/11509) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19535](https://www.acmicpc.net/problem/19535) | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) |
 
 ## 2021/08/07 
