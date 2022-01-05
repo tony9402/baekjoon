@@ -13,8 +13,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6832)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/16234" target="_blank">16234</a> | <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/simulation/16234">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21610" target="_blank">21610</a> | <a href="https://www.acmicpc.net/problem/21610" target="_blank">마법사 상어와 비바라기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="./../solution/simulation/21610">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/17144" target="_blank">17144</a> | <a href="https://www.acmicpc.net/problem/17144" target="_blank">미세먼지 안녕!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/simulation/17144">바로가기</a> |

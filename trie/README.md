@@ -16,8 +16,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6785)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a> | <a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/trie/14425">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a> | <a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20166" target="_blank">20166</a> | <a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                      |

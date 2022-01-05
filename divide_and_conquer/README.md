@@ -11,8 +11,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7275)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2630" target="_blank">2630</a> | <a href="https://www.acmicpc.net/problem/2630" target="_blank">색종이 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/divide_and_conquer/2630">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/17829" target="_blank">17829</a> | <a href="https://www.acmicpc.net/problem/17829" target="_blank">222-풀링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/divide_and_conquer/17829">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/18222" target="_blank">18222</a> | <a href="https://www.acmicpc.net/problem/18222" target="_blank">투에-모스 문자열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="./../solution/divide_and_conquer/18222">바로가기</a> |
