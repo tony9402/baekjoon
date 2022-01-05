@@ -1,5 +1,7 @@
 # 코딩테스트 대비 문제집 with Baekjoon
 
+</br>
+
 ## 벌금💰
 ### 최지수 [github](https://github.com/cjscoding) - 0원
 ### 김혜인 [github](https://github.com/HyeIn-Kim) - 0원
@@ -16,6 +18,8 @@
 ### 4. 1일 1문제 하고싶은거 
 ### 5. README 체크박스 & MM에 문제 번호와 함께 풀었다고 메세지남기기✉
 ### 6. 아픈 것만 인정 (진단서 끊어오시오)
+
+</br>
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)  
