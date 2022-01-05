@@ -14,14 +14,15 @@
 
 ## Rules📜
 
-### 1. 문제 풀이 못할 시 벌금 3000원💰
+### 1. 문제 풀이 못할 시 벌금 3000원
 ### 2. 평일 필수 
 ### 3. 주말 자율 
 ### 4. 1일 1문제 하고싶은거 
-### 5. README 체크박스 & MM에 문제 번호와 함께 풀었다고 메세지남기기✉
+### 5. README 체크박스 & MM에 문제 번호와 함께 풀었다고 메세지남기기
 ### 6. 아픈 것만 인정 (진단서 끊어오시오)
 
 </br>
+
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)  
