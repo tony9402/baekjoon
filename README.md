@@ -8,6 +8,14 @@
 ### 장소명 [github](https://github.com/uuuouuo) - 0원
 ### 이명원 [github](https://github.com/lmw0122) - 0원
 
+# rules
+
+### 평일 필수 
+### 주말 자율 
+### 1일 1문제 하고싶은거 
+### 리드미 체크박스 & MM에 몇번 풀었다고 메세지남기기!
+### 아픈 것만 인증(진단서 끊어와)
+
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)  
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml)  
