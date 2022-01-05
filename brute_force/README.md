@@ -15,8 +15,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7271)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 | 이명원 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/22864" target="_blank">22864</a> | <a href="https://www.acmicpc.net/problem/22864" target="_blank">피로도</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |                      |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2798" target="_blank">2798</a> | <a href="https://www.acmicpc.net/problem/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/2798">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2231" target="_blank">2231</a> | <a href="https://www.acmicpc.net/problem/2231" target="_blank">분해합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/2231">바로가기</a> |
