@@ -17,8 +17,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6782)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 | 이명원 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> | <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> | <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> | <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../solution/two_pointer/20922">바로가기</a> |
