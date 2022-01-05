@@ -10,6 +10,8 @@
 ### 장소명 [github](https://github.com/uuuouuo) - 0원
 ### 이명원 [github](https://github.com/lmw0122) - 0원
 
+</br>
+
 ## Rules📜
 
 ### 1. 문제 풀이 못할 시 벌금 3000원💰
