@@ -17,8 +17,8 @@
 **_❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️_**
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7273)
-| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |이명원|
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a> | <a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | |
 | 01 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/11403" target="_blank">11403</a> | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | |
 | 02 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/11265" target="_blank">11265</a> | <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | |

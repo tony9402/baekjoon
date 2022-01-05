@@ -11,8 +11,8 @@
 **_❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️_**
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7175)
-| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |이명원|
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a> | <a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/minimum_spanning_tree/1197">바로가기</a> |
 | 01 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/1922" target="_blank">1922</a> | <a href="https://www.acmicpc.net/problem/1922" target="_blank">네트워크 연결</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/minimum_spanning_tree/1922">바로가기</a> |
 | 02 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a> | <a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/minimum_spanning_tree/1647">바로가기</a> |

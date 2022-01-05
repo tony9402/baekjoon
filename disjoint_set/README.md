@@ -16,8 +16,8 @@
 **_❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️_**
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6784)
-| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 순번 | 추천 문제 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |이명원|
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a> | <a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/1717">바로가기</a> |
 | 01 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a> | <a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="./../solution/disjoint_set/1976">바로가기</a> |
 | 02 | :heavy_check_mark: | <a href="https://www.acmicpc.net/problem/16562" target="_blank">16562</a> | <a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="./../solution/disjoint_set/16562">바로가기</a> |
