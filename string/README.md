@@ -11,8 +11,8 @@
 ***❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️***
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7276)
-|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |최지수 | 김혜인 | 최다운 | 서은민 | 장소명 |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/3029" target="_blank">3029</a> | <a href="https://www.acmicpc.net/problem/3029" target="_blank">경고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/string/3029">바로가기</a> |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720</a> | <a href="https://www.acmicpc.net/problem/11720" target="_blank">숫자의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/string/11720">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11365" target="_blank">11365</a> | <a href="https://www.acmicpc.net/problem/11365" target="_blank">!밀비 급일</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/string/11365">바로가기</a> |
