@@ -1,3 +1,12 @@
+## 2022/01/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2231) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18866](https://www.acmicpc.net/problem/18866) | [젊은 날의 생이여](https://www.acmicpc.net/problem/18866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16437](https://www.acmicpc.net/problem/16437) | [양 구출 작전](https://www.acmicpc.net/problem/16437) |
+
 ## 2022/01/14 
 
 | 난이도 | 번호 | 문제 이름 |
