@@ -9,7 +9,8 @@ public class Main {
     static ArrayList<Integer> S = new ArrayList<Integer>();
     public static void main(String[] args) {
         FastReader rd = new FastReader();
-
+        
+        int t = rd.nextInt();
         while(t --> 0) {
             int n = rd.nextInt();
             int k = rd.nextInt();
