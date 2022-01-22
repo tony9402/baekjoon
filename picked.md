@@ -1,3 +1,12 @@
+## 2022/01/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269](https://www.acmicpc.net/problem/1269) | [대칭 차집합](https://www.acmicpc.net/problem/1269) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9205](https://www.acmicpc.net/problem/9205) | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3151](https://www.acmicpc.net/problem/3151) | [합이 0](https://www.acmicpc.net/problem/3151) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+
 ## 2022/01/22 
 
 | 난이도 | 번호 | 문제 이름 |
