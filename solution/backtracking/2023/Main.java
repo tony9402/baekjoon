@@ -20,6 +20,7 @@ public class Main {
     static void dfs(int length) {
         if(length == N) {
             System.out.println(ans);
+            return;
         }
         
         for(int i = 0;i <= 9;i++) {
