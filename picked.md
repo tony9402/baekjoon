@@ -1,3 +1,12 @@
+## 2022/02/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1110](https://www.acmicpc.net/problem/1110) | [더하기 사이클](https://www.acmicpc.net/problem/1110) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10159](https://www.acmicpc.net/problem/10159) | [저울](https://www.acmicpc.net/problem/10159) |
+
 ## 2022/02/08 
 
 | 난이도 | 번호 | 문제 이름 |
