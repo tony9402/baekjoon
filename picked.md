@@ -1,3 +1,12 @@
+## 2022/02/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21919](https://www.acmicpc.net/problem/21919) | [소수 최소 공배수](https://www.acmicpc.net/problem/21919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5014](https://www.acmicpc.net/problem/5014) | [스타트링크](https://www.acmicpc.net/problem/5014) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10711](https://www.acmicpc.net/problem/10711) | [모래성](https://www.acmicpc.net/problem/10711) |
+
 ## 2022/02/13 
 
 | 난이도 | 번호 | 문제 이름 |
