@@ -44,7 +44,7 @@
 1,1477,./../solution/binary_search/1477
 ,2866,
 1,20444,./../solution/binary_search/20444
-,9024,
+,9024,./../solution/binary_search/9024
 1,1939,
 ,8983,
 1,2473,
