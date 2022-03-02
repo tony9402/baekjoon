@@ -13,14 +13,14 @@
 
 
 <hr>
-각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 63.26% <br><br>
+각 알고리즘 Tag 진행 사항 <b>(Tag는 사전순)</b> 63.50% <br><br>
 
-남은 문제 수 151/411
+남은 문제 수 150/411
 
 | Index | Tag(Folder Name) |   남은 문제 수   | Solution 진행도 |
 | :--:  | :--------------- |   :----------:   | :------------:  |
 | 00 |  [backtracking](./../../tree/main/backtracking) | 10 |![status](https://img.shields.io/badge/-64.29%25-31AE0F) |  
-| 01 |  [binary_search](./../../tree/main/binary_search) | 9 |![status](https://img.shields.io/badge/-55.00%25-31AE0F) |  
+| 01 |  [binary_search](./../../tree/main/binary_search) | 8 |![status](https://img.shields.io/badge/-60.00%25-31AE0F) |  
 | 02 |  [brute_force](./../../tree/main/brute_force) | 13 |![status](https://img.shields.io/badge/-60.61%25-31AE0F) |  
 | 03 |  [data_structure](./../../tree/main/data_structure) | 0 |![status](https://img.shields.io/badge/-100.00%25-0885CC) |  
 | 04 |  [data_structure2](./../../tree/main/data_structure2) | 1 |![status](https://img.shields.io/badge/-90.91%25-31AE0F) |  
@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 9 |![status](https://img.shields.io/badge/-30.77%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2022/03/02 19:08:02 KST**
+**실행한 날짜(log) : 2022/03/02 19:09:01 KST**
