@@ -60,7 +60,7 @@
 1,18513,./../solution/graph_traversal/18513
 1,2206,./../solution/graph_traversal/2206
 ,1707,./../solution/graph_traversal/1707
-1,2573,
+1,2573,./../solution/graph_traversal/2573
 ,17142,
 ,5427,
 ,13913,
