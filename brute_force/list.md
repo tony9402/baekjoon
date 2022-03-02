@@ -74,7 +74,7 @@
 ,17085,
 1,14500,./../solution/brute_force/14500
 1,15686,
-,1107,
+,1107,./../solution/brute_force/1107
 ,17471,./../solution/brute_force/17471
 ,1747,
 ,14225,
