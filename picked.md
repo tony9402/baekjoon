@@ -1,3 +1,12 @@
+## 2022/03/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [21920](https://www.acmicpc.net/problem/21920) | [서로소 평균](https://www.acmicpc.net/problem/21920) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [13910](https://www.acmicpc.net/problem/13910) | [개업](https://www.acmicpc.net/problem/13910) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+
 ## 2022/03/06 
 
 | 난이도 | 번호 | 문제 이름 |
