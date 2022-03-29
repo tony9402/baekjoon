@@ -1,3 +1,12 @@
+## 2022/03/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11399](https://www.acmicpc.net/problem/11399) | [ATM](https://www.acmicpc.net/problem/11399) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5549](https://www.acmicpc.net/problem/5549) | [행성 탐사](https://www.acmicpc.net/problem/5549) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [18500](https://www.acmicpc.net/problem/18500) | [미네랄 2](https://www.acmicpc.net/problem/18500) |
+
 ## 2022/03/29 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1245,7 +1254,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16951](https://www.acmicpc.net/problem/16951) | [블록 놀이](https://www.acmicpc.net/problem/16951) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2660](https://www.acmicpc.net/problem/2660) | [회장뽑기](https://www.acmicpc.net/problem/2660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2668](https://www.acmicpc.net/problem/2668) | [숫자고르기](https://www.acmicpc.net/problem/2668) |
 
