@@ -26,14 +26,19 @@
 [아래 기준](#rule)을 맞추어 여러분들의 Solution Code를 main branch로 Pull Request (PR) 해주시면 됩니다 !  
 Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)에서 보시면 됩니다.
 
-현재 이 Repo는 코딩테스트를 준비하시는 분들을 위해 만든거라 언어는 ```C++, Java, Python 3, Javascript(Node.js)``` 총 4가지 언어만 허용합니다. 각 언어에 대한 솔루션 파일명과 제출 언어(ex. C++17)는 아래만 허용합니다.
+현재 이 Repo는 코딩테스트를 준비하시는 분들을 위해 만든거라 언어는 ```C, C++, Java, Python 3, Javascript(Node.js), Kotlin, Rust, Swift, Go``` 총 9가지 언어만 허용합니다. 각 언어에 대한 솔루션 파일명과 제출 언어(ex. C++17)는 아래만 허용합니다.
 
-| Language | 파일명 및 확장자 | 백준 제출 언어      |
-| :------- | :--------------- | :------------------ |
-| C++      | main.cpp         | C++14, C++17, C++20 |
-| Python 3 | main.py          | Python 3, PyPy3     |
-| Java     | Main.java        | Java 8, Java 11     |
-| Node.js  | main.js          | node.js             |
+| Language | 파일명 및 확장자     | 백준 제출 언어          |
+| :------- | :--------------- | :------------------- |
+| C        | main.c           | [C2x](https://help.acmicpc.net/language/info#language-102), [C11](https://help.acmicpc.net/language/info#language-75)  |
+| C++      | main.cpp         | [C++14](https://help.acmicpc.net/language/info#language-88), [C++17](https://help.acmicpc.net/language/info#language-84), [C++20](https://help.acmicpc.net/language/info#language-95)  |
+| Python 3 | main.py          | [Python 3](https://help.acmicpc.net/language/info#language-28), [PyPy3](https://help.acmicpc.net/language/info#language-73)      |
+| Java     | Main.java        | [Java 8](https://help.acmicpc.net/language/info#language-3), [Java 11](https://help.acmicpc.net/language/info#language-93), [Java 15](https://help.acmicpc.net/language/info#language-107)      |
+| Kotlin   | main.kt          | [Kotlin (JVM)](https://help.acmicpc.net/language/info#language-69)         |
+| Node.js  | main.js          | [node.js](https://help.acmicpc.net/language/info#language-17)              |
+| Rust     | main.rs          | [Rust 2015](https://help.acmicpc.net/language/info#language-44), [Rust 2018](https://help.acmicpc.net/language/info#language-94) |
+| Swift    | main.swift       | [Swift](https://help.acmicpc.net/language/info#language-74)                |
+| Go       | main.go          | [Go](https://help.acmicpc.net/language/info#language-12)                   |
 
 ## Rule
 
@@ -41,6 +46,7 @@ Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/0
 
 **해당 규칙은 추가, 수정, 삭제가 될 수 있습니다.**
 
+- Rule 0 : **(모든 언어 공통)표준입출력으로 풀어야 합니다.**
 - Rule 1 : 다른 사람의 솔루션을 자신이 푼 것처럼 Pull Request (PR) 하시면 **절대❗️** 안됩니다.
 - Rule 2 : 아래와 같이 솔루션 맨 위에 정보를 **반드시** 넣어주세요. (Authored By에는 백준 닉네임으로 넣어야 합니다.)
 
