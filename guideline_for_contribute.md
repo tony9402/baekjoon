@@ -36,7 +36,7 @@ Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/0
 | Java     | Main.java        | [Java 8](https://help.acmicpc.net/language/info#language-3), [Java 11](https://help.acmicpc.net/language/info#language-93), [Java 15](https://help.acmicpc.net/language/info#language-107)      |
 | Kotlin   | main.kt          | [Kotlin (JVM)](https://help.acmicpc.net/language/info#language-69)         |
 | Node.js  | main.js          | [node.js](https://help.acmicpc.net/language/info#language-17)              |
-| Rust     | main.rs          | [Rust 2015](https://help.acmicpc.net/language/info#language-44), [Rust 2018](https://help.acmicpc.net/language/info#language-94) |
+| Rust     | main.rs          | [Rust 2015](https://help.acmicpc.net/language/info#language-44), [Rust 2018](https://help.acmicpc.net/language/info#language-94), [Rust 2021](https://help.acmicpc.net/language/info#language-113) |
 | Swift    | main.swift       | [Swift](https://help.acmicpc.net/language/info#language-74)                |
 | Go       | main.go          | [Go](https://help.acmicpc.net/language/info#language-12)                   |
 
