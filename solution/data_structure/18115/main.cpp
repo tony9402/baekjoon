@@ -1,16 +1,17 @@
-// https://www.acmicpc.net/problem/18115
-// 2022-04-14 03:51:16 244ms
-// by r4pidstart
+// Authored by : r4pidstart
+// Co-authored by : -
+// Link : https://www.acmicpc.net/source/share/380f9c5d8ce848cf972fc30b9c8eaa93
 #include<bits/stdc++.h>
 using namespace std;
 
 int main(void)
 {
-    int n; scanf("%d", &n);
+    ios::sync_with_stdio(false); cin.tie(nullptr);
+    int n; cin >> n;
 
     vector<int> cmd(n);
     for(int i=0; i<n; i++)
-        scanf("%d", &cmd[i]);
+        cin >> cmd[i];
 
     // 앞에서도, 뒤에서도 카드를 다루기에 덱이 적합하다
     deque<int> dq;
@@ -29,7 +30,7 @@ int main(void)
 
     // dq에 정리된 카드를 순서대로 출력한다
     for(auto i : dq)
-        printf("%d ", i);
+        cout << i << ' ';
 }
 
 /*
