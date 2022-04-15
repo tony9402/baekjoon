@@ -29,7 +29,7 @@ def write_codeowners(data, path = "CODEOWNERS"):
         for lang in langs['language']:
             ext = LangtoExt[lang]
             info.append(
-                f"solution/*/*.{ext} {user}"
+                f"solution/*/*.{ext} @{user}"
             )
         
         info.append('\n')
