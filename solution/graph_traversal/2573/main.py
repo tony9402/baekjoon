@@ -1,7 +1,3 @@
-# Authored by : seonjoo0885
-# Co-authored by : -
-# Link : http://boj.kr/04adde851be5406c89d8a705f4594295
-    
 import sys
 from collections import deque
 
@@ -50,14 +46,14 @@ while ice:
     delList = []
     group = 0
     for i, j in ice:
+        if graph[i][j] > 0 and visited[i][j] == 0:
+            group += bfs(i, j)
         if graph[i][j] == 0:
             delList.append((i, j))
-        elif visited[i][j] == 0:
-            group += bfs(i, j)
     if group > 1:
         print(year)
         break
-    ice = sorted(list(set(ice) - set(delList)))
+    ice = list(set(ice) - set(delList))
     year += 1
 
 if group < 2:
