@@ -1,3 +1,7 @@
+# Authored by : seonjoo0885
+# Co-authored by : -
+# Link : http://boj.kr/04adde851be5406c89d8a705f4594295
+
 import sys
 from collections import deque
 
