@@ -22,9 +22,9 @@ def bfs(x, y):
             nx = x + dx[i]
             ny = y + dy[i]
             if 0 <= nx < n and 0 <= ny < m:
-                if not graph[nx][ny]:
+                if graph[nx][ny] == 0:
                     sea += 1
-                elif graph[nx][ny] and not visited[nx][ny]:
+                elif visited[nx][ny] == 0:
                     q.append((nx, ny))
                     visited[nx][ny] = 1
         if sea > 0:
@@ -40,7 +40,7 @@ graph = [list(map(int, input().split())) for _ in range(n)]
 ice = []
 for i in range(n):
     for j in range(m):
-        if graph[i][j]:
+        if graph[i][j] > 0:
             ice.append((i, j))
 
 year = 0
@@ -50,10 +50,10 @@ while ice:
     delList = []
     group = 0
     for i, j in ice:
-        if graph[i][j] and not visited[i][j]:
-            group += bfs(i, j)
         if graph[i][j] == 0:
             delList.append((i, j))
+        elif visited[i][j] == 0:
+            group += bfs(i, j)
     if group > 1:
         print(year)
         break
