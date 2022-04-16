@@ -25,7 +25,3 @@ int main(void){
     // dq에 정리된 카드를 순서대로 출력한다
     for(auto i : dq) cout << i << ' ';
 }
-
-/*
-    
-*/
