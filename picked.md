@@ -1,3 +1,39 @@
+## 2022/04/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21315](https://www.acmicpc.net/problem/21315) | [카드 섞기](https://www.acmicpc.net/problem/21315) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1944](https://www.acmicpc.net/problem/1944) | [복제 로봇](https://www.acmicpc.net/problem/1944) |
+
+## 2022/04/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14916](https://www.acmicpc.net/problem/14916) | [거스름돈](https://www.acmicpc.net/problem/14916) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22945](https://www.acmicpc.net/problem/22945) | [팀 빌딩](https://www.acmicpc.net/problem/22945) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
+
+## 2022/04/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14912](https://www.acmicpc.net/problem/14912) | [숫자 빈도수](https://www.acmicpc.net/problem/14912) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2876](https://www.acmicpc.net/problem/2876) | [그래픽스 퀴즈](https://www.acmicpc.net/problem/2876) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2250](https://www.acmicpc.net/problem/2250) | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) |
+
+## 2022/04/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12871](https://www.acmicpc.net/problem/12871) | [무한 문자열](https://www.acmicpc.net/problem/12871) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17123](https://www.acmicpc.net/problem/17123) | [배열 놀이](https://www.acmicpc.net/problem/17123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
+
 ## 2022/04/14 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -779,7 +815,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20364](https://www.acmicpc.net/problem/20364) | [부동산 다툼](https://www.acmicpc.net/problem/20364) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [21924](https://www.acmicpc.net/problem/21924) | [도시 건설](https://www.acmicpc.net/problem/21924) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
 
 ## 2022/01/17 
 
@@ -1389,7 +1425,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16951](https://www.acmicpc.net/problem/16951) | [블록 놀이](https://www.acmicpc.net/problem/16951) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2660](https://www.acmicpc.net/problem/2660) | [회장뽑기](https://www.acmicpc.net/problem/2660) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2668](https://www.acmicpc.net/problem/2668) | [숫자고르기](https://www.acmicpc.net/problem/2668) |
 
@@ -2237,7 +2273,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15686](https://www.acmicpc.net/problem/15686) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
 
 ## 2021/08/08 
 

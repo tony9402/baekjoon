@@ -6,7 +6,7 @@
 
 [![하루 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402%2Fbaekjoon)](https://github.com/tony9402/baekjoon)
 [![Discussions](https://img.shields.io/badge/discussions-바로가기-brightgreen)](https://github.com/tony9402/baekjoon/discussions)
-[![오늘의 문제](https://img.shields.io/badge/오늘의%20문제%20%28BETA%29-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/update/picked.md)
+[![오늘의 문제](https://img.shields.io/badge/오늘의%20문제%20%28BETA%29-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/main/picked.md) 
 [![Contribute](https://img.shields.io/badge/집단%20지성%20프로젝트%20-바로가기-18D6A5)](https://github.com/tony9402/baekjoon/blob/main/guideline_for_contribute.md)  
 [![Email](https://img.shields.io/badge/문의하기-tony9402@naver.com-0182E0)](mailTo:tony9402@naver.com)
 
@@ -77,7 +77,7 @@
 
 ***이 문제는 알고리즘 분류와 관련 없이 문제를 뽑아놓은 문제입니다.***
 
-**이 부분은 [오늘의 문제](https://github.com/tony9402/baekjoon/blob/update/picked.md)로 대체합니다**
+**이 부분은 [오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md)로 대체합니다**
 
 
 <br><br>
