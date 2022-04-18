@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        ref: update
+        ref: main
     - name: Setup Python
       uses: actions/setup-python@v1
       with:
@@ -32,5 +32,5 @@ jobs:
     - name: Push
       uses: ad-m/github-push-action@master
       with:
-         branch: 'update'
+         branch: 'main'
          github_token: $
