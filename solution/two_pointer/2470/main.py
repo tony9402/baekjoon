@@ -9,7 +9,7 @@ def input():
 n = int(input())
 liquid = sorted(list(map(int, input().split())))
 
-ans = 10e9 + 1
+ans = 1e10
 ans_list = []
 start, end = 0, n - 1
 
@@ -23,4 +23,4 @@ while start < end:
     else:
         end -= 1
 
-print(' '.join(map(str, ans_list)))
+print(ans_list[0], ans_list[1])
