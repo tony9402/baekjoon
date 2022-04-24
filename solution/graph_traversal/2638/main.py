@@ -8,6 +8,8 @@ def input():
     return sys.stdin.readline().rstrip()
 
 def bfs(x, y):
+    dx = [-1, 1, 0, 0]
+    dy = [0, 0, -1, 1]
     air = deque([(x, y)])
     visited = [[0] * m for _ in range(n)]
     melt = set()
@@ -40,12 +42,9 @@ for i in range(n):
     cheeze.append(list(map(int, input().split())))
     cnt += sum(cheeze[i])  # 치즈 전체 개수 카운팅
 
-dx = [-1, 1, 0, 0]
-dy = [0, 0, -1, 1]
-
 time = 1
 while True:
-    meltCnt = bfs(0, 0)  # 녹인 치주 개수 리턴받기
+    meltCnt = bfs(0, 0)  # 녹인 치즈 개수 리턴받기
     cnt -= meltCnt
     if cnt == 0:  # 치즈 다 녹았으면 종료
         print(time)
