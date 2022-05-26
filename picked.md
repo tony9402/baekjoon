@@ -1,3 +1,12 @@
+## 2022/05/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2960](https://www.acmicpc.net/problem/2960) | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15993](https://www.acmicpc.net/problem/15993) | [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
+
 ## 2022/05/26 
 
 | 난이도 | 번호 | 문제 이름 |
