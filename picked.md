@@ -1,3 +1,12 @@
+## 2022/05/31 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5347](https://www.acmicpc.net/problem/5347) | [LCM](https://www.acmicpc.net/problem/5347) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [22858](https://www.acmicpc.net/problem/22858) | [원상 복구 (small)](https://www.acmicpc.net/problem/22858) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14675](https://www.acmicpc.net/problem/14675) | [단절점과 단절선](https://www.acmicpc.net/problem/14675) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
+
 ## 2022/05/30 
 
 | 난이도 | 번호 | 문제 이름 |
