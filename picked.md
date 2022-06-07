@@ -1,3 +1,12 @@
+## 2022/06/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2003](https://www.acmicpc.net/problem/2003) | [수들의 합 2](https://www.acmicpc.net/problem/2003) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14627](https://www.acmicpc.net/problem/14627) | [파닭파닭](https://www.acmicpc.net/problem/14627) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7576](https://www.acmicpc.net/problem/7576) | [토마토](https://www.acmicpc.net/problem/7576) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1167](https://www.acmicpc.net/problem/1167) | [트리의 지름](https://www.acmicpc.net/problem/1167) |
+
 ## 2022/06/06 
 
 | 난이도 | 번호 | 문제 이름 |
