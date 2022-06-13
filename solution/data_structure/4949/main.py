@@ -1,6 +1,6 @@
 # Authored by : cieske
 # Co-authored by : -
-# Link : http://boj.kr/5af0f7388d84485db221c368ce306c4b
+# Link : http://boj.kr/3797273460bd47949b10ecc1870b5da2
 
 while True:
     sen = input()
