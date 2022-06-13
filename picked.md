@@ -1,3 +1,12 @@
+## 2022/06/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14728](https://www.acmicpc.net/problem/14728) | [벼락치기](https://www.acmicpc.net/problem/14728) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
+
 ## 2022/06/13 
 
 | 난이도 | 번호 | 문제 이름 |
