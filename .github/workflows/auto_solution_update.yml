@@ -43,8 +43,4 @@ jobs:
         git config --local user.name "tony9402"
         git add .
         git commit -m "Auto Update (PUSH)"
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-         branch: 'main'
-         github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push
