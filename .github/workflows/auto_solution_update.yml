@@ -24,7 +24,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        ref: main
+        path: main
     - name: Setup Python
       uses: actions/setup-python@v1
       with:
@@ -43,4 +43,4 @@ jobs:
         git config --local user.name "tony9402"
         git add .
         git commit -m "Auto Update (PUSH)"
-        git push
+        git push -u origin main
