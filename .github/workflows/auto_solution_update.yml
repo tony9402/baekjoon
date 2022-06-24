@@ -23,8 +23,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        path: main
     - name: Setup Python
       uses: actions/setup-python@v1
       with:
