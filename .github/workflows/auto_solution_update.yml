@@ -23,8 +23,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        ref: main
     - name: Setup Python
       uses: actions/setup-python@v1
       with:
@@ -43,8 +41,4 @@ jobs:
         git config --local user.name "tony9402"
         git add .
         git commit -m "Auto Update (PUSH)"
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-         branch: 'main'
-         github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push -f main
