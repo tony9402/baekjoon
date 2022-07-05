@@ -1,3 +1,12 @@
+## 2022/07/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1463](https://www.acmicpc.net/problem/1463) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19949](https://www.acmicpc.net/problem/19949) | [영재의 시험](https://www.acmicpc.net/problem/19949) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2239](https://www.acmicpc.net/problem/2239) | [스도쿠](https://www.acmicpc.net/problem/2239) |
+
 ## 2022/07/05 
 
 | 난이도 | 번호 | 문제 이름 |
