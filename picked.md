@@ -1,3 +1,12 @@
+## 2022/07/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2141](https://www.acmicpc.net/problem/2141) | [우체국](https://www.acmicpc.net/problem/2141) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2157](https://www.acmicpc.net/problem/2157) | [여행](https://www.acmicpc.net/problem/2157) |
+
 ## 2022/07/08 
 
 | 난이도 | 번호 | 문제 이름 |
