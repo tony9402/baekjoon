@@ -1,3 +1,12 @@
+## 2022/07/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2512](https://www.acmicpc.net/problem/2512) | [예산](https://www.acmicpc.net/problem/2512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) |
+
 ## 2022/07/12 
 
 | 난이도 | 번호 | 문제 이름 |
