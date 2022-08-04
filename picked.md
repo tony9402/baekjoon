@@ -1,3 +1,12 @@
+## 2022/08/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [10808](https://www.acmicpc.net/problem/10808) | [알파벳 개수](https://www.acmicpc.net/problem/10808) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4097](https://www.acmicpc.net/problem/4097) | [수익](https://www.acmicpc.net/problem/4097) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20542](https://www.acmicpc.net/problem/20542) | [받아쓰기](https://www.acmicpc.net/problem/20542) |
+
 ## 2022/08/04 
 
 | 난이도 | 번호 | 문제 이름 |
