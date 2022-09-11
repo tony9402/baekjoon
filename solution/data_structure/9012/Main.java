@@ -1,3 +1,6 @@
+// Authored by : J-TKim
+// Co-authored by : -
+// Link : http://boj.kr/b6fbe87e3cec4de0af83034de22af2cc
 import java.lang.*;
 import java.util.*;
 import java.io.*;
