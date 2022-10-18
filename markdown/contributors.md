@@ -398,6 +398,16 @@
             <br />
             <a href="https://github.com/suinj8">suinj8</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/juheon-jeong"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76440385?v=4"/></a>
+            <br />
+            <a href="https://github.com/juheon-jeong">juheon-jeong</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Won-JoonChoi"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81273366?v=4"/></a>
+            <br />
+            <a href="https://github.com/Won-JoonChoi">Won-JoonChoi</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -420,6 +430,84 @@
             <a href="https://www.acmicpc.net/user/suin8">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/suin8">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=vswngjs" />
+            <br />
+            <a href="https://www.acmicpc.net/user/vswngjs">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/vswngjs">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wassup37" />
+            <br />
+            <a href="https://www.acmicpc.net/user/wassup37">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/wassup37">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/parkgwangwook"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43427211?v=4"/></a>
+            <br />
+            <a href="https://github.com/parkgwangwook">parkgwangwook</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/parkjonggyeong18"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81209336?v=4"/></a>
+            <br />
+            <a href="https://github.com/parkjonggyeong18">parkjonggyeong18</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Ryu-JM"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81351128?v=4"/></a>
+            <br />
+            <a href="https://github.com/Ryu-JM">Ryu-JM</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Cho-Hyun-Ji"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/104757451?v=4"/></a>
+            <br />
+            <a href="https://github.com/Cho-Hyun-Ji">Cho-Hyun-Ji</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/HaegyeongKim01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/110768149?v=4"/></a>
+            <br />
+            <a href="https://github.com/HaegyeongKim01">HaegyeongKim01</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ccocco0609" />
+            <br />
+            <a href="https://www.acmicpc.net/user/ccocco0609">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/ccocco0609">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gd30220" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gd30220">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gd30220">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jminryu" />
+            <br />
+            <a href="https://www.acmicpc.net/user/jminryu">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/jminryu">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hji7599" />
+            <br />
+            <a href="https://www.acmicpc.net/user/hji7599">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/hji7599">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gyeong_sun" />
+            <br />
+            <a href="https://www.acmicpc.net/user/gyeong_sun">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/gyeong_sun">solved.ac</a>
         </td>
     </tr>
 </table>
