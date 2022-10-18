@@ -41,4 +41,4 @@ jobs:
         git config --local user.name "tony9402"
         git add .
         git commit -m "Auto Update (PUSH)"
-        git push -f main
+        git push
