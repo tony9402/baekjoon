@@ -1,3 +1,12 @@
+## 2022/12/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21918](https://www.acmicpc.net/problem/21918) | [전구](https://www.acmicpc.net/problem/21918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15486](https://www.acmicpc.net/problem/15486) | [퇴사 2](https://www.acmicpc.net/problem/15486) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14476](https://www.acmicpc.net/problem/14476) | [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) |
+
 ## 2022/12/05 
 
 | 난이도 | 번호 | 문제 이름 |
