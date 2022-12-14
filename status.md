@@ -44,4 +44,4 @@
 | 22 |  [two_pointer](./../../tree/main/two_pointer) | 9 |![status](https://img.shields.io/badge/-30.77%25-31AE0F) |  
 
 
-**실행한 날짜(log) : 2022/12/14 04:34:53 KST**
+**실행한 날짜(log) : 2022/12/15 04:35:00 KST**
