@@ -1,3 +1,12 @@
+## 2023/01/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1181](https://www.acmicpc.net/problem/1181) | [단어 정렬](https://www.acmicpc.net/problem/1181) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11725](https://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15663](https://www.acmicpc.net/problem/15663) | [N과 M (9)](https://www.acmicpc.net/problem/15663) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14657](https://www.acmicpc.net/problem/14657) | [준오는 최종인재야!!](https://www.acmicpc.net/problem/14657) |
+
 ## 2023/01/12 
 
 | 난이도 | 번호 | 문제 이름 |
