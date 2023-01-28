@@ -1,3 +1,12 @@
+## 2023/01/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12931](https://www.acmicpc.net/problem/12931) | [두 배 더하기](https://www.acmicpc.net/problem/12931) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
+
 ## 2023/01/28 
 
 | 난이도 | 번호 | 문제 이름 |
