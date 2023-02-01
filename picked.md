@@ -1,3 +1,12 @@
+## 2023/02/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2941](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15664](https://www.acmicpc.net/problem/15664) | [N과 M (10)](https://www.acmicpc.net/problem/15664) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17123](https://www.acmicpc.net/problem/17123) | [배열 놀이](https://www.acmicpc.net/problem/17123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1445](https://www.acmicpc.net/problem/1445) | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) |
+
 ## 2023/02/01 
 
 | 난이도 | 번호 | 문제 이름 |
