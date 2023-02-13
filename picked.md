@@ -1,3 +1,12 @@
+## 2023/02/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2583](https://www.acmicpc.net/problem/2583) | [영역 구하기](https://www.acmicpc.net/problem/2583) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6137](https://www.acmicpc.net/problem/6137) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
+
 ## 2023/02/13 
 
 | 난이도 | 번호 | 문제 이름 |
