@@ -1,3 +1,12 @@
+## 2023/02/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11437](https://www.acmicpc.net/problem/11437) | [LCA](https://www.acmicpc.net/problem/11437) |
+
 ## 2023/02/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1451,7 +1460,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17124](https://www.acmicpc.net/problem/17124) | [두 개의 배열](https://www.acmicpc.net/problem/17124) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1926](https://www.acmicpc.net/problem/1926) | [그림](https://www.acmicpc.net/problem/1926) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1806](https://www.acmicpc.net/problem/1806) | [부분합](https://www.acmicpc.net/problem/1806) |
@@ -3773,7 +3782,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1695](https://www.acmicpc.net/problem/1695) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
