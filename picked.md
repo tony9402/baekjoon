@@ -1,3 +1,12 @@
+## 2023/03/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1622](https://www.acmicpc.net/problem/1622) | [공통 순열](https://www.acmicpc.net/problem/1622) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927](https://www.acmicpc.net/problem/1927) | [최소 힙](https://www.acmicpc.net/problem/1927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14719](https://www.acmicpc.net/problem/14719) | [빗물](https://www.acmicpc.net/problem/14719) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16571](https://www.acmicpc.net/problem/16571) | [알파 틱택토](https://www.acmicpc.net/problem/16571) |
+
 ## 2023/03/11 
 
 | 난이도 | 번호 | 문제 이름 |
