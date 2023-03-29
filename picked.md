@@ -1,3 +1,12 @@
+## 2023/03/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2776](https://www.acmicpc.net/problem/2776) | [암기왕](https://www.acmicpc.net/problem/2776) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1149](https://www.acmicpc.net/problem/1149) | [RGB거리](https://www.acmicpc.net/problem/1149) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) |
+
 ## 2023/03/29 
 
 | 난이도 | 번호 | 문제 이름 |
