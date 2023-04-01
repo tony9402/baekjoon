@@ -1,3 +1,12 @@
+## 2023/04/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1535](https://www.acmicpc.net/problem/1535) | [안녕](https://www.acmicpc.net/problem/1535) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2234](https://www.acmicpc.net/problem/2234) | [성곽](https://www.acmicpc.net/problem/2234) |
+
 ## 2023/04/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -524,7 +533,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1561](https://www.acmicpc.net/problem/1561) | [놀이 공원](https://www.acmicpc.net/problem/1561) |
@@ -551,7 +560,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14627](https://www.acmicpc.net/problem/14627) | [파닭파닭](https://www.acmicpc.net/problem/14627) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17276](https://www.acmicpc.net/problem/17276) | [배열 돌리기](https://www.acmicpc.net/problem/17276) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
@@ -2720,7 +2729,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5972](https://www.acmicpc.net/problem/5972) | [택배 배송](https://www.acmicpc.net/problem/5972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
@@ -2837,7 +2846,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5582](https://www.acmicpc.net/problem/5582) | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11066](https://www.acmicpc.net/problem/11066) | [파일 합치기](https://www.acmicpc.net/problem/11066) |
@@ -4250,7 +4259,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16507](https://www.acmicpc.net/problem/16507) | [어두운 건 무서워](https://www.acmicpc.net/problem/16507) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
@@ -4673,7 +4682,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14923](https://www.acmicpc.net/problem/14923) | [미로 탈출](https://www.acmicpc.net/problem/14923) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14621](https://www.acmicpc.net/problem/14621) | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
