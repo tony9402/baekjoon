@@ -1,3 +1,12 @@
+## 2023/04/07 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1421](https://www.acmicpc.net/problem/1421) | [나무꾼 이다솜](https://www.acmicpc.net/problem/1421) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1455](https://www.acmicpc.net/problem/1455) | [뒤집기 II](https://www.acmicpc.net/problem/1455) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2023/04/06 
 
 | 난이도 | 번호 | 문제 이름 |
