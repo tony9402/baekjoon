@@ -1,3 +1,12 @@
+## 2023/04/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [22858](https://www.acmicpc.net/problem/22858) | [원상 복구 (small)](https://www.acmicpc.net/problem/22858) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1012](https://www.acmicpc.net/problem/1012) | [유기농 배추](https://www.acmicpc.net/problem/1012) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2026](https://www.acmicpc.net/problem/2026) | [소풍](https://www.acmicpc.net/problem/2026) |
+
 ## 2023/04/09 
 
 | 난이도 | 번호 | 문제 이름 |
