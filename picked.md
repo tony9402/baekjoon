@@ -1,3 +1,12 @@
+## 2023/05/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2346](https://www.acmicpc.net/problem/2346) | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2512](https://www.acmicpc.net/problem/2512) | [예산](https://www.acmicpc.net/problem/2512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2631](https://www.acmicpc.net/problem/2631) | [줄세우기](https://www.acmicpc.net/problem/2631) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
+
 ## 2023/05/09 
 
 | 난이도 | 번호 | 문제 이름 |
