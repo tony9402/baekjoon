@@ -1,3 +1,12 @@
+## 2023/05/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1374](https://www.acmicpc.net/problem/1374) | [강의실](https://www.acmicpc.net/problem/1374) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1456](https://www.acmicpc.net/problem/1456) | [거의 소수](https://www.acmicpc.net/problem/1456) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1484](https://www.acmicpc.net/problem/1484) | [다이어트](https://www.acmicpc.net/problem/1484) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2411](https://www.acmicpc.net/problem/2411) | [아이템 먹기](https://www.acmicpc.net/problem/2411) |
+
 ## 2023/05/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -183,7 +192,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11508](https://www.acmicpc.net/problem/11508) | [2+1 세일](https://www.acmicpc.net/problem/11508) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17175](https://www.acmicpc.net/problem/17175) | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1248](https://www.acmicpc.net/problem/1248) | [Guess](https://www.acmicpc.net/problem/1248) |
 
@@ -3702,7 +3711,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10809](https://www.acmicpc.net/problem/10809) | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22942](https://www.acmicpc.net/problem/22942) | [데이터 체커](https://www.acmicpc.net/problem/22942) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [7453](https://www.acmicpc.net/problem/7453) | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
 
@@ -5304,7 +5313,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1251](https://www.acmicpc.net/problem/1251) | [단어 나누기](https://www.acmicpc.net/problem/1251) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [5624](https://www.acmicpc.net/problem/5624) | [좋은 수](https://www.acmicpc.net/problem/5624) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
 
