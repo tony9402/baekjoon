@@ -1,3 +1,12 @@
+## 2023/05/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2118](https://www.acmicpc.net/problem/2118) | [두 개의 탑](https://www.acmicpc.net/problem/2118) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
+
 ## 2023/05/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -787,7 +796,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11437](https://www.acmicpc.net/problem/11437) | [LCA](https://www.acmicpc.net/problem/11437) |
 
 ## 2023/02/20 
@@ -2921,7 +2930,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1302](https://www.acmicpc.net/problem/1302) | [베스트셀러](https://www.acmicpc.net/problem/1302) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13422](https://www.acmicpc.net/problem/13422) | [도둑](https://www.acmicpc.net/problem/13422) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22944](https://www.acmicpc.net/problem/22944) | [죽음의 비](https://www.acmicpc.net/problem/22944) |
 
 ## 2022/04/30 
 
