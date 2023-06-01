@@ -1,3 +1,12 @@
+## 2023/06/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20007](https://www.acmicpc.net/problem/20007) | [떡 돌리기](https://www.acmicpc.net/problem/20007) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
+
 ## 2023/06/01 
 
 | 난이도 | 번호 | 문제 이름 |
