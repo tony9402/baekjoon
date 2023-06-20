@@ -148,10 +148,11 @@ class SolvedAPI:
             assert type(lastupdate) == float, "[*** Type Error] lastupdate type is {type(lastupdate)}.\n It must be float"
             
             timestamp = datetime.datetime.now(pytz.timezone('Asia/Seoul')).timestamp()
-            if lastupdate + self.config.get('update') > timestamp:
-                return information
+            return information
+            # if lastupdate + self.config.get('update') > timestamp:
+                # return information
 
-        # update
+        # update (if not exist)
         newData = self.__request(problemId)
         self.saveInformation(newData)
         return newData

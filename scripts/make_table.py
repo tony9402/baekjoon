@@ -123,10 +123,10 @@ class Table:
         problemId    = data[1]
         solutionLink = data[2]
         problemInfo  = dict()
-        if force:
-            problemInfo = self.api.requestForce(problemId)
-        else:
-            problemInfo  = self.api.request(problemId)
+        # if force:
+            # problemInfo = self.api.requestForce(problemId)
+        # else:
+        problemInfo  = self.api.request(problemId)
         problemName  = problemInfo.get('problemName')
         problemLevel = problemInfo.get('problemLevel')
 
