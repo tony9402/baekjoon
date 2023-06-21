@@ -48,7 +48,7 @@ def pick():
         f.write(json.dumps(new_data, indent=4, ensure_ascii=False))
         f.close()
 
-    return picked_json
+    return new_data
 
 
 def main():
