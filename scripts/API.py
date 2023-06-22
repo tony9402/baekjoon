@@ -6,6 +6,8 @@ import time
 import datetime
 import pytz
 
+from utils import Communication
+
 # ProblemId     : [str]   문제 번호 
 # ProblemName   : [str]   문제 이름
 # ProblemTier   : [int]   문제 난이도 (SolvedAC)
@@ -21,20 +23,22 @@ def changeLevel(level):
 class SolvedAPI:
     def __init__(self, config):
         assert type(config) == dict
-        self.ssl_context = ssl._create_unverified_context()
+        # self.database = Communication.get_database()
+        # self.ssl_context = ssl._create_unverified_context()
         self.config = config
         self.database = dict()
-        self.changeLevelLog = list()
+        # self.changeLevelLog = list()
 
         # Load Database
         self.__load_database()
-        self.__all_update()
+        # self.__all_update()
 
         # For saving Database
-        atexit.register(self.__save_database)
-        atexit.register(self.__save_change_log)
+        # atexit.register(self.__save_database)
+        # atexit.register(self.__save_change_log)
 
     def __all_update(self):
+        return None
         problemList = list()
         problemIds  = list(self.database.keys())
         L = 0
@@ -106,6 +110,7 @@ class SolvedAPI:
 
     # using SolvedAPI
     def __request(self, problemId):
+        return None
         URL      = f"{self.config['targeturl']}/{self.config['route']['problemid']}{problemId}"
         req      = request.Request(URL, headers={'User-Agent': 'Mozilla/5.0'})
         response = request.urlopen(req, context=self.ssl_context)
@@ -148,10 +153,11 @@ class SolvedAPI:
             assert type(lastupdate) == float, "[*** Type Error] lastupdate type is {type(lastupdate)}.\n It must be float"
             
             timestamp = datetime.datetime.now(pytz.timezone('Asia/Seoul')).timestamp()
-            if lastupdate + self.config.get('update') > timestamp:
-                return information
+            return information
+            # if lastupdate + self.config.get('update') > timestamp:
+                # return information
 
-        # update
+        # update (if not exist)
         newData = self.__request(problemId)
         self.saveInformation(newData)
         return newData
