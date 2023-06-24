@@ -1,10 +1,10 @@
-## 2023/06/24 
+## 2023/06/25 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [9613](https://www.acmicpc.net/problem/9613) | [GCD 합](https://www.acmicpc.net/problem/9613) |
-| [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
-| [1043](https://www.acmicpc.net/problem/1043) | [거짓말](https://www.acmicpc.net/problem/1043) |
-| [5875](https://www.acmicpc.net/problem/5875) | [오타](https://www.acmicpc.net/problem/5875) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [17175](https://www.acmicpc.net/problem/17175) | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
+| [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
+| [10844](https://www.acmicpc.net/problem/10844) | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+| [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
+| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
 
