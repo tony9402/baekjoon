@@ -1,10 +1,10 @@
-## 2023/06/29 
+## 2023/06/30 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [15886](https://www.acmicpc.net/problem/15886) | [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886) |
-| [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
-| [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
-| [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [17212](https://www.acmicpc.net/problem/17212) | [달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212) |
+| [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
+| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) |
+| [1561](https://www.acmicpc.net/problem/1561) | [놀이 공원](https://www.acmicpc.net/problem/1561) |
+| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
 
