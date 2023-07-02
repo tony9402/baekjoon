@@ -1,10 +1,10 @@
-## 2023/07/02 
+## 2023/07/03 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [15654](https://www.acmicpc.net/problem/15654) | [N과 M (5)](https://www.acmicpc.net/problem/15654) |
-| [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
-| [1446](https://www.acmicpc.net/problem/1446) | [지름길](https://www.acmicpc.net/problem/1446) |
-| [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [15779](https://www.acmicpc.net/problem/15779) | [Zigzag](https://www.acmicpc.net/problem/15779) |
+| [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
+| [1987](https://www.acmicpc.net/problem/1987) | [알파벳](https://www.acmicpc.net/problem/1987) |
+| [2812](https://www.acmicpc.net/problem/2812) | [크게 만들기](https://www.acmicpc.net/problem/2812) |
+| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
 
