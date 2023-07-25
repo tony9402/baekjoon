@@ -1,10 +1,10 @@
-## 2023/07/25 
+## 2023/07/26 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
-| [2294](https://www.acmicpc.net/problem/2294) | [동전 2](https://www.acmicpc.net/problem/2294) |
-| [16139](https://www.acmicpc.net/problem/16139) | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) |
-| [13418](https://www.acmicpc.net/problem/13418) | [학교 탐방하기](https://www.acmicpc.net/problem/13418) |
-| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
+| [2309](https://www.acmicpc.net/problem/2309) | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
+| [17070](https://www.acmicpc.net/problem/17070) | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
+| [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
+| [22946](https://www.acmicpc.net/problem/22946) | [원 이동하기 1](https://www.acmicpc.net/problem/22946) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
 
