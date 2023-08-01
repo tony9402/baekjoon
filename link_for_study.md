@@ -2,8 +2,6 @@
 
 ### 1. [VSFe](https://github.com/VSFe)
 
-#### 정보
-
 <table>
     <td align="center">Github</td>
     <td align="center">Solved</td>
@@ -100,7 +98,26 @@
 <br><br>
 <hr>
 
-### 6. 이승용 (알고리즘 국가대표 출신)
+### 6. [코드트리](https://www.codetree.ai) (알고리즘 국가대표 출신이 창업한 회사)
+
+<table>
+    <td align="center">대표</td>
+    <td align="center">코드트리 로고</td>
+    <tr>
+        <td height="140px"><a href="https://www.codetree.ai/landing"><img height=140px src="https://contents.codetree.ai/homepage/images/landing_page/teachers/img_1.png"/></a></td>
+        <td height="140px"><a href="https://www.codetree.ai/landing"><img height=140px src="https://github.com/tony9402/baekjoon/assets/30228292/cccdebad-21f4-46f4-a11e-7124401a1440"/></a></td>
+    </tr>
+</table>
  
 #### 공부자료
- - [코드트리](https://www.codetree.ai/) [무료 + 유료(강의)]
+* 코드트리
+    * [Novice Low (기초 프로그래밍)](https://www.codetree.ai/curriculums/4) [무료]
+    * [Novice High (자료구조 & 알고리즘)](https://www.codetree.ai/curriculums/6) [유료]
+    * [Intermediate High (알고리즘 실전)](https://www.codetree.ai/curriculums/9) [유료]
+    * [학생인증](https://www.codetree.ai/stores): 학교 이메일 인증시 90% 할인
+
+#### 기타
+* 코드트리
+* [실력진단](https://www.codetree.ai/landing/warm-up/0) [무료]
+    * [훈련장 & 릴레이 (문제은행)](https://www.codetree.ai/training-field/home) [무료]
+    * [코테의 정석 (기업별 커리큘럼)](https://www.codetree.ai/cote) [유료]
