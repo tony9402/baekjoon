@@ -1,10 +1,10 @@
-## 2023/08/01 
+## 2023/08/02 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [4836](https://www.acmicpc.net/problem/4836) | [춤](https://www.acmicpc.net/problem/4836) |
-| [17396](https://www.acmicpc.net/problem/17396) | [백도어](https://www.acmicpc.net/problem/17396) |
-| [13910](https://www.acmicpc.net/problem/13910) | [개업](https://www.acmicpc.net/problem/13910) |
-| [2307](https://www.acmicpc.net/problem/2307) | [도로검문](https://www.acmicpc.net/problem/2307) |
-| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
+| [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
+| [19699](https://www.acmicpc.net/problem/19699) | [소-난다!](https://www.acmicpc.net/problem/19699) |
+| [2194](https://www.acmicpc.net/problem/2194) | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) |
+| [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
 
