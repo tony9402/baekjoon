@@ -1,10 +1,10 @@
-## 2023/08/11 
+## 2023/08/12 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [17484](https://www.acmicpc.net/problem/17484) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) |
-| [8983](https://www.acmicpc.net/problem/8983) | [사냥꾼](https://www.acmicpc.net/problem/8983) |
-| [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
-| [2026](https://www.acmicpc.net/problem/2026) | [소풍](https://www.acmicpc.net/problem/2026) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [1181](https://www.acmicpc.net/problem/1181) | [단어 정렬](https://www.acmicpc.net/problem/1181) |
+| [11725](https://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |
+| [20955](https://www.acmicpc.net/problem/20955) | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) |
+| [2638](https://www.acmicpc.net/problem/2638) | [치즈](https://www.acmicpc.net/problem/2638) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
 
