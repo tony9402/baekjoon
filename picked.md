@@ -1,10 +1,10 @@
-## 2023/08/12 
+## 2023/08/13 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [1181](https://www.acmicpc.net/problem/1181) | [단어 정렬](https://www.acmicpc.net/problem/1181) |
-| [11725](https://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |
-| [20955](https://www.acmicpc.net/problem/20955) | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) |
-| [2638](https://www.acmicpc.net/problem/2638) | [치즈](https://www.acmicpc.net/problem/2638) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [2435](https://www.acmicpc.net/problem/2435) | [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) |
+| [2194](https://www.acmicpc.net/problem/2194) | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) |
+| [14940](https://www.acmicpc.net/problem/14940) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) |
+| [16985](https://www.acmicpc.net/problem/16985) | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) |
+| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
 
