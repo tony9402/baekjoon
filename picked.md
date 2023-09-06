@@ -1,10 +1,10 @@
-## 2023/09/06 
+## 2023/09/07 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [9242](https://www.acmicpc.net/problem/9242) | [폭탄 해체](https://www.acmicpc.net/problem/9242) |
-| [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
-| [14226](https://www.acmicpc.net/problem/14226) | [이모티콘](https://www.acmicpc.net/problem/14226) |
-| [16724](https://www.acmicpc.net/problem/16724) | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [1463](https://www.acmicpc.net/problem/1463) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
+| [5557](https://www.acmicpc.net/problem/5557) | [1학년](https://www.acmicpc.net/problem/5557) |
+| [22862](https://www.acmicpc.net/problem/22862) | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
+| [8980](https://www.acmicpc.net/problem/8980) | [택배](https://www.acmicpc.net/problem/8980) |
+| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
 
