@@ -1,10 +1,10 @@
-## 2023/10/12 
+## 2023/10/13 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [20291](https://www.acmicpc.net/problem/20291) | [파일 정리](https://www.acmicpc.net/problem/20291) |
-| [17179](https://www.acmicpc.net/problem/17179) | [케이크 자르기](https://www.acmicpc.net/problem/17179) |
-| [17128](https://www.acmicpc.net/problem/17128) | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) |
-| [2058](https://www.acmicpc.net/problem/2058) | [원자의 에너지](https://www.acmicpc.net/problem/2058) |
-| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
+| [1758](https://www.acmicpc.net/problem/1758) | [알바생 강호](https://www.acmicpc.net/problem/1758) |
+| [21317](https://www.acmicpc.net/problem/21317) | [징검다리 건너기](https://www.acmicpc.net/problem/21317) |
+| [3067](https://www.acmicpc.net/problem/3067) | [Coins](https://www.acmicpc.net/problem/3067) |
+| [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
 
