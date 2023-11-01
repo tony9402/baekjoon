@@ -1,10 +1,10 @@
-## 2023/11/01 
+## 2023/11/02 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [7568](https://www.acmicpc.net/problem/7568) | [덩치](https://www.acmicpc.net/problem/7568) |
-| [15658](https://www.acmicpc.net/problem/15658) | [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658) |
-| [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
-| [1561](https://www.acmicpc.net/problem/1561) | [놀이 공원](https://www.acmicpc.net/problem/1561) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [1010](https://www.acmicpc.net/problem/1010) | [다리 놓기](https://www.acmicpc.net/problem/1010) |
+| [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
+| [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
+| [2406](https://www.acmicpc.net/problem/2406) | [안정적인 네트워크](https://www.acmicpc.net/problem/2406) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
 
