@@ -1,10 +1,10 @@
-## 2023/11/05 
+## 2023/11/06 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
-| [1699](https://www.acmicpc.net/problem/1699) | [제곱수의 합](https://www.acmicpc.net/problem/1699) |
-| [22869](https://www.acmicpc.net/problem/22869) | [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) |
-| [20182](https://www.acmicpc.net/problem/20182) | [골목 대장 호석 - 효율성 1](https://www.acmicpc.net/problem/20182) |
+| [14425](https://www.acmicpc.net/problem/14425) | [문자열 집합](https://www.acmicpc.net/problem/14425) |
+| [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |
+| [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
+| [1445](https://www.acmicpc.net/problem/1445) | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) |
 | [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
 
