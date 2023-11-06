@@ -1,10 +1,10 @@
-## 2023/11/06 
+## 2023/11/07 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [14425](https://www.acmicpc.net/problem/14425) | [문자열 집합](https://www.acmicpc.net/problem/14425) |
-| [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |
-| [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
-| [1445](https://www.acmicpc.net/problem/1445) | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) |
-| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
+| [5883](https://www.acmicpc.net/problem/5883) | [아이폰 9S](https://www.acmicpc.net/problem/5883) |
+| [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
+| [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
+| [1368](https://www.acmicpc.net/problem/1368) | [물대기](https://www.acmicpc.net/problem/1368) |
+| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
 
