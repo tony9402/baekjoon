@@ -1,10 +1,10 @@
-## 2023/12/04 
+## 2023/12/05 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
-| [22871](https://www.acmicpc.net/problem/22871) | [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) |
-| [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
-| [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [14405](https://www.acmicpc.net/problem/14405) | [피카츄](https://www.acmicpc.net/problem/14405) |
+| [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
+| [16988](https://www.acmicpc.net/problem/16988) | [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
 
