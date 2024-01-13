@@ -1,10 +1,10 @@
-## 2024/01/13 
+## 2024/01/14 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [4949](https://www.acmicpc.net/problem/4949) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) |
-| [20665](https://www.acmicpc.net/problem/20665) | [독서실 거리두기](https://www.acmicpc.net/problem/20665) |
-| [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
-| [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
-| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
+| [11653](https://www.acmicpc.net/problem/11653) | [소인수분해](https://www.acmicpc.net/problem/11653) |
+| [13975](https://www.acmicpc.net/problem/13975) | [파일 합치기 3](https://www.acmicpc.net/problem/13975) |
+| [9251](https://www.acmicpc.net/problem/9251) | [LCS](https://www.acmicpc.net/problem/9251) |
+| [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
+| [5446](https://www.acmicpc.net/problem/5446) | [용량 부족](https://www.acmicpc.net/problem/5446) |
 
