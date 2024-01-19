@@ -1,10 +1,10 @@
-## 2024/01/19 
+## 2024/01/20 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [11656](https://www.acmicpc.net/problem/11656) | [접미사 배열](https://www.acmicpc.net/problem/11656) |
-| [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
-| [1043](https://www.acmicpc.net/problem/1043) | [거짓말](https://www.acmicpc.net/problem/1043) |
-| [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
-| [5446](https://www.acmicpc.net/problem/5446) | [용량 부족](https://www.acmicpc.net/problem/5446) |
+| [5766](https://www.acmicpc.net/problem/5766) | [할아버지는 유명해!](https://www.acmicpc.net/problem/5766) |
+| [14940](https://www.acmicpc.net/problem/14940) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) |
+| [19598](https://www.acmicpc.net/problem/19598) | [최소 회의실 개수](https://www.acmicpc.net/problem/19598) |
+| [14725](https://www.acmicpc.net/problem/14725) | [개미굴](https://www.acmicpc.net/problem/14725) |
+| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
 
