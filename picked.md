@@ -1,10 +1,10 @@
-## 2024/01/23 
+## 2024/01/24 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
-| [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
-| [1012](https://www.acmicpc.net/problem/1012) | [유기농 배추](https://www.acmicpc.net/problem/1012) |
-| [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
+| [3029](https://www.acmicpc.net/problem/3029) | [경고](https://www.acmicpc.net/problem/3029) |
+| [16434](https://www.acmicpc.net/problem/16434) | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) |
+| [5904](https://www.acmicpc.net/problem/5904) | [Moo 게임](https://www.acmicpc.net/problem/5904) |
+| [4386](https://www.acmicpc.net/problem/4386) | [별자리 만들기](https://www.acmicpc.net/problem/4386) |
 | [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
 
