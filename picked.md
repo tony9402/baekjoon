@@ -1,10 +1,10 @@
-## 2024/02/27 
+## 2024/02/28 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [9012](https://www.acmicpc.net/problem/9012) | [괄호](https://www.acmicpc.net/problem/9012) |
-| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
-| [10844](https://www.acmicpc.net/problem/10844) | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
-| [14621](https://www.acmicpc.net/problem/14621) | [나만 안되는 연애](https://www.acmicpc.net/problem/14621) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [10211](https://www.acmicpc.net/problem/10211) | [Maximum Subarray](https://www.acmicpc.net/problem/10211) |
+| [2178](https://www.acmicpc.net/problem/2178) | [미로 탐색](https://www.acmicpc.net/problem/2178) |
+| [2156](https://www.acmicpc.net/problem/2156) | [포도주 시식](https://www.acmicpc.net/problem/2156) |
+| [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
+| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
 
