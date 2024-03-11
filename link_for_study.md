@@ -121,3 +121,38 @@
 * [실력진단](https://www.codetree.ai/landing/warm-up/0) [무료]
     * [훈련장 & 릴레이 (문제은행)](https://www.codetree.ai/training-field/home) [무료]
     * [코테의 정석 (기업별 커리큘럼)](https://www.codetree.ai/cote) [유료]
+
+
+### 7. [jinhan814](https://github.com/jinhan814)
+
+<table>
+    <td align="center">Github</td>
+    <td align="center">Solved</td>
+    <tr>
+        <td height="140px"> <a href="https://github.com/jinhan814"><img src="https://avatars.githubusercontent.com/u/77492810?v=4" width="140px" /></a> </td>
+        <td height="140px"> <a href="https://solved.ac/jinhan814"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhan814" /></a> </td>
+    </tr>
+</table>
+ 
+#### 공부자료
+* 알고리즘 가이드 (알고리즘 대회 준비까지)
+    * [Beginner](https://blog.naver.com/jinhan814/222439906974) [무료]
+    * [Intermediate](https://blog.naver.com/jinhan814/222439928629) [무료]
+    * Advanced (업데이트 예정)
+    * Expert (업데이트 예정)
+
+
+### 8. [kks227](https://github.com/kks227)
+
+<table>
+    <td align="center">Github</td>
+    <td align="center">Solved</td>
+    <tr>
+        <td height="140px"> <a href="https://github.com/kks227"><img src="https://avatars.githubusercontent.com/u/7964142?v=4" width="140px" /></a> </td>
+        <td height="140px"> <a href="https://solved.ac/kks227"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kks227" /></a> </td>
+    </tr>
+</table>
+ 
+#### 공부자료
+* [대회알고리즘 (Blog)](https://blog.naver.com/kks227/220769859177) [무료]
+* [Github](https://github.com/kks227/BOJ) [무료]
