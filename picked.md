@@ -1,10 +1,10 @@
-## 2024/03/14 
+## 2024/03/15 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
-| [17073](https://www.acmicpc.net/problem/17073) | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) |
-| [1495](https://www.acmicpc.net/problem/1495) | [기타리스트](https://www.acmicpc.net/problem/1495) |
-| [14442](https://www.acmicpc.net/problem/14442) | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [1059](https://www.acmicpc.net/problem/1059) | [좋은 구간](https://www.acmicpc.net/problem/1059) |
+| [16472](https://www.acmicpc.net/problem/16472) | [고냥이](https://www.acmicpc.net/problem/16472) |
+| [14675](https://www.acmicpc.net/problem/14675) | [단절점과 단절선](https://www.acmicpc.net/problem/14675) |
+| [7579](https://www.acmicpc.net/problem/7579) | [앱](https://www.acmicpc.net/problem/7579) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
 
