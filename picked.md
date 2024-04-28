@@ -1,10 +1,10 @@
-## 2024/04/28 
+## 2024/04/29 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [2559](https://www.acmicpc.net/problem/2559) | [수열](https://www.acmicpc.net/problem/2559) |
-| [1747](https://www.acmicpc.net/problem/1747) | [소수&팰린드롬](https://www.acmicpc.net/problem/1747) |
-| [16202](https://www.acmicpc.net/problem/16202) | [MST 게임](https://www.acmicpc.net/problem/16202) |
-| [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [1010](https://www.acmicpc.net/problem/1010) | [다리 놓기](https://www.acmicpc.net/problem/1010) |
+| [2876](https://www.acmicpc.net/problem/2876) | [그래픽스 퀴즈](https://www.acmicpc.net/problem/2876) |
+| [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
+| [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
 
