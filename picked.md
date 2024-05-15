@@ -1,10 +1,10 @@
-## 2024/05/15 
+## 2024/05/16 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
-| [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
-| [4097](https://www.acmicpc.net/problem/4097) | [수익](https://www.acmicpc.net/problem/4097) |
-| [4386](https://www.acmicpc.net/problem/4386) | [별자리 만들기](https://www.acmicpc.net/problem/4386) |
-| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
+| [14912](https://www.acmicpc.net/problem/14912) | [숫자 빈도수](https://www.acmicpc.net/problem/14912) |
+| [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| [10282](https://www.acmicpc.net/problem/10282) | [해킹](https://www.acmicpc.net/problem/10282) |
+| [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
 
