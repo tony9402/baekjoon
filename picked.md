@@ -1,10 +1,10 @@
-## 2024/05/17 
+## 2024/05/18 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
-| [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
-| [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
-| [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [20115](https://www.acmicpc.net/problem/20115) | [에너지 드링크](https://www.acmicpc.net/problem/20115) |
+| [5430](https://www.acmicpc.net/problem/5430) | [AC](https://www.acmicpc.net/problem/5430) |
+| [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| [21942](https://www.acmicpc.net/problem/21942) | [부품 대여장](https://www.acmicpc.net/problem/21942) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
 
