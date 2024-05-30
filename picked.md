@@ -1,10 +1,10 @@
-## 2024/05/30 
+## 2024/05/31 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [2428](https://www.acmicpc.net/problem/2428) | [표절](https://www.acmicpc.net/problem/2428) |
-| [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
-| [15990](https://www.acmicpc.net/problem/15990) | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
-| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
+| [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| [1254](https://www.acmicpc.net/problem/1254) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1254) |
+| [6118](https://www.acmicpc.net/problem/6118) | [숨바꼭질](https://www.acmicpc.net/problem/6118) |
+| [20181](https://www.acmicpc.net/problem/20181) | [꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |
+| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
 
