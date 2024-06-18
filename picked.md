@@ -1,10 +1,10 @@
-## 2024/06/18 
+## 2024/06/19 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
-| [14284](https://www.acmicpc.net/problem/14284) | [간선 이어가기 2](https://www.acmicpc.net/problem/14284) |
-| [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
-| [21944](https://www.acmicpc.net/problem/21944) | [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) |
-| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
+| [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
+| [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
+| [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
+| [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
 
