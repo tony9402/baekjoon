@@ -1,10 +1,10 @@
-## 2024/06/19 
+## 2024/06/20 
 
 | 번호 | 문제 이름 |
 |:----:|:---------:|
-| [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
-| [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
-| [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
-| [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [15656](https://www.acmicpc.net/problem/15656) | [N과 M (7)](https://www.acmicpc.net/problem/15656) |
+| [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
+| [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
 
