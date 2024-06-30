@@ -2,6 +2,8 @@ import random
 from datetime import datetime, timezone, UTC, timedelta
 from typing import Union, Tuple
 
+import requests
+
 
 def get_problem_url(problem_id: Union[int, str]) -> str:
     return f"https://www.acmicpc.net/problem/{problem_id}"
