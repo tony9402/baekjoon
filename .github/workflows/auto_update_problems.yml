@@ -1,0 +1,38 @@
+name: Auto Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: main
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+          python-version: '3.12'
+    - name: Run image
+      uses: abatilo/actions-poetry@v2
+      with:
+          poetry-version: '1.8.3'
+    - name: Run Scripts
+      run: |
+        poetry install -C baekjoon_utils
+        source baekjoon_utils/.venv/bin/activate
+        python baekjoon_utils/baekjoon_utils/main.py --update
+    - name: Commits
+      run: |
+        git config --local user.email "tony9402@naver.com"
+        git config --local user.name "tony9402"
+        git add .
+        git commit -m "Auto UPDATE (ALL)"
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+         branch: 'main'
+         github_token: $
