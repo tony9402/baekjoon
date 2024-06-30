@@ -2,6 +2,8 @@ import random
 from datetime import datetime, timezone, UTC, timedelta
 from typing import Union, Tuple
 
+import requests
+
 
 def get_problem_url(problem_id: Union[int, str]) -> str:
     return f"https://www.acmicpc.net/problem/{problem_id}"
@@ -28,7 +30,15 @@ def level_to_str(level: int) -> str:
 
 
 def get_api_result(url, headers):
-    return requests.get(url, headers=headers).json()
+    retry_count = 5
+    for retry in range(retry_count):
+        try:
+            res = requests.get(url, headers=headers).json()
+            return res
+        except Exception as e:
+            if retry + 1 == retry_count:
+                continue
+            raise Exception
 
 
 def get_today_date():
