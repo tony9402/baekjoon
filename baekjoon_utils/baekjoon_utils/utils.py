@@ -1,3 +1,4 @@
+from time import sleep
 import random
 from datetime import datetime, timezone, UTC, timedelta
 from typing import Union, Tuple
@@ -36,7 +37,8 @@ def get_api_result(url, headers):
             res = requests.get(url, headers=headers).json()
             return res
         except Exception as e:
-            if retry + 1 == retry_count:
+            if retry + 1 != retry_count:
+                sleep(2)
                 continue
             raise Exception
 
