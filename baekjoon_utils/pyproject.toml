@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "baekjoon-utils"
+version = "0.1.0"
+description = ""
+authors = ["tony9402 <tony9402@naver.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.7.4"
+tqdm = "^4.66.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
