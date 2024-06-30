@@ -5,6 +5,7 @@ from glob import glob
 from baekjoon_utils.daily.pick import TodayProblemPicker
 from baekjoon_utils.docs.problem import ProblemByTag
 from baekjoon_utils.core.solved_api import SolvedAPI
+from baekjoon_utils.utils import get_today_date_kst_str
 
 
 def get_option():
@@ -46,6 +47,10 @@ def main():
             with open(os.path.join(tag_path, "README.md"), "w") as f:
                 f.write(header + "\n\n")
                 f.write(p.make_table())
+                f.close()
+
+            with open("update_log.md", "w") as f:
+                f.write(get_today_date_kst_str())
                 f.close()
 
     if option & 1:
