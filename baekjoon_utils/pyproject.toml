@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 pydantic = "^2.7.4"
 tqdm = "^4.66.4"
+requests = "^2.32.3"
 
 
 [build-system]

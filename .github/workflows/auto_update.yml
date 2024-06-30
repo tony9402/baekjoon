@@ -2,7 +2,7 @@ name: Auto Update README
 
 on:
   schedule:
-    - cron: '30 17 * * *'
+    - cron: '45 16 * * *'
 
 jobs:
   build:
@@ -22,7 +22,7 @@ jobs:
     - name: Run Scripts
       run: |
         poetry install -C baekjoon_utils
-        poetry shell -C baekjoon_utils
+        source baekjoon_utils/.venv/bin/activate
         python baekjoon_utils/baekjoon_utils/main.py --update --pick
     - name: Commits
       run: |

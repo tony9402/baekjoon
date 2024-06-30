@@ -1,9 +1,6 @@
-import ssl
-import json
 import random
 from datetime import datetime, timezone, UTC, timedelta
 from typing import Union, Tuple
-from urllib import request
 
 
 def get_problem_url(problem_id: Union[int, str]) -> str:
@@ -31,12 +28,7 @@ def level_to_str(level: int) -> str:
 
 
 def get_api_result(url, headers):
-    ssl_context = ssl._create_unverified_context()
-
-    req = request.Request(url=url, headers=headers)
-    response = request.urlopen(req, context=ssl_context)
-
-    return json.loads(response.read().decode("utf-8"))
+    return requests.get(url, headers=headers).json()
 
 
 def get_today_date():
