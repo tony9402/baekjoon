@@ -50,7 +50,9 @@ def main():
                 f.close()
 
             with open("update_log.md", "w") as f:
-                f.write(get_today_date_kst_str())
+                import time
+                time.tzset()
+                f.write(time.strftime('%X %x %Z'))
                 f.close()
 
     if option & 1:
@@ -71,6 +73,9 @@ def main():
             f.write(table)
             f.close()
 
+        picker.save()
+
 
 if __name__ == "__main__":
+    os.environ["TZ"] = "KST"
     main()

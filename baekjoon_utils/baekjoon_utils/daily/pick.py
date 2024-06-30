@@ -22,6 +22,11 @@ class TodayProblemPicker:
 
         self.database = Database()
 
+    def save(self, path: str = "./scripts/picked.json"):
+        with open(path, 'w') as f:
+            json.dump(self.data, f, indent=4, ensure_ascii=False)
+            f.close()
+
     def pick_today_problem(self, date: Tuple[int, int, int] = get_today_date()) -> List[ProblemType]:
         seed = get_today_random_seed(date)
         random.seed(seed)
@@ -57,6 +62,13 @@ class TodayProblemPicker:
                 picked_problem.add(problem_id)
                 result.append(self.database[str(problem_id)])
                 chose += 1
+
+        y, m, d = date
+        picked_date = f"{y:04d}/{m:02d}/{d:02d}"
+        new_data = {}
+        new_data[picked_date] = [str(x.problemId) for x in result]
+        new_data.update(self.data)
+        self.data = new_data
 
         return result
 
