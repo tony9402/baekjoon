@@ -1,9 +1,9 @@
-## 2024/07/01
+## 2024/07/02
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
-| [22857](https://www.acmicpc.net/problem/22857) | [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857) |
-| [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
-| [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
+| [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| [20002](https://www.acmicpc.net/problem/20002) | [사과나무](https://www.acmicpc.net/problem/20002) |
+| [20667](https://www.acmicpc.net/problem/20667) | [크롬](https://www.acmicpc.net/problem/20667) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
