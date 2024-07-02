@@ -1,5 +1,9 @@
 # 알고리즘 설명 링크 모음
 
+
+여기있는 자료 이외에도 좋은 자료들이 있다면 Discussions이나 Issue에 공유해주시면 확인 후 업데이트 하겠습니다.
+
+
 ### 1. [VSFe](https://github.com/VSFe)
 
 <table>

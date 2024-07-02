@@ -4,6 +4,7 @@ from glob import glob
 
 from baekjoon_utils.daily.pick import TodayProblemPicker
 from baekjoon_utils.docs.problem import ProblemByTag
+from baekjoon_utils.docs.contributor import make_table as contributor_make_table
 from baekjoon_utils.core.solved_api import SolvedAPI
 from baekjoon_utils.utils import get_today_date_kst_str
 
@@ -35,6 +36,15 @@ def main():
 
     api = SolvedAPI()
     if option & 2:
+        # Update Contributors
+        contributors = contributor_make_table()
+
+        with open("markdown/contributors.md", "w") as f:
+            f.write("## Contributors\n\n")
+            f.write(contributors + "\n\n")
+            f.close()
+
+        # Update Problems
         api.update_all()
         tags = glob("algorithms/*")
         for tag_path in tags:
@@ -75,6 +85,23 @@ def main():
 
         picker.save()
 
+    # Update README
+    base_folder = "markdown"
+    md_seq = ["header.md", "codingtest_info.md", "workbook_header.md", "workbook.md", "workbook_footer.md", "contributors.md", "updatelog.md", "TODO.md", "footer.md"]
+
+    assemble_text = ""
+    for md_path in md_seq:
+        path = os.path.join(base_folder, md_path)
+        if not os.path.exists(path):
+            continue
+
+        with open(path, 'r') as f:
+            assemble_text = f"{assemble_text}{f.read()}"
+            f.close()
+
+    with open("test.md", "w") as f:
+        f.write(assemble_text)
+        f.close()
 
 if __name__ == "__main__":
     os.environ["TZ"] = "Asia/Seoul"
