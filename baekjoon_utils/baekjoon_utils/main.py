@@ -99,7 +99,7 @@ def main():
             assemble_text = f"{assemble_text}{f.read()}"
             f.close()
 
-    with open("test.md", "w") as f:
+    with open("README.md", "w") as f:
         f.write(assemble_text)
         f.close()
 
