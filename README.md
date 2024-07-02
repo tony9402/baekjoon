@@ -1,8 +1,13 @@
 # 코딩테스트 대비 문제집 with Baekjoon
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
+
+<!--
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_solution_update.yml)  
+-->
+<!--
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml)  
+-->
 
 [![하루 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402%2Fbaekjoon)](https://github.com/tony9402/baekjoon)
 [![Discussions](https://img.shields.io/badge/discussions-바로가기-brightgreen)](https://github.com/tony9402/baekjoon/discussions)
@@ -60,33 +65,30 @@ https://algorithm.tony9402.com/
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
-| 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 | ![status][Doing] |
-| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 | ![status][Doing] |
-| 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |
-| 03 | Math | 수학 | [바로가기](./math) | 18 | 29 | ![status][Doing] |
-| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 | ![status][Doing] |
-| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 | ![status][Doing] |
-| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 | ![status][Doing] |
-| 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 13 | 36 | ![status][Doing] |
-| 08 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 | ![status][Doing] |
-| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 | ![status][Doing] |
-| 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 | ![status][Doing] |
-| 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 | ![status][Doing] |
-| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 20 | 66 | ![status][Doing] |
-| 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 | ![status][Doing] |
-| 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |
-| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | ![status][Doing] |
-| 16 | String | 문자열 | [바로가기](./string) | 19 | 63 | ![status][Doing] |
-| 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 | ![status][Doing] |
-| 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 | ![status][Doing] |
-| 19 | Disjoint Set | 분리 집합 | [바로가기](./disjoint_set) | 06 | 20 | ![status][Doing] |
-| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 08 | 24 | ![status][Doing] |
-| 21 | Trie | 트라이 | [바로가기](./trie) | 05 | 09 | ![status][Doing] |
-| 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 04 | 08 | ![status][Doing] |
- 
- 
+| 00 | Data Structure | 자료구조 | [바로가기](./algorithms/data_structure) | 16 | 25 | ![status][Doing] |
+| 01 | Data Structure 2 | 자료구조 2 | [바로가기](./algorithms/data_structure2) | 11 | 21 | ![status][Doing] |
+| 02 | Tree | 트리 | [바로가기](./algorithms/tree) | 15 | 44 | ![status][Doing] |
+| 03 | Math | 수학 | [바로가기](./algorithms/math) | 18 | 29 | ![status][Doing] |
+| 04 | Greedy | 탐욕법 | [바로가기](./algorithms/greedy) | 27 | 62 | ![status][Doing] |
+| 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./algorithms/dynamic_programming_1) | 27 | 80 | ![status][Doing] |
+| 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./algorithms/dynamic_programming_2) | 28 | 81 | ![status][Doing] |
+| 07 | Two Pointer | 투 포인터 | [바로가기](./algorithms/two_pointer) | 13 | 36 | ![status][Doing] |
+| 08 | Implementation | 구현 | [바로가기](./algorithms/implementation) | 30 | 51 | ![status][Doing] |
+| 09 | Graph Traversal | 그래프 탐색 | [바로가기](./algorithms/graph_traversal) | 31 | 96 | ![status][Doing] |
+| 10 | Brute Force | 완전탐색 | [바로가기](./algorithms/brute_force) | 33 | 94 | ![status][Doing] |
+| 11 | Simulation | 시뮬레이션 | [바로가기](./algorithms/simulation) | 30 | 48 | ![status][Doing] |
+| 12 | Binary Search | 이분탐색 | [바로가기](./algorithms/binary_search) | 20 | 66 | ![status][Doing] |
+| 13 | Backtracking | 백트래킹 | [바로가기](./algorithms/backtracking) | 28 | 75 | ![status][Doing] |
+| 14 | Divide and conquer | 분할정복 | [바로가기](./algorithms/divide_and_conquer) | 08 | 18 | ![status][Doing] |
+| 15 | Prefix Sum | 누적 합 | [바로가기](./algorithms/prefix_sum) | 11 | 32 | ![status][Doing] |
+| 16 | String | 문자열 | [바로가기](./algorithms/string) | 19 | 63 | ![status][Doing] |
+| 17 | Shortest Path | 최단거리 | [바로가기](./algorithms/shortest_path) | 18 | 53 | ![status][Doing] |
+| 18 | Topological Sorting | 위상정렬 | [바로가기](./algorithms/topological_sorting) | 05 | 14 | ![status][Doing] |
+| 19 | Disjoint Set | 분리 집합 | [바로가기](./algorithms/disjoint_set) | 06 | 20 | ![status][Doing] |
+| 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./algorithms/minimum_spanning_tree) | 08 | 24 | ![status][Doing] |
+| 21 | Trie | 트라이 | [바로가기](./algorithms/trie) | 05 | 09 | ![status][Doing] |
+| 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./algorithms/dynamic_programming_on_trees) | 04 | 08 | ![status][Doing] |
 
- 
 [현재 진행정도](./status.md)
 
 <br><br>
@@ -99,7 +101,6 @@ https://algorithm.tony9402.com/
 
 <br><br>
 ## Contributors
-
 
 <table>
     <tr height="140px">
@@ -202,7 +203,7 @@ https://algorithm.tony9402.com/
             <a href="https://solved.ac/profile/dlstj0923">solved.ac</a>
         </td>
         <td align="center">
-            <b>PRIVATE</b>
+            <b>private</b>
         </td>
         <td align="center">
             <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xkzl9830" />
@@ -610,8 +611,99 @@ https://algorithm.tony9402.com/
             <a href="https://solved.ac/profile/gyeong_sun">solved.ac</a>
         </td>
     </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/HyeonJaePark"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/64001045?v=4"/></a>
+            <br />
+            <a href="https://github.com/HyeonJaePark">HyeonJaePark</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/changuii"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/122252160?v=4"/></a>
+            <br />
+            <a href="https://github.com/changuii">changuii</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/bangrr"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/96755285?v=4"/></a>
+            <br />
+            <a href="https://github.com/bangrr">bangrr</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/ingyu1008"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/10982098?v=4"/></a>
+            <br />
+            <a href="https://github.com/ingyu1008">ingyu1008</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/220v-K"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/82885362?v=4"/></a>
+            <br />
+            <a href="https://github.com/220v-K">220v-K</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyeonjaee" />
+            <br />
+            <a href="https://www.acmicpc.net/user/hyeonjaee">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/hyeonjaee">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rhljh201" />
+            <br />
+            <a href="https://www.acmicpc.net/user/rhljh201">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/rhljh201">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qudfbf2" />
+            <br />
+            <a href="https://www.acmicpc.net/user/qudfbf2">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/qudfbf2">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ingyu1008" />
+            <br />
+            <a href="https://www.acmicpc.net/user/ingyu1008">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/ingyu1008">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=220v" />
+            <br />
+            <a href="https://www.acmicpc.net/user/220v">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/220v">solved.ac</a>
+        </td>
+    </tr>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/pill27211"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/120912574?v=4"/></a>
+            <br />
+            <a href="https://github.com/pill27211">pill27211</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/beberiche"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/71657609?v=4"/></a>
+            <br />
+            <a href="https://github.com/beberiche">beberiche</a>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pill27211" />
+            <br />
+            <a href="https://www.acmicpc.net/user/pill27211">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/pill27211">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=beberiche" />
+            <br />
+            <a href="https://www.acmicpc.net/user/beberiche">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/beberiche">solved.ac</a>
+        </td>
+    </tr>
 </table>
-
 
 ## 업데이트 로그
 
