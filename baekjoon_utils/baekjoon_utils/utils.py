@@ -55,10 +55,4 @@ def get_today_date_kst_str():
 
 
 def get_today_random_seed(date: Tuple[int, int, int] = get_today_date()):
-    range_max = [1073741823, 32768, 128]
-
-    seed = 0
-    for a, b in zip(date, range_max):
-        random.seed(a)
-        seed += random.randint(1, b)
-    return seed
+    return int(f"{date[0]}{date[1]}{date[2]}")
