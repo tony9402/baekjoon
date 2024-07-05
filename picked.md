@@ -1,9 +1,9 @@
-## 2024/07/05
+## 2024/07/06
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1244](https://www.acmicpc.net/problem/1244) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
-| [11404](https://www.acmicpc.net/problem/11404) | [플로이드](https://www.acmicpc.net/problem/11404) |
-| [2631](https://www.acmicpc.net/problem/2631) | [줄세우기](https://www.acmicpc.net/problem/2631) |
-| [15823](https://www.acmicpc.net/problem/15823) | [카드 팩 구매하기](https://www.acmicpc.net/problem/15823) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
+| [5014](https://www.acmicpc.net/problem/5014) | [스타트링크](https://www.acmicpc.net/problem/5014) |
+| [19598](https://www.acmicpc.net/problem/19598) | [최소 회의실 개수](https://www.acmicpc.net/problem/19598) |
+| [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
