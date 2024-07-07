@@ -1,9 +1,9 @@
-## 2024/07/07
+## 2024/07/08
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
-| [16719](https://www.acmicpc.net/problem/16719) | [ZOAC](https://www.acmicpc.net/problem/16719) |
-| [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
-| [22946](https://www.acmicpc.net/problem/22946) | [원 이동하기 1](https://www.acmicpc.net/problem/22946) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [18115](https://www.acmicpc.net/problem/18115) | [카드 놓기](https://www.acmicpc.net/problem/18115) |
+| [1965](https://www.acmicpc.net/problem/1965) | [상자넣기](https://www.acmicpc.net/problem/1965) |
+| [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| [11562](https://www.acmicpc.net/problem/11562) | [백양로 브레이크](https://www.acmicpc.net/problem/11562) |
+| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
