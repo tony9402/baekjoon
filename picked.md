@@ -1,9 +1,9 @@
-## 2024/07/13
+## 2024/07/14
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1166](https://www.acmicpc.net/problem/1166) | [선물](https://www.acmicpc.net/problem/1166) |
-| [21939](https://www.acmicpc.net/problem/21939) | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) |
-| [18769](https://www.acmicpc.net/problem/18769) | [그리드 네트워크](https://www.acmicpc.net/problem/18769) |
-| [20440](https://www.acmicpc.net/problem/20440) | [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [19939](https://www.acmicpc.net/problem/19939) | [박 터뜨리기](https://www.acmicpc.net/problem/19939) |
+| [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| [21923](https://www.acmicpc.net/problem/21923) | [곡예 비행](https://www.acmicpc.net/problem/21923) |
+| [16437](https://www.acmicpc.net/problem/16437) | [양 구출 작전](https://www.acmicpc.net/problem/16437) |
+| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
