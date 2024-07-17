@@ -1,9 +1,9 @@
-## 2024/07/17
+## 2024/07/18
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10211](https://www.acmicpc.net/problem/10211) | [Maximum Subarray](https://www.acmicpc.net/problem/10211) |
-| [1548](https://www.acmicpc.net/problem/1548) | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) |
-| [1325](https://www.acmicpc.net/problem/1325) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) |
-| [21276](https://www.acmicpc.net/problem/21276) | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [9095](https://www.acmicpc.net/problem/9095) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |
+| [18404](https://www.acmicpc.net/problem/18404) | [현명한 나이트](https://www.acmicpc.net/problem/18404) |
+| [11568](https://www.acmicpc.net/problem/11568) | [민균이의 계략](https://www.acmicpc.net/problem/11568) |
+| [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
