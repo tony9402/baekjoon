@@ -1,9 +1,9 @@
-## 2024/07/19
+## 2024/07/20
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [20116](https://www.acmicpc.net/problem/20116) | [상자의 균형](https://www.acmicpc.net/problem/20116) |
-| [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
-| [14712](https://www.acmicpc.net/problem/14712) | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) |
-| [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
-| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
+| [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
+| [2866](https://www.acmicpc.net/problem/2866) | [문자열 잘라내기](https://www.acmicpc.net/problem/2866) |
+| [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
