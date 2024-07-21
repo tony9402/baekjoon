@@ -1,9 +1,9 @@
-## 2024/07/21
+## 2024/07/22
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11502](https://www.acmicpc.net/problem/11502) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) |
-| [17140](https://www.acmicpc.net/problem/17140) | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |
-| [1446](https://www.acmicpc.net/problem/1446) | [지름길](https://www.acmicpc.net/problem/1446) |
-| [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
-| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
+| [5618](https://www.acmicpc.net/problem/5618) | [공약수](https://www.acmicpc.net/problem/5618) |
+| [1647](https://www.acmicpc.net/problem/1647) | [도시 분할 계획](https://www.acmicpc.net/problem/1647) |
+| [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| [20061](https://www.acmicpc.net/problem/20061) | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) |
+| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
