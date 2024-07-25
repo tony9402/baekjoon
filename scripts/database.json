@@ -22814,6 +22814,27 @@
                         "short": "dp"
                     }
                 ]
+            },
+            {
+                "key": "mitm",
+                "bojTagId": 46,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "중간에서 만나기",
+                        "short": "중간에서 만나기"
+                    },
+                    {
+                        "language": "en",
+                        "name": "meet in the middle",
+                        "short": "meet in the middle"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "半分全列挙",
+                        "short": "半分全列挙"
+                    }
+                ]
             }
         ]
     },
