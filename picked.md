@@ -1,9 +1,9 @@
-## 2024/07/26
+## 2024/07/27
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1972](https://www.acmicpc.net/problem/1972) | [놀라운 문자열](https://www.acmicpc.net/problem/1972) |
-| [16953](https://www.acmicpc.net/problem/16953) | [A → B](https://www.acmicpc.net/problem/16953) |
-| [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
-| [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
-| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
+| [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| [1106](https://www.acmicpc.net/problem/1106) | [호텔](https://www.acmicpc.net/problem/1106) |
+| [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
