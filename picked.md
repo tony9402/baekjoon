@@ -1,9 +1,9 @@
-## 2024/08/02
+## 2024/08/03
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
-| [2157](https://www.acmicpc.net/problem/2157) | [여행](https://www.acmicpc.net/problem/2157) |
-| [10282](https://www.acmicpc.net/problem/10282) | [해킹](https://www.acmicpc.net/problem/10282) |
-| [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [17390](https://www.acmicpc.net/problem/17390) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) |
+| [2630](https://www.acmicpc.net/problem/2630) | [색종이 만들기](https://www.acmicpc.net/problem/2630) |
+| [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
+| [4179](https://www.acmicpc.net/problem/4179) | [불!](https://www.acmicpc.net/problem/4179) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
