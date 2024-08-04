@@ -1,9 +1,9 @@
-## 2024/08/04
+## 2024/08/05
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
-| [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
-| [13908](https://www.acmicpc.net/problem/13908) | [비밀번호](https://www.acmicpc.net/problem/13908) |
-| [2933](https://www.acmicpc.net/problem/2933) | [미네랄](https://www.acmicpc.net/problem/2933) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| [1992](https://www.acmicpc.net/problem/1992) | [쿼드트리](https://www.acmicpc.net/problem/1992) |
+| [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
+| [1045](https://www.acmicpc.net/problem/1045) | [도로](https://www.acmicpc.net/problem/1045) |
+| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
