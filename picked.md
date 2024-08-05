@@ -1,9 +1,9 @@
-## 2024/08/05
+## 2024/08/06
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
-| [1992](https://www.acmicpc.net/problem/1992) | [쿼드트리](https://www.acmicpc.net/problem/1992) |
-| [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
-| [1045](https://www.acmicpc.net/problem/1045) | [도로](https://www.acmicpc.net/problem/1045) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [3613](https://www.acmicpc.net/problem/3613) | [Java vs C++](https://www.acmicpc.net/problem/3613) |
+| [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
+| [14430](https://www.acmicpc.net/problem/14430) | [자원 캐기](https://www.acmicpc.net/problem/14430) |
+| [13911](https://www.acmicpc.net/problem/13911) | [집 구하기](https://www.acmicpc.net/problem/13911) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
