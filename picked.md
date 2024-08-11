@@ -1,9 +1,9 @@
-## 2024/08/11
+## 2024/08/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1620](https://www.acmicpc.net/problem/1620) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |
-| [22869](https://www.acmicpc.net/problem/22869) | [징검다리 건너기 (small)](https://www.acmicpc.net/problem/22869) |
-| [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
-| [1445](https://www.acmicpc.net/problem/1445) | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) |
-| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
+| [22858](https://www.acmicpc.net/problem/22858) | [원상 복구 (small)](https://www.acmicpc.net/problem/22858) |
+| [2253](https://www.acmicpc.net/problem/2253) | [점프](https://www.acmicpc.net/problem/2253) |
+| [7490](https://www.acmicpc.net/problem/7490) | [0 만들기](https://www.acmicpc.net/problem/7490) |
+| [2982](https://www.acmicpc.net/problem/2982) | [국왕의 방문](https://www.acmicpc.net/problem/2982) |
+| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
