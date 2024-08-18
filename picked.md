@@ -1,9 +1,9 @@
-## 2024/08/18
+## 2024/08/19
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
-| [1956](https://www.acmicpc.net/problem/1956) | [운동](https://www.acmicpc.net/problem/1956) |
-| [2636](https://www.acmicpc.net/problem/2636) | [치즈](https://www.acmicpc.net/problem/2636) |
-| [2252](https://www.acmicpc.net/problem/2252) | [줄 세우기](https://www.acmicpc.net/problem/2252) |
-| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
+| [15970](https://www.acmicpc.net/problem/15970) | [화살표 그리기](https://www.acmicpc.net/problem/15970) |
+| [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
+| [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
+| [17136](https://www.acmicpc.net/problem/17136) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |
+| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
