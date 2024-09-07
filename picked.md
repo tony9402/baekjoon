@@ -1,9 +1,9 @@
-## 2024/09/07
+## 2024/09/08
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
-| [1261](https://www.acmicpc.net/problem/1261) | [알고스팟](https://www.acmicpc.net/problem/1261) |
-| [7662](https://www.acmicpc.net/problem/7662) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |
-| [1799](https://www.acmicpc.net/problem/1799) | [비숍](https://www.acmicpc.net/problem/1799) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
+| [2493](https://www.acmicpc.net/problem/2493) | [탑](https://www.acmicpc.net/problem/2493) |
+| [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
+| [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
