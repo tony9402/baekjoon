@@ -1,9 +1,9 @@
-## 2024/09/23
+## 2024/09/24
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
-| [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
-| [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
-| [12978](https://www.acmicpc.net/problem/12978) | [스크루지 민호 2](https://www.acmicpc.net/problem/12978) |
-| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| [2758](https://www.acmicpc.net/problem/2758) | [로또](https://www.acmicpc.net/problem/2758) |
+| [6987](https://www.acmicpc.net/problem/6987) | [월드컵](https://www.acmicpc.net/problem/6987) |
+| [20183](https://www.acmicpc.net/problem/20183) | [골목 대장 호석 - 효율성 2](https://www.acmicpc.net/problem/20183) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
