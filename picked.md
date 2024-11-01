@@ -1,9 +1,9 @@
-## 2024/11/01
+## 2024/11/02
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [16208](https://www.acmicpc.net/problem/16208) | [귀찮음](https://www.acmicpc.net/problem/16208) |
-| [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
-| [2239](https://www.acmicpc.net/problem/2239) | [스도쿠](https://www.acmicpc.net/problem/2239) |
-| [20667](https://www.acmicpc.net/problem/20667) | [크롬](https://www.acmicpc.net/problem/20667) |
-| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| [1158](https://www.acmicpc.net/problem/1158) | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
+| [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
+| [14600](https://www.acmicpc.net/problem/14600) | [샤워실 바닥 깔기 (Small)](https://www.acmicpc.net/problem/14600) |
+| [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
