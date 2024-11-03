@@ -1,9 +1,9 @@
-## 2024/11/03
+## 2024/11/04
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2941](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
-| [16168](https://www.acmicpc.net/problem/16168) | [퍼레이드](https://www.acmicpc.net/problem/16168) |
-| [17829](https://www.acmicpc.net/problem/17829) | [222-풀링](https://www.acmicpc.net/problem/17829) |
-| [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
+| [15566](https://www.acmicpc.net/problem/15566) | [개구리 1](https://www.acmicpc.net/problem/15566) |
+| [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
+| [20366](https://www.acmicpc.net/problem/20366) | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |
+| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
