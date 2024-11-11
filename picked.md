@@ -1,9 +1,9 @@
-## 2024/11/11
+## 2024/11/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1212](https://www.acmicpc.net/problem/1212) | [8진수 2진수](https://www.acmicpc.net/problem/1212) |
-| [1277](https://www.acmicpc.net/problem/1277) | [발전소 설치](https://www.acmicpc.net/problem/1277) |
-| [14247](https://www.acmicpc.net/problem/14247) | [나무 자르기](https://www.acmicpc.net/problem/14247) |
-| [2307](https://www.acmicpc.net/problem/2307) | [도로검문](https://www.acmicpc.net/problem/2307) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [1003](https://www.acmicpc.net/problem/1003) | [피보나치 함수](https://www.acmicpc.net/problem/1003) |
+| [1107](https://www.acmicpc.net/problem/1107) | [리모컨](https://www.acmicpc.net/problem/1107) |
+| [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) |
+| [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
+| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
