@@ -1,9 +1,9 @@
-## 2024/11/21
+## 2024/11/22
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2578](https://www.acmicpc.net/problem/2578) | [빙고](https://www.acmicpc.net/problem/2578) |
-| [14247](https://www.acmicpc.net/problem/14247) | [나무 자르기](https://www.acmicpc.net/problem/14247) |
-| [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
-| [1719](https://www.acmicpc.net/problem/1719) | [택배](https://www.acmicpc.net/problem/1719) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [2847](https://www.acmicpc.net/problem/2847) | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |
+| [1106](https://www.acmicpc.net/problem/1106) | [호텔](https://www.acmicpc.net/problem/1106) |
+| [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
+| [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
