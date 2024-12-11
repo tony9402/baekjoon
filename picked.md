@@ -1,9 +1,9 @@
-## 2024/12/11
+## 2024/12/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [14501](https://www.acmicpc.net/problem/14501) | [퇴사](https://www.acmicpc.net/problem/14501) |
-| [13565](https://www.acmicpc.net/problem/13565) | [침투](https://www.acmicpc.net/problem/13565) |
-| [3055](https://www.acmicpc.net/problem/3055) | [탈출](https://www.acmicpc.net/problem/3055) |
-| [14676](https://www.acmicpc.net/problem/14676) | [영우는 사기꾼?](https://www.acmicpc.net/problem/14676) |
-| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
+| [1543](https://www.acmicpc.net/problem/1543) | [문서 검색](https://www.acmicpc.net/problem/1543) |
+| [18232](https://www.acmicpc.net/problem/18232) | [텔레포트 정거장](https://www.acmicpc.net/problem/18232) |
+| [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
+| [3687](https://www.acmicpc.net/problem/3687) | [성냥개비](https://www.acmicpc.net/problem/3687) |
+| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
