@@ -1,9 +1,9 @@
-## 2024/12/24
+## 2024/12/25
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) |
-| [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
-| [2294](https://www.acmicpc.net/problem/2294) | [동전 2](https://www.acmicpc.net/problem/2294) |
-| [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [1145](https://www.acmicpc.net/problem/1145) | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) |
+| [16564](https://www.acmicpc.net/problem/16564) | [히오스 프로게이머](https://www.acmicpc.net/problem/16564) |
+| [1389](https://www.acmicpc.net/problem/1389) | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
+| [5624](https://www.acmicpc.net/problem/5624) | [좋은 수](https://www.acmicpc.net/problem/5624) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
