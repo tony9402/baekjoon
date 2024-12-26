@@ -1,9 +1,9 @@
-## 2024/12/26
+## 2024/12/27
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10546](https://www.acmicpc.net/problem/10546) | [배부른 마라토너](https://www.acmicpc.net/problem/10546) |
-| [1182](https://www.acmicpc.net/problem/1182) | [부분수열의 합](https://www.acmicpc.net/problem/1182) |
-| [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
-| [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
-| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
+| [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
+| [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
+| [15663](https://www.acmicpc.net/problem/15663) | [N과 M (9)](https://www.acmicpc.net/problem/15663) |
+| [9944](https://www.acmicpc.net/problem/9944) | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) |
+| [5670](https://www.acmicpc.net/problem/5670) | [휴대폰 자판](https://www.acmicpc.net/problem/5670) |
