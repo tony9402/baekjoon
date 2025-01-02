@@ -1,9 +1,9 @@
-## 2025/01/02
+## 2025/01/03
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1942](https://www.acmicpc.net/problem/1942) | [디지털시계](https://www.acmicpc.net/problem/1942) |
-| [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
-| [7490](https://www.acmicpc.net/problem/7490) | [0 만들기](https://www.acmicpc.net/problem/7490) |
-| [14476](https://www.acmicpc.net/problem/14476) | [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) |
-| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
+| [15656](https://www.acmicpc.net/problem/15656) | [N과 M (7)](https://www.acmicpc.net/problem/15656) |
+| [2877](https://www.acmicpc.net/problem/2877) | [4와 7](https://www.acmicpc.net/problem/2877) |
+| [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
+| [2623](https://www.acmicpc.net/problem/2623) | [음악프로그램](https://www.acmicpc.net/problem/2623) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
