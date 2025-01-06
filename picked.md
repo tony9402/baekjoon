@@ -1,9 +1,9 @@
-## 2025/01/06
+## 2025/01/07
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [17484](https://www.acmicpc.net/problem/17484) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) |
-| [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) |
-| [17352](https://www.acmicpc.net/problem/17352) | [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) |
-| [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
-| [5446](https://www.acmicpc.net/problem/5446) | [용량 부족](https://www.acmicpc.net/problem/5446) |
+| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
+| [11265](https://www.acmicpc.net/problem/11265) | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265) |
+| [15918](https://www.acmicpc.net/problem/15918) | [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918) |
+| [15683](https://www.acmicpc.net/problem/15683) | [감시](https://www.acmicpc.net/problem/15683) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
