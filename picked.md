@@ -1,9 +1,9 @@
-## 2025/01/25
+## 2025/01/26
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
-| [13397](https://www.acmicpc.net/problem/13397) | [구간 나누기 2](https://www.acmicpc.net/problem/13397) |
-| [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
-| [22861](https://www.acmicpc.net/problem/22861) | [폴더 정리 (large)](https://www.acmicpc.net/problem/22861) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [2941](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+| [21610](https://www.acmicpc.net/problem/21610) | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
+| [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
+| [19566](https://www.acmicpc.net/problem/19566) | [수열의 구간 평균](https://www.acmicpc.net/problem/19566) |
+| [1799](https://www.acmicpc.net/problem/1799) | [비숍](https://www.acmicpc.net/problem/1799) |
