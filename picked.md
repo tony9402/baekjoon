@@ -1,9 +1,9 @@
-## 2025/01/27
+## 2025/01/28
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
-| [21315](https://www.acmicpc.net/problem/21315) | [카드 섞기](https://www.acmicpc.net/problem/21315) |
-| [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
-| [2571](https://www.acmicpc.net/problem/2571) | [색종이 - 3](https://www.acmicpc.net/problem/2571) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
+| [6987](https://www.acmicpc.net/problem/6987) | [월드컵](https://www.acmicpc.net/problem/6987) |
+| [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| [17090](https://www.acmicpc.net/problem/17090) | [미로 탈출하기](https://www.acmicpc.net/problem/17090) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
