@@ -589,6 +589,16 @@
             <br />
             <a href="https://github.com/GotPrgmer">GotPrgmer</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/336699go"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/125154233?v=4"/></a>
+            <br />
+            <a href="https://github.com/336699go">336699go</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/grayroom"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/43588644?v=4"/></a>
+            <br />
+            <a href="https://github.com/grayroom">grayroom</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -611,6 +621,20 @@
             <a href="https://www.acmicpc.net/user/min95913">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/min95913">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=336699go" />
+            <br />
+            <a href="https://www.acmicpc.net/user/336699go">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/336699go">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leejh9226" />
+            <br />
+            <a href="https://www.acmicpc.net/user/leejh9226">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/leejh9226">solved.ac</a>
         </td>
     </tr>
 </table>
