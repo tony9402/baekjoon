@@ -1,9 +1,9 @@
-## 2025/01/30
+## 2025/01/31
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [7568](https://www.acmicpc.net/problem/7568) | [덩치](https://www.acmicpc.net/problem/7568) |
-| [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |
-| [1504](https://www.acmicpc.net/problem/1504) | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
-| [17136](https://www.acmicpc.net/problem/17136) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |
-| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
+| [1913](https://www.acmicpc.net/problem/1913) | [달팽이](https://www.acmicpc.net/problem/1913) |
+| [1713](https://www.acmicpc.net/problem/1713) | [후보 추천하기](https://www.acmicpc.net/problem/1713) |
+| [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) |
+| [2812](https://www.acmicpc.net/problem/2812) | [크게 만들기](https://www.acmicpc.net/problem/2812) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
