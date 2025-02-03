@@ -1,9 +1,9 @@
-## 2025/02/03
+## 2025/02/04
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [14501](https://www.acmicpc.net/problem/14501) | [퇴사](https://www.acmicpc.net/problem/14501) |
-| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
-| [15664](https://www.acmicpc.net/problem/15664) | [N과 M (10)](https://www.acmicpc.net/problem/15664) |
-| [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
-| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| [19947](https://www.acmicpc.net/problem/19947) | [투자의 귀재 배주형](https://www.acmicpc.net/problem/19947) |
+| [18513](https://www.acmicpc.net/problem/18513) | [샘터](https://www.acmicpc.net/problem/18513) |
+| [6987](https://www.acmicpc.net/problem/6987) | [월드컵](https://www.acmicpc.net/problem/6987) |
+| [12015](https://www.acmicpc.net/problem/12015) | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |
+| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
