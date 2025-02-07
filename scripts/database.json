@@ -622,7 +622,7 @@
         "titleKo": "모든 순열",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 1.5067,
+        "averageTries": 1.5069,
         "tags": [
             {
                 "key": "backtracking",
@@ -1084,7 +1084,7 @@
         "titleKo": "부분수열의 합",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.3079,
+        "averageTries": 2.3085,
         "tags": [
             {
                 "key": "backtracking",
@@ -1135,7 +1135,7 @@
         "titleKo": "차이를 최대로",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.5129,
+        "averageTries": 1.5126,
         "tags": [
             {
                 "key": "backtracking",
@@ -1258,7 +1258,7 @@
         "titleKo": "부등호",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.7244,
+        "averageTries": 1.7239,
         "tags": [
             {
                 "key": "backtracking",
@@ -1597,7 +1597,7 @@
         "titleKo": "연산자 끼워넣기",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.1257,
+        "averageTries": 2.1263,
         "tags": [
             {
                 "key": "backtracking",
@@ -1780,7 +1780,7 @@
         "titleKo": "컴백홈",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.8107,
+        "averageTries": 1.81,
         "tags": [
             {
                 "key": "backtracking",
@@ -1996,7 +1996,7 @@
         "titleKo": "기타콘서트",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.8975,
+        "averageTries": 2.9114,
         "tags": [
             {
                 "key": "backtracking",
@@ -2707,7 +2707,7 @@
         "titleKo": "행운의 문자열",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.3242,
+        "averageTries": 2.3279,
         "tags": [
             {
                 "key": "backtracking",
@@ -3064,7 +3064,7 @@
         "titleKo": "알파벳",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.53,
+        "averageTries": 3.5285,
         "tags": [
             {
                 "key": "backtracking",
@@ -3157,7 +3157,7 @@
         "titleKo": "스도쿠",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.6794,
+        "averageTries": 3.6789,
         "tags": [
             {
                 "key": "backtracking",
@@ -3187,7 +3187,7 @@
         "titleKo": "가르침",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.7859,
+        "averageTries": 3.7856,
         "tags": [
             {
                 "key": "backtracking",
@@ -3259,7 +3259,7 @@
         "titleKo": "좋은수열",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.9986,
+        "averageTries": 1.9995,
         "tags": [
             {
                 "key": "backtracking",
@@ -3289,7 +3289,7 @@
         "titleKo": "스도쿠",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.1945,
+        "averageTries": 2.1939,
         "tags": [
             {
                 "key": "backtracking",
@@ -3544,7 +3544,7 @@
         "titleKo": "소문난 칠공주",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 1.9187,
+        "averageTries": 1.9189,
         "tags": [
             {
                 "key": "backtracking",
@@ -3802,7 +3802,7 @@
         "titleKo": "애너그램",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.9922,
+        "averageTries": 2.9874,
         "tags": [
             {
                 "key": "backtracking",
@@ -4171,7 +4171,7 @@
         "titleKo": "비숍",
         "isSolvable": true,
         "level": 16,
-        "averageTries": 4.0602,
+        "averageTries": 4.0604,
         "tags": [
             {
                 "key": "backtracking",
@@ -4282,7 +4282,7 @@
         "titleKo": "수들의 합",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.3978,
+        "averageTries": 2.3984,
         "tags": [
             {
                 "key": "greedy",
@@ -4384,7 +4384,7 @@
         "titleKo": "어두운 굴다리",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.6,
+        "averageTries": 2.5998,
         "tags": [
             {
                 "key": "binary_search",
@@ -4435,7 +4435,7 @@
         "titleKo": "수 찾기",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 3.273,
+        "averageTries": 3.2732,
         "tags": [
             {
                 "key": "binary_search",
@@ -4528,7 +4528,7 @@
         "titleKo": "숫자 카드",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.3347,
+        "averageTries": 2.3349,
         "tags": [
             {
                 "key": "binary_search",
@@ -4621,7 +4621,7 @@
         "titleKo": "숫자 카드 2",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.6149,
+        "averageTries": 2.6155,
         "tags": [
             {
                 "key": "binary_search",
@@ -4786,7 +4786,7 @@
         "titleKo": "나무 자르기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 3.7513,
+        "averageTries": 3.7506,
         "tags": [
             {
                 "key": "binary_search",
@@ -4837,7 +4837,7 @@
         "titleKo": "랜선 자르기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 4.5994,
+        "averageTries": 4.5983,
         "tags": [
             {
                 "key": "binary_search",
@@ -4888,7 +4888,7 @@
         "titleKo": "예산",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.6942,
+        "averageTries": 2.6933,
         "tags": [
             {
                 "key": "binary_search",
@@ -4939,7 +4939,7 @@
         "titleKo": "게임",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 4.0609,
+        "averageTries": 4.0588,
         "tags": [
             {
                 "key": "binary_search",
@@ -4990,7 +4990,7 @@
         "titleKo": "용돈 관리",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 3.4365,
+        "averageTries": 3.4361,
         "tags": [
             {
                 "key": "binary_search",
@@ -5266,7 +5266,7 @@
         "titleKo": "징검다리",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 3.1685,
+        "averageTries": 3.1693,
         "tags": [
             {
                 "key": "binary_search",
@@ -5611,7 +5611,7 @@
         "titleKo": "풍선 공장",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 3.5179,
+        "averageTries": 3.5208,
         "tags": [
             {
                 "key": "binary_search",
@@ -5899,7 +5899,7 @@
         "titleKo": "공유기 설치",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.6952,
+        "averageTries": 2.6946,
         "tags": [
             {
                 "key": "binary_search",
@@ -5950,7 +5950,7 @@
         "titleKo": "기타 레슨",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.9877,
+        "averageTries": 2.9913,
         "tags": [
             {
                 "key": "binary_search",
@@ -6412,7 +6412,7 @@
         "titleKo": "케이크 자르기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.8029,
+        "averageTries": 2.8067,
         "tags": [
             {
                 "key": "binary_search",
@@ -6523,7 +6523,7 @@
         "titleKo": "개똥벌레",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.1723,
+        "averageTries": 2.1725,
         "tags": [
             {
                 "key": "binary_search",
@@ -6976,7 +6976,7 @@
         "titleKo": "구간 나누기 2",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.5566,
+        "averageTries": 1.5562,
         "tags": [
             {
                 "key": "binary_search",
@@ -7027,7 +7027,7 @@
         "titleKo": "카누 선수",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 3.8,
+        "averageTries": 3.7965,
         "tags": [
             {
                 "key": "binary_search",
@@ -7336,7 +7336,7 @@
         "titleKo": "K번째 수",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 2.635,
+        "averageTries": 2.6365,
         "tags": [
             {
                 "key": "binary_search",
@@ -7387,7 +7387,7 @@
         "titleKo": "두 배열의 합",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.0884,
+        "averageTries": 3.0874,
         "tags": [
             {
                 "key": "binary_search",
@@ -7993,7 +7993,7 @@
         "titleKo": "백설 공주와 일곱 난쟁이",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 1.4739,
+        "averageTries": 1.4751,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8074,7 +8074,7 @@
         "titleKo": "블랙잭",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 2.023,
+        "averageTries": 2.0229,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8104,7 +8104,7 @@
         "titleKo": "일곱 난쟁이",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 2.3992,
+        "averageTries": 2.3993,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8155,7 +8155,7 @@
         "titleKo": "분해합",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 2.2,
+        "averageTries": 2.2002,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8296,7 +8296,7 @@
         "titleKo": "수학은 비대면강의입니다",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 1.9584,
+        "averageTries": 1.9586,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8767,7 +8767,7 @@
         "titleKo": "숫자 야구",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.1188,
+        "averageTries": 2.1187,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8818,7 +8818,7 @@
         "titleKo": "영화감독 숌",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.6886,
+        "averageTries": 1.6884,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8848,7 +8848,7 @@
         "titleKo": "체스판 다시 칠하기",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.9897,
+        "averageTries": 1.9895,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8878,7 +8878,7 @@
         "titleKo": "덩치",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.7765,
+        "averageTries": 1.7766,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -8959,7 +8959,7 @@
         "titleKo": "기상청 인턴 신현수",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 2.1474,
+        "averageTries": 2.1523,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -9412,7 +9412,7 @@
         "titleKo": "숫자 빈도수",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.238,
+        "averageTries": 1.2414,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -9946,7 +9946,7 @@
         "titleKo": "한수",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.8197,
+        "averageTries": 1.8196,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -10048,7 +10048,7 @@
         "titleKo": "사탕 게임",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.9158,
+        "averageTries": 2.9152,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -11134,7 +11134,7 @@
         "titleKo": "꽃길",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.8867,
+        "averageTries": 1.8897,
         "tags": [
             {
                 "key": "backtracking",
@@ -11185,7 +11185,7 @@
         "titleKo": "A와 B 2",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.2033,
+        "averageTries": 3.2028,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -11860,7 +11860,7 @@
         "titleKo": "테트로미노",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.7316,
+        "averageTries": 2.7312,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -11983,7 +11983,7 @@
         "titleKo": "리모컨",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 4.2605,
+        "averageTries": 4.26,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -12199,7 +12199,7 @@
         "titleKo": "램프",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.232,
+        "averageTries": 2.2294,
         "tags": [
             {
                 "key": "ad_hoc",
@@ -12640,7 +12640,7 @@
         "titleKo": "카드 섞기",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.2127,
+        "averageTries": 2.2099,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -13063,7 +13063,7 @@
         "titleKo": "스택",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.6187,
+        "averageTries": 2.6183,
         "tags": [
             {
                 "key": "data_structures",
@@ -13135,7 +13135,7 @@
         "titleKo": "괄호",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.1489,
+        "averageTries": 2.1486,
         "tags": [
             {
                 "key": "data_structures",
@@ -13207,7 +13207,7 @@
         "titleKo": "스택 수열",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.5822,
+        "averageTries": 2.5823,
         "tags": [
             {
                 "key": "data_structures",
@@ -13360,7 +13360,7 @@
         "titleKo": "괄호의 값",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.1806,
+        "averageTries": 3.1797,
         "tags": [
             {
                 "key": "data_structures",
@@ -13597,7 +13597,7 @@
         "titleKo": "후위 표기식",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.6065,
+        "averageTries": 2.6071,
         "tags": [
             {
                 "key": "data_structures",
@@ -13648,7 +13648,7 @@
         "titleKo": "큐 2",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 3.0337,
+        "averageTries": 3.0331,
         "tags": [
             {
                 "key": "data_structures",
@@ -13699,7 +13699,7 @@
         "titleKo": "요세푸스 문제",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.0346,
+        "averageTries": 2.0344,
         "tags": [
             {
                 "key": "data_structures",
@@ -13915,7 +13915,7 @@
         "titleKo": "덱",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.7788,
+        "averageTries": 1.7783,
         "tags": [
             {
                 "key": "data_structures",
@@ -14038,7 +14038,7 @@
         "titleKo": "큐",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.0272,
+        "averageTries": 2.0269,
         "tags": [
             {
                 "key": "data_structures",
@@ -14089,7 +14089,7 @@
         "titleKo": "균형잡힌 세상",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 3.0357,
+        "averageTries": 3.0355,
         "tags": [
             {
                 "key": "data_structures",
@@ -14161,7 +14161,7 @@
         "titleKo": "좋은 단어",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.761,
+        "averageTries": 1.76,
         "tags": [
             {
                 "key": "data_structures",
@@ -14263,7 +14263,7 @@
         "titleKo": "키로거",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 3.553,
+        "averageTries": 3.5509,
         "tags": [
             {
                 "key": "data_structures",
@@ -14386,7 +14386,7 @@
         "titleKo": "AC",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 4.8635,
+        "averageTries": 4.8641,
         "tags": [
             {
                 "key": "deque",
@@ -14551,7 +14551,7 @@
         "titleKo": "탑 보기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.2241,
+        "averageTries": 3.1981,
         "tags": [
             {
                 "key": "data_structures",
@@ -14716,7 +14716,7 @@
         "titleKo": "최대 힙",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.9957,
+        "averageTries": 1.9956,
         "tags": [
             {
                 "key": "data_structures",
@@ -14767,7 +14767,7 @@
         "titleKo": "절댓값 힙",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.7528,
+        "averageTries": 1.7527,
         "tags": [
             {
                 "key": "data_structures",
@@ -14818,7 +14818,7 @@
         "titleKo": "이중 우선순위 큐",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 4.5111,
+        "averageTries": 4.5116,
         "tags": [
             {
                 "key": "data_structures",
@@ -15013,7 +15013,7 @@
         "titleKo": "패션왕 신해빈",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 1.7921,
+        "averageTries": 1.7922,
         "tags": [
             {
                 "key": "combinatorics",
@@ -15250,7 +15250,7 @@
         "titleKo": "가운데를 말해요",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 3.2592,
+        "averageTries": 3.2576,
         "tags": [
             {
                 "key": "data_structures",
@@ -15394,7 +15394,7 @@
         "titleKo": "대칭 차집합",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.5351,
+        "averageTries": 1.5348,
         "tags": [
             {
                 "key": "data_structures",
@@ -15868,7 +15868,7 @@
         "titleKo": "집합의 표현",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.502,
+        "averageTries": 3.5007,
         "tags": [
             {
                 "key": "data_structures",
@@ -15919,7 +15919,7 @@
         "titleKo": "여행 가자",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.6703,
+        "averageTries": 2.6712,
         "tags": [
             {
                 "key": "data_structures",
@@ -16012,7 +16012,7 @@
         "titleKo": "친구비",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.36,
+        "averageTries": 2.3587,
         "tags": [
             {
                 "key": "data_structures",
@@ -17116,7 +17116,7 @@
         "titleKo": "로봇 조립",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.5054,
+        "averageTries": 3.5024,
         "tags": [
             {
                 "key": "data_structures",
@@ -17467,7 +17467,7 @@
         "titleKo": "색종이 만들기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.43,
+        "averageTries": 1.4297,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -17518,7 +17518,7 @@
         "titleKo": "칸토어 집합",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.2229,
+        "averageTries": 2.2221,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -17743,7 +17743,7 @@
         "titleKo": "종이 접기",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.596,
+        "averageTries": 2.5965,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -17773,7 +17773,7 @@
         "titleKo": "별 찍기 - 10",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 1.7807,
+        "averageTries": 1.7805,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -18151,7 +18151,7 @@
         "titleKo": "프렉탈 평면",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.1883,
+        "averageTries": 2.1898,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -18367,7 +18367,7 @@
         "titleKo": "별 찍기 - 11",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.3127,
+        "averageTries": 2.3128,
         "tags": [
             {
                 "key": "recursion",
@@ -18397,7 +18397,7 @@
         "titleKo": "피보나치 수 5",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 1.6401,
+        "averageTries": 1.6402,
         "tags": [
             {
                 "key": "implementation",
@@ -18448,7 +18448,7 @@
         "titleKo": "설탕 배달",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.6293,
+        "averageTries": 2.6291,
         "tags": [
             {
                 "key": "dp",
@@ -18520,7 +18520,7 @@
         "titleKo": "피보나치 수 2",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 2.4312,
+        "averageTries": 2.4309,
         "tags": [
             {
                 "key": "dp",
@@ -18571,7 +18571,7 @@
         "titleKo": "다리 놓기",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.0791,
+        "averageTries": 2.079,
         "tags": [
             {
                 "key": "combinatorics",
@@ -18715,7 +18715,7 @@
         "titleKo": "Four Squares",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.2855,
+        "averageTries": 2.2852,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -18838,7 +18838,7 @@
         "titleKo": "퇴사",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 1.972,
+        "averageTries": 1.9717,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -18940,7 +18940,7 @@
         "titleKo": "점화식",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.3537,
+        "averageTries": 1.3549,
         "tags": [
             {
                 "key": "dp",
@@ -18970,7 +18970,7 @@
         "titleKo": "1로 만들기",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.9966,
+        "averageTries": 2.9962,
         "tags": [
             {
                 "key": "dp",
@@ -19030,7 +19030,7 @@
         "titleKo": "피보나치 함수",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.9485,
+        "averageTries": 2.9484,
         "tags": [
             {
                 "key": "dp",
@@ -19060,7 +19060,7 @@
         "titleKo": "2×n 타일링",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.7125,
+        "averageTries": 2.7126,
         "tags": [
             {
                 "key": "dp",
@@ -19090,7 +19090,7 @@
         "titleKo": "계단 오르기",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.91,
+        "averageTries": 2.9099,
         "tags": [
             {
                 "key": "dp",
@@ -19150,7 +19150,7 @@
         "titleKo": "2×n 타일링 2",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 1.7135,
+        "averageTries": 1.7134,
         "tags": [
             {
                 "key": "dp",
@@ -19180,7 +19180,7 @@
         "titleKo": "파도반 수열",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.2973,
+        "averageTries": 2.2972,
         "tags": [
             {
                 "key": "dp",
@@ -19312,7 +19312,7 @@
         "titleKo": "Maximum Subarray",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.3045,
+        "averageTries": 2.3026,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -19618,7 +19618,7 @@
         "titleKo": "가장 긴 증가하는 부분 수열",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.608,
+        "averageTries": 2.6076,
         "tags": [
             {
                 "key": "dp",
@@ -19648,7 +19648,7 @@
         "titleKo": "연속합",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.6672,
+        "averageTries": 2.6671,
         "tags": [
             {
                 "key": "dp",
@@ -19678,7 +19678,7 @@
         "titleKo": "스티커",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.1237,
+        "averageTries": 2.1245,
         "tags": [
             {
                 "key": "dp",
@@ -19738,7 +19738,7 @@
         "titleKo": "가장 긴 감소하는 부분 수열",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.6049,
+        "averageTries": 1.6048,
         "tags": [
             {
                 "key": "dp",
@@ -19768,7 +19768,7 @@
         "titleKo": "점프",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 3.2059,
+        "averageTries": 3.2074,
         "tags": [
             {
                 "key": "dp",
@@ -19828,7 +19828,7 @@
         "titleKo": "조합",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.3595,
+        "averageTries": 2.3606,
         "tags": [
             {
                 "key": "arbitrary_precision",
@@ -20023,7 +20023,7 @@
         "titleKo": "수열",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.7954,
+        "averageTries": 2.7948,
         "tags": [
             {
                 "key": "dp",
@@ -20224,7 +20224,7 @@
         "titleKo": "병사 배치하기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.392,
+        "averageTries": 2.3901,
         "tags": [
             {
                 "key": "dp",
@@ -20437,7 +20437,7 @@
         "titleKo": "RGB거리",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.7715,
+        "averageTries": 1.7713,
         "tags": [
             {
                 "key": "dp",
@@ -20527,7 +20527,7 @@
         "titleKo": "쉬운 계단 수",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 3.2195,
+        "averageTries": 3.2191,
         "tags": [
             {
                 "key": "dp",
@@ -20557,7 +20557,7 @@
         "titleKo": "카드 구매하기",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.6193,
+        "averageTries": 1.6192,
         "tags": [
             {
                 "key": "dp",
@@ -20587,7 +20587,7 @@
         "titleKo": "오르막 수",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.0937,
+        "averageTries": 2.0935,
         "tags": [
             {
                 "key": "dp",
@@ -20617,7 +20617,7 @@
         "titleKo": "동전 1",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.0909,
+        "averageTries": 2.091,
         "tags": [
             {
                 "key": "dp",
@@ -20719,7 +20719,7 @@
         "titleKo": "이동하기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.6953,
+        "averageTries": 1.6955,
         "tags": [
             {
                 "key": "dp",
@@ -20749,7 +20749,7 @@
         "titleKo": "동전 2",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.3138,
+        "averageTries": 3.3123,
         "tags": [
             {
                 "key": "dp",
@@ -20809,7 +20809,7 @@
         "titleKo": "전깃줄",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.0774,
+        "averageTries": 2.0771,
         "tags": [
             {
                 "key": "dp",
@@ -20839,7 +20839,7 @@
         "titleKo": "암호코드",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 4.8355,
+        "averageTries": 4.8336,
         "tags": [
             {
                 "key": "dp",
@@ -20941,7 +20941,7 @@
         "titleKo": "카드 구매하기 2",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.3251,
+        "averageTries": 1.3252,
         "tags": [
             {
                 "key": "dp",
@@ -21232,7 +21232,7 @@
         "titleKo": "극장 좌석",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.5587,
+        "averageTries": 2.5583,
         "tags": [
             {
                 "key": "dp",
@@ -21718,7 +21718,7 @@
         "titleKo": "평범한 배낭",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.7507,
+        "averageTries": 2.75,
         "tags": [
             {
                 "key": "dp",
@@ -21973,7 +21973,7 @@
         "titleKo": "앱",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.9942,
+        "averageTries": 2.9974,
         "tags": [
             {
                 "key": "dp",
@@ -22177,7 +22177,7 @@
         "titleKo": "LCS",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.4132,
+        "averageTries": 2.4133,
         "tags": [
             {
                 "key": "dp",
@@ -22279,7 +22279,7 @@
         "titleKo": "가장 큰 정사각형",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.3276,
+        "averageTries": 3.3277,
         "tags": [
             {
                 "key": "dp",
@@ -22411,7 +22411,7 @@
         "titleKo": "줄세우기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.511,
+        "averageTries": 1.5103,
         "tags": [
             {
                 "key": "dp",
@@ -22564,7 +22564,7 @@
         "titleKo": "연속합 2",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.2917,
+        "averageTries": 3.2897,
         "tags": [
             {
                 "key": "dp",
@@ -23548,7 +23548,7 @@
         "titleKo": "수도배관공사",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.5162,
+        "averageTries": 2.5132,
         "tags": [
             {
                 "key": "dp",
@@ -23599,7 +23599,7 @@
         "titleKo": "내리막 길",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.5204,
+        "averageTries": 3.5203,
         "tags": [
             {
                 "key": "dfs",
@@ -23692,7 +23692,7 @@
         "titleKo": "돌다리 건너기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.969,
+        "averageTries": 1.9686,
         "tags": [
             {
                 "key": "dp",
@@ -23884,7 +23884,7 @@
         "titleKo": "서울에서 경산까지",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.2399,
+        "averageTries": 3.2383,
         "tags": [
             {
                 "key": "dp",
@@ -24166,7 +24166,7 @@
         "titleKo": "동전 분배",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 5.0055,
+        "averageTries": 4.9784,
         "tags": [
             {
                 "key": "dp",
@@ -24268,7 +24268,7 @@
         "titleKo": "가장 긴 바이토닉 부분 수열",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.9499,
+        "averageTries": 1.9498,
         "tags": [
             {
                 "key": "dp",
@@ -24391,7 +24391,7 @@
         "titleKo": "파일 합치기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.0775,
+        "averageTries": 2.0774,
         "tags": [
             {
                 "key": "dp",
@@ -24421,7 +24421,7 @@
         "titleKo": "행렬 곱셈 순서",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.2958,
+        "averageTries": 2.2957,
         "tags": [
             {
                 "key": "dp",
@@ -24604,7 +24604,7 @@
         "titleKo": "팰린드롬?",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.2825,
+        "averageTries": 3.2823,
         "tags": [
             {
                 "key": "dp",
@@ -24685,7 +24685,7 @@
         "titleKo": "가장 긴 증가하는 부분 수열 2",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.4079,
+        "averageTries": 2.4068,
         "tags": [
             {
                 "key": "binary_search",
@@ -25096,7 +25096,7 @@
         "titleKo": "DFS와 BFS",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.606,
+        "averageTries": 2.6059,
         "tags": [
             {
                 "key": "graphs",
@@ -25189,7 +25189,7 @@
         "titleKo": "바이러스",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.1667,
+        "averageTries": 2.1664,
         "tags": [
             {
                 "key": "graphs",
@@ -25282,7 +25282,7 @@
         "titleKo": "유기농 배추",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.5652,
+        "averageTries": 2.5646,
         "tags": [
             {
                 "key": "graphs",
@@ -25375,7 +25375,7 @@
         "titleKo": "연결 요소의 개수",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.3709,
+        "averageTries": 2.371,
         "tags": [
             {
                 "key": "graphs",
@@ -25561,7 +25561,7 @@
         "titleKo": "나이트의 이동",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.8964,
+        "averageTries": 1.8953,
         "tags": [
             {
                 "key": "bfs",
@@ -25726,7 +25726,7 @@
         "titleKo": "효율적인 해킹",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 5.2799,
+        "averageTries": 5.2804,
         "tags": [
             {
                 "key": "bfs",
@@ -25819,7 +25819,7 @@
         "titleKo": "양",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.5606,
+        "averageTries": 1.5604,
         "tags": [
             {
                 "key": "bfs",
@@ -26407,7 +26407,7 @@
         "titleKo": "미로 탐색",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.2206,
+        "averageTries": 2.2203,
         "tags": [
             {
                 "key": "bfs",
@@ -26479,7 +26479,7 @@
         "titleKo": "단지번호붙이기",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.3149,
+        "averageTries": 2.3148,
         "tags": [
             {
                 "key": "bfs",
@@ -26572,7 +26572,7 @@
         "titleKo": "토마토",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.6646,
+        "averageTries": 2.6649,
         "tags": [
             {
                 "key": "bfs",
@@ -26644,7 +26644,7 @@
         "titleKo": "숨바꼭질",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 3.7986,
+        "averageTries": 3.7984,
         "tags": [
             {
                 "key": "bfs",
@@ -26809,7 +26809,7 @@
         "titleKo": "토마토",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.3235,
+        "averageTries": 2.3242,
         "tags": [
             {
                 "key": "bfs",
@@ -26881,7 +26881,7 @@
         "titleKo": "결혼식",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.2264,
+        "averageTries": 2.2258,
         "tags": [
             {
                 "key": "bfs",
@@ -26953,7 +26953,7 @@
         "titleKo": "그림",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.3117,
+        "averageTries": 2.3109,
         "tags": [
             {
                 "key": "bfs",
@@ -28294,7 +28294,7 @@
         "titleKo": "스타트링크",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.9322,
+        "averageTries": 2.9316,
         "tags": [
             {
                 "key": "bfs",
@@ -28645,7 +28645,7 @@
         "titleKo": "Puyo Puyo",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.4985,
+        "averageTries": 2.4981,
         "tags": [
             {
                 "key": "bfs",
@@ -28831,7 +28831,7 @@
         "titleKo": "숨바꼭질 2",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.8625,
+        "averageTries": 3.8622,
         "tags": [
             {
                 "key": "bfs",
@@ -28996,7 +28996,7 @@
         "titleKo": "움직이는 미로 탈출",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.441,
+        "averageTries": 3.4369,
         "tags": [
             {
                 "key": "bfs",
@@ -29161,7 +29161,7 @@
         "titleKo": "공주님을 구해라!",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 4.0225,
+        "averageTries": 4.0201,
         "tags": [
             {
                 "key": "bfs",
@@ -29512,7 +29512,7 @@
         "titleKo": "쉬운 최단거리",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.663,
+        "averageTries": 2.6622,
         "tags": [
             {
                 "key": "bfs",
@@ -29749,7 +29749,7 @@
         "titleKo": "벽 부수고 이동하기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 4.2091,
+        "averageTries": 4.2098,
         "tags": [
             {
                 "key": "bfs",
@@ -30214,7 +30214,7 @@
         "titleKo": "숨바꼭질 4",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.2096,
+        "averageTries": 3.2082,
         "tags": [
             {
                 "key": "bfs",
@@ -30628,7 +30628,7 @@
         "titleKo": "불!",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 4.7954,
+        "averageTries": 4.7946,
         "tags": [
             {
                 "key": "bfs",
@@ -30793,7 +30793,7 @@
         "titleKo": "레이저 통신",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 4.3374,
+        "averageTries": 4.3362,
         "tags": [
             {
                 "key": "bfs",
@@ -31258,7 +31258,7 @@
         "titleKo": "벽 부수고 이동하기 2",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.6895,
+        "averageTries": 3.6888,
         "tags": [
             {
                 "key": "bfs",
@@ -31402,7 +31402,7 @@
         "titleKo": "서울 지하철 2호선",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.2823,
+        "averageTries": 2.2816,
         "tags": [
             {
                 "key": "bfs",
@@ -31846,7 +31846,7 @@
         "titleKo": "ABCDE",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.4341,
+        "averageTries": 3.4327,
         "tags": [
             {
                 "key": "backtracking",
@@ -33004,7 +33004,7 @@
         "titleKo": "회의실 배정",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.2163,
+        "averageTries": 3.2161,
         "tags": [
             {
                 "key": "greedy",
@@ -33055,7 +33055,7 @@
         "titleKo": "거스름돈",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.1324,
+        "averageTries": 2.133,
         "tags": [
             {
                 "key": "dp",
@@ -33442,7 +33442,7 @@
         "titleKo": "로프",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.281,
+        "averageTries": 2.2807,
         "tags": [
             {
                 "key": "greedy",
@@ -33514,7 +33514,7 @@
         "titleKo": "주유소",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.5598,
+        "averageTries": 2.5599,
         "tags": [
             {
                 "key": "greedy",
@@ -33757,7 +33757,7 @@
         "titleKo": "스네이크버드",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.3297,
+        "averageTries": 1.3291,
         "tags": [
             {
                 "key": "greedy",
@@ -33808,7 +33808,7 @@
         "titleKo": "ATM",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.4405,
+        "averageTries": 1.4403,
         "tags": [
             {
                 "key": "greedy",
@@ -33859,7 +33859,7 @@
         "titleKo": "수리공 항승",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.0063,
+        "averageTries": 2.0048,
         "tags": [
             {
                 "key": "greedy",
@@ -33961,7 +33961,7 @@
         "titleKo": "짐 챙기는 숌",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.0427,
+        "averageTries": 2.0422,
         "tags": [
             {
                 "key": "greedy",
@@ -34144,7 +34144,7 @@
         "titleKo": "잃어버린 괄호",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 1.8265,
+        "averageTries": 1.8268,
         "tags": [
             {
                 "key": "greedy",
@@ -34420,7 +34420,7 @@
         "titleKo": "동전 0",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.8817,
+        "averageTries": 1.8819,
         "tags": [
             {
                 "key": "greedy",
@@ -34501,7 +34501,7 @@
         "titleKo": "A → B",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.5117,
+        "averageTries": 2.5118,
         "tags": [
             {
                 "key": "bfs",
@@ -35032,7 +35032,7 @@
         "titleKo": "크게 만들기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.507,
+        "averageTries": 3.5069,
         "tags": [
             {
                 "key": "data_structures",
@@ -35104,7 +35104,7 @@
         "titleKo": "센서",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 1.9684,
+        "averageTries": 1.967,
         "tags": [
             {
                 "key": "greedy",
@@ -35494,7 +35494,7 @@
         "titleKo": "카드 정렬하기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.8487,
+        "averageTries": 2.8479,
         "tags": [
             {
                 "key": "data_structures",
@@ -35617,7 +35617,7 @@
         "titleKo": "공주님의 정원",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.699,
+        "averageTries": 3.6977,
         "tags": [
             {
                 "key": "greedy",
@@ -35668,7 +35668,7 @@
         "titleKo": "순회강연",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.603,
+        "averageTries": 2.6012,
         "tags": [
             {
                 "key": "data_structures",
@@ -36220,7 +36220,7 @@
         "titleKo": "윤년",
         "isSolvable": true,
         "level": 1,
-        "averageTries": 1.9352,
+        "averageTries": 1.9351,
         "tags": [
             {
                 "key": "implementation",
@@ -36322,7 +36322,7 @@
         "titleKo": "과제 안 내신 분..?",
         "isSolvable": true,
         "level": 3,
-        "averageTries": 1.9365,
+        "averageTries": 1.9364,
         "tags": [
             {
                 "key": "implementation",
@@ -36403,7 +36403,7 @@
         "titleKo": "달팽이",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.2237,
+        "averageTries": 2.2232,
         "tags": [
             {
                 "key": "implementation",
@@ -36463,7 +36463,7 @@
         "titleKo": "빙고",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.1671,
+        "averageTries": 2.1674,
         "tags": [
             {
                 "key": "implementation",
@@ -36544,7 +36544,7 @@
         "titleKo": "스위치 켜고 끄기",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 4.8405,
+        "averageTries": 4.8399,
         "tags": [
             {
                 "key": "implementation",
@@ -36595,7 +36595,7 @@
         "titleKo": "별 찍기 - 19",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.4594,
+        "averageTries": 1.4595,
         "tags": [
             {
                 "key": "implementation",
@@ -36676,7 +36676,7 @@
         "titleKo": "오목",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 5.2358,
+        "averageTries": 5.2328,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -36829,7 +36829,7 @@
         "titleKo": "배열 돌리기 1",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.115,
+        "averageTries": 2.1157,
         "tags": [
             {
                 "key": "implementation",
@@ -37225,7 +37225,7 @@
         "titleKo": "사다리 타기",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.479,
+        "averageTries": 2.4887,
         "tags": [
             {
                 "key": "implementation",
@@ -37327,7 +37327,7 @@
         "titleKo": "기차가 어둠을 헤치고 은하수를",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 3.43,
+        "averageTries": 3.4292,
         "tags": [
             {
                 "key": "bitmask",
@@ -37450,7 +37450,7 @@
         "titleKo": "달력",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.391,
+        "averageTries": 2.3914,
         "tags": [
             {
                 "key": "greedy",
@@ -37696,7 +37696,7 @@
         "titleKo": "소용돌이 예쁘게 출력하기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.3229,
+        "averageTries": 3.3201,
         "tags": [
             {
                 "key": "implementation",
@@ -37963,7 +37963,7 @@
         "titleKo": "마법사 상어와 블리자드",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 4.0838,
+        "averageTries": 4.0842,
         "tags": [
             {
                 "key": "implementation",
@@ -38611,7 +38611,7 @@
         "titleKo": "최대공약수와 최소공배수",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 1.7334,
+        "averageTries": 1.733,
         "tags": [
             {
                 "key": "euclidean",
@@ -38827,7 +38827,7 @@
         "titleKo": "소인수분해",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 1.8539,
+        "averageTries": 1.8542,
         "tags": [
             {
                 "key": "math",
@@ -38899,7 +38899,7 @@
         "titleKo": "에라토스테네스의 체",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.7203,
+        "averageTries": 1.7201,
         "tags": [
             {
                 "key": "implementation",
@@ -39157,7 +39157,7 @@
         "titleKo": "다음 소수",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 3.9852,
+        "averageTries": 3.9849,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -39373,7 +39373,7 @@
         "titleKo": "진법 변환",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 2.0579,
+        "averageTries": 2.0576,
         "tags": [
             {
                 "key": "implementation",
@@ -39496,7 +39496,7 @@
         "titleKo": "거의 소수",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 4.1607,
+        "averageTries": 4.1626,
         "tags": [
             {
                 "key": "math",
@@ -39949,7 +39949,7 @@
         "titleKo": "소수&팰린드롬",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 3.2155,
+        "averageTries": 3.215,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -40156,7 +40156,7 @@
         "titleKo": "음식 평론가",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.0072,
+        "averageTries": 2.0065,
         "tags": [
             {
                 "key": "euclidean",
@@ -40372,7 +40372,7 @@
         "titleKo": "홀짝 칵테일",
         "isSolvable": true,
         "level": 3,
-        "averageTries": 1.6134,
+        "averageTries": 1.6078,
         "tags": [
             {
                 "key": "arithmetic",
@@ -40516,7 +40516,7 @@
         "titleKo": "소수 최소 공배수",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 3.5882,
+        "averageTries": 3.5953,
         "tags": [
             {
                 "key": "math",
@@ -40837,7 +40837,7 @@
         "titleKo": "최소 스패닝 트리",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.6467,
+        "averageTries": 2.6462,
         "tags": [
             {
                 "key": "mst",
@@ -41143,7 +41143,7 @@
         "titleKo": "행성 연결",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.2393,
+        "averageTries": 2.2414,
         "tags": [
             {
                 "key": "graphs",
@@ -41410,7 +41410,7 @@
         "titleKo": "다리 만들기 2",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 2.9424,
+        "averageTries": 2.9421,
         "tags": [
             {
                 "key": "bfs",
@@ -41617,7 +41617,7 @@
         "titleKo": "나만 안되는 연애",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.1221,
+        "averageTries": 2.1202,
         "tags": [
             {
                 "key": "graphs",
@@ -42100,7 +42100,7 @@
         "titleKo": "물대기",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.307,
+        "averageTries": 2.3046,
         "tags": [
             {
                 "key": "graphs",
@@ -42490,7 +42490,7 @@
         "titleKo": "2차원 배열의 합",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.7232,
+        "averageTries": 1.7227,
         "tags": [
             {
                 "key": "implementation",
@@ -42613,7 +42613,7 @@
         "titleKo": "구간 합 구하기 4",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.5998,
+        "averageTries": 2.5997,
         "tags": [
             {
                 "key": "prefix_sum",
@@ -42835,7 +42835,7 @@
         "titleKo": "구간 합 구하기 5",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.2733,
+        "averageTries": 2.2734,
         "tags": [
             {
                 "key": "dp",
@@ -42946,7 +42946,7 @@
         "titleKo": "빚",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 1.6926,
+        "averageTries": 1.7143,
         "tags": [
             {
                 "key": "greedy",
@@ -43252,7 +43252,7 @@
         "titleKo": "나머지 합",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.7895,
+        "averageTries": 3.7897,
         "tags": [
             {
                 "key": "math",
@@ -43384,7 +43384,7 @@
         "titleKo": "점수따먹기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.854,
+        "averageTries": 2.8582,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -43609,7 +43609,7 @@
         "titleKo": "최대공약수 하나 빼기",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 1.9444,
+        "averageTries": 1.9348,
         "tags": [
             {
                 "key": "euclidean",
@@ -44092,7 +44092,7 @@
         "titleKo": "특정 거리의 도시 찾기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 3.1249,
+        "averageTries": 3.1259,
         "tags": [
             {
                 "key": "bfs",
@@ -44206,7 +44206,7 @@
         "titleKo": "최단경로",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.824,
+        "averageTries": 3.8234,
         "tags": [
             {
                 "key": "dijkstra",
@@ -44278,7 +44278,7 @@
         "titleKo": "최소비용 구하기",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.0532,
+        "averageTries": 3.0531,
         "tags": [
             {
                 "key": "dijkstra",
@@ -44887,7 +44887,7 @@
         "titleKo": "골목 대장 호석 - 기능성",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.4945,
+        "averageTries": 2.5023,
         "tags": [
             {
                 "key": "backtracking",
@@ -45301,7 +45301,7 @@
         "titleKo": "특정한 최단 경로",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.9322,
+        "averageTries": 3.9321,
         "tags": [
             {
                 "key": "dijkstra",
@@ -45466,7 +45466,7 @@
         "titleKo": "해킹",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.4182,
+        "averageTries": 2.4169,
         "tags": [
             {
                 "key": "dijkstra",
@@ -45538,7 +45538,7 @@
         "titleKo": "서강그라운드",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.0125,
+        "averageTries": 2.0127,
         "tags": [
             {
                 "key": "dijkstra",
@@ -45961,7 +45961,7 @@
         "titleKo": "파티",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.0363,
+        "averageTries": 2.0359,
         "tags": [
             {
                 "key": "dijkstra",
@@ -46723,7 +46723,7 @@
         "titleKo": "경로 찾기",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.5929,
+        "averageTries": 1.5928,
         "tags": [
             {
                 "key": "floyd_warshall",
@@ -47509,7 +47509,7 @@
         "titleKo": "플로이드",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.3563,
+        "averageTries": 2.3561,
         "tags": [
             {
                 "key": "floyd_warshall",
@@ -48169,7 +48169,7 @@
         "titleKo": "타임머신",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.8321,
+        "averageTries": 3.8312,
         "tags": [
             {
                 "key": "bellman_ford",
@@ -48241,7 +48241,7 @@
         "titleKo": "웜홀",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 4.7682,
+        "averageTries": 4.7677,
         "tags": [
             {
                 "key": "bellman_ford",
@@ -48406,7 +48406,7 @@
         "titleKo": "가운데에서 만나기",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.0955,
+        "averageTries": 2.0891,
         "tags": [
             {
                 "key": "floyd_warshall",
@@ -48550,7 +48550,7 @@
         "titleKo": "산책 (large)",
         "isSolvable": true,
         "level": 17,
-        "averageTries": 5.5574,
+        "averageTries": 5.5838,
         "tags": [
             {
                 "key": "dijkstra",
@@ -49030,7 +49030,7 @@
         "titleKo": "뱀",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.4012,
+        "averageTries": 2.4007,
         "tags": [
             {
                 "key": "data_structures",
@@ -50422,7 +50422,7 @@
         "titleKo": "원판 돌리기",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.8379,
+        "averageTries": 2.8373,
         "tags": [
             {
                 "key": "implementation",
@@ -50659,7 +50659,7 @@
         "titleKo": "미네랄",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 3.7873,
+        "averageTries": 3.7871,
         "tags": [
             {
                 "key": "bfs",
@@ -51010,7 +51010,7 @@
         "titleKo": "낚시왕",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 3.6246,
+        "averageTries": 3.6224,
         "tags": [
             {
                 "key": "implementation",
@@ -51061,7 +51061,7 @@
         "titleKo": "새로운 게임 2",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.0755,
+        "averageTries": 2.0748,
         "tags": [
             {
                 "key": "implementation",
@@ -51328,7 +51328,7 @@
         "titleKo": "큐빙",
         "isSolvable": true,
         "level": 16,
-        "averageTries": 2.5937,
+        "averageTries": 2.5949,
         "tags": [
             {
                 "key": "implementation",
@@ -51688,7 +51688,7 @@
         "titleKo": "구슬 탈출 2",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 3.5186,
+        "averageTries": 3.5182,
         "tags": [
             {
                 "key": "bfs",
@@ -52642,7 +52642,7 @@
         "titleKo": "팰린드롬 척화비",
         "isSolvable": true,
         "level": 3,
-        "averageTries": 1.218,
+        "averageTries": 1.2169,
         "tags": [
             {
                 "key": "ad_hoc",
@@ -52693,7 +52693,7 @@
         "titleKo": "숫자의 합",
         "isSolvable": true,
         "level": 2,
-        "averageTries": 1.7842,
+        "averageTries": 1.7841,
         "tags": [
             {
                 "key": "implementation",
@@ -52765,7 +52765,7 @@
         "titleKo": "단어의 개수",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 3.0018,
+        "averageTries": 3.0017,
         "tags": [
             {
                 "key": "implementation",
@@ -52816,7 +52816,7 @@
         "titleKo": "알파벳 찾기",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 1.8708,
+        "averageTries": 1.8709,
         "tags": [
             {
                 "key": "implementation",
@@ -53020,7 +53020,7 @@
         "titleKo": "대소문자 바꾸기",
         "isSolvable": true,
         "level": 1,
-        "averageTries": 1.3265,
+        "averageTries": 1.3264,
         "tags": [
             {
                 "key": "implementation",
@@ -53071,7 +53071,7 @@
         "titleKo": "암호",
         "isSolvable": true,
         "level": 4,
-        "averageTries": 1.8074,
+        "averageTries": 1.8058,
         "tags": [
             {
                 "key": "implementation",
@@ -53173,7 +53173,7 @@
         "titleKo": "명령 프롬프트",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 1.6801,
+        "averageTries": 1.6796,
         "tags": [
             {
                 "key": "implementation",
@@ -53224,7 +53224,7 @@
         "titleKo": "세로읽기",
         "isSolvable": true,
         "level": 5,
-        "averageTries": 2.0819,
+        "averageTries": 2.0817,
         "tags": [
             {
                 "key": "implementation",
@@ -53644,7 +53644,7 @@
         "titleKo": "그룹 단어 체커",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 1.8553,
+        "averageTries": 1.8551,
         "tags": [
             {
                 "key": "implementation",
@@ -53695,7 +53695,7 @@
         "titleKo": "크로아티아 알파벳",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.2426,
+        "averageTries": 2.2424,
         "tags": [
             {
                 "key": "implementation",
@@ -53746,7 +53746,7 @@
         "titleKo": "단어 정렬",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.4564,
+        "averageTries": 2.4562,
         "tags": [
             {
                 "key": "sorting",
@@ -53797,7 +53797,7 @@
         "titleKo": "Java vs C++",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 4.775,
+        "averageTries": 4.7808,
         "tags": [
             {
                 "key": "case_work",
@@ -54013,7 +54013,7 @@
         "titleKo": "비밀번호 발음하기",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.0495,
+        "averageTries": 2.051,
         "tags": [
             {
                 "key": "implementation",
@@ -54472,7 +54472,7 @@
         "titleKo": "부분 문자열",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.5282,
+        "averageTries": 2.5295,
         "tags": [
             {
                 "key": "greedy",
@@ -54523,7 +54523,7 @@
         "titleKo": "지뢰 찾기",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 3.2795,
+        "averageTries": 3.279,
         "tags": [
             {
                 "key": "implementation",
@@ -54697,7 +54697,7 @@
         "titleKo": "듣보잡",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.3949,
+        "averageTries": 2.395,
         "tags": [
             {
                 "key": "data_structures",
@@ -54790,7 +54790,7 @@
         "titleKo": "접미사 배열",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.4029,
+        "averageTries": 1.4026,
         "tags": [
             {
                 "key": "sorting",
@@ -54841,7 +54841,7 @@
         "titleKo": "나는야 포켓몬 마스터 이다솜",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.8629,
+        "averageTries": 2.8636,
         "tags": [
             {
                 "key": "data_structures",
@@ -54892,7 +54892,7 @@
         "titleKo": "팰린드롬 만들기",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.3152,
+        "averageTries": 2.3155,
         "tags": [
             {
                 "key": "greedy",
@@ -55201,7 +55201,7 @@
         "titleKo": "단어 뒤집기 2",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 1.7561,
+        "averageTries": 1.7563,
         "tags": [
             {
                 "key": "data_structures",
@@ -56320,7 +56320,7 @@
         "titleKo": "선수과목 (Prerequisite)",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 1.5299,
+        "averageTries": 1.5305,
         "tags": [
             {
                 "key": "dag",
@@ -56413,7 +56413,7 @@
         "titleKo": "작업",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.2552,
+        "averageTries": 2.2562,
         "tags": [
             {
                 "key": "dag",
@@ -56578,7 +56578,7 @@
         "titleKo": "ACM Craft",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.3524,
+        "averageTries": 3.3523,
         "tags": [
             {
                 "key": "dag",
@@ -56764,7 +56764,7 @@
         "titleKo": "Strahler 순서",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.4819,
+        "averageTries": 2.4816,
         "tags": [
             {
                 "key": "dag",
@@ -56836,7 +56836,7 @@
         "titleKo": "줄 세우기",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 1.736,
+        "averageTries": 1.7357,
         "tags": [
             {
                 "key": "dag",
@@ -56908,7 +56908,7 @@
         "titleKo": "문제집",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 2.0217,
+        "averageTries": 2.0218,
         "tags": [
             {
                 "key": "dag",
@@ -57445,7 +57445,7 @@
         "titleKo": "트리 순회",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 1.4906,
+        "averageTries": 1.4904,
         "tags": [
             {
                 "key": "recursion",
@@ -57496,7 +57496,7 @@
         "titleKo": "상근이의 여행",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.6177,
+        "averageTries": 1.6176,
         "tags": [
             {
                 "key": "graphs",
@@ -57598,7 +57598,7 @@
         "titleKo": "트리의 부모 찾기",
         "isSolvable": true,
         "level": 9,
-        "averageTries": 2.3169,
+        "averageTries": 2.3167,
         "tags": [
             {
                 "key": "graphs",
@@ -57742,7 +57742,7 @@
         "titleKo": "트리",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.3803,
+        "averageTries": 3.381,
         "tags": [
             {
                 "key": "dfs",
@@ -58528,7 +58528,7 @@
         "titleKo": "노드사이의 거리",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 1.8293,
+        "averageTries": 1.8292,
         "tags": [
             {
                 "key": "bfs",
@@ -58642,7 +58642,7 @@
         "titleKo": "트리의 지름",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.4544,
+        "averageTries": 2.4543,
         "tags": [
             {
                 "key": "dfs",
@@ -58735,7 +58735,7 @@
         "titleKo": "가장 가까운 공통 조상",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 1.9106,
+        "averageTries": 1.9099,
         "tags": [
             {
                 "key": "dfs",
@@ -59179,7 +59179,7 @@
         "titleKo": "회사 문화 1",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.7414,
+        "averageTries": 2.7421,
         "tags": [
             {
                 "key": "dfs",
@@ -59821,7 +59821,7 @@
         "titleKo": "북쪽나라의 도로",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 2.8932,
+        "averageTries": 2.8915,
         "tags": [
             {
                 "key": "dfs",
@@ -59986,7 +59986,7 @@
         "titleKo": "트리의 순회",
         "isSolvable": true,
         "level": 15,
-        "averageTries": 3.0307,
+        "averageTries": 3.0313,
         "tags": [
             {
                 "key": "divide_and_conquer",
@@ -60058,7 +60058,7 @@
         "titleKo": "사회망 서비스(SNS)",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.6221,
+        "averageTries": 2.6205,
         "tags": [
             {
                 "key": "dp",
@@ -60130,7 +60130,7 @@
         "titleKo": "LCA",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.4405,
+        "averageTries": 2.4399,
         "tags": [
             {
                 "key": "graphs",
@@ -60367,7 +60367,7 @@
         "titleKo": "트리의 높이와 너비",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 3.5179,
+        "averageTries": 3.5174,
         "tags": [
             {
                 "key": "dfs",
@@ -60781,7 +60781,7 @@
         "titleKo": "우수 마을",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 1.83,
+        "averageTries": 1.8294,
         "tags": [
             {
                 "key": "dp",
@@ -61411,7 +61411,7 @@
         "titleKo": "문자열 집합",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 1.8504,
+        "averageTries": 1.8503,
         "tags": [
             {
                 "key": "data_structures",
@@ -61504,7 +61504,7 @@
         "titleKo": "전화번호 목록",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.1851,
+        "averageTries": 3.184,
         "tags": [
             {
                 "key": "data_structures",
@@ -62437,7 +62437,7 @@
         "titleKo": "두 용액",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 3.1573,
+        "averageTries": 3.1575,
         "tags": [
             {
                 "key": "binary_search",
@@ -62560,7 +62560,7 @@
         "titleKo": "부분합",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.7939,
+        "averageTries": 3.7927,
         "tags": [
             {
                 "key": "prefix_sum",
@@ -62611,7 +62611,7 @@
         "titleKo": "합이 0인 네 정수",
         "isSolvable": true,
         "level": 14,
-        "averageTries": 4.3855,
+        "averageTries": 4.3896,
         "tags": [
             {
                 "key": "binary_search",
@@ -62704,7 +62704,7 @@
         "titleKo": "귀여운 라이언",
         "isSolvable": true,
         "level": 10,
-        "averageTries": 2.6272,
+        "averageTries": 2.6271,
         "tags": [
             {
                 "key": "sliding_window",
@@ -62806,7 +62806,7 @@
         "titleKo": "세 용액",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 3.6702,
+        "averageTries": 3.6703,
         "tags": [
             {
                 "key": "binary_search",
@@ -62878,7 +62878,7 @@
         "titleKo": "소수의 연속합",
         "isSolvable": true,
         "level": 13,
-        "averageTries": 2.4172,
+        "averageTries": 2.4171,
         "tags": [
             {
                 "key": "math",
@@ -63115,7 +63115,7 @@
         "titleKo": "배열 합치기",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.1473,
+        "averageTries": 2.1472,
         "tags": [
             {
                 "key": "sorting",
@@ -63166,7 +63166,7 @@
         "titleKo": "수들의 합 5",
         "isSolvable": true,
         "level": 6,
-        "averageTries": 2.0512,
+        "averageTries": 2.0517,
         "tags": [
             {
                 "key": "math",
@@ -63217,7 +63217,7 @@
         "titleKo": "주몽",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.1275,
+        "averageTries": 2.1283,
         "tags": [
             {
                 "key": "sorting",
@@ -63268,7 +63268,7 @@
         "titleKo": "두 수의 합",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.8961,
+        "averageTries": 2.8963,
         "tags": [
             {
                 "key": "sorting",
@@ -63463,7 +63463,7 @@
         "titleKo": "수들의 합 2",
         "isSolvable": true,
         "level": 7,
-        "averageTries": 2.0664,
+        "averageTries": 2.0663,
         "tags": [
             {
                 "key": "bruteforcing",
@@ -63535,7 +63535,7 @@
         "titleKo": "수열",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.7235,
+        "averageTries": 2.7244,
         "tags": [
             {
                 "key": "prefix_sum",
@@ -63679,7 +63679,7 @@
         "titleKo": "두 개의 탑",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.4533,
+        "averageTries": 2.4539,
         "tags": [
             {
                 "key": "prefix_sum",
@@ -64117,7 +64117,7 @@
         "titleKo": "문자열 생성",
         "isSolvable": true,
         "level": 12,
-        "averageTries": 3.9952,
+        "averageTries": 3.9928,
         "tags": [
             {
                 "key": "greedy",
@@ -64477,7 +64477,7 @@
         "titleKo": "블로그",
         "isSolvable": true,
         "level": 8,
-        "averageTries": 2.4,
+        "averageTries": 2.3992,
         "tags": [
             {
                 "key": "prefix_sum",
@@ -64528,7 +64528,7 @@
         "titleKo": "가장 긴 짝수 연속한 부분 수열 (large)",
         "isSolvable": true,
         "level": 11,
-        "averageTries": 2.3945,
+        "averageTries": 2.3887,
         "tags": [
             {
                 "key": "two_pointer",
