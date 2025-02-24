@@ -1,9 +1,9 @@
-## 2025/02/24
+## 2025/02/25
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [19637](https://www.acmicpc.net/problem/19637) | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |
-| [16935](https://www.acmicpc.net/problem/16935) | [배열 돌리기 3](https://www.acmicpc.net/problem/16935) |
-| [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
-| [2146](https://www.acmicpc.net/problem/2146) | [다리 만들기](https://www.acmicpc.net/problem/2146) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
+| [16719](https://www.acmicpc.net/problem/16719) | [ZOAC](https://www.acmicpc.net/problem/16719) |
+| [5014](https://www.acmicpc.net/problem/5014) | [스타트링크](https://www.acmicpc.net/problem/5014) |
+| [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
