@@ -1,9 +1,9 @@
-## 2025/03/03
+## 2025/03/04
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
-| [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
-| [6137](https://www.acmicpc.net/problem/6137) | [문자열 생성](https://www.acmicpc.net/problem/6137) |
-| [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
-| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
+| [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
+| [3184](https://www.acmicpc.net/problem/3184) | [양](https://www.acmicpc.net/problem/3184) |
+| [1916](https://www.acmicpc.net/problem/1916) | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |
+| [22948](https://www.acmicpc.net/problem/22948) | [원 이동하기 2](https://www.acmicpc.net/problem/22948) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
