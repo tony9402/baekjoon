@@ -1,9 +1,9 @@
-## 2025/03/08
+## 2025/03/09
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1913](https://www.acmicpc.net/problem/1913) | [달팽이](https://www.acmicpc.net/problem/1913) |
-| [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
-| [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
-| [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [14594](https://www.acmicpc.net/problem/14594) | [동방 프로젝트 (Small)](https://www.acmicpc.net/problem/14594) |
+| [16928](https://www.acmicpc.net/problem/16928) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |
+| [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) |
+| [14476](https://www.acmicpc.net/problem/14476) | [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
