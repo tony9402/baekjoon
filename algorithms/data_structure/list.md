@@ -14,7 +14,7 @@
 1,10866,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/10866
 1,2346,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2346
 ,10845,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/10845
-,4949,
+,4949,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/4949
 ,3986,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/3986
 ,1021,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1021
 ,5397,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/5397

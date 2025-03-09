@@ -46,7 +46,7 @@
 1,2073,
 1,1520,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1520
 1,2056,
-,2602,
+,2602,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2602
 ,2616,
 ,17404,
 1,1695,

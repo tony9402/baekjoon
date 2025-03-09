@@ -5,7 +5,7 @@
 1,2798,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2798
 ,2309,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2309
 1,2231,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2231
-,14697,
+,14697,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/14697
 ,1668,
 ,13410,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/13410
 1,19532,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/19532
@@ -76,9 +76,9 @@
 1,15686,
 ,1107,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1107
 ,17471,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/17471
-,1747,
+,1747,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1747
 ,14225,
-,1034,
+,1034,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1034
 1,16637,
 1,14391,
 1,18808,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/18808
@@ -89,6 +89,6 @@
 1,21315,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/21315
 ,2304,
 1,21943,
-1,22864,
-1,22944,
+1,22864,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/22864
+1,22944,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/22944
 ,22947,

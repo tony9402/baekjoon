@@ -1,13 +1,13 @@
-1,14567,
+1,14567,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/14567
 ,2056,
 ,14676,
-1,1005,
-,1516,
+1,1005,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1005
+,1516,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1516
 ,9470,
 1,2252,
 1,1766,
 1,2623,
-,2637,
+,2637,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2637
 ,20119,
 ,3665,
 ,1948,
