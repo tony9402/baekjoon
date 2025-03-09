@@ -20,7 +20,7 @@
 
 |순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|<a href="./../../solution/trie/14425" target="_blank">바로 가기</a>|
+|000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/14425" target="_blank">바로 가기</a>|
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a>|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/5052" target="_blank">5052</a>|<a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>||
 |003|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/20166" target="_blank">20166</a>|<a href="https://www.acmicpc.net/problem/20166" target="_blank">문자열 지옥에 빠진 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>||

@@ -1,4 +1,4 @@
-1,14425,./../../solution/trie/14425
+1,14425,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/14425
 1,5052,
 1,4358,
 1,14725,

@@ -13,9 +13,9 @@
 ,1261,
 ,1504,
 ,4485,
-,10282,./../../solution/shortest_path/10282
+,10282,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/10282
 1,14938,
-1,1719,./../../solution/shortest_path/1719
+1,1719,https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1719
 ,18223,
 ,20007,
 1,1277,
