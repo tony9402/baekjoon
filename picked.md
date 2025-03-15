@@ -1,9 +1,9 @@
-## 2025/03/15
+## 2025/03/16
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
-| [12908](https://www.acmicpc.net/problem/12908) | [텔레포트 3](https://www.acmicpc.net/problem/12908) |
-| [1863](https://www.acmicpc.net/problem/1863) | [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) |
-| [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
+| [2877](https://www.acmicpc.net/problem/2877) | [4와 7](https://www.acmicpc.net/problem/2877) |
+| [20040](https://www.acmicpc.net/problem/20040) | [사이클 게임](https://www.acmicpc.net/problem/20040) |
+| [17780](https://www.acmicpc.net/problem/17780) | [새로운 게임](https://www.acmicpc.net/problem/17780) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
