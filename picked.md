@@ -1,9 +1,9 @@
-## 2025/04/17
+## 2025/04/18
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1259](https://www.acmicpc.net/problem/1259) | [팰린드롬수](https://www.acmicpc.net/problem/1259) |
-| [4095](https://www.acmicpc.net/problem/4095) | [최대 정사각형](https://www.acmicpc.net/problem/4095) |
-| [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
-| [22861](https://www.acmicpc.net/problem/22861) | [폴더 정리 (large)](https://www.acmicpc.net/problem/22861) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [2744](https://www.acmicpc.net/problem/2744) | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
+| [18116](https://www.acmicpc.net/problem/18116) | [로봇 조립](https://www.acmicpc.net/problem/18116) |
+| [21608](https://www.acmicpc.net/problem/21608) | [상어 초등학교](https://www.acmicpc.net/problem/21608) |
+| [1368](https://www.acmicpc.net/problem/1368) | [물대기](https://www.acmicpc.net/problem/1368) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
