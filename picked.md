@@ -1,9 +1,9 @@
-## 2025/04/25
+## 2025/04/26
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
-| [11403](https://www.acmicpc.net/problem/11403) | [경로 찾기](https://www.acmicpc.net/problem/11403) |
-| [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
-| [7579](https://www.acmicpc.net/problem/7579) | [앱](https://www.acmicpc.net/problem/7579) |
-| [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
+| [9019](https://www.acmicpc.net/problem/9019) | [DSLR](https://www.acmicpc.net/problem/9019) |
+| [1548](https://www.acmicpc.net/problem/1548) | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) |
+| [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
