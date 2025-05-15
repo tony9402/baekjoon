@@ -1,9 +1,9 @@
-## 2025/05/15
+## 2025/05/16
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [5534](https://www.acmicpc.net/problem/5534) | [간판](https://www.acmicpc.net/problem/5534) |
-| [20364](https://www.acmicpc.net/problem/20364) | [부동산 다툼](https://www.acmicpc.net/problem/20364) |
-| [5549](https://www.acmicpc.net/problem/5549) | [행성 탐사](https://www.acmicpc.net/problem/5549) |
-| [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [1620](https://www.acmicpc.net/problem/1620) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |
+| [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |
+| [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
+| [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
