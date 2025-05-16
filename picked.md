@@ -1,9 +1,9 @@
-## 2025/05/16
+## 2025/05/17
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1620](https://www.acmicpc.net/problem/1620) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |
-| [13913](https://www.acmicpc.net/problem/13913) | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |
-| [1074](https://www.acmicpc.net/problem/1074) | [Z](https://www.acmicpc.net/problem/1074) |
-| [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
-| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
+| [2578](https://www.acmicpc.net/problem/2578) | [빙고](https://www.acmicpc.net/problem/2578) |
+| [1068](https://www.acmicpc.net/problem/1068) | [트리](https://www.acmicpc.net/problem/1068) |
+| [1025](https://www.acmicpc.net/problem/1025) | [제곱수 찾기](https://www.acmicpc.net/problem/1025) |
+| [2629](https://www.acmicpc.net/problem/2629) | [양팔저울](https://www.acmicpc.net/problem/2629) |
+| [5446](https://www.acmicpc.net/problem/5446) | [용량 부족](https://www.acmicpc.net/problem/5446) |
