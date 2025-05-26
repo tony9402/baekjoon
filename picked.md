@@ -1,9 +1,9 @@
-## 2025/05/25
+## 2025/05/27
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10988](https://www.acmicpc.net/problem/10988) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
-| [17085](https://www.acmicpc.net/problem/17085) | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) |
-| [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
-| [17142](https://www.acmicpc.net/problem/17142) | [연구소 3](https://www.acmicpc.net/problem/17142) |
+| [16435](https://www.acmicpc.net/problem/16435) | [스네이크버드](https://www.acmicpc.net/problem/16435) |
+| [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) |
+| [20159](https://www.acmicpc.net/problem/20159) | [동작 그만. 밑장 빼기냐?](https://www.acmicpc.net/problem/20159) |
+| [21757](https://www.acmicpc.net/problem/21757) | [나누기](https://www.acmicpc.net/problem/21757) |
 | [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
