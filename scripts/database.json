@@ -4637,27 +4637,6 @@
         "averageTries": 2.325,
         "tags": [
             {
-                "key": "binary_search",
-                "bojTagId": 12,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "이분 탐색",
-                        "short": "이분 탐색"
-                    },
-                    {
-                        "language": "en",
-                        "name": "binary search",
-                        "short": "binary search"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "二分探索",
-                        "short": "二分探索"
-                    }
-                ]
-            },
-            {
                 "key": "data_structures",
                 "bojTagId": 175,
                 "displayNames": [
@@ -4675,27 +4654,6 @@
                         "language": "ja",
                         "name": "データ構造",
                         "short": "ds"
-                    }
-                ]
-            },
-            {
-                "key": "hash_set",
-                "bojTagId": 136,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "해시를 사용한 집합과 맵",
-                        "short": "해시를 사용한 집합과 맵"
-                    },
-                    {
-                        "language": "en",
-                        "name": "set / map by hashing",
-                        "short": "hashset"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "ハッシュ化によるセット・マップ",
-                        "short": "hashset"
                     }
                 ]
             },
@@ -4721,6 +4679,27 @@
                 ]
             },
             {
+                "key": "binary_search",
+                "bojTagId": 12,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "이분 탐색",
+                        "short": "이분 탐색"
+                    },
+                    {
+                        "language": "en",
+                        "name": "binary search",
+                        "short": "binary search"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "二分探索",
+                        "short": "二分探索"
+                    }
+                ]
+            },
+            {
                 "key": "set",
                 "bojTagId": 225,
                 "displayNames": [
@@ -4733,6 +4712,27 @@
                         "language": "en",
                         "name": "set / map",
                         "short": "set"
+                    }
+                ]
+            },
+            {
+                "key": "hash_set",
+                "bojTagId": 136,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "해시를 사용한 집합과 맵",
+                        "short": "해시를 사용한 집합과 맵"
+                    },
+                    {
+                        "language": "en",
+                        "name": "set / map by hashing",
+                        "short": "hashset"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "ハッシュ化によるセット・マップ",
+                        "short": "hashset"
                     }
                 ]
             }
@@ -15085,27 +15085,6 @@
                 ]
             },
             {
-                "key": "priority_queue",
-                "bojTagId": 59,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "우선순위 큐",
-                        "short": "우선순위 큐"
-                    },
-                    {
-                        "language": "en",
-                        "name": "priority queue",
-                        "short": "priority queue"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "優先度付きキュー",
-                        "short": "優先度付きキュー"
-                    }
-                ]
-            },
-            {
                 "key": "sorting",
                 "bojTagId": 97,
                 "displayNames": [
@@ -15123,6 +15102,27 @@
                         "language": "ja",
                         "name": "ソート",
                         "short": "ソート"
+                    }
+                ]
+            },
+            {
+                "key": "priority_queue",
+                "bojTagId": 59,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "우선순위 큐",
+                        "short": "우선순위 큐"
+                    },
+                    {
+                        "language": "en",
+                        "name": "priority queue",
+                        "short": "priority queue"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "優先度付きキュー",
+                        "short": "優先度付きキュー"
                     }
                 ]
             }
@@ -15792,23 +15792,23 @@
                 ]
             },
             {
-                "key": "hash_set",
-                "bojTagId": 136,
+                "key": "string",
+                "bojTagId": 158,
                 "displayNames": [
                     {
                         "language": "ko",
-                        "name": "해시를 사용한 집합과 맵",
-                        "short": "해시를 사용한 집합과 맵"
+                        "name": "문자열",
+                        "short": "문자열"
                     },
                     {
                         "language": "en",
-                        "name": "set / map by hashing",
-                        "short": "hashset"
+                        "name": "string",
+                        "short": "string"
                     },
                     {
                         "language": "ja",
-                        "name": "ハッシュ化によるセット・マップ",
-                        "short": "hashset"
+                        "name": "文字列",
+                        "short": "文字列"
                     }
                 ]
             },
@@ -15834,27 +15834,6 @@
                 ]
             },
             {
-                "key": "string",
-                "bojTagId": 158,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "문자열",
-                        "short": "문자열"
-                    },
-                    {
-                        "language": "en",
-                        "name": "string",
-                        "short": "string"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "文字列",
-                        "short": "文字列"
-                    }
-                ]
-            },
-            {
                 "key": "set",
                 "bojTagId": 225,
                 "displayNames": [
@@ -15867,6 +15846,27 @@
                         "language": "en",
                         "name": "set / map",
                         "short": "set"
+                    }
+                ]
+            },
+            {
+                "key": "hash_set",
+                "bojTagId": 136,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "해시를 사용한 집합과 맵",
+                        "short": "해시를 사용한 집합과 맵"
+                    },
+                    {
+                        "language": "en",
+                        "name": "set / map by hashing",
+                        "short": "hashset"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "ハッシュ化によるセット・マップ",
+                        "short": "hashset"
                     }
                 ]
             }
@@ -21056,23 +21056,23 @@
         "averageTries": 2.5885,
         "tags": [
             {
-                "key": "combinatorics",
-                "bojTagId": 6,
+                "key": "math",
+                "bojTagId": 124,
                 "displayNames": [
                     {
                         "language": "ko",
-                        "name": "조합론",
-                        "short": "조합론"
+                        "name": "수학",
+                        "short": "수학"
                     },
                     {
                         "language": "en",
-                        "name": "combinatorics",
-                        "short": "combinatorics"
+                        "name": "mathematics",
+                        "short": "math"
                     },
                     {
                         "language": "ja",
-                        "name": "組み合わせ",
-                        "short": "組み合わせ"
+                        "name": "数学",
+                        "short": "数学"
                     }
                 ]
             },
@@ -21098,23 +21098,23 @@
                 ]
             },
             {
-                "key": "math",
-                "bojTagId": 124,
+                "key": "combinatorics",
+                "bojTagId": 6,
                 "displayNames": [
                     {
                         "language": "ko",
-                        "name": "수학",
-                        "short": "수학"
+                        "name": "조합론",
+                        "short": "조합론"
                     },
                     {
                         "language": "en",
-                        "name": "mathematics",
-                        "short": "math"
+                        "name": "combinatorics",
+                        "short": "combinatorics"
                     },
                     {
                         "language": "ja",
-                        "name": "数学",
-                        "short": "数学"
+                        "name": "組み合わせ",
+                        "short": "組み合わせ"
                     }
                 ]
             }
@@ -55752,6 +55752,43 @@
                 ]
             },
             {
+                "key": "string",
+                "bojTagId": 158,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "문자열",
+                        "short": "문자열"
+                    },
+                    {
+                        "language": "en",
+                        "name": "string",
+                        "short": "string"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "文字列",
+                        "short": "文字列"
+                    }
+                ]
+            },
+            {
+                "key": "set",
+                "bojTagId": 225,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "집합과 맵",
+                        "short": "집합과 맵"
+                    },
+                    {
+                        "language": "en",
+                        "name": "set / map",
+                        "short": "set"
+                    }
+                ]
+            },
+            {
                 "key": "hash_set",
                 "bojTagId": 136,
                 "displayNames": [
@@ -55790,43 +55827,6 @@
                         "language": "ja",
                         "name": "パージング",
                         "short": "パージング"
-                    }
-                ]
-            },
-            {
-                "key": "string",
-                "bojTagId": 158,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "문자열",
-                        "short": "문자열"
-                    },
-                    {
-                        "language": "en",
-                        "name": "string",
-                        "short": "string"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "文字列",
-                        "short": "文字列"
-                    }
-                ]
-            },
-            {
-                "key": "set",
-                "bojTagId": 225,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "집합과 맵",
-                        "short": "집합과 맵"
-                    },
-                    {
-                        "language": "en",
-                        "name": "set / map",
-                        "short": "set"
                     }
                 ]
             }
