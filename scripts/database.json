@@ -10468,6 +10468,27 @@
         "averageTries": 2.5754,
         "tags": [
             {
+                "key": "implementation",
+                "bojTagId": 102,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "구현",
+                        "short": "구현"
+                    },
+                    {
+                        "language": "en",
+                        "name": "implementation",
+                        "short": "impl"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "実装",
+                        "short": "impl"
+                    }
+                ]
+            },
+            {
                 "key": "bruteforcing",
                 "bojTagId": 125,
                 "displayNames": [
@@ -10485,27 +10506,6 @@
                         "language": "ja",
                         "name": "全探索",
                         "short": "全探索"
-                    }
-                ]
-            },
-            {
-                "key": "case_work",
-                "bojTagId": 137,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "많은 조건 분기",
-                        "short": "많은 조건 분기"
-                    },
-                    {
-                        "language": "en",
-                        "name": "case work",
-                        "short": "case work"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "ケースワーク",
-                        "short": "ケースワーク"
                     }
                 ]
             },
@@ -10531,23 +10531,23 @@
                 ]
             },
             {
-                "key": "implementation",
-                "bojTagId": 102,
+                "key": "case_work",
+                "bojTagId": 137,
                 "displayNames": [
                     {
                         "language": "ko",
-                        "name": "구현",
-                        "short": "구현"
+                        "name": "많은 조건 분기",
+                        "short": "많은 조건 분기"
                     },
                     {
                         "language": "en",
-                        "name": "implementation",
-                        "short": "impl"
+                        "name": "case work",
+                        "short": "case work"
                     },
                     {
                         "language": "ja",
-                        "name": "実装",
-                        "short": "impl"
+                        "name": "ケースワーク",
+                        "short": "ケースワーク"
                     }
                 ]
             }
@@ -40409,27 +40409,6 @@
         "averageTries": 1.7121,
         "tags": [
             {
-                "key": "implementation",
-                "bojTagId": 102,
-                "displayNames": [
-                    {
-                        "language": "ko",
-                        "name": "구현",
-                        "short": "구현"
-                    },
-                    {
-                        "language": "en",
-                        "name": "implementation",
-                        "short": "impl"
-                    },
-                    {
-                        "language": "ja",
-                        "name": "実装",
-                        "short": "impl"
-                    }
-                ]
-            },
-            {
                 "key": "math",
                 "bojTagId": 124,
                 "displayNames": [
@@ -40447,6 +40426,27 @@
                         "language": "ja",
                         "name": "数学",
                         "short": "数学"
+                    }
+                ]
+            },
+            {
+                "key": "implementation",
+                "bojTagId": 102,
+                "displayNames": [
+                    {
+                        "language": "ko",
+                        "name": "구현",
+                        "short": "구현"
+                    },
+                    {
+                        "language": "en",
+                        "name": "implementation",
+                        "short": "impl"
+                    },
+                    {
+                        "language": "ja",
+                        "name": "実装",
+                        "short": "impl"
                     }
                 ]
             },
