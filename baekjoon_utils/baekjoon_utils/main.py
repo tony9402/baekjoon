@@ -36,34 +36,37 @@ def main():
 
     api = SolvedAPI()
     if option & 2:
-        # Update Contributors
-        contributors = contributor_make_table()
+        try: # solved.ac cloudfare 도입으로 인해 임시처리
+            # Update Contributors
+            contributors = contributor_make_table()
 
-        with open("markdown/contributors.md", "w") as f:
-            f.write("## Contributors\n\n")
-            f.write(contributors + "\n\n")
-            f.close()
-
-        # Update Problems
-        api.update_all()
-        tags = glob("algorithms/*")
-        for tag_path in tags:
-            tag = os.path.basename(tag_path)
-            p = ProblemByTag(tag)
-            with open(os.path.join(tag_path, "header.md"), "r") as f:
-                header = f.read()
+            with open("markdown/contributors.md", "w") as f:
+                f.write("## Contributors\n\n")
+                f.write(contributors + "\n\n")
                 f.close()
 
-            with open(os.path.join(tag_path, "README.md"), "w") as f:
-                f.write(header + "\n\n")
-                f.write(p.make_table())
-                f.close()
+            # Update Problems
+            api.update_all()
+            tags = glob("algorithms/*")
+            for tag_path in tags:
+                tag = os.path.basename(tag_path)
+                p = ProblemByTag(tag)
+                with open(os.path.join(tag_path, "header.md"), "r") as f:
+                    header = f.read()
+                    f.close()
 
-            with open("update_log.md", "w") as f:
-                import time
-                time.tzset()
-                f.write(time.strftime('%X %x %Z'))
-                f.close()
+                with open(os.path.join(tag_path, "README.md"), "w") as f:
+                    f.write(header + "\n\n")
+                    f.write(p.make_table())
+                    f.close()
+
+                with open("update_log.md", "w") as f:
+                    import time
+                    time.tzset()
+                    f.write(time.strftime('%X %x %Z'))
+                    f.close()
+        except Exception as e:
+            pass
 
     if option & 1:
         picker = TodayProblemPicker()
