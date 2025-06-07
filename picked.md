@@ -1,9 +1,9 @@
-## 2025/06/06
+## 2025/06/07
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1316](https://www.acmicpc.net/problem/1316) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
-| [9205](https://www.acmicpc.net/problem/9205) | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |
-| [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
-| [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
-| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| [1251](https://www.acmicpc.net/problem/1251) | [단어 나누기](https://www.acmicpc.net/problem/1251) |
+| [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
+| [1926](https://www.acmicpc.net/problem/1926) | [그림](https://www.acmicpc.net/problem/1926) |
+| [3665](https://www.acmicpc.net/problem/3665) | [최종 순위](https://www.acmicpc.net/problem/3665) |
+| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
