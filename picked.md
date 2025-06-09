@@ -1,9 +1,9 @@
-## 2025/06/09
+## 2025/06/10
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1864](https://www.acmicpc.net/problem/1864) | [문어 숫자](https://www.acmicpc.net/problem/1864) |
-| [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
-| [14728](https://www.acmicpc.net/problem/14728) | [벼락치기](https://www.acmicpc.net/problem/14728) |
-| [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [2748](https://www.acmicpc.net/problem/2748) | [피보나치 수 2](https://www.acmicpc.net/problem/2748) |
+| [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
+| [2263](https://www.acmicpc.net/problem/2263) | [트리의 순회](https://www.acmicpc.net/problem/2263) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
