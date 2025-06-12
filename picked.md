@@ -1,9 +1,9 @@
-## 2025/06/12
+## 2025/06/13
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11441](https://www.acmicpc.net/problem/11441) | [합 구하기](https://www.acmicpc.net/problem/11441) |
-| [20164](https://www.acmicpc.net/problem/20164) | [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164) |
-| [16927](https://www.acmicpc.net/problem/16927) | [배열 돌리기 2](https://www.acmicpc.net/problem/16927) |
-| [1941](https://www.acmicpc.net/problem/1941) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |
-| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
+| [10815](https://www.acmicpc.net/problem/10815) | [숫자 카드](https://www.acmicpc.net/problem/10815) |
+| [9489](https://www.acmicpc.net/problem/9489) | [사촌](https://www.acmicpc.net/problem/9489) |
+| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| [1445](https://www.acmicpc.net/problem/1445) | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
