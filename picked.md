@@ -1,9 +1,9 @@
-## 2025/06/18
+## 2025/06/19
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [4096](https://www.acmicpc.net/problem/4096) | [팰린드로미터](https://www.acmicpc.net/problem/4096) |
-| [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
-| [2412](https://www.acmicpc.net/problem/2412) | [암벽 등반](https://www.acmicpc.net/problem/2412) |
-| [2982](https://www.acmicpc.net/problem/2982) | [국왕의 방문](https://www.acmicpc.net/problem/2982) |
-| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| [10798](https://www.acmicpc.net/problem/10798) | [세로읽기](https://www.acmicpc.net/problem/10798) |
+| [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
+| [20364](https://www.acmicpc.net/problem/20364) | [부동산 다툼](https://www.acmicpc.net/problem/20364) |
+| [17135](https://www.acmicpc.net/problem/17135) | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) |
+| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
