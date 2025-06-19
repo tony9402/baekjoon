@@ -1,9 +1,9 @@
-## 2025/06/19
+## 2025/06/20
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10798](https://www.acmicpc.net/problem/10798) | [세로읽기](https://www.acmicpc.net/problem/10798) |
-| [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
-| [20364](https://www.acmicpc.net/problem/20364) | [부동산 다툼](https://www.acmicpc.net/problem/20364) |
-| [17135](https://www.acmicpc.net/problem/17135) | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [1120](https://www.acmicpc.net/problem/1120) | [문자열](https://www.acmicpc.net/problem/1120) |
+| [20924](https://www.acmicpc.net/problem/20924) | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924) |
+| [3190](https://www.acmicpc.net/problem/3190) | [뱀](https://www.acmicpc.net/problem/3190) |
+| [17616](https://www.acmicpc.net/problem/17616) | [등수 찾기](https://www.acmicpc.net/problem/17616) |
+| [1799](https://www.acmicpc.net/problem/1799) | [비숍](https://www.acmicpc.net/problem/1799) |
