@@ -1,9 +1,9 @@
-## 2025/07/31
+## 2025/08/01
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
-| [10713](https://www.acmicpc.net/problem/10713) | [기차 여행](https://www.acmicpc.net/problem/10713) |
-| [14247](https://www.acmicpc.net/problem/14247) | [나무 자르기](https://www.acmicpc.net/problem/14247) |
-| [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [11653](https://www.acmicpc.net/problem/11653) | [소인수분해](https://www.acmicpc.net/problem/11653) |
+| [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
+| [16564](https://www.acmicpc.net/problem/16564) | [히오스 프로게이머](https://www.acmicpc.net/problem/16564) |
+| [16637](https://www.acmicpc.net/problem/16637) | [괄호 추가하기](https://www.acmicpc.net/problem/16637) |
+| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
