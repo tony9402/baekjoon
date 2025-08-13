@@ -1,9 +1,9 @@
-## 2025/08/13
+## 2025/08/14
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
-| [17265](https://www.acmicpc.net/problem/17265) | [나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265) |
-| [17086](https://www.acmicpc.net/problem/17086) | [아기 상어 2](https://www.acmicpc.net/problem/17086) |
-| [2616](https://www.acmicpc.net/problem/2616) | [소형기관차](https://www.acmicpc.net/problem/2616) |
-| [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
+| [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
+| [20002](https://www.acmicpc.net/problem/20002) | [사과나무](https://www.acmicpc.net/problem/20002) |
+| [2665](https://www.acmicpc.net/problem/2665) | [미로만들기](https://www.acmicpc.net/problem/2665) |
+| [7579](https://www.acmicpc.net/problem/7579) | [앱](https://www.acmicpc.net/problem/7579) |
+| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
