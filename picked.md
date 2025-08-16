@@ -1,9 +1,9 @@
-## 2025/08/16
+## 2025/08/17
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [21920](https://www.acmicpc.net/problem/21920) | [서로소 평균](https://www.acmicpc.net/problem/21920) |
-| [2665](https://www.acmicpc.net/problem/2665) | [미로만들기](https://www.acmicpc.net/problem/2665) |
-| [1759](https://www.acmicpc.net/problem/1759) | [암호 만들기](https://www.acmicpc.net/problem/1759) |
-| [2629](https://www.acmicpc.net/problem/2629) | [양팔저울](https://www.acmicpc.net/problem/2629) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [3613](https://www.acmicpc.net/problem/3613) | [Java vs C++](https://www.acmicpc.net/problem/3613) |
+| [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| [3055](https://www.acmicpc.net/problem/3055) | [탈출](https://www.acmicpc.net/problem/3055) |
+| [1719](https://www.acmicpc.net/problem/1719) | [택배](https://www.acmicpc.net/problem/1719) |
+| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
