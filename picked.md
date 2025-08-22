@@ -1,9 +1,9 @@
-## 2025/08/22
+## 2025/08/23
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
-| [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
-| [7569](https://www.acmicpc.net/problem/7569) | [토마토](https://www.acmicpc.net/problem/7569) |
-| [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [2164](https://www.acmicpc.net/problem/2164) | [카드2](https://www.acmicpc.net/problem/2164) |
+| [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) |
+| [13908](https://www.acmicpc.net/problem/13908) | [비밀번호](https://www.acmicpc.net/problem/13908) |
+| [16235](https://www.acmicpc.net/problem/16235) | [나무 재테크](https://www.acmicpc.net/problem/16235) |
+| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
