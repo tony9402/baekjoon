@@ -1,9 +1,9 @@
-## 2025/08/25
+## 2025/08/26
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) |
-| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
-| [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
-| [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
-| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
+| [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
+| [1092](https://www.acmicpc.net/problem/1092) | [배](https://www.acmicpc.net/problem/1092) |
+| [16398](https://www.acmicpc.net/problem/16398) | [행성 연결](https://www.acmicpc.net/problem/16398) |
+| [17136](https://www.acmicpc.net/problem/17136) | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |
+| [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
