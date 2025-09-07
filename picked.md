@@ -1,9 +1,9 @@
-## 2025/09/07
+## 2025/09/08
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) |
-| [15664](https://www.acmicpc.net/problem/15664) | [N과 M (10)](https://www.acmicpc.net/problem/15664) |
-| [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) |
-| [12757](https://www.acmicpc.net/problem/12757) | [전설의 JBNU](https://www.acmicpc.net/problem/12757) |
-| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
+| [7795](https://www.acmicpc.net/problem/7795) | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) |
+| [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
+| [11051](https://www.acmicpc.net/problem/11051) | [이항 계수 2](https://www.acmicpc.net/problem/11051) |
+| [14391](https://www.acmicpc.net/problem/14391) | [종이 조각](https://www.acmicpc.net/problem/14391) |
+| [17398](https://www.acmicpc.net/problem/17398) | [통신망 분할](https://www.acmicpc.net/problem/17398) |
