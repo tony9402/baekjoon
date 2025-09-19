@@ -1,9 +1,9 @@
-## 2025/09/19
+## 2025/09/20
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [18868](https://www.acmicpc.net/problem/18868) | [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868) |
-| [19641](https://www.acmicpc.net/problem/19641) | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) |
-| [15989](https://www.acmicpc.net/problem/15989) | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |
-| [9007](https://www.acmicpc.net/problem/9007) | [카누 선수](https://www.acmicpc.net/problem/9007) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [14405](https://www.acmicpc.net/problem/14405) | [피카츄](https://www.acmicpc.net/problem/14405) |
+| [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| [1197](https://www.acmicpc.net/problem/1197) | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |
+| [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
