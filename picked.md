@@ -1,9 +1,9 @@
-## 2025/09/28
+## 2025/09/29
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2160](https://www.acmicpc.net/problem/2160) | [그림 비교](https://www.acmicpc.net/problem/2160) |
-| [20168](https://www.acmicpc.net/problem/20168) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) |
-| [2493](https://www.acmicpc.net/problem/2493) | [탑](https://www.acmicpc.net/problem/2493) |
-| [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
+| [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
+| [10472](https://www.acmicpc.net/problem/10472) | [십자뒤집기](https://www.acmicpc.net/problem/10472) |
+| [13911](https://www.acmicpc.net/problem/13911) | [집 구하기](https://www.acmicpc.net/problem/13911) |
+| [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
