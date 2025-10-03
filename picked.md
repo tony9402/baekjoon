@@ -1,9 +1,9 @@
-## 2025/10/03
+## 2025/10/04
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [18512](https://www.acmicpc.net/problem/18512) | [점프 점프](https://www.acmicpc.net/problem/18512) |
-| [1421](https://www.acmicpc.net/problem/1421) | [나무꾼 이다솜](https://www.acmicpc.net/problem/1421) |
-| [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
-| [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
-| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| [1181](https://www.acmicpc.net/problem/1181) | [단어 정렬](https://www.acmicpc.net/problem/1181) |
+| [15270](https://www.acmicpc.net/problem/15270) | [친구 팰린드롬](https://www.acmicpc.net/problem/15270) |
+| [17503](https://www.acmicpc.net/problem/17503) | [맥주 축제](https://www.acmicpc.net/problem/17503) |
+| [15732](https://www.acmicpc.net/problem/15732) | [도토리 숨기기](https://www.acmicpc.net/problem/15732) |
+| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
