@@ -1,9 +1,9 @@
-## 2025/10/05
+## 2025/10/06
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [16916](https://www.acmicpc.net/problem/16916) | [부분 문자열](https://www.acmicpc.net/problem/16916) |
-| [15993](https://www.acmicpc.net/problem/15993) | [1, 2, 3 더하기 8](https://www.acmicpc.net/problem/15993) |
-| [1038](https://www.acmicpc.net/problem/1038) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
-| [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
-| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
+| [20436](https://www.acmicpc.net/problem/20436) | [ZOAC 3](https://www.acmicpc.net/problem/20436) |
+| [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| [11660](https://www.acmicpc.net/problem/11660) | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
+| [1516](https://www.acmicpc.net/problem/1516) | [게임 개발](https://www.acmicpc.net/problem/1516) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
