@@ -1,9 +1,9 @@
-## 2025/10/15
+## 2025/10/16
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
-| [1188](https://www.acmicpc.net/problem/1188) | [음식 평론가](https://www.acmicpc.net/problem/1188) |
-| [12931](https://www.acmicpc.net/problem/12931) | [두 배 더하기](https://www.acmicpc.net/problem/12931) |
-| [1613](https://www.acmicpc.net/problem/1613) | [역사](https://www.acmicpc.net/problem/1613) |
-| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
+| [4779](https://www.acmicpc.net/problem/4779) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
+| [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
+| [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| [1726](https://www.acmicpc.net/problem/1726) | [로봇](https://www.acmicpc.net/problem/1726) |
+| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
