@@ -1,9 +1,9 @@
-## 2025/11/03
+## 2025/11/04
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
-| [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |
-| [15558](https://www.acmicpc.net/problem/15558) | [점프 게임](https://www.acmicpc.net/problem/15558) |
-| [10711](https://www.acmicpc.net/problem/10711) | [모래성](https://www.acmicpc.net/problem/10711) |
-| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
+| [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) |
+| [16194](https://www.acmicpc.net/problem/16194) | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) |
+| [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
+| [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
