@@ -1,9 +1,9 @@
-## 2025/11/04
+## 2025/11/05
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [14929](https://www.acmicpc.net/problem/14929) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) |
-| [16194](https://www.acmicpc.net/problem/16194) | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) |
-| [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
-| [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
-| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
+| [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
+| [17144](https://www.acmicpc.net/problem/17144) | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |
+| [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
+| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
