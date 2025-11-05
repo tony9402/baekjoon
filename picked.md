@@ -1,9 +1,9 @@
-## 2025/11/05
+## 2025/11/06
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [5671](https://www.acmicpc.net/problem/5671) | [호텔 방 번호](https://www.acmicpc.net/problem/5671) |
-| [17144](https://www.acmicpc.net/problem/17144) | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |
-| [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
-| [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
-| [9202](https://www.acmicpc.net/problem/9202) | [Boggle](https://www.acmicpc.net/problem/9202) |
+| [2164](https://www.acmicpc.net/problem/2164) | [카드2](https://www.acmicpc.net/problem/2164) |
+| [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) |
+| [17609](https://www.acmicpc.net/problem/17609) | [회문](https://www.acmicpc.net/problem/17609) |
+| [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
