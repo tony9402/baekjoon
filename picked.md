@@ -1,9 +1,9 @@
-## 2025/11/16
+## 2025/11/17
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1934](https://www.acmicpc.net/problem/1934) | [최소공배수](https://www.acmicpc.net/problem/1934) |
-| [21939](https://www.acmicpc.net/problem/21939) | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) |
-| [2302](https://www.acmicpc.net/problem/2302) | [극장 좌석](https://www.acmicpc.net/problem/2302) |
-| [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
+| [1463](https://www.acmicpc.net/problem/1463) | [1로 만들기](https://www.acmicpc.net/problem/1463) |
+| [15900](https://www.acmicpc.net/problem/15900) | [나무 탈출](https://www.acmicpc.net/problem/15900) |
+| [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
+| [19535](https://www.acmicpc.net/problem/19535) | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) |
 | [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
