@@ -1,9 +1,9 @@
-## 2025/11/21
+## 2025/11/22
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [21312](https://www.acmicpc.net/problem/21312) | [홀짝 칵테일](https://www.acmicpc.net/problem/21312) |
-| [17141](https://www.acmicpc.net/problem/17141) | [연구소 2](https://www.acmicpc.net/problem/17141) |
-| [2469](https://www.acmicpc.net/problem/2469) | [사다리 타기](https://www.acmicpc.net/problem/2469) |
-| [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
-| [1799](https://www.acmicpc.net/problem/1799) | [비숍](https://www.acmicpc.net/problem/1799) |
+| [1789](https://www.acmicpc.net/problem/1789) | [수들의 합](https://www.acmicpc.net/problem/1789) |
+| [13164](https://www.acmicpc.net/problem/13164) | [행복 유치원](https://www.acmicpc.net/problem/13164) |
+| [5557](https://www.acmicpc.net/problem/5557) | [1학년](https://www.acmicpc.net/problem/5557) |
+| [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
+| [2887](https://www.acmicpc.net/problem/2887) | [행성 터널](https://www.acmicpc.net/problem/2887) |
