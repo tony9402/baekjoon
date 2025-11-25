@@ -1,9 +1,9 @@
-## 2025/11/25
+## 2025/11/26
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [15721](https://www.acmicpc.net/problem/15721) | [번데기](https://www.acmicpc.net/problem/15721) |
-| [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080) |
-| [11403](https://www.acmicpc.net/problem/11403) | [경로 찾기](https://www.acmicpc.net/problem/11403) |
-| [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [9613](https://www.acmicpc.net/problem/9613) | [GCD 합](https://www.acmicpc.net/problem/9613) |
+| [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| [16168](https://www.acmicpc.net/problem/16168) | [퍼레이드](https://www.acmicpc.net/problem/16168) |
+| [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
