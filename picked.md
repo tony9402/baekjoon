@@ -1,9 +1,9 @@
-## 2025/11/28
+## 2025/11/29
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
-| [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
-| [1240](https://www.acmicpc.net/problem/1240) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |
-| [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [4779](https://www.acmicpc.net/problem/4779) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
+| [5212](https://www.acmicpc.net/problem/5212) | [지구 온난화](https://www.acmicpc.net/problem/5212) |
+| [10703](https://www.acmicpc.net/problem/10703) | [유성](https://www.acmicpc.net/problem/10703) |
+| [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
