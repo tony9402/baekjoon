@@ -1,9 +1,9 @@
-## 2025/12/24
+## 2025/12/25
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [5883](https://www.acmicpc.net/problem/5883) | [아이폰 9S](https://www.acmicpc.net/problem/5883) |
-| [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
-| [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
-| [3665](https://www.acmicpc.net/problem/3665) | [최종 순위](https://www.acmicpc.net/problem/3665) |
-| [17831](https://www.acmicpc.net/problem/17831) | [대기업 승범이네](https://www.acmicpc.net/problem/17831) |
+| [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
+| [1553](https://www.acmicpc.net/problem/1553) | [도미노 찾기](https://www.acmicpc.net/problem/1553) |
+| [22862](https://www.acmicpc.net/problem/22862) | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
+| [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
