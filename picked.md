@@ -1,9 +1,9 @@
-## 2026/01/20
+## 2026/01/21
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1059](https://www.acmicpc.net/problem/1059) | [좋은 구간](https://www.acmicpc.net/problem/1059) |
-| [13424](https://www.acmicpc.net/problem/13424) | [비밀 모임](https://www.acmicpc.net/problem/13424) |
-| [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
-| [22946](https://www.acmicpc.net/problem/22946) | [원 이동하기 1](https://www.acmicpc.net/problem/22946) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [2839](https://www.acmicpc.net/problem/2839) | [설탕 배달](https://www.acmicpc.net/problem/2839) |
+| [2688](https://www.acmicpc.net/problem/2688) | [줄어들지 않아](https://www.acmicpc.net/problem/2688) |
+| [1699](https://www.acmicpc.net/problem/1699) | [제곱수의 합](https://www.acmicpc.net/problem/1699) |
+| [20327](https://www.acmicpc.net/problem/20327) | [배열 돌리기 6](https://www.acmicpc.net/problem/20327) |
+| [3025](https://www.acmicpc.net/problem/3025) | [돌 던지기](https://www.acmicpc.net/problem/3025) |
