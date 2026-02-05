@@ -1,9 +1,9 @@
-## 2026/02/05
+## 2026/02/06
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11727](https://www.acmicpc.net/problem/11727) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) |
-| [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) |
-| [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](https://www.acmicpc.net/problem/11279) |
-| [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
-| [17470](https://www.acmicpc.net/problem/17470) | [배열 돌리기 5](https://www.acmicpc.net/problem/17470) |
+| [6550](https://www.acmicpc.net/problem/6550) | [부분 문자열](https://www.acmicpc.net/problem/6550) |
+| [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
+| [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |
+| [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
