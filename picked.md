@@ -1,9 +1,9 @@
-## 2026/02/06
+## 2026/02/07
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [6550](https://www.acmicpc.net/problem/6550) | [부분 문자열](https://www.acmicpc.net/problem/6550) |
-| [1411](https://www.acmicpc.net/problem/1411) | [비슷한 단어](https://www.acmicpc.net/problem/1411) |
-| [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |
-| [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
-| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
+| [2847](https://www.acmicpc.net/problem/2847) | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) |
+| [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) |
+| [2667](https://www.acmicpc.net/problem/2667) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
+| [15732](https://www.acmicpc.net/problem/15732) | [도토리 숨기기](https://www.acmicpc.net/problem/15732) |
+| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
