@@ -1,9 +1,9 @@
-## 2026/02/11
+## 2026/02/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
-| [7490](https://www.acmicpc.net/problem/7490) | [0 만들기](https://www.acmicpc.net/problem/7490) |
-| [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
-| [16202](https://www.acmicpc.net/problem/16202) | [MST 게임](https://www.acmicpc.net/problem/16202) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [11663](https://www.acmicpc.net/problem/11663) | [선분 위의 점](https://www.acmicpc.net/problem/11663) |
+| [2224](https://www.acmicpc.net/problem/2224) | [명제 증명](https://www.acmicpc.net/problem/2224) |
+| [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+| [14601](https://www.acmicpc.net/problem/14601) | [샤워실 바닥 깔기 (Large)](https://www.acmicpc.net/problem/14601) |
