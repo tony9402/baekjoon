@@ -1,9 +1,9 @@
-## 2026/03/16
+## 2026/03/17
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10994](https://www.acmicpc.net/problem/10994) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
-| [17615](https://www.acmicpc.net/problem/17615) | [볼 모으기](https://www.acmicpc.net/problem/17615) |
-| [1469](https://www.acmicpc.net/problem/1469) | [숌 사이 수열](https://www.acmicpc.net/problem/1469) |
-| [2211](https://www.acmicpc.net/problem/2211) | [네트워크 복구](https://www.acmicpc.net/problem/2211) |
-| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
+| [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
+| [1990](https://www.acmicpc.net/problem/1990) | [소수인팰린드롬](https://www.acmicpc.net/problem/1990) |
+| [2138](https://www.acmicpc.net/problem/2138) | [전구와 스위치](https://www.acmicpc.net/problem/2138) |
+| [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
