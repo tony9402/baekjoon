@@ -1,9 +1,9 @@
-## 2026/04/01
+## 2026/04/02
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2941](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
-| [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) |
-| [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
-| [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
-| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
+| [16956](https://www.acmicpc.net/problem/16956) | [늑대와 양](https://www.acmicpc.net/problem/16956) |
+| [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
+| [10472](https://www.acmicpc.net/problem/10472) | [십자뒤집기](https://www.acmicpc.net/problem/10472) |
+| [20181](https://www.acmicpc.net/problem/20181) | [꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
