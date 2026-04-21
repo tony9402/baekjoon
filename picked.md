@@ -1,9 +1,9 @@
-## 2026/04/21
+## 2026/04/22
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [16937](https://www.acmicpc.net/problem/16937) | [두 스티커](https://www.acmicpc.net/problem/16937) |
-| [16174](https://www.acmicpc.net/problem/16174) | [점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174) |
-| [15961](https://www.acmicpc.net/problem/15961) | [회전 초밥](https://www.acmicpc.net/problem/15961) |
-| [1943](https://www.acmicpc.net/problem/1943) | [동전 분배](https://www.acmicpc.net/problem/1943) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [19637](https://www.acmicpc.net/problem/19637) | [IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |
+| [1647](https://www.acmicpc.net/problem/1647) | [도시 분할 계획](https://www.acmicpc.net/problem/1647) |
+| [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
+| [16971](https://www.acmicpc.net/problem/16971) | [배열 B의 값](https://www.acmicpc.net/problem/16971) |
+| [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
