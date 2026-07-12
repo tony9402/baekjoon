@@ -1,9 +1,9 @@
-## 2026/07/12
+## 2026/07/13
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [15657](https://www.acmicpc.net/problem/15657) | [N과 M (8)](https://www.acmicpc.net/problem/15657) |
-| [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
-| [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) |
-| [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
-| [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
+| [1259](https://www.acmicpc.net/problem/1259) | [팰린드롬수](https://www.acmicpc.net/problem/1259) |
+| [13164](https://www.acmicpc.net/problem/13164) | [행복 유치원](https://www.acmicpc.net/problem/13164) |
+| [2630](https://www.acmicpc.net/problem/2630) | [색종이 만들기](https://www.acmicpc.net/problem/2630) |
+| [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
