@@ -1,9 +1,9 @@
-## 2026/07/23
+## 2026/07/24
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [2876](https://www.acmicpc.net/problem/2876) | [그래픽스 퀴즈](https://www.acmicpc.net/problem/2876) |
-| [13902](https://www.acmicpc.net/problem/13902) | [개업 2](https://www.acmicpc.net/problem/13902) |
-| [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
-| [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
-| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
+| [16508](https://www.acmicpc.net/problem/16508) | [전공책](https://www.acmicpc.net/problem/16508) |
+| [5557](https://www.acmicpc.net/problem/5557) | [1학년](https://www.acmicpc.net/problem/5557) |
+| [14499](https://www.acmicpc.net/problem/14499) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) |
+| [22868](https://www.acmicpc.net/problem/22868) | [산책 (small)](https://www.acmicpc.net/problem/22868) |
+| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
