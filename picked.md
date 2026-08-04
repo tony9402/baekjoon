@@ -1,9 +1,9 @@
-## 2026/08/04
+## 2026/08/05
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [9996](https://www.acmicpc.net/problem/9996) | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) |
-| [18866](https://www.acmicpc.net/problem/18866) | [젊은 날의 생이여](https://www.acmicpc.net/problem/18866) |
-| [22862](https://www.acmicpc.net/problem/22862) | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
-| [10775](https://www.acmicpc.net/problem/10775) | [공항](https://www.acmicpc.net/problem/10775) |
-| [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| [9536](https://www.acmicpc.net/problem/9536) | [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) |
+| [7662](https://www.acmicpc.net/problem/7662) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |
+| [1780](https://www.acmicpc.net/problem/1780) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
+| [12764](https://www.acmicpc.net/problem/12764) | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) |
+| [22949](https://www.acmicpc.net/problem/22949) | [회전 미로 탐색](https://www.acmicpc.net/problem/22949) |
