@@ -1,9 +1,9 @@
-## 2026/08/17
+## 2026/08/18
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [9046](https://www.acmicpc.net/problem/9046) | [복호화](https://www.acmicpc.net/problem/9046) |
-| [13908](https://www.acmicpc.net/problem/13908) | [비밀번호](https://www.acmicpc.net/problem/13908) |
-| [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
-| [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
-| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
+| [1439](https://www.acmicpc.net/problem/1439) | [뒤집기](https://www.acmicpc.net/problem/1439) |
+| [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |
+| [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
+| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
