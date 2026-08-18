@@ -9,7 +9,7 @@
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_pick.yml)  
 -->
 
-[![하루 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402%2Fbaekjoon)](https://github.com/tony9402/baekjoon)
+<!--[![하루 방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402%2Fbaekjoon)](https://github.com/tony9402/baekjoon)-->
 [![Discussions](https://img.shields.io/badge/discussions-바로가기-brightgreen)](https://github.com/tony9402/baekjoon/discussions)
 [![오늘의 문제](https://img.shields.io/badge/오늘의%20문제%20%28BETA%29-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/main/picked.md) 
 [![Contribute](https://img.shields.io/badge/집단%20지성%20프로젝트%20-바로가기-18D6A5)](https://github.com/tony9402/algorithm-solutions)
@@ -18,9 +18,13 @@
 
 ## 코딩테스트 문제집
 
-백준 레포에서 확장을 하여 사이트로 만들었습니다. 필터링, 검색 기능도 있으니 깃헙으로 보는 것보다 조금 더 편할 수 있습니다.
+~~백준 레포에서 확장을 하여 사이트로 만들었습니다. 필터링, 검색 기능도 있으니 깃헙으로 보는 것보다 조금 더 편할 수 있습니다.~~
 
-https://algorithm.tony9402.com/
+집 네트워크가 불안정하여 웹페이지는 중단합니다.
+
+[알고리즘 솔루션](https://github.com/tony9402/algorithm-solutions)들을 보기 편하게 정적 웹페이지로 만든 https://tony9402.github.io/algorithm-solutions/ 을 참고하세요 !
+
+백준은 서비스 종료됐지만 web archive 된 것도 있고 언젠간 다시 부활 예정이라 해당 레포는 계속 유지합니다.
 
 ## 집단지성 프로젝트
 
