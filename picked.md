@@ -1,9 +1,9 @@
-## 2026/08/24
+## 2026/08/25
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
-| [18114](https://www.acmicpc.net/problem/18114) | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) |
-| [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
-| [20667](https://www.acmicpc.net/problem/20667) | [크롬](https://www.acmicpc.net/problem/20667) |
-| [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
+| [9613](https://www.acmicpc.net/problem/9613) | [GCD 합](https://www.acmicpc.net/problem/9613) |
+| [5904](https://www.acmicpc.net/problem/5904) | [Moo 게임](https://www.acmicpc.net/problem/5904) |
+| [12851](https://www.acmicpc.net/problem/12851) | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) |
+| [16202](https://www.acmicpc.net/problem/16202) | [MST 게임](https://www.acmicpc.net/problem/16202) |
+| [5373](https://www.acmicpc.net/problem/5373) | [큐빙](https://www.acmicpc.net/problem/5373) |
