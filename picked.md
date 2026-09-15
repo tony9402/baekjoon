@@ -1,9 +1,9 @@
-## 2026/09/15
+## 2026/09/16
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [1158](https://www.acmicpc.net/problem/1158) | [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
-| [11054](https://www.acmicpc.net/problem/11054) | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
-| [15990](https://www.acmicpc.net/problem/15990) | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) |
-| [1135](https://www.acmicpc.net/problem/1135) | [뉴스 전하기](https://www.acmicpc.net/problem/1135) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [2417](https://www.acmicpc.net/problem/2417) | [정수 제곱근](https://www.acmicpc.net/problem/2417) |
+| [1541](https://www.acmicpc.net/problem/1541) | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
+| [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
+| [17780](https://www.acmicpc.net/problem/17780) | [새로운 게임](https://www.acmicpc.net/problem/17780) |
+| [20543](https://www.acmicpc.net/problem/20543) | [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543) |
