@@ -1,9 +1,9 @@
-## 2026/10/11
+## 2026/10/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [11365](https://www.acmicpc.net/problem/11365) | [!밀비 급일](https://www.acmicpc.net/problem/11365) |
-| [17086](https://www.acmicpc.net/problem/17086) | [아기 상어 2](https://www.acmicpc.net/problem/17086) |
-| [1446](https://www.acmicpc.net/problem/1446) | [지름길](https://www.acmicpc.net/problem/1446) |
-| [1613](https://www.acmicpc.net/problem/1613) | [역사](https://www.acmicpc.net/problem/1613) |
-| [15806](https://www.acmicpc.net/problem/15806) | [영우의 기숙사 청소](https://www.acmicpc.net/problem/15806) |
+| [15886](https://www.acmicpc.net/problem/15886) | [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886) |
+| [1553](https://www.acmicpc.net/problem/1553) | [도미노 찾기](https://www.acmicpc.net/problem/1553) |
+| [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
+| [15684](https://www.acmicpc.net/problem/15684) | [사다리 조작](https://www.acmicpc.net/problem/15684) |
+| [1799](https://www.acmicpc.net/problem/1799) | [비숍](https://www.acmicpc.net/problem/1799) |
