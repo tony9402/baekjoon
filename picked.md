@@ -1,9 +1,9 @@
-## 2026/10/26
+## 2026/10/27
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [15721](https://www.acmicpc.net/problem/15721) | [번데기](https://www.acmicpc.net/problem/15721) |
-| [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
-| [21315](https://www.acmicpc.net/problem/21315) | [카드 섞기](https://www.acmicpc.net/problem/21315) |
-| [12978](https://www.acmicpc.net/problem/12978) | [스크루지 민호 2](https://www.acmicpc.net/problem/12978) |
-| [1219](https://www.acmicpc.net/problem/1219) | [오민식의 고민](https://www.acmicpc.net/problem/1219) |
+| [18511](https://www.acmicpc.net/problem/18511) | [큰 수 구성하기](https://www.acmicpc.net/problem/18511) |
+| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) |
+| [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
+| [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
+| [1948](https://www.acmicpc.net/problem/1948) | [임계경로](https://www.acmicpc.net/problem/1948) |
