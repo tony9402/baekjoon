@@ -1,9 +1,9 @@
-## 2026/11/11
+## 2026/11/12
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [21312](https://www.acmicpc.net/problem/21312) | [홀짝 칵테일](https://www.acmicpc.net/problem/21312) |
-| [2688](https://www.acmicpc.net/problem/2688) | [줄어들지 않아](https://www.acmicpc.net/problem/2688) |
-| [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
-| [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
-| [22870](https://www.acmicpc.net/problem/22870) | [산책 (large)](https://www.acmicpc.net/problem/22870) |
+| [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
+| [1504](https://www.acmicpc.net/problem/1504) | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
+| [20162](https://www.acmicpc.net/problem/20162) | [간식 파티](https://www.acmicpc.net/problem/20162) |
+| [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
+| [5446](https://www.acmicpc.net/problem/5446) | [용량 부족](https://www.acmicpc.net/problem/5446) |
