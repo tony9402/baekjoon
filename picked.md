@@ -1,9 +1,9 @@
-## 2026/11/25
+## 2026/11/26
 
 | 번호 | 문제 이름 |
 | :----: | :---------: |
-| [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
-| [7562](https://www.acmicpc.net/problem/7562) | [나이트의 이동](https://www.acmicpc.net/problem/7562) |
-| [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
-| [1774](https://www.acmicpc.net/problem/1774) | [우주신과의 교감](https://www.acmicpc.net/problem/1774) |
-| [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+| [3029](https://www.acmicpc.net/problem/3029) | [경고](https://www.acmicpc.net/problem/3029) |
+| [21608](https://www.acmicpc.net/problem/21608) | [상어 초등학교](https://www.acmicpc.net/problem/21608) |
+| [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
+| [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195) |
+| [19585](https://www.acmicpc.net/problem/19585) | [전설](https://www.acmicpc.net/problem/19585) |
